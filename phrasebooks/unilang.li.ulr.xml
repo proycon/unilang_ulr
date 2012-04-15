@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="li">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Meist gewoanlijke oetdrukkinge</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Jao</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Nae</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Estebleef</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Estebleef</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Danke</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Gaer gedaon</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Pardon</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Missjien</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Hoi</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Hoie wa!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Goojendaag!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Goojemörge!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Goojenaovendj!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Goojenach!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Welkom!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Gooje reis!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Elkaar versjtaon</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Spraeks te ... ?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Ich spraek ...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Ich spraek gein ...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Ich spraek ein bietje</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">Èngels</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">Frans</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">Pruus</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">Spaans</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">Portugees</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">Arabisch</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">Chinees</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">Hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">Russisch</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">Italiaans</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">Hollands</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">Noors</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">Zweeds</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">Deens</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">Pools</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">Urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">Farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">Japans</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">Indonesisch</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">Malay</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Begriep se?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Begriep se mich?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Ich begriep 't</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Ich begriep dich</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Ich begriep 't neet</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Ich begriep dich neet</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Kèns se det estebleef herhale?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Kèns se get langzamer praote?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Kèns se det opsjrieve?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Ich weit neet wie ich det mot zègge</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Ich weit 't gooje waord neet</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Wat zeis se?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Wie zaes se det in ... ?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Wie sjrifs se det?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Wie spraeks se det oét?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Kèns se det väör mich vertale?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Zei ich det good?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Basisgesprek</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Wie geit 't?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">'t Geit good!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">'t Geit</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">'t Geit waal</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">'t Geit neet zo good</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Wie awd bus te?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Ich bun ... jaor</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Ich weit 't neet</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Ich vinj det neet leuk</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Ich bun klaor</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Laote v'r gaon!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">'t Spiet mich</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Zaken en Financieë</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Kèn ich contant betale?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Kèn ich mit 'n creditcard betale?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Accepteert g'r ... ?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Kènt geer det wissele veur reizigercheques?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Kènt geer dit omruule in ... ?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Kènt geer mich ein sjatting gaeve van de priés?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Hie is mien kaart.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">Wie väöl aafsloetpremie vraogt geer?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Ich zoew get dollars/euro's/p</attrib>
+		</entry>
+	</entries>
+</ulr>

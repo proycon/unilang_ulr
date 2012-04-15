@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="fi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Liisi">Leijona ja hiiri</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Liisi">Hiiri auttaa leijonaa</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Liisi">Makuupaikallaan nukkuvan leijonan herätti hiiri juosten sen naaman yli. Leijona ärsyyntyi, pyydysti hiiren käpälällään ja aikoi tappaa sen.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Liisi">Hiiri oli kauhuissaan ja surkealla äänellä rukoili leijonaa säästämään sen hengen. &quot;Ole niin kiltti, päästä minut menemään&quot;, se pyysi, &quot;ja vielä jonain päivänä maksan takaisin kiitollisuudenvelkani.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Liisi">Pelkkä ajatus, että noin mitätön olento voisi koskaan tehdä mitään sen hyväksi, huvitti leijonaa niin kovasti, että se nauroi ääneen ja päästi hiiren hyväntuulisesti menemään.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Liisi">Mutta hiiri sai kuin saikin mahdollisuutensa.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Liisi">Eräänä päivänä leijona sotkeutui verkkoon, jonka metsästäjät olivat levittäneet riistaa pyydystääkseen, ja hiiri kuuli ja tunnisti leijonan vihankarjaisut ja juoksi paikalle. Se alkoi pitemmittä puheitta jyrsiä köyttä hampaillaan ja ennen pitkää onnistui vapauttamaan leijonan.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Liisi">&quot;Siinä näet!&quot; sanoi hiiri, &quot;Sinä nauroit minulle, kun lupasin maksaa kiitollisuudenvelkani: mutta nyt näet, että hiirikin voi auttaa leijonaa.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

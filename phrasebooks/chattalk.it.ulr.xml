@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Entrare</attrib>
+			<attrib type="phon">en'trare</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Ciao</attrib>
+			<attrib type="phon">'tʃao</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Salve a tutti</attrib>
+			<attrib type="phon">'salve a 'tu:t:i</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Buon giorno</attrib>
+			<attrib type="phon">bwɔn 'dʒorno</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Buon pomeriggio</attrib>
+			<attrib type="phon">'bwɔn pome'ri:dʒ:o</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">buona sera</attrib>
+			<attrib type="phon">'bwɔ:na 'se:ra</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">buona sera</attrib>
+			<attrib type="phon">'bwɔ:na 'se:ra</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Ehilà</attrib>
+			<attrib type="phon">eil'a</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Iniziare una conversazione</attrib>
+			<attrib type="phon">inits:'jare una conversa'ts:'jone</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Novità?</attrib>
+			<attrib type="phon">novi'ta</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Che succede?</attrib>
+			<attrib type="phon">ke su'tʃ:ɛde</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Di cosa state parlando?|Qual è l'argomento?</attrib>
+			<attrib type="phon">di 'kɔ:za state par'lando / kwal'ɛ largo'mento</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Come va?</attrib>
+			<attrib type="phon">'ko:me 'va</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Come va?</attrib>
+			<attrib type="phon">'ko:me 'va</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Come vanno le cose?</attrib>
+			<attrib type="phon">'ko:me 'van:o le 'kɔ:ze</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">domande personali</attrib>
+			<attrib type="phon">do'made personali</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Di dove sei, {username}?</attrib>
+			<attrib type="phon">di 'dove 'sɛi</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Sei nuovo qui? (m) | Sei nuova qui? (f) | È la prima volta che sei qui?</attrib>
+			<attrib type="phon">sɛi 'nwɔ:vo kwi | sɛi 'nwɔ:va kwi | ɛ la 'pri:ma 'vɔlta ke sɛi kwi</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Che lingue parli?</attrib>
+			<attrib type="phon">ke 'liŋgwe 'parli</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">In che {paese} vivi?</attrib>
+			<attrib type="phon">in ke pa'e:ze 'vi:vi</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Quanti anni hai?</attrib>
+			<attrib type="phon">'kwanti 'an:i 'a:i</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Che lingue stai imparando?</attrib>
+			<attrib type="phon">ke 'liŋgwe 'sta:i impa'rando</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Parlare di sé</attrib>
+			<attrib type="phon">par'lare di se</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Vengo da (country)</attrib>
+			<attrib type="phon">vɛŋgo da'</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Parlo {lingua|lingue}</attrib>
+			<attrib type="phon">'parlo</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Parlo (lang)come madrelingua, fluentemente, (lang)a livello intermedio e un po' (lang)</attrib>
+			<attrib type="phon">'parlo () 'ko:me madre'liŋgwa, fluente'mente, () a li'vɛl:o inter'mɛdjo e un pɔ</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Mi dispiace, non parlo {lingua}</attrib>
+			<attrib type="phon">mi disp'ja:tʃe, non 'parlo</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Sto imparando| voglio imparare il|lo|l' {lingua}</attrib>
+			<attrib type="phon">stɔ impa'rando | vɔʎ:o impa'ra:re il  | lo | l</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Concludere una conversazione</attrib>
+			<attrib type="phon">konklu'de:re una konversats:'jo:ne</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">piacere d'averti conosciuto</attrib>
+			<attrib type="phon">pja:'tʃe:re da'verti ko'no:ʃuto</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">piacere d'averti parlato</attrib>
+			<attrib type="phon">pja:'tʃe:re da'verti par'la:to</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">devo andare</attrib>
+			<attrib type="phon">'de:vo an'da:re</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">é ora di mangiare</attrib>
+			<attrib type="phon">ɛ ora di man'dʒa:re</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">sto andando a letto</attrib>
+			<attrib type="phon">stɔ an'dando a lɛt:o</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">devo andare a dormire</attrib>
+			<attrib type="phon">'de:vo an'da:re a dor'mi:re</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Lasciare|uscire</attrib>
+			<attrib type="phon">la'ʃa:re |u'ʃi:re</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">a dopo</attrib>
+			<attrib type="phon">a dɔ:'po</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">a domani</attrib>
+			<attrib type="phon">a do'ma:ni</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">a presto</attrib>
+			<attrib type="phon">a 'prɛsto</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">alla prossima</attrib>
+			<attrib type="phon">al:a prɔ's:i:ma</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">buona notte a tutti</attrib>
+			<attrib type="phon">'bwɔ:na 'nɔt:e a 'tut:i</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">bye a tutti|ciao a tutti|addio a tutti</attrib>
+			<attrib type="phon">'bai a 'tut:i | 'tʃa:o a 'tut:i | a'd:io a 'tut:i</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">torno subito</attrib>
+			<attrib type="phon">'torno su'bi:to</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">torno piú tardi</attrib>
+			<attrib type="phon">'torno 'pju 'tardi</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Extra</attrib>
+			<attrib type="phon">'ɛkstra</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">grazie</attrib>
+			<attrib type="phon">'grats:je</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">grazie mille</attrib>
+			<attrib type="phon">'grats:je 'mil:e</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">scusa|mi dispiace</attrib>
+			<attrib type="phon">skuza | mi dis'pja:tʃe</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">ridere a crepapelle</attrib>
+			<attrib type="phon">ri'de:re a krɛpa'pɛl:e</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">eh eh</attrib>
+			<attrib type="phon">ɛ ɛ</attrib>
+		</entry>
+	</entries>
+</ulr>

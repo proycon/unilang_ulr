@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="uk">
+	<entries>
+		<entry id="comingin">
+			<attrib type="orth" author="14244" lastmodified="1229890265">Спочатку:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="14244" lastmodified="1229890265">Привіт</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="16336" lastmodified="1244506501">Усім привіт!</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="16336" lastmodified="1244506501">Доброго ранку</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="16336" lastmodified="1244506501">Доброго дня!</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="16336" lastmodified="1244506501">Доброго вечора!</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="14244" lastmodified="1229890265">На добраніч</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="14244" lastmodified="1229890265">Починати розмову:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="14244" lastmodified="1229890265">Що нового?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="14244" lastmodified="1229890571">Як справи?</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="14244" lastmodified="1229890571">Звідки ви, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="14244" lastmodified="1229890571">Ви тут нові? Ви тут вперше?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="14244" lastmodified="1229890571">Якими мовами Ви володієте?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="14244" lastmodified="1229890571">Де в {country in Dativus} Ви живете?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="14244" lastmodified="1229890571">Скільки Вам років?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="14244" lastmodified="1229890571">Яких мов Ви вчитеся?</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="14244" lastmodified="1229890856">Я з {country - in Genitivus}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="14244" lastmodified="1229890856">Я говорю по-{language(s)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="14244" lastmodified="1229890856">Вибачте, я не говорю по-{language}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="14244" lastmodified="1229890856">Я вчуся | Хочу навчитись {language(s)}</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="14244" lastmodified="1229890856">Мені було дуже приємно з Вами познайомитись</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="14244" lastmodified="1229890856">Мені треба йти</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="14244" lastmodified="1229890866">Я йду спати</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="14244" lastmodified="1229890997">Я йду спати</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="14244" lastmodified="1229890997">До побачення</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="14244" lastmodified="1229890997">До завтра</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="14244" lastmodified="1229890998">До побачення незабаром</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="14244" lastmodified="1229890998">До наступного разу</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="14244" lastmodified="1229890998">На добраніч усім</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="14244" lastmodified="1229890998">Па-па усім!</attrib>
+		</entry>
+	</entries>
+</ulr>

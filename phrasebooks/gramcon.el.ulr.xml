@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="el">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" lastmodified="1217790006">Είμαι χαρούμενος</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" lastmodified="1217790006">Δεν είμαι χαρόυμενος</attrib>
+		</entry>
+	</entries>
+</ulr>

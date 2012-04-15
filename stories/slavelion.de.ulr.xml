@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="slavelion" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Nietoperz">Der Sklave und der Löwe</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Nietoperz">Ein Löwe kann der beste Freund des Menschen sein.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Nietoperz">Ein Sklave lief von seinem Herrn weg, von dem er äußerst grausam behandelt worden war, und begab sich in die Wüste, um zu vermeiden, wieder eingefangen zu werden. Als er so umherwanderte, auf der Suche nach Nahrung und Schutz, kam er an eine Höhle, die er betrat und unbewohnt vorfand.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Nietoperz">In Wirklichkeit war sie jedoch eine Löwenhöhle, und kurz darauf, zum Schrecken des armen Flüchtigen, erschien der Löwe selbst. Der Mann glaubte sich schon verloren: aber zu seiner äußersten Verwunderung kam der Löwe zu ihm und anstatt ihn anzuspringen und zu verschlingen, und fauchte ihn an, winselte gleichzeitig und hob seine Pfote. Als er sah, das sie stark geschwollen und entzündet war, untersuchte der Mann sie und fand einen großen Dorn im Fußballen. Er entfernte ihn entsprechend und verband die Wunde so gut er konnte: und mit der Zeit heilte sie vollständig.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Nietoperz">Die Dankbarkeit des Löwen war grenzenlos; er betrachtete den Mann als seinen Freund, und sie teilten die Höhle einige Zeit miteinander. Der Tag kam jedoch, als der Sklave anfing, sich nach der Gesellschaft seiner Mitmenschen zu sehnen, und er verabschiedete sich von dem Löwen und kehrte in die Stadt zurück.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Nietoperz">Hier wurde er auf der Stelle wiedererkannt und in Ketten zu seinem früheren Herrn geschleppt, der beschloss, an ihm ein Exempel zu statuieren, und befahl, dass er bei der nächsten öffentlichen Tierschau im Theater den wilden Tieren vorgeworfen werden soll. An seinem letzten Tag wurden die wilden Tiere in die Arena losgelassen, und unter anderen ein Löwe von großer Statur und unbändigem Aussehen; und dann wurde der arme Sklave in ihre Mitte geworfen.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Nietoperz">Wie erstaunt waren die Zuschauer, als der Löwe auf den ersten Blick an ihm hochsprang und sich ihm mit einem Ausdruck tiefster Zuneigung und Freude zu Füßen legte! Es war sein alter Freund aus der Höhle! Das Publikum schrie, dass das Leben des Sklaven verschont bleiben sollte: und der Statthalter, der solch Dankbarkeit und Treue bei einem wilden Tier bewunderte, erließ, dass beide in Freiheit entlassen werden sollten.</attrib>
+		</entry>
+	</entries>
+</ulr>

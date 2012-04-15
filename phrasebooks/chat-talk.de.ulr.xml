@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chat-talk" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="1059" lastmodified="1238334727">Chat-Sprache</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="1059" lastmodified="1238334727">Hier kommt der Text hin, der deine Ressource beschreibt.</attrib>
+		</entry>
+		<entry id="e1">
+			<attrib type="orth" author="1059" lastmodified="1238334727">Ersetze diesen Satz mit dem eigentlichen Satz. Dann klicke auf das Plus auf der linken Seite und füge einen zweiten Satz hinzu, und so weiter.</attrib>
+		</entry>
+	</entries>
+</ulr>

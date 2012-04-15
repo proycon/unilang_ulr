@@ -1,0 +1,2173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="da">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">De mest almindelige udtryk</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Ja | Jo</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Nej</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Vær så venlig | Vær så sød</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Værsgod</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Tak skal du have | Tak</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Det var så lidt</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Undskyld mig</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Måske</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Hallo | Hej</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Farvel!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Goddag!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Godmorgen!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Godaften!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Godnat!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Velkommen!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Hav en god rejse!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Det at forstå hinanden</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Taler du....?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Jeg taler....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Jeg taler ikke....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Jeg taler en smule....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">engelsk</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">fransk</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">tysk</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">spansk</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">portugisisk</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">arabisk</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">kinesisk</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">russisk</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">italiensk</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">hollandsk</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norsk</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">svensk</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">dansk</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">polsk</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">japansk</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indonesisk</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malaysisk</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Forstår du?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Forstår du mig?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Jeg forstår</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Jeg forstår dig</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Jeg forstår ikke</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Jeg forstår dig ikke</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Vil du være venlig at gentage det?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Vil du være venlig at tale langsommere?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Kunne du skrive det ned, tak?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Jeg ved ikke, hvordan man siger det</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Jeg kender ikke det rigtige ord</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Hvad sagde du?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Hvordan siger du det på....?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Hvordan skriver du det?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Hvordan udtaler du det?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Kan du oversætte det her for mig?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Sagde jeg det rigtigt?</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Hvordan har du det?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Jeg har det rigtig godt!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Jeg har det fint</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Jeg er okay</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Jeg har det ikke så godt</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Hvor gammel er du?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Jeg er .... år gammel</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Jeg ved det ikke</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Jeg kan ikke lide det</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Jeg er klar</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Lad os gå!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Jeg er ked af det | Undskyld</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Handel &amp; finans</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Kan jeg betale kontant?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Kan jeg betale med kreditkort?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Accepterer du ....?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Kan du veksle disse rejsechecks?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Kan du veksle det her til ...?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Kan du give mig en vurdering af (the cost)?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Her er mit kort</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Jeg vil gerne veksle nogle dollars/euro/pund</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Hvad er kursen?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Hvor kan jeg veksle mine penge?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Hvor kan jeg lave fotokopier?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Hvor er den nærmeste bank?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Hvor skal jeg underskrive?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Har du et katalog?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Jeg har en aftale i dag/ i morgen/ i aften</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Hvor meget koster det per dag?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Hvor meget koster det per time?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Hvor meget koster det per uge?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Er det gratis?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Computere &amp; internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Har du en computer?</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Har du et modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">Har du internetforbindelse?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Kan jeg sende en email?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Kan jeg læse min email?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Kan jeg printe noget?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Kan jeg scanne noget?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Min computer er gået ned</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">Kan jeg installere...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Hvad er din email adresse?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Min email adresse er...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Har du en hjemmeside?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Hvad er adressen?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Uddannelse</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Hvad studerer du?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Jeg studerer...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">lov</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">medicin</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">økonimi</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">sprog</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">matematik</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">kemi</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">fysik</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">På hvilket universitet studerer du?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Jeg studerer på ....</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">Jeg har timer i dag</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Jeg har fri i dag</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Går du i (high-scool?)?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Jeg går i (high-school?)</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Jeg bliver nødt til at gå til time nu</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">Nødstilfælde</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Ring efter en læge!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Ring efter en ambulance!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Ring til politiet!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Jeg kan ikke trække vejret</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Han kan ikke bevæge sig</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Han stoppede ikke</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Han løb ind i mig</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Han kørte for hurtigt</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Han har skåret sig selv</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Jeg kan ikke bevæge min arm</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Jeg kan ikke bevæge mit ben</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Jeg er blevet bestjålet</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Stop den tyv!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Mit pas er blevet stjålet</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Mine penge er blevet stålet</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Min bil er blevet stjålet</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Der er brand!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Hvor er det nærmeste hospital?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Hvor er den nærmeste politistation?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Følelser &amp; meninger</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Kan du lide det?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Jeg kan lide det</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Jeg er glad</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Jeg er vred</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Jeg er skuffet</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">Jeg er tilfreds</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Jeg er træt</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Jeg er bange</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Jeg er varm</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Jeg er kold</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Jeg er træt</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Vi kan lide det her</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">Det er (meget) interessant</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">Vi synes det er meget interessant</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">Det er (meget) kedeligt</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">Det er smukt</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">Han er (meget) skøn/smuk</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">Hun er (meget) køn</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">Han er lækker!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">Hun er lækker!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">Han/hun er meget venlig</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Se!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Hør!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Sejt!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">Fedt!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Mad &amp; restaurant</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Jeg er sulten</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Jeg er tørstig</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">Skal vi få noget at spise?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">Skal vi få noget at drikke?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Har du noget at spise?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Har du noget at drikke?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Vil du have noget at spise?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Er der noget du gerne vil have at spise?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Vil du have noget at drikke?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Jeg vil gerne have... (at drikke), tak</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">en kop kaffe</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">et krus te</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">et glas øl</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">et glas vin</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">et glas rødvin</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">et glas hvidvin</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">et glas appelsinjuice</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">et glas æblejuice</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">Er der noget du gerne vil have at drikke?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">Hvad vil du gerne have at drikke?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">Hvad vil du gerne have at spise?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">Hvad foreslår du?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Kan jeg se menuen, tak?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Kan jeg se vinlisten, tak?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Jeg vil gerne have det her, tak</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Jeg vil gerne have noget fisk, tak</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Jeg vil gerne have noget bøf, tak</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Jeg vil gerne have noget svinekød, tak</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Jeg vil gerne have en salat, tak</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Jeg vil gerne have noget suppe, tak</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Jeg vil gerne have noget vegetariansk, tak</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Vil du have dessert?</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth">Til hovedret vil jeg gerne have...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">Til dessert vil jeg gerne have...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">Kan jeg få en ekstra portion, tak?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Kan jeg få det her uden...?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">Kan jeg få en lille portion, tak?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Hvilke salater har du?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">Ikke mere, tak</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Jeg er vegetar</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Jeg kan ikke spise det</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Indeholder det...?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(en masse) salt</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(en masse) sukker</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">(en masse) fedt</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">noget kød</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">fisk</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Jeg drikker ikke (alkohol)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">Jeg har ingen gaffel</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">Jeg har ingen kniv</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">Jeg har ingen ske</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Der mangler et glas</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Der mangler en tallerken</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">Det er ikke rent</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">Det er for koldt</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">Det er for krydret</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">Det her er ikke, hvad jeg bestilte</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Der er en fejl her</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">Det var dejligt</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Jeg vil gerne betale, tak</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Kan jeg få regningen, tak?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">Vi vil gerne betale hver for sig</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Er alt indkluderet?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Er drikkepenge indkluderet?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">Kan du lide at lave mad?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Hvem vil lave mad i aften?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth">Skal jeg lave mad i aften?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Hvad skal jeg lave?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">Vil du have en kop kaffe?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">Vil du have en kop te?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Sundhed &amp; sygdom</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Jeg er syg</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">Jeg har influenza</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">Jeg er forkølet</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">Jeg er allergisk</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">Jeg har diabetes</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">Jeg har ondt</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">Jeg føler mig dårlig</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">Jeg er gravid</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">Jeg kan ikke spise</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">Jeg kan ikke sove</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth">Jeg vil ikke have noget, der er for stærkt</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth">Jeg føler mig svimmel</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth">Jeg har en brækket tand</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">Jeg hoster</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">Jeg har hovedpine</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">Jeg har mavepine</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">Jeg har smerter i mit bryst</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth">Jeg har en infektion</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">Jeg er blevet bidt</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth">Har du ondt?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">Gør det ondt?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">Gør det ondt, når jeg gør sådan her?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">Tager du nogen form for medicin?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth">Hvad er din temperatur?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">Kan du gå?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">Jeg har brug for en rullestol</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">Jeg sidder i rullestol</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth">Hvor er det nærmeste /apotek?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth">Har du noget mod insektbid?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth">Har du noget mod solskoldethed?</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth">Jeg har brug for noget mod....</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth">Hvor tit skal jeg tage det?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">Interesser</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Hvad er dine interesser?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Hvad laver du i din fritid?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Kan du lide at læse?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">Jeg kan ikke lide at læse</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">Jeg kan lide at læse</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">Jeg kan lide at lave mad</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">Jeg kan lide at lytte til musik</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">Jeg kan lide at spille klaver</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">Jeg kan lide at spille guitar</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">Jeg kan lide at synge</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">Jeg kan lide at spille skak</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">Jeg kan lide at gå i byen</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">Jeg kan lide at rejse</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">Jeg kan lide at købe ting</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">Jeg kan lide at passe haven</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">Jeg kan lide at se tv</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">Jeg kan lide at surfe på internettet</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">Hvilken slags musik kan du lide?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">Jeg kan lide klassisk musik</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">Jeg kan lide popmusik</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">Jeg kan lide opera</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">Jeg kan lide jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">Jeg kan lide techno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">Jeg kan lide hård rock</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">Hvem er dine yndlingsmusikgrupper?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">Hvad foretrækker du?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth">Jeg foretrækker....</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">At introducere hinanden</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Jeg hedder....| Mit navn er...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Hvad hedder du?| Hvad er dit navn?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Jeg er...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Hvem er du?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth">Må jeg introducere dig for...?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth">Jeg vil introducere dig for ....</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">Det er min kone</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">Det er min mand</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">Dette er min kæreste</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">Det er min kæreste</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">Det er min ven</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">Det er min søn</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">Det er min datter</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">Det er min mor</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">Det er min far</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">Hyggeligt at møde dig</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth">Planer &amp; aftaler</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth">Er du ledig i dag/ i morgen/ i aften?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth">Jeg har allerede planer</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth">Jeg skal i biografen</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth">Jeg skal i teatret</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth">Jeg skal på museet</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth">Vil du gå ud med mig i aften?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth">Det vil jeg fordærdelig gerne</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth">Har du billetter?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth">Jeg har to billetter til...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth">Jeg kan ikke lide musikken</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth">Musikken er for høj</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth">Der er for mange her</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth">Skal vi gå et andet sted hen?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth">Hvilken film skal vi se?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth">Hvad syntes du om filmen?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">Politik</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth">Jeg interesserer mig for politik</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth">Jeg interesserer mig ikke for politik</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth">Hvad synes du om regeringen?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth">Hvad synes du om kongen/dronningen?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth">Hvad synes du om præsidenten?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth">Hvad synes du om ytringsfrihed?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth">Hvad synes du om militæret?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth">Hvad synes du om demokrati?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth">Hvad synes du om menneskerettigheder?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth">Hvad synes du om kvinders rettigheder?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth">Hvad synes du om bøssers rettigheder?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth">Er du medlem af et politisk parti?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth">Hvornår er valgene?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth">Hvem stemte du på sidste gang?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth">Hvem vil du stemme på?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth">Jeg er...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth">(en) kommunist</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth">(en) kapitalist</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth">(en) demokrat</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth">(en) kristendemokrat</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth">(en) republikaner</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth">(en) nationalist</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth">(en) socialist</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth">(en) fascist</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">Forhold &amp; familie</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">Er du forlovet?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">Jeg er forlovet</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">Jeg er ikke forlovet</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">Har du en kæreste?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">Har du en kæreste?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">Jeg har en kæreste</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">Jeg har en kæreste</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">Hvor gammel er han/hun?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth">Han/hun er .... år gammel</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth">Hvad arbejder han/hun som?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">Har du børn?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">Jeg har ingen børn</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">Jeg har et barn/ en søn/ en datter</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">Jeg har to børn</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">Jeg har tre/ fire/ fem/ seks/ syv børn</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">Hvor mange søskende har du? | Hvor mange brødre og søstre har du?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">Lever din mor stadig?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">Lever din far stadig?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">Lever din bedstemor/mormor/farmor stadig?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">Lever din bedstefar/morfar/farfar stadig?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">Religion</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth">Er du religiøs?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth">Jeg er ikke religiøs</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth">Jeg er atheist</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">Jeg er muslim</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">Jeg er jødisk</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">Jeg er buddhist</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">Jeg er hindu</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">Jeg er katolik</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">Jeg er kristen</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">Hvor kan jeg finde en kirke?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">Hvor kan jeg finde en moské?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">Hvor kan jeg finde en synagoge?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">Hvor kan jeg finde et tempel?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Gudskelov</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Hvis Gud ønsker det</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">Åh Gud!</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">Hvor er du fra? | Hvilket land er du fra?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth">Jeg er fra...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">Frankrig</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">England</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">Spanien</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">Tyskland</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">USA/Amerika</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">Kina</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth">Brasilien</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth">Japan</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth">Rusland</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth">Canada</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth">Australien</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth">Hvilken nationlitet er du?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">Jeg er...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">briter/britisk</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">franskmand/fransk</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">tysker/tysk</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">amerikaner/amerikansk</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">kineser/kinesisk</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">japaner/japansk</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">russer/russisk</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">brasilianer/brasiliansk</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">canadier/canadisk</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">Hvor er du fra? | Hvilken by bor du i?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Jeg bor i London/ Paris/ Berlin</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth">Er det tæt på...?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth">Er det langt fra....?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth">Jeg bor tæt på....</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth">Jeg bor langt væk fra...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth">Hvor bor du?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth">Jeg bor på hotel</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth">Hvor lang tid vil du blive her?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth">Hvornår vil du tage tilbage?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth">Hvornår ankommer vi?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth">Er du her alene?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth">Jeg er her alene</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth">Jeg er her sammen med min familie</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth">Bor du her?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth">Jeg er ikke herfra</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth">Kan vi campere her?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth">Har du plads til et telt?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth">Hvor meget er det per nat?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth">Vi vil gerne blive en uge</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth">Hvor er brusebadene?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth">Hvor er toiletterne?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth">Jeg vil gerne have et enmandsværelse, tak</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth">Jeg vil gerne have et værelse med...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth">et badekar</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth">et brusebad</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth">en udsigt</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth">en balkon</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth">en ekstra seng</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth">sepererede senge</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth">Vi vil gerne have et dobbeltværelse, tak</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth">Er morgenmad inkluderet?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth">Hvornår er morgenmaden serveret?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth">Er der ingen billigere rum?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth">Er der nogle beskeder til mig?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth">Kan jeg få min nøgle, tak?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth">Hvad er mit værelsesnummer?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth">Jeg spurgte efter et rum med badekar/brusebad</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Sex</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Vil du gå i seng med mig?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Har du et kondom?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Tager du p-piller?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Jeg vil ikke gøre det uden et kondom</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Vær sød at være forsigtig</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Kan du lide det?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Jeg kan ikke lide det</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Er du single?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Er du bøsse?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Er du hetereo?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Er du lesbisk?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Er du biseksuel?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth">Indkøb</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth">Kan du hjælpe mig?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth">Kan jeg hjælpe dig?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth">Hvad vil du gerne have?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth">Hvad kigger du efter?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth">Jeg kigger bare</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth">Jeg kan lide den her</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth">Jeg kan lide de her bukser</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth">Jeg kan lide den her t-shirt</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth">Jeg kan lide den her jakke</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth">Jeg kan lide den her bluse</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth">Jeg kan lide det her jakkesæt</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth">Jeg kan lide de her briller</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth">Jeg kan lide de her sko</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth">Jeg kigger efter....</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth">Kan jeg prøve det?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth">Kan jeg prøve det?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth">Hvor er omklædningsrummet?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth">Den/Det er for lang/langt</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth">Den/Det er for kort</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth">Den/Det er for stram/stramt</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth">Den/Det er for løs/løst</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth">Den/Det passer ikke</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth">Den/Det passer helt fint</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth">Hvilken størrelse bruger du?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth">Jeg bruger størrelse...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth">Jeg kan ikke forstå de her størrelser</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth">Har du en større en?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth">Har du en mindre en?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth">Jeg kan lide farven</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth">Jeg kan ikke lide farven</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth">Har du den/det i rød/rødt blå/blåt /gul/gult grøn/grønt lilla lyserød/lyserødt</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth">Har du en billigere en?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth">Hvad er den/det lavet af?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth">Kan du ordne det her?</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Kan jeg tage billeder?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Du kan ikke tage billeder her</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth">Er der nogle bådture på søen?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth">Er der nogle bådture på floden?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth">Er der nogle guidede ture?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Hvor lang tid tager turen?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">Er der nogle gode natklubber?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth">Er der nogle lokale festivaller?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Jeg vil gerne besøge katedralen</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Jeg vil gerne besøge kirken</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth">Jeg vil gerne besøge moskéen</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Jeg vil gernebesøge templet</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth">Er der børnerabat?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth">Er der grupperabat?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth">Er der ældrerabat?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth">Er der studierabat?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth">Hvilke tidspunkter har I åbnet?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth">Hvad tid lukker I?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth">Hvad tid åbner I?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth">Hvad tid begynder forestillingen?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Hvornår var det bygget?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Hvem byggede det?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth">Hvor højt er det bjerg?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Hvad er navnet på det dyr?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth">Hvad er navnet på den fugl?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Hvad er navnet på den blomst?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Hvad er navnet på det træ?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Hvad er navnet på den bygning?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth">Hvad er navnet på det bjerg?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Hvad er navnet på den flod?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">At ryge</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">At ryge er ikke godt for dit helbred</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">Gør det dig noget, hvis jeg ryger?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Har du ild?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Kan jeg få en cigaret?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Er det her ikke-rygerafdelingen?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Må jeg få et askebægre?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">Sport</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth">Er der nogle skilifte?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth">Hvor er den offentlige svømmepøl?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth">Kan jeg fiske der?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth">Kan jeg svømme der?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth">Kan jeg leje...?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth">et baseball bat</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth">en fodbold</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth">et par ski</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth">en tennisketcher</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth">en båd</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth">et håndklæde</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth">Kan jeg tage undervisningstimer?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth">Jeg vil gerne se en fodboldkamp</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth">Spiller du...?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">amerikansk fodbold</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">fodbold</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">tennis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">baseball</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">basketball</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">Tid</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Hvilken dag er det i dag?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth">Det er...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth">Hvilken dag var det i går?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">I går var det...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Hvilken dag er det i morgen?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">I morgen vil det være...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">mandag</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">tirsdag</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">onsdag</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">torsdag</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">fredag</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">lørdag</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">søndag</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Hvilken måned er det?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth">Denne måned er...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth">Sidste måned var...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth">Næste måned vil være...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">januar</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">februar</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">marts</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">april</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">maj</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">juni</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">juli</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">august</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">september</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">oktober</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">november</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">december</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Hvad er klokken?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Den er otte</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth">Den er halv otte | Den er otte tredive</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth">Den er kvart over otte | Den er otte femten</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth">Den er kvart i ni | Den er otte femogfyrre</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth">Den er ti over otte | Den er otte ti</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth">Den er tyve over otte | Den er otte tyve</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth">Den er tyve i otte | Den er syv fyrre</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth">Den er ti i otte | Den er syv halvtreds</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth">Hvilken dato har vi?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth">Det er den 15. december 1982</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth">Hvornår kan jeg komme?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth">Hvornår vil du besøge mig?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth">Jeg vil besøge dig denne morgen</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth">Jeg vil besøge dig om morgenen</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth">Jeg vil besøge dig denne aften</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth">Jeg vil besøge dig om aftenen</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth">Jeg vil besøge dig denne uge</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth">Jeg vil besøge dig denne weekend</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth">Jeg vil besøge dig i weekenden</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth">Jeg vil besøge dig om eftermiddagen</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth">Jeg vil besøge dig om to timer</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth">Jeg vil besøge dig halv elleve</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth">Jeg vil besøge dig efter halv elleve</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth">Jeg vil besøge dig før halv elleve</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth">Jeg vil besøge dig mellem halv elleve og elleve</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth">Jeg vil besøge dig fra halv elleve til elleve</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth">Jeg vil besøge dig i foråret</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth">Jeg vil besøge dig til sommer</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth">Jeg vil besøge dig i efteråret</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">Jeg vil besøge dig til vinter</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth">Jeg vil besøge dig den 15. december</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth">Hvor lang tid kan du blive hos mig?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth">Jeg kan blive to timer</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth">Jeg vil besøge dig i to timer</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Du kommer for sent</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth">Du kommer lige i rette tid</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth">Du er for tidlig på den</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth">Hvilken årstid er det?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">Jeg har ikke tid</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Vær sød at vente et minut</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth">Jeg vil være der om fem minutter</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Transport</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">Har du en bil?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">Jeg har en bil</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">Jeg har ikke en bil</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth">Skal vi tage din bil eller min?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth">Har du kørekort?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth">Jeg har ikke kørekort</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth">Hvor skal vi hen?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth">Hvor skal du hen?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth">Hvor kommer du fra?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth">Bliver jeg nødt til at skifte bus?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth">Hvor er busserne?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth">Hvor er busstopstedet?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth">Kan du fortælle mig, hvornår jeg skal stige af?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth">Kører denne bus til....?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth">Hvor er lufthavnen?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth">Hvornår letter flyet?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth">Hvornår ankommer flyet?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth">Hvor lang er flyveturen?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth">På hvilket tidspunkt skal jeg tjekke ind?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth">Må jeg se dit pas, tak?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth">Her er mit pas</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth">Kan jeg tage den/det med mig?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth">Hvor kan jeg samle min bagage?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth">Jeg kan ikke finde min bagage?</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth">Kan du hjælpe mig med min bagage?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth">Jeg tror, det er mit sæde</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth">Er den plads taget?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth">Hvor er jernbanestationen?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth">Bliver jeg nødt til at skifte tog?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth">Stopper det her tog i....?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth">Kører det her tog til....?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth">Hvor lang tid stopper toget her?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth">Hvilken station er det her?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth">Hvornår er det det næste tog?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth">Hvornår er det det sidste tog?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth">Hvor kan jeg få en taxa?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth">Er der en parkeringsplads i nærheden?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth">Må jeg parkere her?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth">Hvor længe kan jeg parkere her?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth">Hvor kan jeg parkere?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">Min bil er brudt sammen</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth">Min bil vil ikke starte</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth">Hvor er den nærmeste tankstation?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth">Jeg har et fladt dæk</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth">Må jeg se dit kørekort, tak?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth">Her er mit kørekort</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth">Hvor langt væk er den næste landsby?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth">Hvor lang tid tager det i bil?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth">Hvor lang tid tager det tilfods?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth">Jeg vil gerne leje en bil i en uge/ i tre dage</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Vejr</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth">Hvordan vil vejret blive i morgen?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth">Hvordan er vejret normalt?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">Det vil regen i morgen</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Det regner</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Det sner</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">Solen skinner</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">Det er skyet</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">Det er varmt udenfor</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">Det er koldt udenfor</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Sikket forfærdeligt vejr!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Sikken dejlig dag!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth">God dag, er det ikke?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">Er det altid så varmt?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">Er det altid så koldt?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">Regner det altid sådan?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">Er det altid så skyet?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth">Jeg er våd</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Arbejde</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Hvor arbejder du?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Hvad arbejder du som?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Jeg er lærer</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Jeg er elev</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Jeg arbejder på en restaurant</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Jeg arbejder i et supermarked</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Jeg arbejder i en butik</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Jeg er læge</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Jeg er ingeniør</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Jeg er mekaniker</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Jeg er forfatter</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Jeg er chauffør</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Jeg er skuespiller/ skuespillerinde</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Jeg er politiker</attrib>
+		</entry>
+	</entries>
+</ulr>

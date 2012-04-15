@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="pl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma">Północny Wiatr i Słońce</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma">Rozgrywka wiatru ze słońcem.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Zaduma">Powstał spór między Północnym Wiatrem i Słońcem, każde twierdziło, że jest silniejsze od drugiego. W końcu umówili się, że wypróbują swoje siły na podróżniku, żeby sprawdzić, które pierwsze obnaży go z płaszcza.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Zaduma">Pierwszy spróbował Północny Wiatr; i, łącząc wszystkie swoje siły by zaatakować, spadł wirując zaciekle na mężczyznę i chwycił jego okrycie, jak gdyby mógł mu je wyrwać za pierwszą próbą: ale im mocniej dmuchał, tym szczelniej mężczyzna owijał się plaszczem.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Zaduma">Przyszła kolej na Słońce. Najpierw zaświeciło łagodnie nad podróżnikiem, który niebawem rozpiął swoje okrycie i szedł dalej z płaszczem zwisającym mu swobodnie na ramionach: potem zaświeciło pełną swoją mocą, a mężczyzna, zanim przeszedł kilka kroków, z zadowoleniem zrzucił swój płaszcz i kończył swoja wędrówkę lekko odziany.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Zaduma">Namowa jest lepsza niż siła.</attrib>
+		</entry>
+	</entries>
+</ulr>

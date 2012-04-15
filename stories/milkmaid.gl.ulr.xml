@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="gl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Eva Moreda">A leiteira e o cántaro</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Eva Moreda">Unha leiteira soña o seu porvir</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Eva Moreda">A filla dun granxeiro saíra muxir as vacas e volvía á leitería levando o seu cántaro de leite sobre a cabeza Mentres camiñaba, púxose a cavilar deste xeito:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Eva Moreda">&quot;O leite deste cántaro darame graxa, coa que farei manteiga que venderei no mercado. Cos cartos mercarei ovos e deles, cando estean incubados, sairán pitiños, e pouco a pouco irei xuntando un galiñeiro grandiño. Entón venderei algunhas das miñas aves e cos cartos que me darán mercarei un vestido novo que levarei posto cando vaia á feira e todos os mozos admirarano e virán e faranme as beiras, pero eu abanearei a cabeza e non terei nada que dicirlles&quot;.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Eva Moreda">E, esquecéndose do cántaro e acompañando as súas palabras co xesto, abaneou a cabeza. O cántaro caeu e o leite verqueuse e todos os seus castelos no aire esvaéronse nun momento.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Eva Moreda">Non contes os pitiños antes de que estean incubados.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="geography" version="1.9" baselang="zh">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">地理课</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">小学生上地理课</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">早上公鸡正在啼着。 小明醒了。 太阳已经出来了。 他揉揉眼睛除去睡意。 小明去了洗手间。 他转开水龙头洗澡。 小明又焕然一新了，</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">他下楼去吃早餐。 他的妈妈说：“早安！”</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">小明回答说：“早安！” 他把三明治涂抹上奶油。 他在上面放了两片乳酪。 这些三明治很好吃。</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">小明得拿起他的书包。 现在他可以跟小红一起去上学了。 他们两人都上同一所小学。</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“你好吗？”小红问。</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“我很好！”小明微笑着说。 “你过得如何啊？”小明问。</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“普普通通。我很累。”小红说。 他们一起走进教室。</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">老师把世界地图挂到了墙上。 “你们已经知道了哪些国家呢？”老师问。</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">小红把手指指向空中。 “那只靴子。那是意大利！我奶奶喜欢那里。”小红说。</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">老师转过头问：“还有谁知道哪个其它的国家吗？”</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“那座大岛。那是澳大利亚”小伟喊着说。</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“那个国家里住着好多袋鼠。”老师说。 然后老师问：“长长的城墙位于哪个国家呢？”</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">班级里所有的小孩子们大声地说：“中国！”</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“没错。它是‘万里长城’，它非常古老。” 老师看看她的班级，问道： “金字塔是位于哪个国家呢？”</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“是在墨西哥！”小明说。</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">全班都在笑；“不是的。它们位于埃及。”小红说。</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“虽然我指的是埃及的金字塔，不过这两个国家都有金字塔。” 老师穿越整个班级。 她要看看是不是每个学生都有把这项知识记在笔记簿上。 “我只再问一个问题；哪个国家的人吃许多长面包，还喝很多葡萄酒呢？”</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“是法国！”小杰大声说。</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">老师很满意。 她让学生们到外面去。 他们下课。</attrib>
+		</entry>
+	</entries>
+</ulr>

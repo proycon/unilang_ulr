@@ -1,0 +1,2285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="lv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Biežāk sastopamie izteicieni</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">jā</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">nē</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">lūdzu</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">lūdzu</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">paldies</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">nav par ko</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">atvainojiet</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">varbūt</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Sveiki!</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Uz redzēšanos!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Labdien!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Labrīt!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Labvakar!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Ar labu nakti!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Laipni lūdzu!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Laimīgu ceļu!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Saprašanās</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="13645" lastmodified="1228921212">Vai jūs runājat... ?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Es runāju....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Es nerunāju....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Es nedaudz runāju...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">angliski</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">franciski</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">vāciski</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">spāniski</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">portugāliski</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">arābiski</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">ķīniski</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">krieviski</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">itāliski</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">holandiski</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norvēģiski</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">zviedriski</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">dāniski</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">poliski</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">japāniski</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indonēziski</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malaiziski</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="13645" lastmodified="1228921248">Vai jūs saprotat?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="13645" lastmodified="1228921248">Vai jūs saprotat mani?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Es saprotu</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Es jūs saprotu</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Es nesaprotu</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Es jūs nesaprotu</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Vai jūs to varētu atkārtot, lūdzu?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Vai jūs varētu runāt lēnāk, lūdzu?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Vai jūs to varētu uzrakstīt, lūdzu?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Es nezinu, kā to pateikt</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Es nezinu pareizo vārdu</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Ko jūs teicāt?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">kā jūs to sakāt ... valodā?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Kā jūs to rakstāt?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Kā jūs to izrunājat?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Vai tu vari man to pārtulkot?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Vai es pateicu pareizi?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Vienkārša saruna</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Kā jums iet?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Man iet lieliski!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">labi</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Viss kārtībā</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">ne tik labi</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Cik tev ir gadi? | Cik vecs/a tu esi?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Man ir ..... gadi.</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Es nezinu</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Man tas nepatīk</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Esmu gatavs/ gatava</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Ejam!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">man žēl</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Bizness un finanses</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Vai es varu maksāt skaidrā?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Vai es varu maksāt ar kredītkarti?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Vai jūs pieņemat... ?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Vai jūs maināt šos ceļotāju čekus?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Vai jūs to varat samainīt pret .... ?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="13645" lastmodified="1228921380">Vai varat iedot man rēķinu?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Šeit ir mana karte.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">Cik lielu komisijas maksu jūs ņemat?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Es gribu samainīt dažus dolārus/eiro/mārciņas</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Kāds ir maiņas kurss?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Kāds ir inflācijas līmenis?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Kur es varu samainīt naudu?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="13645" lastmodified="1228921417">Kur es varu izgatavot fotogrāfijas?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Kur ir tuvākā banka?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Kur man jāparakstās?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Vai jums ir katalogs?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Man ir tikšanās ar...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Kāda ir ieejas maksa?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Cik tas maksā par dienu?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Cik tas maksā par stundu?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Cik tas maksā par nedēļu?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Vai tas ir par brīvu?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Datori un internets</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Vai tev ir dators|kompjūters?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Cietais disks ir pilns</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Vai tev ir modēms?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">Vai tev ir interneta pieslēgums?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Vai es varu nosūtīt e-pastu?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Vai es varu izlasīt savu e-pastu?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Vai es varu kaut ko izdrukāt?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Vai es varu kaut ko ieskenēt?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Mans dators ir salūzis.</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="13645" lastmodified="1228921470">Tev vajag pārstartēt datoru.</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">Vai es varu uzinstalēt |uzstādīt ...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Kāda ir tava e-pasta adrese? | Kāds ir tavs e-pasts?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Mana e-pasta adrese ir ... | Mans e-pasts ir ...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Vai tev ir mājaslapa?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Kāda ir adrese?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Izglītība</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Ko tu studē? | Ko tu mācies?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">es studēju | es mācos ...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">tieslietas</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">medicīnu</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">ekonomiku</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">valodas</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">lingvistiku</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">matemātiku</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">ķīmiju</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">fiziku</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">informātiku</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">Kurā universitātē tu studē?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Es studēju ...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">Man šodien ir nodarbība.</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Es šodien esmu brīvs/brīva</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Vai tu ej vidusskolā?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Es eju vidusskolā</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Man tagad jāiet uz nodarbību/stundu/lekciju</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">Steidzami gadījumi</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Izsauciet ārstu!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Izsauciet ātro palīdzību!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Izsauciet policiju!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Viņš nevar paelpot.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Viņš nevar pakustēties.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Viņš neapstājās.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Viņš manī ietriecās.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Viņš brauca pārāk ātri.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Viņš ir sagriezies.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Es nevaru pakustināt savu roku.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="13645" lastmodified="1228921527">Es nevaru pakustināt savu kāju.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Mani aplaupīja.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Turiet zagli!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Man nozaga pasi.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Man nozaga naudu.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Man nozaga mašīnu.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Tur ir ugunsgrēks!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Kur ir tuvākā slimnīca?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Kur ir tuvākais policijas iecirknis?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Emocijas un viedokļi</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Vai jums/tev tas patīk?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Man tas patīk</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Esmu laimīgs/a</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Esmu dusmīgs/a</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Esmu vīlies/vīlusies</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">Esmu apmierināts/a</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Esmu noguris/usi</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Man ir bail</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Man ir silti</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Man ir auksti</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Man nāk miegs | Es esmu miegains/a</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Mums te patīk.</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">tas ir (ļoti) interesanti</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="13645" lastmodified="1228921589">Mums tas ļoti interesē.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">tas ir (ļoti) garlaicīgi</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">tas ir skaisti</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">Viņš ir (ļoti) izskatīgs</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">Viņa ir (ļoti) skaista</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="13645" lastmodified="1228921655">Viņam ir karsti!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="13645" lastmodified="1228921655">Viņai ir karsti!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">Viņš/viņa ir ļoti laipns/a</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Skat!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Klau!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Forši!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="13645" lastmodified="1228921655">Šausmīgi!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Ēdiens un restorāns</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Es esmu izsalcis/izsalkusi</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Es esmu izslāpis/izslāpusi</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="13645" lastmodified="1228921792" variant="1">Vai varam kaut ko ieēst?</attrib>
+			<attrib type="orth" author="13645" lastmodified="1228921792">Vai varam dabūt kaut ko ēdamu?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="13645" lastmodified="1228921792" variant="1">Vai varam kaut ko iedzert?</attrib>
+			<attrib type="orth" author="13645" lastmodified="1228921792">Vai varam dabūt kaut ko dzeramu?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="13645" lastmodified="1228921792">Vai tev ir ko ēst?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="13645" lastmodified="1228921792">Vai tev ir ko dzert?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="13645" lastmodified="1228921792">Vai vēlies ko ēst?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="13645" lastmodified="1228921792">Vai varu pagādāt tev ko ēdamu?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="13645" lastmodified="1228921792">Vai vēlies ko dzert?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Es gribētu.. (dzert), lūdzu.....</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">krūzi kafijas</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">krūzi tējas</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">glāzi alus</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">glāzi vīna</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">glāzi sarkanvīna</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">glāzi baltvīna</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">glāzi apelsīnu sulas</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">glāzi ābolu sulas</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="13645" lastmodified="1228921859">Vai varu pagādāt tev ko dzeramu?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="13645" lastmodified="1228921859">Ko tu gribētu dzert?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="13645" lastmodified="1228921859">Ko tu gribētu ēst?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="13645" lastmodified="1228921859">Ko jūs iesakāt?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Vai varētu redzēt ēdienkarti, lūdzu?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="13645" lastmodified="1228921859">Vai varētu redzēt dzērienu karti, lūdzu?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Es gribētu šo, lūdzu</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="13645" lastmodified="1228922006">Vai tu gribētu aperitīvu?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="13645" lastmodified="1228922006">Es gribētu aperitīvu, lūdzu</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="13645" lastmodified="1228922006">Es gribētu zivi, lūdzu</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="13645" lastmodified="1228922006">Es gribētu liellopu gaļu, lūdzu</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Es gribētu cūkgaļu, lūdzu</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Es gribētu salātus, lūdzu</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Es gribētu zupu, lūdzu</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Es gribētu kaut ko veģetāru, lūdzu</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Vai jūs/tu gribētu desertu/saldo?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="13645" lastmodified="1228922006">Aperitīvam es gribētu ...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="13645" lastmodified="1228922006">Pamatēdienam es gribētu ....</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="13645" lastmodified="1228922006">Desertam es gribētu .....</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="13645" lastmodified="1228922134">Vai es varētu dabūt šo ar frī/rīsiem/kartupeļiem?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="13645" lastmodified="1228922134">Vai es varētu dabūt šo bez .... ?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="13645" lastmodified="1228922134">Vai es varētu dabūt mazo porciju, lūdzu?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Kādi salāti jums ir?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">Paldies, vairāk neko</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="13645" lastmodified="1228922134">Tas ir līdzņemšanai</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Es esmu veģetārietis/veģetāriete</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth">Es esmu vegāns/vegāne</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Es to nevaru ēst</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Vai tas satur... ?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(daudz) sāls</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(daudz) cukura</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">(daudz) tauku</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">jebkādu gaļu</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">jebkādus jūras produktus</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">jebkādu zivi</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">jebkādus piena produktus</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Es nedzeru (alkoholu)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">Man nav dakšiņas.</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">Man nav naža.</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">Man nav karotes.</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Trūkst glāzes.</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Trūkst šķīvja.</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">Tas nav tīrs.</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">Tas ir pārāk auksts.</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">Tas ir pārāk ass.</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">Tas nav tas, ko es pasūtīju.</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Šeit ir kļūda.</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">Tas bija garšīgi</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Es gribētu samaksāt, lūdzu</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Vai es varu dabūt rēķinu, lūdzu?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">Mēs gribētu maksāt atsevišķi.</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Vai viss ir iekļauts?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Vai dzeramnauda ir iekļauta?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="13645" lastmodified="1228922167">Vai tev patīk gatavot ēst?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Kurš šovakar gatavos?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="13645" lastmodified="1228922225">Vai man gatavot šovakar?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Ko man pagatavot?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="13645" lastmodified="1228922225">Vai tu gribētu kafiju?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="13645" lastmodified="1228922225">Vai tu gribētu tēju?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Veselība un slimība</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Es esmu slims/a</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">Man ir gripa</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">Es esmu saaukstējies/saaukstējusies</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">Man ir alerģija</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="13645" lastmodified="1228922225">Esmu diabētiķis / diabētiķe.</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">Man sāp</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">Es nejūtos labi</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth">Es lietoju tabletes</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">Es esmu stāvoklī /  es esmu grūta</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">es nevaru ēst</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">es nevaru gulēt</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="13645" lastmodified="1228922285">Es negribu neko pārāk stipru.</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="13645" lastmodified="1228922285">Man reibst.</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="13645" lastmodified="1228922285">Man ir slikta dūša.</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="13645" lastmodified="1228922285">Man ir salauzts zobs.</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">Man ir klepus.</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">Man sāp galva.</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">Man sāp vēders.</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">Man sāp krūtis.</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth">Man ir infekcija.</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="13645" lastmodified="1228922419">Esmu sadzelts.</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">Mani sakoda | man iekoda | esmu sakosts/a</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="13645" lastmodified="1228922419">Vai tev sāp?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">Vai tas sāp?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="13645" lastmodified="1228922419">Vai sāp, kad daru šādi?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="13645" lastmodified="1228922419">Vai lieto /lietojat kādus medikamentus?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="13645" lastmodified="1228922419">Kāda ir tava / jūsu temperatūra?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="13645" lastmodified="1228922419">Vai vari / varat paiet?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="13645" lastmodified="1228922419">Man vajag riteņkrēslu.</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">Es esmu riteņkrēslā.</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="13645" lastmodified="1228922419">Kur ir tuvākā aptieka?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth">Vai es to varu dabūt bez receptes?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="13645" lastmodified="1228922545">Vai jums ir kaut kas pret kukaiņu dzēlieniem?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="13645" lastmodified="1228922545">Vai jums ir kaut kas pret (saules) apdegumiem?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="13645" lastmodified="1228922545">Man ir ārsta recepte.</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="13645" lastmodified="1228922545">Man vajag kaut ko ...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="13645" lastmodified="1228922545">Cik bieži man tas būtu jādzer?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">Vaļasprieki / hobiji</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Kādi ir tavi hobiji?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Ko tu dari savā brīvajā laikā?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Vai tev patīk lasīt?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="13645" lastmodified="1228922545">Man nepatīk lasīt.</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="13645" lastmodified="1228922545">Man patīk lasīt.</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="13645" lastmodified="1228922601">Man patīk gatavot ēst.</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">Man patīk klausīties mūziku.</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">Man patīk spēlēt klavieres.</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">Man patīk spēlēt ģitāru.</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">Man patīk dziedāt.</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">Man patīk spēlēt šahu.</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="13645" lastmodified="1228922601">Man patīk iet ārā.</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="13645" lastmodified="1228922601">Man patīk ceļot.</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">Man patīk iet iepirkties.</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="13645" lastmodified="1228922601">Man patīk dārza darbi.</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">Man patīk skatīties televizoru.</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="13645" lastmodified="1228922601">Man patīk sērfot internetā.</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="13645" lastmodified="1228922694">Kāda veida mūzika tev patīk?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">Man patīk klasiskā mūzika</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">Man patīk popmūzika</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="13645" lastmodified="1228922694">Man patīk opera.</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="13645" lastmodified="1228922694">Man patīk džezs.</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="13645" lastmodified="1228922694">Man patīk tehno.</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="13645" lastmodified="1228922694">Man patīk smagais roks.</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="13645" lastmodified="1228922694">Kas ir tavas mīļākās grupas?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="13645" lastmodified="1228922694">Kam tu dod priekšroku?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="13645" lastmodified="1228922694">Es izvēlos...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">Iepazīstināšana</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Mani sauc...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Kā jūs/tevi sauc?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Es esmu...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Kas jūs/tu esat/esi?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="13645" lastmodified="1228922731">Vai drīkstu iepazīstināt tevi/jūs ar .... ?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="13645" lastmodified="1228922731">Es iepazīstināšu tevi / jūs ar .....</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">Tā ir mana sieva</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">Tas ir mans vīrs.</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">Tā ir mana draudzene.</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">Tas ir mans draugs.</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">tas ir mans draugs/ tā ir mana draudzene</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">Tas ir mans dēls.</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">Tā ir mana meita.</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">Tā ir mana māte.</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">Tas ir mans tēvs.</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">Prieks iepazīties.</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="13645" lastmodified="1228922890" variant="1">Vai tev / jums ir brīvs laiks šodien / rīt / šovakar?</attrib>
+			<attrib type="orth" author="13645" lastmodified="1228922890">Vai tu esi / jūs esat brīvs šodien / rīt / šovakar?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="13645" lastmodified="1228922890">Man jau ir plāni.</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="13645" lastmodified="1228922890">Es iešu uz kino.</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="13645" lastmodified="1228922890">Es iešu uz teātri.</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="13645" lastmodified="1228922890">Es iešu uz muzeju.</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="13645" lastmodified="1228922890">Vai vēlies /vēlaties iziet kopā ar mani šovakar?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="13645" lastmodified="1228922890">Man patiktu</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="13645" lastmodified="1228922890">Vai tev / jums ir biļetes?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="13645" lastmodified="1228922972">Man ir divas biļetes uz .....</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="13645" lastmodified="1228922972">Man nepatīk mūzika.</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="13645" lastmodified="1228922972">Mūzika ir pārāk skaļa.</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="13645" lastmodified="1228922972">Te ir pārāk piebāzts.</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="13645" lastmodified="1228922972">Vai mēs iesim kaut kur citur?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="13645" lastmodified="1228922972">Uz kuru filmu mēs iesim?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="13645" lastmodified="1228922972">Ko tu domā / jūs domājat par filmu?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">Politika</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth">Mani interesē politika.</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth">Mni neinteresē politika.</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth">Ko tu domā par valdību?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth">Ko tu domā par karali/ karalieni?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth">Ko tu domā par prezidentu/ prezidenti?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth">Ko tu domā par premjerministru/i ?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth">Ko tu domā par vārda brīvību?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="13645" lastmodified="1228923019">Ko tu domā par armiju?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth">Ko tu domā par demokrātiju?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth">Ko tu domā par cilvēktiesībām?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth">Ko tu domā par sieviešu tiesībām?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth">Ko tu domā par homoseksuāļu/ geju tiesībām?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth">Vai tu esi kādas politiskas partijas biedrs?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth">Kad ir vēlēšanas?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth">Par ko tu pagājušajā reizē balsoji?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth">Par ko tu balsosi?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth">Es esmu ....</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth">kominsts/ komuniste</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth">kapitālists/-e</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth">demokrāts/-e</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth">kristīgais demokrāts/ kristīgā demokrāte</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth">republikānis/-e</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth">kreisais/ kreisā</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth">nacionālists/-e</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth">sociālists/-e</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth">liberālis/-e</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth">fašists/-e</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">Attiecības un ģimene</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">Vai tu esi precējies/precējusies?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">Es esmu precējies/usies</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">Es neesmu precējies/usies</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">Vai tev ir draugs?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">Vai tev ir draudzene?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">Man ir draugs</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">Man ir draudzene.</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">Cik viņš/viņs ir vecs/a?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth">Viņam/viņai ir ... gadi. | Viņš/a ir ... gadus vecs/a.</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth">Ar ko viņš/a nodarbojas?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">Vai tev ir bērni?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">Man nav bērnu.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">Man ir viens bērns / viens dēls / viena meita</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">Man ir divi bērni.</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">Man ir trīs/ četri/ pieci/ seši/ septiņi bērni.</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">Cik tev ir brāļu un māsu?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">Vai tava māte vēl ir dzīva?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">Vai tavs tēvs vēl ir dzīvs?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">Vai tava vecāmāte vēl ir dzīva?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">Vai tavs vecaistēvs/vectēvs vēl ir dzīvs?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">Reliģija</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth">Vai tu esi reliģiozs/a?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth">Es neesmu reliģiozs/a.</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="13645" lastmodified="1228923056">Es esmu ateists / ateiste.</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth">Es esmu agnostiķis/agnostiķe</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">Es esmu musulmanis/e</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">Es esmu ebrejs/ebrejiete.</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">Es esmu budists/e</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="13645" lastmodified="1228923099">Es esmu hinduists / hinduiste.</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="13645" lastmodified="1228923099">Es esmu katolis / katoliete.</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">Es esmu kristietis/e</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">Kur es te varu atrast baznīcu?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">Kur es te varu atrast mošeju?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">Kur es te varu atrast sinagogu?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">Kur es te varu atrast templi?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Paldies Dievam</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Lai notiek Dieva prāts</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">Ak mans Dievs!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth">Uzturēšanās, apciemošana un apmešanās</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">No kurienes tu esi? | No kuras valsts tu esi?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth">Es esmu no ...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">Francijas</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">Apvienotās Karalistes</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">Spānijas</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">Vācijas</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">Savienotajām Valstīm</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">Ķīnas</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth">Brazīlijas</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth">Japānas</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth">Krievijas</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth">Kanādas</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth">Austrālijas</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth">Kas tu esi pēc tautības? | Kāda ir tava tautība / pilsonība? | Kāda pilsonība tev ir?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">Es esmu ...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">brits/ anglis / angliete</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">francūzis / francūziete</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">vācis / vāciete</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">anmerikānis / iete</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">ķīnietis/iete</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">japānis/iete</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">krievs/ krieviete</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">brazīlis / brazīliete</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">kanādietis/kanādiete</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">No kurienes tu esi? Kurā pilsētā tu dzīvo?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Es dzīvoju Londonā/Parīzē/Berlīnē</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth">Vai tas ir tuvu ... ?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth">Vai tas ir tālu no ... ?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth">Es dzīvoju netālu no ... | Es dzīvoju tuvu ...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth">Es dzīvoju tālu no ..</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth">Kur tu paliec | Kur tu esi apmieties/apmetusies ?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth">Es esmu apmeties/usies ... viesnīcā.</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth">Cik ilgi tu tur paliksi?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth">Kad tu atgriezies?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth">Kad tu ieradies?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth">Vai tu šeit esi viens/viena?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth">Es esmu viens pats/ viena pati.</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth">Es esmu šeit ar savu ģimeni.</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth">Vai tu šeit dzīvo?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth">Es neesmu no šejienes.</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth">Vai mēs te varam apmesties?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth">Vai jums ir brīvas vietas?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth">Vai jums ir vieta priekš telts?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth">Cik jāmaksā par nakti?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth">Mēs gribam palikt vienu nedēļu.</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth">Kur ir dušas?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth">Kur ir tualetes?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth">Es gribu vienvietīgu numuru, lūdzu.</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth">Es gribu numuru ar ...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth">vannu</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth">dušu</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth">skatu (uz..)</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth">balkonu</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth">papildus gultu</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth">atsevišķām gultām</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth">Mēs gribam dubultnumuru/ divvietīgu numuru, lūdzu.</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth">Vai brokastis ir iekļautas?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth">Kad pasniedz brokastis?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth">Vai ir kāda lētāka istaba?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth">Vai man ir kāda ziņa?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth">Vai es varu dabūt savu atslēgu, lūdzu?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth">Kāds ir manas istabas numurs?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth">Es prasīju pēc istabas ar vannu/dušu</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Sekss</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Vai tu gribi ar mani gulēt/pārgulēt?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Vai tev ir prezervatīvs?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Vai tu lieto tabletes?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Bez prezervatīva es to nedarīšu.</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Lūdzu esi uzmanīgs/a | Lūdzu es maigs/a</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Vai tev tas patīk?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Man tas nepatīk.</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Vai tu esi brīvs/a? | vai tu esi viens/a?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Vai tu esi gejs?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Vai tu esi heteroseksuāls/a?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Vai tu esi lezbiete?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Vai tu esi biseksuāls/a?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth">Iepirkšanās</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth">Vai jūs varat man palīdzēt?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth">Vai es varu jums palīdzēt?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth">Kas jums patiktu? | Ko jūs gribētu?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth">Ko jūs meklējat?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth">Es tikai skatos</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth">Man patīk šis</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth">Man patīk šīs bikses.</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth">Man patīk šis T krekls.</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth">Man patīk šī žakete.</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth">Man patīk šī blūze.</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth">Man patīk šis uzvalks.</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth">Man patīk šīs brilles.</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth">Man patīk šīs kurpes.</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth">Es meklēju......</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth">Vai es varu to pielaikot?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="13645" lastmodified="1228923206">Vai var to izmēģināt?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth">Kur ir pielaikošanas kabīne?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth">Tas ir par garu</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth">Tas ir par īsu</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth">Tas ir pārāk ciešs/apspīlēts/šaurs</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth">Tas ir pārāk vaļīgs</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth">Tas neder.</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth">Tas der tīri labi.</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth">Kads tev/jums ir izmērs?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth">Man ir ... izmērs.</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth">Es nesaprotu šos izmērus.</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth">Vai jums ir kāds lielāks/a?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth">Vai jums ir kāds mazāks/a?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth">Man patīk krāsa.</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth">Man nepatīk krāsa.</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth">Vai jums ir šāds sarkans/zils/dzeltens/zaļš/lillā/rozā?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth">Vai jums ir kāds lētāks?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth">No kā tas ir izgatavots?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth">Vai jūs to varat salabot?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth">Apskates ekskursija</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Vai es varu/drīkstu fotografēt?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Jūs nedrīkstat šeit fotografēt.</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="13645" lastmodified="1228923300">Vai pa šo ezeru ir kuģīšu izbraucieni?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="13645" lastmodified="1228923300">Vai pa šo upi ir kuģīšu izbraucieni?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="13645" lastmodified="1228923300">Vai ir ekskursijas ar gidu?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Cik ilga būs ekskursija?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">Vai ir kādi labi naktsklubi?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth">Vai ir kādi vietējie festivāli/svētki?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Es gribētu apmeklēt katedrāli.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Es gribētu apmeklēt baznīcu.</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth">Es gribētu apmeklēt mošeju.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Es gribētu apmeklēt templi.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth">Vai bērniem ir atlaides?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth">Vai grupām ir atlaides?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="13645" lastmodified="1228923348">Vai veciem ļaudīm ir atlaide?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="13645" lastmodified="1228923348">Vai studentiem ir atlaide?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth">Kāds jums ir darbalaiks?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth">Cikos jūs slēdzat?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth">Cikot jūs atverat?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth">Cikos sākas izrāde?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Kad tas tika uzcelts?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Kas to uzcēla?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth">Cik augsts ir tas kalns?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Kā sauc to dzīvnieku?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth">Kā sauc to putnu?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Kā sauc to puķi?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Kā sauc to koku?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Kā sauc to celtni?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth">Kā sauc to kalnu?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Kā sauc to upi?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">Smēķēšana</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">Smēķēšana ir kaitīga tavai veselībai.</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">Vai jūs iebilstu, ja es smēķētu?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Vai jums nebūtu uguns?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Vai es varu dabūt cigareti?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Vai šī ir nesmēķētāju zona?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Vai es varētu dabūt pelnutrauku?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">Sports</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="13645" lastmodified="1228923398">Vai tur ir kas bīstams?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="13645" lastmodified="1228923398">Vai tuvumā ir interesantas pastaigu vietas?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth">Vai ir kādi slēpošanas pacēlāji?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth">Kur ir tuvākais golfa laukums?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth">Kur ir publisks peldbaseins?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth">Vai es varu šeit makšķerēt?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth">Vai es varu šeit peldēties?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth">Vai es varu noīrēt... ?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="13645" lastmodified="1228923474">beisbola nūju</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth">futbola bumbu</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth">slēpju pāri</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth">tenisa raketi</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth">laivu</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="13645" lastmodified="1228923474">dvieli</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="13645" lastmodified="1228923474">Vai ir iespējama apmācība?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth">Es gribu redzētu futbola maču</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth">Vai tu spēlē.... ?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">amerikāņu futbolu</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">futbolu</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">golfu</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">tenisu</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">beisbolu</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">basketbolu</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">Laiks</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Kas šodien ir pa dienu?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth">Šodien ir...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth">Kas vakar bija pa dienu?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">Vakar bija...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Kas rīt ir pa dienu?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">Rīt būs....</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">pirmdiena</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">otrdiena</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">trešdiena</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">ceturtdiena</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">piektdiena</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">sestdiena</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">svētdiena</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Kas pa mēnesi?</attrib>
+			<attrib type="orth" author="13645" lastmodified="1228923525" variant="1">Kurš mēnesis tagad ir?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth">Ir...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth">Pagājušais mēnesis bija..</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth">Nākamais mēnesis būs...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">janvāris</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">februāris</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">marts</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">aprīlis</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">maijs</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">jūnijs</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">jūlijs</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">augusts</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">septembris</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">oktobris</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">novembris</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">decembris</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Cik pulkstens?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Ir astoņi.</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth">ir pusdeviņi | Ir trīsdesmit pāri astoņiem (ir astoņi un trīsdesmit)</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth">Ir ceturksnis pāri astoņiem | ir piespadsmit pāri astoņiem (ir astoņi un piecpadsmit)</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="13645" lastmodified="1228923672">Ir bez piecpadsmit deviņi | Ir astoņi un četrdesmit piecas</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth">ir desmit pāri astoņiem | Ir astoņi un desmit</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="13645" lastmodified="1228923672">Ir divdesmit pāri astoņiem | Astoņi divdesmit</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="13645" lastmodified="1228923672">Ir bez divdesmit astoņi. | Ir septiņi četrdesmit.</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="13645" lastmodified="1228923672">Ir bez desmit astoņi. | Ir septiņi piecdesmit.</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth">Kas par datumu?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth">Ir 1982.gada 15.decembris</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth">Kad es varu atnākt?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth">Kad tu mani apciemosi?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth">Es tevi apciemošu šorīt</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth">Es tevi apciemošu no rīta</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth">Es tevi apciemošu šovakar</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth">Es tevi apciemošu vakarā</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth">Es tevi apciemošu šonedēļ</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth">Es tevi apciemošu šajā nedēļas nogalē</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth">Es tevi apciemošu nedēļas nogalē</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="13645" lastmodified="1228923736">Es apciemošu tevi / jūs dienvidū.</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth">Es tevi apciemošu pēc divām stundām</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth">Es tevi apciemošu pusvienpadsmitos</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth">Es tevi apciemošu pēc pusvienpadsmitiem</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth">Es tevi apciemošu pirms pusvienpadsmitiem</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth">Es tevi apciemošu starp pusvienpadsmitiem un vienpadsmitiem</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth">Es tevi apciemošu no pusvienpadsmitiem līdz vienpadsmitiem</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth">Es tevi apciemošu pavasarī</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth">Es tevi apciemošu vasarā</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth">Es tevi apciemošu rudenī</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">Es tevi apciemošu ziemā</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth">Es tevi apciemošu 15.decembrī</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth">Cik ilgi tu paliksi ar mani?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth">Es varu palikt divas stundas</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth">Es tevi apciemošu uz divām stundām</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Tu esi par vēlu</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth">Tu esi tieši laikā</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth">Tu esi par agru</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="13645" lastmodified="1228923822">Kas par gadalaiku ir?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">Man nav laika</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Lūdzu, pagaidi minūti.</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth">Es būšu tur pēc piecām minūtēm.</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Pārvietošanās</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">Vai tev ir mašīna?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">Man ir mašīna</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">Man nav mašīnas</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth">Vai mēs ņemsim tavu mašīnu vai manējo?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth">Vai tev ir vadītāja apliecība?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth">Man nav vadītāja apliecības</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth">Kad mēs izbraucam?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth">Kad mēs dodamies?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth">Kur tu dodies?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth">No kurienes tu nāc?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth">Vai man ir jāpārsēžas?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth">Kur ir autobusi?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth">Kur ir autobusa pietura?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth">Vai jūs varēsiet pateikt, kad man jāizkāpj?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth">Vai šis autobuss brauc uz ... ?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth">Kur ir lidosta?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth">Kad lidmašīna izlido?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth">Kad lidmašīna ielido?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth">Cik ilgs ir lidojums?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="13645" lastmodified="1228923852">Cikos man ir jāreģistrējas lidojumam?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth">Vai es varu redzēt jūsu pasi, lūdzu?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth">Te ir mana pase.</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth">Vai es to varu ņemt līdzi?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth">Kur es varu paņemt savu bagāžu?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth">Es nevaru atrast savu bagāžu.</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth">Vai jūs varat man palīdzēt ar bagāžu?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth">Es domāju, ka šī ir mana vieta.</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth">Vai šī vieta ir aizņemta?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth">Kur ir dzelzceļa stacija?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth">Vai man ir jāpārsēžas?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth">Vai šis vilciens pietur ... ?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth">Vai šis vilciens iet uz .. ?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth">Cik ilgi vilciens te stāvēs?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth">Kas šī ir par staciju?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth">Kad ir nākamais vilciens?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth">Kad ir pēdējais vilciens?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth">Kur es varu dabūt taksi?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth">Vai te netālu ir kāda automašīnu stāvvieta?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="13645" lastmodified="1228923861">Vai es šeit drīkstu novietot mašīnu?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth">Cik ilgi te drīkst stāvēt?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth">Kur es varu novietot mašīnu?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">Mana mašīna ir salūzusi.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth">Manu mašīnu nevar iedarbināt.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth">Kur ir tuvākā degvielas uzpildes stacija? | Kur ir tuvākais benzīntanks?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="13645" lastmodified="1228923927">Kur ir tuvākais serviss?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth">Man ir caura riepa.</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth">Man beidzies benzīns/degviela.</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth">Vai es varu redzēt jūsu vadītāja apliecību, lūdzu?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth">Te ir mana vadītāja apiecība.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth">Cik tālu ir tuvākais ciemats?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth">Cik ilgi ir jābrauc ar mašīnu?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth">Cik ilgi ir jāiet?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth">Es gribētu noīrēt mašīnu uz nedēļu / uz trim dienām.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Laika apstākļi</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth">Kāds rīt būs laiks?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth">Kāds parasti ir laiks?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">Rīt līs.</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Līst</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Snieg</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">Spīd saule | Ir saulains</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">Ir apmācies</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">Ārā ir silti</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">Ārā ir auksti</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Cik briesmīgs laiks!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Cik jauka diena!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth">Jauka diena, vai ne?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">Vai vienmēr ir tik karsts?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">Vai vienmēr ir tik auksts?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">Vai vienmēr ir tik lietains?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">Vai vienmēr ir tik mākoņains?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth">Es esmu slapjš/slapja | Es esmu salijis/salijusi</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Darbs</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Kur tu strādā?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Ar ko tu nodarbojies?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Es esmu skolotājs/a</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Es esmu students/e</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth">Es esmu pašnodarbinātais/pašnodarbinātā</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Es strādāju restorānā</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Es strādāju lielveikalā/supermārketā</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Es strādāju veikalā</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Es esmu ārts/e / fiziķis/e</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">Es esmu psihologs/psiholoģe</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">Es esmu programmētājs/a</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Es esmu inženieris/e</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Es esmu mehāniķis/e</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Es esmu rakstnieks/rakstniece</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Es esmu šoferis/e</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Es esmu aktieris/aktrise</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">Es esmu sociālais darbinieks/ sociālā darbiniece</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Es esmu politiķis/e</attrib>
+		</entry>
+	</entries>
+</ulr>

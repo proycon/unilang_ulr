@@ -1,0 +1,2274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="hr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Najčešći izrazi</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Da</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Ne</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Molim</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Izvoli /Izvolite(informal/formal)</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Hvala ti/ Hvala vam (informal/formal) |Hvala</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Nema na čemu / Molim</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Možda</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Zdravo  | Bok</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Zbogom!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Ugodan dan!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Dobro jutro!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Dobra večer!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Laku noć!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Dobrodošao! /Dobrodošla! /Dobrodošli! /Dobrodošle!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Sretan put!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Uzajamno razumijevanje</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Govoriš li.. ?/Govorite li...? (informal/formal)</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Govorim...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Ne govorim..</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Govorim malo..../Znam malo...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">engleski</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">francuski</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">njemački</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">španjolski</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">portugalski</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">arapski</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">kineski</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">ruski</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">talijanski</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">nizozemski</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norveški</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">švedski</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">danski</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">poljski</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">japanski</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indonezijski</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malajski</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Razumiješ li?/ Razumijete li ?(informal/formal)</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Razumiješ li me?/ Razumijete li  me? (informal/formal)</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Razumijem</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Razumijem te/Razumijem Vas (informal/formal)</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Ne razumijem</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Ne razumijem te/Ne razumijem Vas (informal/formal)</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Možeš li to ponoviti, molim te?/Možete li to ponoviti, molim Vas? (informal/formal)</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Možeš li govoriti sporije?/Možete li govoriti sporije? (informal/formal)</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Možeš li to zapisati?/Možete li to zapisati? (informal/formal)</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Ne znam kako se to kaže</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Ne znam pravu riječ</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Što si rekao(m.)/rekla (f.)?//Što ste rekli?(informal//formal)</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Kako to kažete u/na...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Kako to pišete?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Kako to izgovarate?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Možeš li mi ovo prevesti?/Možete li mi ovo prevesti?(informal/formal)</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Jesam li dobro rekao(m.)/rekla(f.) ??</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Osnovni razgovor</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Kako ti ide??/Kako Vam ide??(informal/formal)</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Dobro mi ide! /Sjajno mi ide!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Dobro sam</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">U redu sam</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Nije mi tako dobro</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Koliko imaš godina?/Koliko imate godina?(informal/formal)</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Imam .... godina</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Ne znam</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Ne sviđa mi se to</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Spreman sam(m.) / Spremna sam(f.)</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Idemo</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Žao mi je</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Posao i financije</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Mogu li platiti gotovinom?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Mogu li platiti kreditnom karticom?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Primaš li...?/Primate li...?(informal/formal)</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Možeš li mi unovčiti ove putničke čekove?/Možete li mi unovčiti ove putničke čekove?(informal/formal)</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Možeš li mi promijeniti ovo u ...?/Možete li mi promijeniti ovo u ...?(informal/formal)</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Možeš li mi dati procjenu  troška?/Možete li mi dati procjenu  troška?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Evo moje kartice/Izvolite moju karticu</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">Koliku proviziju uzimate?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Želim promijeniti nešto dolara/eura/funta</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Koliki je tečaj?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Kolika je stopa inflacije?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Gdje mogu promijeniti novac?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Gdje mogu fotokopirati?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Gdje je najbliža banka?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Gdje trebam potpisati?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Imate li katalog?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Imam dogovor sa...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Koliko je ulazni ulog?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Koliko košta dnevno?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Koliko košta po satu?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Koliko košta na tjedan?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Je li to besplatno?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Računala i internet?</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Imaš li računalo? / Imate li računalo?(informal/formal)</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Tvrdi disk je pun</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Imaš li modem? / Imate li modem?(informal/formal)</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">Imaš li   internetsku vezu ? / Imate li  internetsku vezu?(informal/formal)</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Mogu li poslati e-mail?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Mogu li pročitati svoj e-mail?/Mogu li pročitati svoju elektronsku poštu?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Mogu li isprintati nešto?/Mogu li ispisati nešto?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Mogu li skenirati nešto?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Moje računalo je uništeno</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">Moraš rebootati / Morate rebootati (informal/formal)</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">Mogu li instalirati ..?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Koja je tvoja e-mail adresa?/ Koja je Vaša e-mail adresa?(informal/formal)</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Moja  e-mail adresa je ...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Imaš li početnu stranicu?/ Imate li početnu stranicu?(informal/formal)</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Koja je adresa?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Obrazovanje</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Gdje studiraš?/Gdje studirate?(informal/formal)</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Studiram...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">pravo</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">medicinu</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">ekonomiju</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">jezike</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">lingvistiku</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">matematiku</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">kemiju</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">fiziku</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">informatiku</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">Na kojem sveučilištu studiraš? /Na kojem sveučilištu studirate?(informal/formal)</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Studiram na...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">Imam predavanje danas</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Slobodan(f.)/Slobodna(f.)  sam danas</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Jesi li u srednjoj školi?/ Jeste li u srednjoj školi?(informal/formal)</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Ja sam u srednjoj školi</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Moram sad ići na predavanje</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">Hitne službe</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Zovi liječnika! /Zovite liječnika!(informal/formal)</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Zovi hitnu pomoć! / Zovite hitnu pomoć!(informal/formal)</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Zovi policiju! / Zovite policiju!(informal/formal)</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">On ne može disati.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">On se ne može pomaknuti</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">On se nije zaustavio.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Uletio je u mene.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">On je vozio prebrzo.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Posjekao se.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Ne mogu pomaknuti ruku.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Ne mogu pomaknuti  nogu.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Opljačkan sam.(m.)/Opljačkana sam(f.).</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Zaustavite lopova!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Moja putovnica je ukradena./ Ukrali su mi putovnicu.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Ukrali su mi novac.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Ukrali su mi auto.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Tamo je vatra./ Tamo gori.</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Gdje je najbliža bolnica??</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Gdje je najbliža policijska postaja?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Osjećaji i mišljenja</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Sviđa li ti se? / Sviđa li Vam se?(informal/formal)</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Sviđa mi se</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Sretan sam(m.)/ Sretna sam(f.)</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Ljut sam(m.) / LJuta sam (f.)</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Razočaran sam (m.)/ Razočarana sam (f.)</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">Zadovoljan sam (m.)/Zadovoljna sam (f.)</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Umoran sam (m.) /Umorna sam (f.)</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Strah me je. / Bojim se.</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Toplo mi je.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Hladno mi je.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Pospan sam.(m.) /Pospana (f.) sam. // Spava mi se</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Sviđa nam se ovdje</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">To je (jako)  zanimljivo</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">Otkrili smo  da je jako zanimljivo</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">To je (jako)  dosadno</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">To je liijepo</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">On je (jako) zgodan</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">Ona je  jako lijepa</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">On je seksi/komad</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">Ona je seksi/komad</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">On je jako ljubazan.(m.) / Ona je jako ljubazna.(m.)</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Pogledaj!/ Pogledajte!(informal/formal)</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Slušaj! / Slušajte!(informal/formal)</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Super!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Hrana i restoran</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Gladan sam(m.) / Gladna sam(f.)</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Žedan sam(m.) / Žedna sam(f.)</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">Hoćemo li donijeti nešto za jelo?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">Hoćemo li donijeti nešto za piće?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Imaš li nešto za jesti?/Imate li nešto za jesti?(informal/formal)</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Imaš li nešto za piti?/ Imate li nešto za piti?(informal/formal)</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Želiš li nešto  jesti? / Želite li nešto  jesti?(informal/formal)</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Mogu li dobiti nešto za jelo?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Želiš li nešto  piti?/Želite li nešto  piti??(informal/formal)</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Htio bih... (piti) , molim(m.) / Htjela  bih... (piti) , molim (f.)</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">šalicu kave</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">šalicu čaja</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">času piva</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">času vina</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">času crnog vina</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">času bijelog vina</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">času soka od naranče</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">času soka od jabuke</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">Mogu li dobit nešto za piće?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">Što biste htjeli piti?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">Što biste htjeli jesti?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">Što preporučate?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Mogu li vidjeti jelovnik, molim Vas??</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Mogu li vidjeti vinsku kartu, molim Vas??</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Htio bih ovo , molim Vas(m.) / Htjela bih ovo , molim Vas(f.)</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth">Biste li htjeli aperitiv??</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth">Htio bih aperitiv, molim Vas(m.)/Htjela bih aperitiv, molim Vas(f.)</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Htio(m.)/Htjela(f.) bih ribu, molim Vas</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Htio(m.)/Htjela(f.) bih govedinu, molim Vas</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Htio(m.)/Htjela(f.) bih svinjetinu, molim Vas</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Htio(m.)/Htjela(f.) bih salatu, molim Vas</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Htio(m.)/Htjela(f.) bih juhu, molim Vas</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Htio(m.)/Htjela(f.) bih nešto vegetarijansko, molim Vas</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Biste li htjeli desert?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth">Kao aperitiv , htio bih...(m.)/ Kao aperitiv ,htjela bih...(f.)</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth">Kao glavno jelo , htio bih... (m.) / Kao glavno jelo , htjela bih...(f.)</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">Za desert , htio(m.)/ htjela(f.) bih...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">Mogu li dobiti ovo sa pomfritom/rižom/krumpirima?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Mogu li dobiti ovo bez.... ?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">Mogu li dobiti samo malu porciju, molim Vas?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Koje salate imate?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">Ništa više, hvala</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth">To je za (ponijeti) van</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Ja sam vegetarijanac(m.)/ Ja sam vegetarijanka(f.)</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Ne mogu ovo jesti</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Sadrži li ovo?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(puno) soli</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(puno) šećera</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">(puno) masnoće</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">imalo mesa</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">imalo morske hrane</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">imalo ribe</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">imalo mliječnih proizvoda</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Ne pijem (alkohol)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">Nemam viljušku</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">Nemam noža</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">Nemam žlicu</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Čaša nedostaje/ Nema čaše</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Tanjur nedostaje/ Nema tanjura</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">Ovo nije čisto</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">Prehladno je</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">Previše je začinjeno</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">Ovo nije što sam naručio</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Ovdje je greška</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">Bilo je ukusno</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Htio(m.)/Htjela(f.) bih platiti , molim Vas</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Mogu li dobiti račun, molim Vas</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">Htjeli bismo zasebno platiti</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Je  li sve uključeno?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Je li napojnica uključena?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">Voliš li kuhati?/ Volite li kuhati?(informal/formal)</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Tko će večeras kuhati?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth">Mogu li ja kuhati večeras?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Što ću spremiti?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">Biste li htjeli šalicu kave?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">Biste li htjeli šalicu čaja?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Zdravlje i zaraza</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Bolestan sam.(m.)/Bolesna sam.(f.)</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">Imam gripu</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">Imam prehladu</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">Imam alergiju</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">Ja sam dijabetičar(m.) Ja sam dijabetičar(m.)// Ja sam šećeraš(m.) / Ja sam šećerašica(f.)</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">Boli me</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">Ne osjećam se dobro</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth">Na piluli sam</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">Trudna sam</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">Ne mogu jesti</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">Ne mogu spavati</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth">Ne želim ništa prejako.</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth">Vrti mi se</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth">Muka mi je./Mučno mi je.</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth">Ima pokvaren zub</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">Imam kašalj ./ Kašljem.</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">Imam glavobolju./Boli me glava.</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">Boli me trbuh.</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">Boli me u prsima.</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth">Imam zarazu./ Imam infekciju</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth">Ubolo me.</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">Ugrizlo me.</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth">Boli li te? / Boli li vas?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">Boli li?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">Boli li ako ovo učinim?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">Uzimaš li ikakve lijekove?/ Uzimate li ikakve lijekove?(informal/formal)</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth">Koja ti je temperatura?/ Koja Vam je temperatura?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">Možeš li hodati?/Možete  li hodati?(informal/formal)</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">Trebam invalidska kolica</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">Ja sam u invalidskim kolicima</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth">Gdje je najbliža ljekarna?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth">Mogu li to dobiti bez recepta?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth">Imate li nešto za ugrize kukaca?/Imate li nešto protiv ugriza kukaca?(informal/formal)</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth">Imaš li nešto za opekline?/ Imate li nešto protiv opeklina?(informal/formal)</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth">Imam liječnički recept.</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth">Trebam nešto za...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth">Koliko često to trebam uzimati?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">Hobiji</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Koji su tvoji hobiji?/ Koji su Vaši hobiji?(informal/formal)</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Što radiš/radite(informal/formal) u slobodno vrijeme?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Voliš li čitati? / Volite li čitati?(informal/formal)</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">Ne volim čitati</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">Volim čitati</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">Volim kuhati</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">Volimk slušati glazbu</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">Volim svirati glasovir</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">Volim svirati gitaru</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">Volim pjevati</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">Volim igrati šah</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">Volim izlaziti</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">Volim putovati</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">Volim ići u kupnju</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">Volim vrtlariti/ Volim raditi u vrtu</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">Volim gledati televiziju</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">Volim surfati na internetu</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">Kakvu glazbu voliš?/Kakvu glazbu volite?(informal/formal)</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">Volim klasičnu glazbu</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">Volim pop glazbu</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">Volim operu</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">Volim jazz</attrib>
+			<attrib type="phon">pronounces like in english</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">Volim techno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">Volim hard rock</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">Koji su tvoji/ Vaši (informal/formal)omiljeni bendovi?//Koji su tvoje omiljene grupe?/Koji su Vaše omiljene grupe?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">Što više voliš?/Što više volite?(informal/formal)</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth">Više volim</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">Međusobno upoznavanje</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Moje ime je ..../ Zovrm se...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Kako se zoveš?/Kako se zovete?(informal/formal)</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Ja sam.../Zovem se...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Tko si ti?/Tko ste Vi?(informal/formal)</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth">Mogu li te upoznati sa...?/Mogu li vas upoznati sa...?(informal/formal)</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth">Predstavit ću te.../Predstavit ću vas ....(informal/formal)</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">To je moja žena/supruga</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">To je moj muž/suprug</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">To je moja djevojka/cura</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">To je moj dečko/momak</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">To je moj prijatelj(m.)//To je moja prijateljica(f.)</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">To je moj sin.</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">To je moja kći</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">To je moja majka</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">To je moj otac</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">Drago mi je što smo se upoznali</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth">Planovi i dogovori</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth">Jesi li slobodna(m.) (danas/sutra)? /Jesi li slobodna(f.)/ (danas/sutra)?//Jeste li slobodni (danas/sutra)?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth">Imam već planove</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth">Idem u kino</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth">Idem u kazalište</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth">Idem u muzej</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth">Hoćeš li izaći sa mnom večeras?/Hoćete li izaći sa mnom večeras?(informal/formal)</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth">Volio(m.)bih to/Voljela(f.) bih to// Rado</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth">Imaš li karte?/Imate li karte?(informal/formal)</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth">Imam dvije karte za...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth">Ne sviđa mi se glazba</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth">Glazba je preglasna</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth">Ovdje ima previše ljudi</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth">Hoćemo li poći nekamo drugdje?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth">Na koji film ćemo ići?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth">Što kažeš na film?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">Politika</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth">Zanima me politika</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth">Ne zanima me politika</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth">Što misliš o vladi?/Što mislite o vladi?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth">Što  mislišo kralju/kraljici? //Što mislite o kralju/kraljici?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth">Što misliš o predsjedniku(m.) /predsjednici(f.)?//Što mislite o predsjedniku(m.) /predsjednici(f.)?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth">Što  misliš o premijeru(m.)/premijerki(f.)?//Što mislite o premijeru(m.)/premijerki(f.)?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth">Što  mislišo o slobodi govora?/Što mislite o slobodi govora?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth">Što  misliš o vojsci?/Što  mislite o vojsci?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth">Što misliš o demokraciji?/Što mislite o demokraciji?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth">Što  mislišo ljudskim pravima?/Što mislite o ljudskim pravima?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth">Što  mislišo pravima žena?/Štomislite o pravima žena?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth">Što  misliš o pravima homoseksualaca?/Što o mislite o pravima homoseksualaca?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth">Jesi li član političke stranke?/Jeste li član političke stranke?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth">Kada su izbori?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth">Za koga zadnji put ste glasali?(pl.m)/Za koga zadnji put ste glasali(pl.f)?/Za koga zadnji put si glasao(sg.m.)/Za koga zadnji put si glasala(sg.f.)?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth">Za koga ćeš glasati?/Za koga ćete glasati?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth">Ja sam</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth">komunist</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth">kapitalist</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth">demokrat</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth">kršćanski demokrat</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth">republikanac</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth">ljevičar</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth">naciionalist</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth">socijalist</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth">liberal</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth">fašist</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">Veze i obitelj</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">Jeste li oženjeni?(m.) /Jeste li udani?(f.)</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">Ja sam oženjen(m.) /Ja sam udana(f.)</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">Nisam oženjen(m.)/Nisam udana(f.)</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">Imaš/Imate(informal/formal) li dečka/momka?(9</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">Imaš/Imate(informal/formal) li djevojku/curu?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">Imam dečka/momka</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">Imam djevojku/curu</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">Koliko ima godina?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth">Ima ... godina</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth">Čime zarađuje za život?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">Imaš li djece?/Imate li djece?(informal/formal)</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">Nemam djece</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">Imam jedno dijete/jednog sina/jednu kćer</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">Imam dvoje djece</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">Ima troje/petero/šestero/sedmero djece</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">Koliko imaš/imate(informal/formal) braće i sestara?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">Je li tvoja majka još uvijek živa?/Je li Vaša majka još uvijek živa?(informal/formal)</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">Je li tvoja otac još uvijek živ?/Je li Vaš otac još uvijek živ?(informal/formal)</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">Je li tvoja baka još uvijek živa?/Je li vaša baka još uvijek živa?(informal/formal)</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">Je li tvoja djed još uvijek živ?/Je li vaš djed još uvijek živ?(informal/formal)</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">Religija</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth">Jesi/Jeste(informal/formal) li vjernik?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth">Nisam religiozan(m.)/Nisam religiozna(f.)</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth">Ja sam ateist</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth">Ja sam agnostik.</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">Ja sam musliman(m.)/Ja sam muslimanka(f.)</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">Ja sam židov(m.)/Ja sam židovka(f.)</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">Ja sam budist(m.)/ Ja sam budistkinja(f.)</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">Ja sam hindus(m.)/Ja sam hinduskinja(f.)</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">Ja sam katolik(m.)/Ja sam katolkinja(f.)</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">Ja sam kršćanin(m.)/Ja sam kršćanka(f.)</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">Gdje mogu naći crkvu?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">Gdje mogu naći džamiju?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">Gdje mogu naći sinagogu?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">Gdje mogu naći hram?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Hvala Bogu!</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Ako Bog bude htio</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">O moj Bože</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth">Prebivalište, posjećivanje i smještaj</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">Odakle si?/Odakle ste?(informal/formal)|Iz koje si zemlje/ Iz koje ste zemlje?(informal/formal)</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth">Ja sam iz ...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">Francuske</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">Ujedinjenog Kraljevstva</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">Španjolske</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">Njemačke</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">Sjedinjenih Država</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">Kine</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth">Brazila</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth">Japana</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth">Rusije</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth">Kanade</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth">Australije</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth">Koje si nacionalnosti?/Koje ste nacionalnosti?/(informal/formal)</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">Ja sam ...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">Britanac(m.)/ Britanka(f.)</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">Francuz(m.)/Francuskinja(f.)</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">Nijemac(m.)/Njemica(f.)</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">Amerikanac(m.)/Amerikanka(f.)</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">Kinez(m.)/Kineskinja(f.)</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">Japanac(m.)/Japanac(f.)</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">Rus(m.)/Ruskinja(f.)</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">Brazilac(m.)/Brazilka(f.)</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">Kanađanin (m.)/Kanađanka (f.)</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">Odakle si?/Odakle ste?(informal/formal)| U kojem gradu živiš?/U kojem gradu živite?(informal/formal)</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Živim u Londonu/Parizu/ Berlinu</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth">Je li to blizu...?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth">Je li to daleko od...?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth">Živim blizu....</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth">Živim daleko od ....</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth">Gdje stojiš?/ Gdje stojite?(informal/formal)</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth">Stojim u hotelu ...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth">Koliko dugo ćeš biti ovdje?/Koliko dugo ćete biti ovdje?(informal/formal)</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth">Kada se vraćaš?/Kada se vraćate?(informal/formal)</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth">Kada dolaziš?/Kada dolazite?(informal/formal)</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth">Jesi li ovdje sam?(m.)/Jesi li ovdje sama?(f.)//Jeste li ovdje sami?(informal//formal)</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth">Sam sam ovdje.(m.)/Sama sam ovdje.(f.)</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth">Ovdje sam sa svojom obitelji.</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth">Živiš li ovdje?/Živite li ovdje?(informal/formal)</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth">Nisam odavde</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth">Možemo li ovdje kampirati?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth">Imate li ikakvih upražnjenih radnih mjesta ?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth">Imate li sobu za šator?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth">Koliko je za noć?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth">Ostat ćemo jedan tjedan</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth">Gdje su tuševi?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth">Gdje su zahodi?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth">Želim jednokrevetnu sobu, molim</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth">Želim sobu sa ..</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth">kupaonicom</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth">tušem</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth">pogledom</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth">balkonom</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth">dodatnim krevetom</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth">odvojenim krevetima</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth">Htjeli nismo dvokrevetnu sobu , molim</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth">Je li doručak uključen?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth">Kada se poslužuje doručak?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth">Imate li jeftinijih soba?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth">Imate li poruka za mene?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth">Mogu li dobiti svoj ključ, molim?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth">Koji je broj moje sobe?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth">Pitao sam za sobu sa kupaonicom/tušem.</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Seks</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Želiš li spavati sa mnom?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Imaš li prezervativ/kondom?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Jesi li na piluli?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Ne želim to raditi bez prezervativa/kondoma.</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Molim te budi pažljiv(m.)/Molim te budi pažljiva(f.)|Molim te budi nježan(m.)/Molim te budi nježna(f.)</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Sviđa li ti se ovo?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Ne sviđa mi se ovo</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Jesi li sam(f.)/Jesi li sama?(f.)</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Jesi li homoseksualac?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Jesi li hetero?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Jesi li lezbijka?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Jesi li biseksualac(m.)?/Jesi li biseksualka(f.)?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth">Kupnja/ Kupovanje</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth">Možete li mi pomoći?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth">Mogu li Vam pomoći?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth">Što biste htjeli?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth">Što tražiš?/Što tražite?(informal/formal)</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth">Samo pretražujem/Samo razgledavam</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth">Sviđa mi se ovaj/ova/ovo.</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth">Sviđaju mi se ove hlače.</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth">Sviđa mi se ova majica</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth">Sviđa mi se ova jakna</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth">Sviđa mi se ova bluza</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth">Sviđa mi se ovo odijelo/kostim</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth">Sviđaju mi se ove naočale</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth">Sviđaju mi se ove cipele</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth">Tražim...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth">Mogu li probati kako mi stoji?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth">Mogu li probati?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth">Gdje je soba?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth">Predugačko je</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth">Prekratko je</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth">Preusko je</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth">Previše je labavo</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth">Ne poklapa se./Ne stoji</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth">Prilično dobro stoji</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth">Koja je Vaša veličina?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth">Moja veličina je ../ Moj broj  je ...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth">Ne razumijem ove veličine/brojeve</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth">Imate li veći(m.)/veću(f.)/veće(n.)?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth">Imate li manji(m.)/manju(f.)/manje(n.)?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth">Sviđa mi se boja</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth">Ne sviđa mi se boja</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth">Imate li ovo u crvenoj/ plavoj/žutoj/zelenoj/ljubičastoj/ružičastoj?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth">Imate li jeftinije?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth">Od čega je ovo napravljeno?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth">Možete li popraviti ovo?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth">Razgledavanje</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Mogu li  slikati? /Mogu li fotografirati?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Ne možete ovdje slikati</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth">Ima li ikakvih izleta čamcem na jezero?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth">Ima li ikakvih izleta čamcem na rijeku?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth">Ima li  razgledavanja sa vodičem?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Koliko dugo traje ruta?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">Ima li dobrih noćnih klubova?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth">Ima li ikakvih lokalnih festivala?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Volio(m.)bih posjetiti katedralu. /Voljela(f.) bih posjetiti katedralu.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Volio(m.)bih posjetiti crkvu. /Voljela(f.) bih posjetiti crkvu.</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth">Volio(m.)bih posjetiti džamiju. /Voljela(f.) bih posjetiti džamiju.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Volio(m.)bih posjetiti hram. /Voljela(f.) bih posjetiti hram.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth">Ima li popust za djecu?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth">Ima li  popust za grupe?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth">Ima li  popust za starije osobe?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth">Ima li  popust za studente?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth">U koliko sati ste otvoreni?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth">U koje doba zatvarate?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth">U koje doba otvarate?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth">Kada počinje predstava?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Kada je izgrađena(m.)?/Kada je  izgrađena(f.)?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Koliko je visoka ta planina?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth">Koliko je visoka ta planina?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Kako se zove ta životinja?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth">Kako se zove ta ptica?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Kako se zove taj cvijet?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Kako se zove to stablo?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Kako se zove ta zgrada?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth">Kako se zove ta planina?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Kako se zove ta rijeka?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">Pušenje</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">Pušenje je loše za tvoje/vaše(informal/formal) zdravlje</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">Smeta li ti ako pušim?/Smeta li Vam ako pušim?(informal/formal)</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Imaš li vatre? /Imate li vatre?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Mogu li dobiti cigaretu?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Je li ovo odjeljak za nepušače?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Mogu li dobiti pepeljaru?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">Sportovi</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth">Ima li tamo opasnih .. .kretanja/pokreta/događanja?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth">Ima li blizu ikakvih zanimlivih šetnji?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth">Ima li tamo žičara?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth">Gdje je najbliže igralište za golf?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth">Gdje je najbliži javni bazen?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth">Mogu li tamo pecati?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth">Mogu li ići ovdje plivati?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth">Mogu li unajmiti... ?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth">bejzbolsku palicu</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth">nogomet</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth">par skija</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth">teniski reket</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth">čamac</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth">ručnik</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth">Mogu li uzeti poduku?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth">Želim vidjeti nogometnu utakmicu/Želim gledati nogometnu utakmicu</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth">Igraš li...?/Igrate li...?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">američki nogomet</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">nogomet</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">tenis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">bejzbol</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">košarku</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">Vrijeme</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Koji je danas dan?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth">Danas je...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth">Koji je dan bio jučer?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">Jučer je bio...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Koji će dan biti sutra?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">Sutra će biti...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">Ponedjeljak</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">Utorak</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">Srijeda</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">Četvrtak</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">Petak</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">Subota</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">Nedjelja</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Koji je mjesec?</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth">Pošli mjesec je bio...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth">Sljedeći mjesec će biti...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">Siječanj</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">Veljača</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">Ožujak</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">Travanj</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">Svibanj</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">Lipanj</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">Srpanj</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">Kolovoz</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">Rujan</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">Listopad</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">Studeni</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">Prosinac</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Koliko je sati?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Osam je sati.</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth">Osam i pol je. /Osam i trideset je.</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth">Osam i četvrt je./Osam i petnaest je.</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth">Petnaest do devet./Osam i četrdeset pet je./</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth">Osam i deset je.</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth">Osam i dvadeset je.</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth">Dvadeset do osam je./ Sedam i četrdeset je.</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth">Deset do deset je./Sedam i pedeset je.</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth">Koji je datum?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth">15. Prosinac (je). 1982 godine</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth">Kada mogu doći?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth">Kada ćeš me posjetiti?/Kada ćete me posjetiti?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth">Posjetit ću te ovoga jutra./Posjetit ću Vas ovoga jutra.</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth">Posjetit ću te ujutro./Posjetit ću Vas ujutro.</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth">Posjetit ću te večeras./Posjetit ću Vas večeras</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth">Posjetit ću te uvečer./Posjetit ću Vas uvečer(informal/formal)</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth">Posjetit ću te ovog tjedna/Posjetit ću Vas ovog tjedna(informal/formal)</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth">Posjetit ću te ovog vikenda./Posjetit ću Vas ovog vikenda(informal/formal)</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth">Posjetit ću te vikendom./Posjetit ću Vas vikendom(informal/formal)</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth">Posjetit ću te u podne./Posjetit ću Vas u podne.(informal/formal)</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth">Posjetit ću te za dva sata/Posjetit ću Vas za dva sata(informal/formal)</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth">Posjetit ću te u deset i pol/Posjetit ću Vas u deset i pol(informal/formal)</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth">Posjetit ću te poslije deset i pol/Posjetit ću Vas poslije deset i pol(informal/formal)</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth">Posjetit ću te prije deset i pol/Posjetit ću Vas prije deset i pol(informal/formal)</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth">Posjetit ću te između 10 i pol i jedanaest/Posjetit ću Vas između 10 i pol i jedanaest(informal/formal)</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth">Posjetit ću teod 10 i pol i jedanaest/Posjetit ću Vas od 10 i pol i jedanaest(informal/formal)</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth">Posjetit ću te u proljeće/Posjetit ću Vas u proljeće(informal/formal)</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth">Posjetit ću te ljeti/Posjetit ću Vas ljeti(informal/formal)</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth">Posjetit ću te u jesen/Posjetit ću Vas u jesen(informal/formal)</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">Posjetit ću te zimi/Posjetit ću Vas zimi(informal/formal)</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth">Posjetit ću te 15-tog prosinca/Posjetit ću Vas 15-tog prosinca(informal/formal)</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth">Koliko dugo možeš ostati sa mnom?/Koliko dugo možete ostati sa mnom?(informal/formal)</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth">Mogu ostati dva sata.</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth">Posjetiit ću te za dva sata/ Posjetit ću Vas za dva sata(informal/formal)</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Zakasnio si(s.m.)/Zakasnila si(s.f.)/Zakasnili ste.(p.m)//Zakasnile ste.(p.f)(informal//formal)</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth">Na vrijeme si stigao(s.m.)/stigla(s.f.)// Na vrijeme ste stigli</attrib>
+			<attrib type="phon">s.=singular, p. =plural</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth">Uranio si(s.m.)/Uranila si(s.f.)//Uranili ste(p.m.)/Uranile ste(p.f.)</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth">Koje je ovo/to godišnje doba?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">Koje je ovo/to godišnje doba?</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Nemam vremena</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth">Bit ću tamo za pet minuta</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Prijevoz</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">Imaš li auto?/Imate li auto?(informal/formal)</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">Imam auto.</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">Nemam auto.</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth">Hoćemo li sa mojim ili tvojim/Vašim autom?(informal/formal)</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth">Imaš li vozačku dozvolu? /Imate li vozačku dozvolu?(informal/formal)</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth">Nemam vozačku dozvolu.</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth">Kada krećemo?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth">Kamo idemo?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth">Kamo ideš?/Kamo idete?(informal/formal)</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth">Odakle dolaziš?/Odakle dolazite?(informal/formal)</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth">Moram li mijenjati autobuse?/Moram li presjedati?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth">Gdje su autobusi?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth">Gdje autobusna stanica?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth">Možeš li /Možete li mi reći kada da siđem?(informal/formal)</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth">Ide li ovaj autobus u /prema...?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth">Gdje je zračna luka?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth">Kada odlazi zrakoplov?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth">Kada dolazi zrakoplov?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth">Koliko traje let?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth">U koje vrijeme se moram prijaviti?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth">Mogu li vidjeti Vašu putovnicu?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth">Izvolite moju putovnicu</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth">Mogu li ponijeti ovo sa sobom?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth">Gdje mogu pokupiti svoju prtljagu?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth">Ne mogu naći svoju prljagu</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth">Možete /Možeš li mi pomoći sa mojom prtljagom?(informal/formal)</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth">Mislim da je ovo moje sjedalo</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth">Je li ovo sjedalo zauzeto?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth">Gdje je željeznički kolodvor?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth">Moram li mijenjati vlak?/Moram li presjedati?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth">Zaustavlja li se ovaj vlak u...?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth">Ide li ovaj vlak u...?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth">Koliko se dugo vlak ovdje zaustavlja?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth">Koja je ovo stanica?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth">Kada je sljedeći vlak?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth">Kada je zadnji vlak?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth">Gdje mogu naći taksi?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth">Je li u blizini parkiralište?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth">Smijem li ovdje parkirati?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth">Koliko dugo mogu ovdje parkirati?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth">Kamo ću parkirati?/Gdje mogu parkirati?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">Moj auto je uništen.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth">Moj auto ne će upaliti.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth">Gdje je najbliža beniznska postaja?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth">Gdje je najbliža garaža?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth">Imam probušenu/praznu gumu.</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth">Nemam više goriva.</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth">Mogu li vidjeti Vašu vozačku dozvolu?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth">Izvolite moju vozačku dozvolu.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth">Koliko je udaljeno sljedeće selo?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth">Koliko to traje autom?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth">Koliko to traje pješke?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth">Htio (m.)/Htjela(f.) bih unajmiti auto za tjedan/ na tri dana.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Vrijeme</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth">Kakvo će vrijeme biti sutra?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth">Kakvo je vrijeme inače?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">Sutra će padati kiša.</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Pada kiša./ Kiši.</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Pada snijeg./ Sniježi.</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">Sunčano je.</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">Oblačno je.</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">Vani je toplo.</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">Vani je hladno.</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Kakvo grozno vrijeme!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Koji lijep dan!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth">Lijep dan, zar ne ?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">Je li uvijek ovako vruće?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">Je li uvijek ovako hladno?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">Je li uvijek ovako kišovito?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">Je li uvijek ovako oblačno?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth">Mokar sam.(m.)/Mokra sam.(f.)</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Posao</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Gdje radiš? /radite?(informal/formal)</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Čime zarađuješ/zarađujete (informal/formal) za život?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Ja sam učitelj(m.)/Ja sam učiteljica(f.)</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Ja sam student(m.)/Ja sam studentica(f.)</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth">Ja sam samozaposlen (m.)/Ja sam samozaposlena(f.)</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Radim u restoranu.</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Radim u samoposluzi.</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Radim u trgovini.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Ja sam doktor(liječnik)(m.)/Ja sam doktorica(liječnica)(f.)</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">Ja sam psiholog(m.)/Ja sam psihologinja(f.)</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">Ja sam programer(m.)/Ja sam programerka(f.)</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Ja sam inženjer(m.)/Ja sam inženjerka(f.)</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Ja sam mehaničar(m.)/Ja sam mehaničarka(f.)</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Ja sam pisac(m.) / Ja sam spisateljica(f.)</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Ja sam vozač(m.)/Ja sam vozačica(f.)</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Ja sam glumac(m.)/Ja sam glumica(f.)</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">Ja sam socijalni radnik(m.)/Ja sam socijalna radnica(f.)</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Ja sam političar(m.)/Ja sam političarka(f.).</attrib>
+		</entry>
+	</entries>
+</ulr>

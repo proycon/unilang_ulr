@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="geography" version="1.9" baselang="el">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Yiannisscheidt">Μάθημα γεωγραφίας</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Yiannisscheidt">Οι μαθητές έχουν ένα μάθημα γεωγραφίας</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Yiannisscheidt">Ένας πετεινός λαλεί το πρωί. Ο Γιάννης ξυπνά. Ο ήλιος λάμπει κιόλας. Τρίβει τα μάτια του για να ξυπνήσει. Ο Γιάννης πηγαίνει στο μπάνιο. Ανοίγει το νερό και πλένεται. Ο Γιάννης είναι πάλι φρέσκος</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Yiannisscheidt">και κατεβαίνει για πρωινό. &quot;Καλημέρα!&quot;, του λέει η μητέρα του.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Καλημέρα&quot;, αποκρίνεται κι ο Γιάννης. Αλοίφει με βούτυρο ένα σάντουιτς και βάζει μέσα δύο φέτες τυρί. Το σάντουιτς είναι πολύ καλό.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Yiannisscheidt">Ο Γιάννης παίρνει την τσάντα του. Τώρα μπορεί να πάει στο σχολείο, μαζί με τη Μαρία. Και οι δυο τους πηγαίνουν στο ίδιο σχολείο.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Γεια! Καλά είσαι;&quot;, τον ρωτά η Μαρία.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Πολύ καλά!&quot;, της λέει με χαμόγελο ο Γιάννης. &quot;Και εσύ πώς είσαι;&quot; τη ρωτάει ο Γιάννης.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Έτσι κι έτσι. Είμαι πολύ κουρασμένη&quot;, του λέει η Μαρία. Μπαίνουν μαζί στην αίθουσα.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Yiannisscheidt">Η δασκάλα κρεμάει έναν παγκόσμιο χάρτη στον τοίχο. &quot;Ποιες χώρες ξέρετε;&quot; ρωτάει η δασκάλα.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Yiannisscheidt">Η Μαρία δείχνει με το δάχτυλό της στον αέρα. &quot;Εκείνη την μπότα. Είναι η Ιταλία! Η γιαγιά μου μένει εκεί&quot;, λέει η Μαρία.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Yiannisscheidt">Η δασκάλα γυρίζει το κεφάλι της και ρωτάει: &quot;Ξέρει κάποιος άλλος καμιά άλλη χώρα;&quot;</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Εκείνο το μεγάλο νησί. Είναι η Αυστραλία&quot;, λέει ο Βασίλης.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Σ' αυτή τη χώρα ζουν πολλά καγκουρό&quot;, λέει η δασκάλα. Η δασκάλα ρωτάει τότε: &quot;Σε ποια χώρα βρίσκεται εκείνο το μεγάλο τείχος;&quot;</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Yiannisscheidt">Όλα τα παιδιά στην τάξη απαντούν μαζί: &quot;Στην Κίνα!&quot;</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Πράγματι. Είναι το Σινικό Τείχος και είναι πολύ παλιό!&quot; Η δασκάλα κοιτά την τάξη της και ρωτάει: &quot;Σε ποιά χώρα βρίσκονται οι πυραμίδες;&quot;</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Βρίσκονται στο Μεξικό!&quot;, λέει ο Γιάννης.</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Yiannisscheidt">Όλη η τάξη βάζει τα γέλια· &quot;Όχι. Βρίσκονται στην Αίγυπτο&quot;, λέει η Μαρία.</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Και στις δύο χώρες υπάρχουν πυραμίδες, αν και εννοούσα αυτές που είναι στην Αίγυπτο&quot;. Η δασκάλα περπατά μέσα στην τάξη. Κοιτάζει να δει αν όλα τα παιδιά γράφουν αυτήν την πληροφορία στα τετράδιά τους. &quot;Ακόμα μια ερώτηση μόνο· Σε ποια χώρα οι άνθρωποι τρώνε πολλές μπαγκέτες και πίνουν πολύ κρασί;&quot;</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Yiannisscheidt">&quot;Στη Γαλλία!&quot; απαντάει ο Ιάκωβος.</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Yiannisscheidt">Η δασκάλα είναι ικανοποιημένη. Αφήνει τα παιδιά να βγουν έξω. Κάνουν διάλειμμα.</attrib>
+		</entry>
+	</entries>
+</ulr>

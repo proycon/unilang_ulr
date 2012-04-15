@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="es">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Sapthan">La Lechera y su Cubo</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Sapthan">Una lechera sueña con su futuro</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Sapthan">La hija de un granjero había salido a ordeñar las vacas, y estaba regresando a la lechería cargando su cubo de leche sobre su cabeza. Mientras caminaba, comenzó a reflexionar de esta manera:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Sapthan">&quot;La leche en este cubo me proveerá de crema, que convertiré en mantequilla y llevaré al mercado a vender. Con el dinero compraré muchos huevos, y estos, cuando sean incubados, producirán gallinas, y así tendré un corral lleno de aves. Entonces venderé algunas de mis gallinas, y con el dinero que gane me compraré un nuevo vestido, que usaré cuando vaya a la feria; y todos los jóvenes lo admirarán, y vendrán y me cortejarán, pero sacudiré la cabeza y no tendré nada que decirles&quot;.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Sapthan">Olvidándose del cubo, y uniendo la acción a la palabra, sacudió su cabeza. Abajo fué el cubo, toda la leche se derramó. ¡y todos sus bellos castillos en el aire se desvanecieron al instante!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Sapthan">No cuentes tus pollos antes de que salgan del cascarón.</attrib>
+		</entry>
+	</entries>
+</ulr>

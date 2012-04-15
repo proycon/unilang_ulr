@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="gl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Porto">O león e o rato</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Porto">Un rato axuda a un león</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Porto">Un león soñolento na súa cova foi espertado por un rato que corría pola súa semblante. Perdendo o seu temperamento agorrouno coa súa pata e estivo preto de matalo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Porto">O rato, morto de medo, pediulle lastimosamente que lle aforrara a súa vida &quot;Por favor, déixame ir&quot; chorou, &quot;e algún día pagareicho pola túa bondade&quot;.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Porto">A idea de que unha criatura tan insignificante fixéralle algo algunha vez por el parecéulle ridículo polo que ríuse fortemente, e con bo humor deixóuno marchar.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Porto">Pero a oportunidade do rato chegou despois de toto.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Porto">Un día o león quedou atrapado nunha rede que fora esparcida coma un xogo por uns cazadores e o rato oíu e recoñeceu os ruxidos de cólera e acudíu ó lugar. Sen máis que fader empezou a traballar roendo as redes cos seus dentes, e despois de largo tempo o león saíu libre.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Porto">Eh! dixo o rato, &quot;ti riécheste de min cando eu che prometín que che axudaría: e xa ves, incluso un rato pode axudar a un león&quot;.</attrib>
+		</entry>
+	</entries>
+</ulr>

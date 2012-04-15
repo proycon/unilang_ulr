@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="zh">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" complexlang=".Hans">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" complexlang=".Hans">This is a medium-sized phrasebook containing useful common phrases.</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" complexlang=".Hans">(the main verb is repeated)</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" complexlang=".Hans">不(verb)   (the main verb is repeated with 不 preceding it</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">bù (main verb)</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" complexlang=".Hans">请...</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" complexlang=".Hans">谢谢</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xièxie</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" complexlang=".Hans">不客气</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">búkèqi</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" complexlang=".Hans">对不起</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">duìbuqǐ</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" complexlang=".Hans">也许</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yěxǔ</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" complexlang=".Hans">你好</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ hǎo</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" complexlang=".Hans">再见</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">zàijiàn</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" complexlang=".Hans">日安</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">rì'ān</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" complexlang=".Hans">早上好</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">zǎo shang hǎo</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" complexlang=".Hans">晚上好</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǎn shang hǎo</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" complexlang=".Hans">晚安</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǎn ān</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" complexlang=".Hans">欢迎</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">huān yíng</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" complexlang=".Hans">一路顺风</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yīlù-shùnfēng</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" complexlang=".Hans">沟通</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">gōutōng</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" complexlang=".Hans">你会说……吗？</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Nĭ huì shuō.....ma?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" complexlang=".Hans">我会说……</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wŏ huì shuō.....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" complexlang=".Hans">我不会说……</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wŏ bù huì shuō.....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" complexlang=".Hans">我会说一点儿……</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wŏ huì shuō yìdiănr.....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" complexlang=".Hans">英语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Yīngyŭ</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" complexlang=".Hans">法语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Făyŭ</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" complexlang=".Hans">德语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Déyŭ</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" complexlang=".Hans">西班牙语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Xībānyáyŭ</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" complexlang=".Hans">葡萄牙语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">pú táo yá yǔ</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" complexlang=".Hans">阿拉伯语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Ā lā bó yǔ</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" complexlang=".Hans">汉语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Huàyŭ</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" complexlang=".Hans">印地语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yìn dì yǔ</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" complexlang=".Hans">俄语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">é yǔ</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" complexlang=".Hans">意大利语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Yìdàlìyŭ</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" complexlang=".Hans">荷兰语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">hé lán yŭ</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" complexlang=".Hans">挪威语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nuó wēi yŭ</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" complexlang=".Hans">瑞典语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">ruì diǎn yŭ</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" complexlang=".Hans">丹麦语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">dān mài yǔ</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" complexlang=".Hans">波兰语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Bōlányǔ</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" complexlang=".Hans">乌尔都语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wū'ěrdūyǔ</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" complexlang=".Hans">日本语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Rìbĕnyŭ</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" complexlang=".Hans">印尼语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yìn ní yǔ</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" complexlang=".Hans">马来语</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">mǎ lái yǔ</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" complexlang=".Hans">你明白吗？</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ míngbai ma?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" complexlang=".Hans">你听得懂我说的话吗？</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ tīng de dǒng  wǒ shuō de huà ma?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" complexlang=".Hans">我明白。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ míngbai.</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" complexlang=".Hans">我听得懂你说的话。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ tīng de dǒng  nǐ shuō de huà.</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" complexlang=".Hans">我不明白。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ bù míngbai.</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" complexlang=".Hans">我听不懂你说的话。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ tīng bù dǒng  nǐ shuō de huà.</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" complexlang=".Hans">请你再说一遍。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">qǐng nǐ zài shuō yī biàn.</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" complexlang=".Hans">请你说得慢一点。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">qǐng nǐ shuō de màn yī diǎn.</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" complexlang=".Hans">请把那句话写下来。</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" complexlang=".Hans">我不知道这句话该怎么说。</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" complexlang=".Hans">你说什么？</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ shuō shén me?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" complexlang=".Hans">你用……这句话该怎么说？</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" complexlang=".Hans">这句话你怎么写？</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" complexlang=".Hans">这句话该怎么发音？</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" complexlang=".Hans">你可以帮我把那句话翻译一下？</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" complexlang=".Hans">你好吗？</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Nĭ hăo ma?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" complexlang=".Hans">我很好。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wŏ hĕn hăo.</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" complexlang=".Hans">不错。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Bù cuò.</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" complexlang=".Hans">还行。</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" complexlang=".Hans">还可以。</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" complexlang=".Hans">你多大？</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" complexlang=".Hans">我……岁。</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" complexlang=".Hans">我不知道。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wŏ bù zhīdao.</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" complexlang=".Hans">我不喜欢</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wŏ bù xǐ huan</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" complexlang=".Hans">我准备好了。</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" complexlang=".Hans">走吧！</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">zǒu ba!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" complexlang=".Hans">对不起。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">duìbuqǐ</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" complexlang=".Hans">可以用现金付钱吗？</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" complexlang=".Hans">可以用信用卡付钱吗？</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" complexlang=".Hans">可以用……吗？</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" complexlang=".Hans">最近的银行在哪里?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" complexlang=".Hans">一天是多少钱?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" complexlang=".Hans">一小时是多少钱?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" complexlang=".Hans">一星期时是多少钱?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" complexlang=".Hans">这是免费的吗?</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" complexlang=".Hans">你有一个电脑吗?  or  你有没有一个电脑?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ yǒu yī gè diàn nǎo ma?   OR   nǐ  méi yǒu yī gè diàn nǎo</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" complexlang=".Hans">硬盘满了</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" complexlang=".Hans">我可以寄一个电邮吗?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" complexlang=".Hans">我可以看我的电邮吗</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" complexlang=".Hans">我可以打印吗?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" complexlang=".Hans">我可以用扫描吗?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" complexlang=".Hans">我的电脑当机了.</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" complexlang=".Hans">你要重新启动.</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" complexlang=".Hans">我可以安装...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" complexlang=".Hans">你的电邮件地址是什么?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" complexlang=".Hans">我的电邮件地址是...</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" complexlang=".Hans">教育</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" complexlang=".Hans">你学习什么专业？</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" complexlang=".Hans">我学习……</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" complexlang=".Hans">法律</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">fǎ lǜ</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" complexlang=".Hans">医学</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī xué</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" complexlang=".Hans">经济</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">jīng jì</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" complexlang=".Hans">语言</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yŭyán</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" complexlang=".Hans">语言学</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yŭyánxué</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" complexlang=".Hans">数学</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">shù xué</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" complexlang=".Hans">化学</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">huà xué</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" complexlang=".Hans">物理学</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wù lǐ xué</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" complexlang=".Hans">计算机</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">jì suàn jī</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" complexlang=".Hans">你在哪个大学读书？</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" complexlang=".Hans">我在……读书。</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" complexlang=".Hans">我今天有课。</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" complexlang=".Hans">我今天有空。</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" complexlang=".Hans">你是高中的学生吗？</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" complexlang=".Hans">我是高中的学生。</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" complexlang=".Hans">我现在得去上课了。</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" complexlang=".Hans">我的护照丢了。</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" complexlang=".Hans">我的钱丢了</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" complexlang=".Hans">我的汽车丢了。</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" complexlang=".Hans">你喜欢不喜欢?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ xǐhuan bù xǐhuan ?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" complexlang=".Hans">(我) 喜欢</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Xǐhuan</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" complexlang=".Hans">他(很) 好看</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tā (hěn) hǎo kàn</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" complexlang=".Hans">她 (很) 漂亮</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tā (hěn) piào liang</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" complexlang=".Hans">我俄。 or  我餓死了 (I'm starving.).</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wŏ è.  or (Wǒ è sǐ le)</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" complexlang=".Hans">我渴了</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wŏ kě le</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" complexlang=".Hans">一杯咖啡</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī bēi kā fēi</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" complexlang=".Hans">一杯茶</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī bēi chá</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" complexlang=".Hans">一杯啤酒</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī bēi pí jiǔ</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" complexlang=".Hans">一杯酒</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī bēi jiǔ</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" complexlang=".Hans">一杯红葡萄酒</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī bēi hóng pú táo jiǔ</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" complexlang=".Hans">一杯白葡萄酒</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī bēi bái pú táo jiǔ</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" complexlang=".Hans">一杯桔子水</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī bēi jú zi shuǐ</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" complexlang=".Hans">一杯苹果汁</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">yī bēi píng guǒ zhī</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" complexlang=".Hans">你想喝什么?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ xiǎng hē shén me?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" complexlang=".Hans">你想吃什么?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ xiǎng chī shén me?</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" complexlang=".Hans">好吃了</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">hǎo chī le.</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" complexlang=".Hans">不舒服</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">bù shū fu</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" complexlang=".Hans">痛吗?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tong4 ma?</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" complexlang=".Hans">你有哪些爱好?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" complexlang=".Hans">你喜欢不 喜欢看书?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ  xǐhuan bù  xǐhuan kānshū?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" complexlang=".Hans">我不喜欢看书</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ bù xǐhuan kānshū</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" complexlang=".Hans">我喜欢看书</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ xǐ huan kānshū</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" complexlang=".Hans">我喜欢做飯</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ xǐhuan zuò fàn</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" complexlang=".Hans">我喜欢古典音乐</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ xǐhuan gǔ diǎn yīn yuè</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" complexlang=".Hans">我喜欢歌剧</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ xǐhuan gē jù</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" complexlang=".Hans">我喜欢爵士舞</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ xǐhuan jué shì wǔ</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" complexlang=".Hans">我喜欢摇滚乐</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ xǐhuan yáo gǔn yuè</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" complexlang=".Hans">我的名字是...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" complexlang=".Hans">你叫什么名字?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ  jiào shén me míng zi?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" complexlang=".Hans">我叫...</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ  jiào...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" complexlang=".Hans">你是哪位?</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" complexlang=".Hans">这是我的太太</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" complexlang=".Hans">这是我的先生</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" complexlang=".Hans">这是我的女朋友</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" complexlang=".Hans">这是我的nán péng you</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" complexlang=".Hans">这是我的朋友.</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" complexlang=".Hans">这是我的儿子</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" complexlang=".Hans">这是我的女儿</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" complexlang=".Hans">这是我的母亲</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" complexlang=".Hans">这是我的父亲</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" complexlang=".Hans">很高兴认识你.</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" complexlang=".Hans">你会投票给谁呢?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" complexlang=".Hans">我是...</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ shì...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" complexlang=".Hans">共产党</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" complexlang=".Hans">共和党</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" complexlang=".Hans">左翼</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" complexlang=".Hans">社会党</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" complexlang=".Hans">自由党</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" complexlang=".Hans">你结婚了吗?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" complexlang=".Hans">我已经结婚了.</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" complexlang=".Hans">我还没结婚.</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" complexlang=".Hans">你有男 朋友吗?   or   你有没有男朋友吗?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ yǒu nán péngyou ma?   OR  nǐ yǒu méi yǒu</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" complexlang=".Hans">你有女朋友吗?  or  你有没有朋友?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ yǒu nǚ péng you ma?  OR nǐ yǒu méi yǒu nǚ péngyou?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" complexlang=".Hans">我有男朋友.</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ yǒu nán péngyou.</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" complexlang=".Hans">我有女朋友.</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ yǒu nǚ péngyou</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" complexlang=".Hans">他/她多大?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" complexlang=".Hans">他/她...岁</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" complexlang=".Hans">他/她作哪一行的?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" complexlang=".Hans">你有孩子吗?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" complexlang=".Hans">我没有孩子.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" complexlang=".Hans">我有一个小孩/一个女儿/一个男孩</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" complexlang=".Hans">我有</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" complexlang=".Hans">谢天谢地</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xiètiān-xièdì</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" complexlang=".Hans">哎呀!</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">āi yā!</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" complexlang=".Hans">你从哪个国家来?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" complexlang=".Hans">我从...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" complexlang=".Hans">法国</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">fǎ guó</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" complexlang=".Hans">英国</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Yīng guó</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" complexlang=".Hans">西班牙</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xī bān yá</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" complexlang=".Hans">德国</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Dé guó</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" complexlang=".Hans">美国</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Měi guó</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" complexlang=".Hans">中国</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Zhōng guó</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" complexlang=".Hans">巴西</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Bā xī</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" complexlang=".Hans">日本</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Rì běn</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" complexlang=".Hans">俄国</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">É guó</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" complexlang=".Hans">加拿大</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">jiā ná dà</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" complexlang=".Hans">澳大利亚</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">ào dà lì yà</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" complexlang=".Hans">你是什么国籍?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" complexlang=".Hans">我是...</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ shì</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" complexlang=".Hans">英国人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Yīng guó rén</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" complexlang=".Hans">法国人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">fǎ guó rén</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" complexlang=".Hans">德国人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Dé guó rén</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" complexlang=".Hans">美国人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Měi guó  rén</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" complexlang=".Hans">中国人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Zhōng guó rén</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" complexlang=".Hans">日本人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Rìbě nrén</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" complexlang=".Hans">俄国人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">É guó rén</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" complexlang=".Hans">巴西人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Bāxī rén</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" complexlang=".Hans">加拿大人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">jiānádà rén</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" complexlang=".Hans">你住在 这儿?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ zhù zài zhè?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" complexlang=".Hans">厕所在哪儿?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">cèsuǒ zài nǎr?</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" complexlang=".Hans">你喜欢吗?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ xǐhuan ma?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" complexlang=".Hans">(我) 不喜欢.   or      不要! (Don't!)</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">(wǒ) bù xǐhuan  or  bù yào (Don't!)</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" complexlang=".Hans">你可以帮我吗?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" complexlang=".Hans">我可以帮你吗?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" complexlang=".Hans">你想什么?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ xiǎng shén me?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" complexlang=".Hans">你在找什么?</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">nǐ zài zhǎo shén me?</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" complexlang=".Hans">星期一</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xīng qī yī</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" complexlang=".Hans">星期二</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xīng qī èr</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" complexlang=".Hans">星期三</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xīng qī sān</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" complexlang=".Hans">星期四</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xīng qī sì</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" complexlang=".Hans">星期五</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xīng qī wǔ</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" complexlang=".Hans">星期六</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xīng qī liù</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" complexlang=".Hans">星期日</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">xīng qī rì</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" complexlang=".Hans">一月</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" complexlang=".Hans">二月</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" complexlang=".Hans">三月</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" complexlang=".Hans">四月</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" complexlang=".Hans">五月</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" complexlang=".Hans">六月</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" complexlang=".Hans">七月</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" complexlang=".Hans">八月</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" complexlang=".Hans">九月</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" complexlang=".Hans">十月</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" complexlang=".Hans">十一月</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" complexlang=".Hans">十二月</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" complexlang=".Hans">明天天气怎么样?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" complexlang=".Hans">明天会下雨</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" complexlang=".Hans">下雨了</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" complexlang=".Hans">外边这么热</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" complexlang=".Hans">外边这么冷</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" complexlang=".Hans">是不是一天很好?</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" complexlang=".Hans">你在哪里工作?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" complexlang=".Hans">你做什么工作?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" complexlang=".Hans">我是老师</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" complexlang=".Hans">我是大学生</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" complexlang=".Hans">我在一家商店工作</attrib>
+		</entry>
+	</entries>
+</ulr>

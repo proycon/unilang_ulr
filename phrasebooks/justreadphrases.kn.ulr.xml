@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="kn">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">ನನಗೆ ನಿನ್ನನ್ನು ಕಂಡರೆ ಇಷ್ಟ.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">ಇನ್ನೇನು ಕುತ್ತಿಗೆವರೆಗೆ ಬಂತು.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">ಇಲ್ಲಿನ ಜನಕ್ಕೆ  ಭಾರಿಶಬ್ದ ಕೆಳಿಸತ್ತೆ.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">ನನಗೆ ಕೆಂಪು ಬಾವುಟ ತೋರಿಸಿದರು</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">ಅವಳು ಚಿಕ್ಕ ಪಕ್ಷಿ ನೋಡುತ್ತಾಳೆ..</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth">ನಮಗೆ ಒಂದು ಹಳೆ ಕಟ್ಟಡ ಸಿಕ್ಕಿದೆ</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">ನಾನು ಬೀಗದಕೈ ಹುಡುಕುತ್ತೇನೆ</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">ನಾನು ನಿನ್ನ ತಲೆ ಮುಟ್ಟುತ್ತೇನೆ</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">ಅವನಿಗೆ ಹೊಸ ಬಿಳಿಕಾರು ಬೇಕು</attrib>
+		</entry>
+	</entries>
+</ulr>

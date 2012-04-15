@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="et">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">Lõvi ja Hiir</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">Hiir aitab lõvi</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">Lõvi, kes magas oma koopas, ärkas äkitselt kui Hiir jooksis üle tema näo. Vihastades püüdis Lõvi Hiire oma käpaga kinni ja oli teda peaegu tapmas.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">Hiir, kes oli hirmunud, palus haletsusväärselt Lõvi säästa ta elu. &quot;Palun lase mind lahti,&quot; nuttis ta, &quot;ja ühel päeval ma tasun sulle su helduse eest.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">Mõte, et nii tähtsusetu olend võiks kunagi olla võimeline midagi tema heaks tegema lõbustas Lõvi nii palju, et ta naeris valjusti, ja lasi heatujuliselt Hiirel minna.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">Aga peagi tuli Hiire võimalus end töestada..</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Abavagada">Ühel päeval sattus Lõvi püüdmisvõrkudesse, mis olid saagi püüdmiseks jahimeeste poolt laiali laotatud, ja Hiir kuulis ning tundis ära Lõvi vihased möirged ja jooksis kohale. Ilma sõnagi lausumata hakkas ta köisi oma hammastega närima ning tema töö Lõvi vabastamisel oli peagi edukas.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Abavagada">&quot;Korras!&quot; sõnas Hiir, &quot;sa naersid minu üle kui lubasin sind aidata, kuid näed nüüd, et isegi Hiir võib aidata Lõvi.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

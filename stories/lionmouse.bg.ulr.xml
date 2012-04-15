@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="bg">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Paruha">Лъвът и мишката</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Paruha">Мишка помага на лъв.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Paruha">Лъв, спящ в бърлогата си, бил събуден от мишка, която бягала по лицето му. Разгневен, той я хванал с лапата си и бил готов да я убие.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Paruha">Изплашена, мишката започнала жалостно да го моли да я пощади. &quot;Моля те, пусни ме да си ходя&quot;, - пищяла тя, &quot;и един ден ще ти се отплатя за добротата ти.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Paruha">Мисълта, че такова нищожно същество някога ще може да направи нещо за него така забавлявала лъва, че той се засмял с пълен глас и развеселен пуснал мишката.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Paruha">Но все пак, шансът на мишката да се отплати се появил.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Paruha">Един ден лъвът се оплел в мрежа, която била поставена за дивеч от ловци и мишката чула и разпознала разгневения му рев и се затичала към него. Без повече суетене тя пригризала въжето със зъбите си и скоро успяла да освободи лъва.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Paruha">&quot;Така!&quot; казала мишката, &quot;ти ми се присмя, когато аз обещах да ти се отплатя: но сега виждаш, че дори и мишка може да помогне на лъв.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

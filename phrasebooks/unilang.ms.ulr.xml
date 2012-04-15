@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="ms">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="dekoelie">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="dekoelie">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="dekoelie">Ya</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="dekoelie">Tidak</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="dekoelie">Sila</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="dekoelie">Terima kasih</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="dekoelie">Sama-sama</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="dekoelie">Tumpang tanya</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="dekoelie">Mungkin</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="dekoelie">Hai</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="dekoelie">Selamat tinggal!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="dekoelie">Selamat siang!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="dekoelie">Selamat pagi!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="dekoelie">Selamat petang!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="dekoelie">Selamat malam!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="dekoelie">Selamat datang!</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="dekoelie">Bolehkah anda bercakap dalam bahasa ..... ?</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="dekoelie">Saya tidak boleh bercakap dalam bahasa .....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="dekoelie">Saya boleh bercakap sedikit dalam bahasa ....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="dekoelie">Bahasa Inggeris</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="dekoelie">Bahasa Perancis</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="dekoelie">Bahasa Jerman</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="dekoelie">Bahasa Sepanyol</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="dekoelie">Bahasa Portugis</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="dekoelie">Bahasa Arab</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="dekoelie">Bahasa Cina</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="dekoelie">Bahasa Hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="dekoelie">Bahasa Russia</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="dekoelie">Bahasa Itali</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="dekoelie">Bahasa Belanda</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="dekoelie">Bahasa Norway</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="dekoelie">Bahasa Sweden</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="dekoelie">Bahasa Denmark</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="dekoelie">Bahasa Poland</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="dekoelie">Bahasa Urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="dekoelie">Bahasa Parsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="dekoelie">Bahasa Jepun</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="dekoelie">Bahasa Indonesia</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="dekoelie">Bahasa Melayu</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="dekoelie">Adakah awak faham?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="dekoelie">Adakah anda faham dengan saya?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="dekoelie">Saya faham.</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="dekoelie">Saya faham anda.</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="dekoelie">Saya tidak faham.</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="dekoelie">Saya tidak faham anda.</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="dekoelie">Boleh ulang sekali lagi?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="dekoelie">Perbualan Asas</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="dekoelie">Apa khabar?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="dekoelie">Baik-baik saja!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="dekoelie">Khabar baik.</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="dekoelie">Saya tidak begitu baik.</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="dekoelie">Berapa umur awak?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="dekoelie">Umur saya .... tahun.</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="dekoelie">Saya tidak tahu.</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="dekoelie">Saya tidak suka itu.</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="dekoelie">Saya sudah sedia.</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="dekoelie">Mari kita pergi!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="dekoelie">Maaf</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="dekoelie">Perniagaan &amp; Kewangan</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="dekoelie">Boleh saya bayar dengan wang tunai?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="dekoelie">Boleh saya bayar dengan kad kredit?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="dekoelie">Adakah awak menerima .....?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="dekoelie">Boleh awak tukarkan cek kembara ini?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="dekoelie">Boleh awak tukarkan ini ke ...?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="dekoelie">Boleh awak beri anggaran harga?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="dekoelie">Ini kad saya.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="dekoelie">Berapa banyak komisyen yang anda kenakan?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="dekoelie">Saya ingin menukar dolar/euro/paun.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="dekoelie">Apakah kadar penukaran wang?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="dekoelie">Berapa tinggi kadar inflasi?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="dekoelie">Di mana saya boleh menukar duit?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="dekoelie">Di mana saya boleh buat</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="dekoelie">Di manakah bank yang terdekat?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="dekoelie">Di mana saya harus tanda tangan?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="dekoelie">Awak ada katalog?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="dekoelie">Saya ada temujanji dengan .....</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="dekoelie">Berapa harga masuk?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="dekoelie">Berapa harga setiap hari?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="dekoelie">Berapa harga setiap jam?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="dekoelie">Berapa harga setiap minggu?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="dekoelie">Adakah ia percuma?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="dekoelie">Komputer &amp; Internaet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="dekoelie">Awak ada komputer?</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="dekoelie">Awak ada modem?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="dekoelie">Boleh saya hantar e-mel?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="dekoelie">Boleh saya baca e-mel saya?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="dekoelie">Boleh saya mencetak sesuatu?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="dekoelie">Boleh saya skan sesuatu?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="dekoelie">Komputer saya rosak.</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="dekoelie">Apa alamat e-mel awak?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="dekoelie">Alamat e-mel saya ialah ....</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="dekoelie">Awak ada hompej?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="dekoelie">Apa alamatnya?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="dekoelie">Pendidikan</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="dekoelie">Di mana awak belajar?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="dekoelie">Saya belajar .....</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="dekoelie">ilmu undang-undang</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="dekoelie">ilmu perubatan</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="dekoelie">ilmu ekonomi</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="dekoelie">bahasa-bahasa</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="dekoelie">ilmu linguistik</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="dekoelie">ilmu matematik</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="dekoelie">ilmu kimia</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="dekoelie">ilmu fizik</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="dekoelie">Awak belajar di universiti yang mana?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="dekoelie">Saya belajar di .....</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="dekoelie">Hari ini saya ada kelas.</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="dekoelie">Hari ini saya tidak buat apa-apa.</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="dekoelie">Awak berada di sekolah menengah?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="dekoelie">Saya berada di sekolah menengah.</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="dekoelie">Saya mesti pergi ke kelas sekarang.</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="dekoelie">Kecemasan</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="dekoelie">Telefon doktor!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="dekoelie">Telefon ambulans!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="dekoelie">Telefon polis!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="dekoelie">Dia tidak boleh bernafas.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="dekoelie">Dia tidak boleh bergerak.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="dekoelie">Dia tidak berhenti.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="dekoelie">Dia langgar saya.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="dekoelie">Dia pandu terlalu cepat.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="dekoelie">Saya tidak boleh gerakkan lengan saya.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="dekoelie">Saya tidak boleh gerakkan kaki saya.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="dekoelie">Saya telah dirompak.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="dekoelie">Tangkap pencuri itu!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="dekoelie">Paspot saya telah dicuri.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="dekoelie">Duit saya telah dicuri.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="dekoelie">Kereta saya telah dicuri.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="dekoelie">Ada kebakaran!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="dekoelie">Di mana hospital terdekat?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="dekoelie">Di mana balai polis terdekat?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="dekoelie">Emosi dan Pendapat</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="dekoelie">Awak suka dengannya?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="dekoelie">Saya suka dengannya.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="dekoelie">Saya gembira.</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="dekoelie">Saya marah.</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="dekoelie">Saya kecewa.</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="dekoelie">Saya puas hati.</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="dekoelie">Saya penat.</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="dekoelie">Saya takut.</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="dekoelie">Saya sedang panas.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="dekoelie">Saya sedang sejuk.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="dekoelie">Saya ngantuk.</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="dekoelie">(Sangat) menarik.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="dekoelie">(Sangat) membosankan.</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="dekoelie">Cantik / Indah.</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="dekoelie">Dia (sangat) kacak.</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="dekoelie">Dia sangat cantik.</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="dekoelie">Dia tampan!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="dekoelie">Dia lawa!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="dekoelie">Dia sangat baik hati.</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="dekoelie">Tengok!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="dekoelie">Dengar!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="dekoelie">Makanan &amp; Restoran</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="dekoelie">Saya lapar.</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="dekoelie">Saya haus.</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="dekoelie">secawan kopi</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="dekoelie">secawan teh</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="dekoelie">segelas bir</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="dekoelie">segelas wain</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="dekoelie">segelas wain merah</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="dekoelie">segelas wain putih</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="dekoelie">segelas jus oren</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="dekoelie">segelas jus epal</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="dekoelie">Boleh saya lihat menu?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="dekoelie">Boleh saya lihat senarai wain?</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="dekoelie">Saya mahu makan daging lembu.</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="dekoelie">Saya mahu makan daging babi.</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="dekoelie">Saya mahu makan salad.</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="dekoelie">Saya mahu sup.</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="dekoelie">Anda mahu pencuci mulut?</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="dekoelie">Saya tidak boleh makan itu.</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="dekoelie">(lebih) garam</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="dekoelie">(lebih) gula</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="dekoelie">(lebih) lemak</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="dekoelie">Saya tidak ada garpu.</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="dekoelie">Saya tidak ada pisau.</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="dekoelie">Saya tidak ada sudu.</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="dekoelie">Ini tidak bersih.</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="dekoelie">Ia terlalu sejuk.</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="dekoelie">Ia terlalu pedas.</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="dekoelie">Ini bukan apa yang saya pesan,</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="dekoelie">Sedap.</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="dekoelie">Awak suka memasak?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="dekoelie">Siapa yang akan masak malam ini?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="dekoelie">Boleh saya masak malam ini?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="dekoelie">Apa yang harus saya masak?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="dekoelie">Awak nak minum kopi?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="dekoelie">Awak nak minum teh?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="dekoelie">Kesihatan &amp; Penyakit</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="dekoelie">Saya sakit</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="dekoelie">Saya ada selsema</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="dekoelie">Saya ada selsema</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="dekoelie">Saya ada alergi.</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="dekoelie">Di mana boleh saya dapat teksi?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="dekoelie">Boleh saya letak kereta di sini?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="dekoelie">Berapa lama boleh saya letak kereta di sini?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="dekoelie">Di mana boleh saya letak kereta?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="dekoelie">Kereta saya rosak.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="dekoelie">Kereta saya tidak boleh bergerak.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="dekoelie">Di manakah stesyen pam minyak yang terdekat?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="dekoelie">Tayar saya pancit.</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="dekoelie">Bolehkah saya melihat lesen memandu anda?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="dekoelie">Ini lesen memandu saya.</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="dekoelie">Saya ingin sewa kereta selama seminggu / tiga hari.</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="dekoelie">Saya seorang guru.</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="dekoelie">Saya seorang pelajar.</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="dekoelie">Saya bekerja sendiri.</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="dekoelie">Saya bekerja di restoran.</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="dekoelie">Saya bekerja di pasar raya.</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="dekoelie">Saya bekerja di kedai.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="dekoelie">Saya seorang doktor .</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="dekoelie">Saya seorang ahli psikologi.</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="dekoelie">Saya seorang jurutera.</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="dekoelie">Saya seorang mekanik.</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="dekoelie">Saya seorang penulis.</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="dekoelie">Saya seorang pemandu.</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="dekoelie">Saya seorang pelakon.</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="dekoelie">Saya seorang ahli politik.</attrib>
+		</entry>
+	</entries>
+</ulr>

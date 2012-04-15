@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="es">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Athnea">El oso y los viajeros.</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Athnea">Una lección acerca de osos y amigos.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Athnea">Dos viajeros estaban juntos en el camino, cuando de repente aparecio un oso en la escena. Antes de que él los observara, uno se hizo de un arbol al lado del camino, y trepó dentro de la ramas y se escondió allá.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Athnea">El otro no fue tan ágil como su campañero; y, como él no pudo escapar, se arrojó sobre el suelo y pretendió estar muerto.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Athnea">El oso vino y olió todo a su alrededor, pero el viajero se mantuvo perfectamente quieto y contuvo su respiración porque dicen que un oso no toca nunca un cuerpo muerto. El oso lo tomó por cadáver, y se fue.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Athnea">Cuando la costa estuvo despejada, el viajero en el árbol bajó y le preguntó al otro viajero qué fue lo que el oso le había susurrado cuando el puso su boca en su oído.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Athnea">El otro le contestó: &quot;Él me dijo que nunca volviera a viajar con un amigo quien te abandona a la primera señal de peligro&quot;.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Athnea">La desgracia prueba la sinceridad de la amistad.</attrib>
+		</entry>
+	</entries>
+</ulr>

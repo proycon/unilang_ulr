@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kubi">Die Krähe und der Krug</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kubi">Eine Krähe nutzt ihren Verstand, um an Wasser zu kommen</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kubi">Eine durstige Krähe fand einen Krug mit etwas Wasser, aber es war so wenig, daß, so sehr sie sich auch bemühte, sie es nicht mit ihrem Schnabel erreichen konnte, und es schien, als müßte sie verdursten - mit dem Wasser vor Augen.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kubi">Endlich kam sie auf die rettende Idee. Sie fing an, Kieselsteine in den Krug zu werfen, und mit jedem Steinchen stieg das Wasser etwas höher, bis es schließlich bis zum Rand stand und der schlaue Vogel seinen Durst löschen konnte.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kubi">Not ist die Mutter der Erfindung.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="mi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Ko ngā kīwaha māori</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Āe</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Kā</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Tēnā koa</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Ānei</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Kia Ora</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">E pai ana</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Aroha mai</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Pea | T&#275;nā pea</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Kia Ora</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Ka kite anō!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Hei kona mai!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Tēnā koe i tēnei ata!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Tēnā koe i tēnei pō!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Pō marie!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Haere mai</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Kia pai tōu haerenga!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">E Mārama Ana Tātou Ia Tātou</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Ka kōrero koe i te reo.....?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Ka kōrero au i te reo.....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Kāore a au e kōrero ana i te reo....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">He iti tōku mōhiotanga o te reo....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">Ingarihi</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">Wiwi</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">Tiamana</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">Paniora</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">Arapiki</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">Hainamana</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">&#298;nia</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">Itariana</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Ka mārama koe?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Ka mārama mai koe?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Ka mārama au</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Ka mārama atu au i a koe</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Kāore au e mārama ana</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Kāore au e mārama ana i a koe</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Ka taea e koe te kōrero puhoi?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Ka taea e koe te tuhituhi i taua?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Kāore au e mōhio ana ka pēwhea te mea i tēnā</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Kāore au e mōhio ana i te kupu tika</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">He kōrero noa iho</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">E pēwhea ana koe?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">E tino pai ana au!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">E pai ana au</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">E pai noa iho ana au</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">E kino ana au</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">E hia ōu tau?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">E......ōku tau</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Kāore a au e mōhio ana</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Kāore tēnei mea e pai ana ki a au</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Kua whakarite au</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Kia haere tātou</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Aroha mai</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Ka taea e au te utu ki te moni?</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">He rorohiko tāu?</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">He aha t&#257;u e ako ana?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">E ako ana au i te....</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">ture</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">rongo&#257;</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">ohanga</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">reo</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">m&#257;tauranga-&#257;-wetereo</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">pangarau</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">E ako ana koe i t&#275;whea whare w&#257;nanga?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">E ako ana au i....</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">He karaihe t&#333;ku inaianei</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Kua w&#257;tea au inaianei</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">E haere atu ana koe ki te kura tuarua?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">E haere atu ana au ki te kura tuarua</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">He karaihe t&#333;ku i&#275;nei w&#257;</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="uk">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="4430" lastmodified="1246263931">Ворона та глечик</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="4430" lastmodified="1246263931">Ворона застосовує розум, щоб напитися.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="4430" lastmodified="1246263931">Спрагла ворона знайшла глечик з водою, але води було так мало, що вона, як не намагалася, не могла дістатися до неї дзьобом. Здавалося, що вона помре від спраги, хоча вода була зовсім поруч.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="4430" lastmodified="1246263931">Нарешті вона придумала гарний план. Вона почалася кидати камінці до глечика, з кожним камінцем вода трохи підіймалася, аж поки не дійшла до самого верху, і тоді мудрий птах зміг втамувати спрагу.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="4430" lastmodified="1246263931">Потреба розвиває винахідливість.</attrib>
+		</entry>
+	</entries>
+</ulr>

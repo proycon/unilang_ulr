@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="lt">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" author="15018" lastmodified="1246092025">Džiaugiuosi</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="15018" lastmodified="1246092025">Nesidžiaugiu</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="15018" lastmodified="1246092025">Džiaugiausi</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="15018" lastmodified="1246092025">Ji taip pat džiaugiasi</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="15018" lastmodified="1246092025">Abu džiaugiamės</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="15018" lastmodified="1246092025">Džiaugiuosi</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" author="15018" lastmodified="1246092025">Tu arba turtingas arba vargšas</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="15018" lastmodified="1246092025" variant="1">Tu nei linksmas, nei liūdnas</attrib>
+			<attrib type="orth" author="15018" lastmodified="1246092025">Tau nei linksma, nei liūdna</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="15018" lastmodified="1246092025">Tai didelis medis</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" author="15018" lastmodified="1246092354">Mano sode didelis medis</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" author="15018" lastmodified="1246092354">Atsargiai duodu mano tėvo pinigus pavojingam žmogui iš anksto sutartoje aikštėje priešais bažnyčią</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" author="15018" lastmodified="1246092354">Rašau laišką šiandien</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" author="15018" lastmodified="1246092354">Nerašau laiško šiandien</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" author="15018" lastmodified="1246092354">Parašiau laišką vakar</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" author="15018" lastmodified="1246092354">Nerašiau laiško vakar</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" author="15018" lastmodified="1246092354">Neparašiau laiško vakar</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" author="15018" lastmodified="1246092354">Rašiau laiškus kiekvieną mėnesį</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" author="15018" lastmodified="1246092628">Parašysiu laišką rytoj</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" author="15018" lastmodified="1246092628">Neparašysiu laiško rytoj</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" author="15018" lastmodified="1246092628">Parašiau laišką</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" author="15018" lastmodified="1246092628">Parašyčiau laišką, jei turėčiau pieštuką</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" author="15018" lastmodified="1246092628">Parašiau laišką</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" author="15018" lastmodified="1246092628">Rašau laišką</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" author="15018" lastmodified="1246092628">Rašiau laišką</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" author="15018" lastmodified="1246092628">Galiu parašyti laišką</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" author="15018" lastmodified="1246092628" variant="1">Galiu parašyti laišką</attrib>
+			<attrib type="orth" author="15018" lastmodified="1246092628">Galiu rašyti laiškus</attrib>
+		</entry>
+		<entry id="e37000">
+			<attrib type="orth" author="15018" lastmodified="1246092853">Galėjau parašyti laišką</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" author="15018" lastmodified="1246092853">Turbūt parašiau laišką</attrib>
+		</entry>
+		<entry id="e39000">
+			<attrib type="orth" author="15018" lastmodified="1246092853">Galėčiau parašyti laišką</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" author="15018" lastmodified="1246092853">Turiu parašyti laišką</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" author="15018" lastmodified="1246092853">Turėjau parašyti laišką</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" author="15018" lastmodified="1246092853">Galiu rašyti laišką</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="orth" author="15018" lastmodified="1246092853">Galėjau parašyti laišką</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" author="15018" lastmodified="1246092854">Turiu parašyti laišką</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" author="15018" lastmodified="1246092854">Turėjau parašyti laišką</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Mano parašytas laiškas</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Laišką parašiau aš</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Laišką parašysiu aš</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Laišką būčiau parašęs aš</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Laišką (jau) būčiau parašęs </attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Parašyk laišką!</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Parašykite laišką!</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Nerašyk laiško!</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" author="15018" lastmodified="1246093151">Nerašykite laiško!</attrib>
+		</entry>
+		<entry id="e61000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Te laiškas būna parašytas!</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Abejoju, kad jis rašo laišką</attrib>
+		</entry>
+		<entry id="e64000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Abejoju, kad jis parašė laišką vakar</attrib>
+		</entry>
+		<entry id="e65000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Abejoju, kad jis rašė laišką kiekvieną dieną</attrib>
+		</entry>
+		<entry id="e66000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Abejoju, kad jis parašė laišką</attrib>
+		</entry>
+		<entry id="e67000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Abejoju, kad jis parašys laišką</attrib>
+		</entry>
+		<entry id="e68000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Abejoju, kad jis parašytų laišką</attrib>
+		</entry>
+		<entry id="e69000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Esu įsitikinęs, kad jis parašys laišką</attrib>
+		</entry>
+		<entry id="e70000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Tikiuosi, jis parašys laišką</attrib>
+		</entry>
+		<entry id="e71000">
+			<attrib type="orth" author="15018" lastmodified="1246093752">Džiaugiuosi, kad jis parašys laišką</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" author="15018" lastmodified="1246093846">Turiu tik vandens</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="sv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kess">Lejonet och musen</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kess">En mus hjälper ett lejon</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kess">Ett sovande lejon i sin lya blev väckt av en springande mus över sitt ansikte. Med sitt humör på fall fångade han den med sin tass och skulle just till att döda den.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kess">Musen, skräckslagen, ömkligt bad honom att spara dess liv. »Snälla, låt mig gå», ropade den, »och en dag skall jag återgälda dig för din mildhet.»</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kess">Tanken att en så ynklig varelse någonsin skulle kunna göra någonting för honom roade lejonet till den grad att han skrattade högt, och med gott humör lät den gå.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Kess">Men musens tillfälle kom, trots allt.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Kess">En dag blev lejonet intrasslad i ett nät som hade satts upp för bytesfångst av några jägare, och musen hörde och kände igen hans ilskerytanden och skyndade sig dit. Utan vidare väsen började den gnaga på repen med sina tänder, och lyckades inom kort att släppa lejonet lös.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Kess">»Där!» sade musen, »du skrattade åt mig när jag lovade att återgälda dig, men nu ser du, att även en mus kan hjälpa ett lejon.»</attrib>
+		</entry>
+	</entries>
+</ulr>

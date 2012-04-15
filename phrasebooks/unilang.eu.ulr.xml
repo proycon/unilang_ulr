@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="eu">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Bai</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Ez</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Mesedez</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Eskerrik asko - Milesker</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Ez horregatik</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Barkatu</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Kaixo / Aupa</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Agur</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Arratsaldeon</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Egunon</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Gau on!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Gabon!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Ondo bidaia izan!</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Zer moduz zaude/zaudete?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">oso ondo nago!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Ondo nago!</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">ez nago hain ondo</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">zenbat urte dauzkazu?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Nik....urte dauzkat</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Ez dakit</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">ez zait hori gustatzen</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">prest nago</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">goazen!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">sentitzen dut</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Zer hartu nahi duzu?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">Erre (erretzea)</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">erretzea txarra da zure osasunerako</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">molestatzen dizu erretzen badut?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Surik baduzu?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Ba al daukat zigarro bat hartzerik?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Ez erretzaileentzat gunea al da hau?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Hautsontzi bat emango didazu?</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Non egiten duzu lan?</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Zein da zure ogibidea?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Irakaslea naiz.</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Ikaslea naiz.</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth">langile burujabea naiz.</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Jatetxe baten egiten dut lan.</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Supermerkatu baten egiten dut lan.</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Denda baten egiten dut lan.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Medikua naiz.</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">Psikologoa naiz.</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">Programatzailea naiz.</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Ingeniaria naiz.</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Mekanikaria naiz.</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Idazlea naiz.</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Gidaria naiz.</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Auzi-jartzailea naiz</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">Langile soziala naiz.</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Politikaria naiz.</attrib>
+		</entry>
+	</entries>
+</ulr>

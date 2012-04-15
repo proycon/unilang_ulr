@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="slavelion" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="bg" stats="7" />
+		<language lang="de" stats="7" />
+		<language lang="el" stats="7" />
+		<language lang="en" stats="7" />
+		<language lang="es" stats="7" />
+		<language lang="fi" stats="7" />
+		<language lang="it" stats="7" />
+		<language lang="nl" stats="7" />
+		<language lang="no" stats="7" />
+		<language lang="pl" stats="7" />
+		<language lang="pt" stats="7" />
+		<language lang="ru" stats="7" />
+		<language lang="et" stats="3" />
+	</languages>
+	<authors>
+		<author id="Paruha" langs="bg" lastmodified="0" />
+		<author id="Nietoperz" langs="de" lastmodified="0" />
+		<author id="Yiannisscheidt" langs="el" lastmodified="0" />
+		<author id="Abavagada" langs="en,pt" lastmodified="0" />
+		<author id="Sapthan" langs="es" lastmodified="0" />
+		<author id="Liisi" langs="fi" lastmodified="0" />
+		<author id="lu:ka" langs="it" lastmodified="0" />
+		<author id="aja" langs="nl" lastmodified="0" />
+		<author id="Toddi" langs="no" lastmodified="0" />
+		<author id="Zaduma / arti" langs="pl" lastmodified="0" />
+		<author id="Lerequin" langs="ru" lastmodified="0" />
+		<author id="14587" langs="et" lastmodified="1231928515" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">slavelion.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+		<entry id="5" type="paragraph" />
+	</entries>
+</ulr>

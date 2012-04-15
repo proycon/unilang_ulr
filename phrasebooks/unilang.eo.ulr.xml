@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="eo">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Sir McDuck">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Sir McDuck">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Sir McDuck">Bazaj Frazoj</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Sir McDuck">Jes</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Sir McDuck">Ne</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Sir McDuck">Bonvolu</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Sir McDuck">Jen</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Sir McDuck">Dankon</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Sir McDuck">Ne dankinde</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Sir McDuck">Pardonu</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Sir McDuck">Eble</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Sir McDuck">Saluton</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Sir McDuck">Ĝis revido!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Sir McDuck">Bonan tagon!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Sir McDuck">Bonan matenon!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Sir McDuck">Bonan vesperon!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Sir McDuck">Bonan nokton!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Sir McDuck">Bonvenon!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Sir McDuck">Bonan vojaĝon!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Sir McDuck">Kompreni unu la alian</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi parolas...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Sir McDuck">Mi parolas...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Sir McDuck">Mi ne parolas...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Sir McDuck">Mi iomete parolas</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Sir McDuck">la anglan</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Sir McDuck">la francan</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Sir McDuck">la germanan</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Sir McDuck">la hispanan</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Sir McDuck">la portugalan</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Sir McDuck">la araban</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Sir McDuck">la ĉinan</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Sir McDuck">la hinduan</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Sir McDuck">la rusan</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Sir McDuck">la italan</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Sir McDuck">la nederlandan</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Sir McDuck">la norvegan</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Sir McDuck">la svedan</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Sir McDuck">la danan</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Sir McDuck">la polan</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Sir McDuck">la urduan</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Sir McDuck">la persan</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Sir McDuck">la japanan</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Sir McDuck">la indonezian</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Sir McDuck">la malajan</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi komprenas?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi komprenas min?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Sir McDuck">Mi komprenas</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Sir McDuck">Mi komprenas vin</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Sir McDuck">Mi ne komprenas</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Sir McDuck">Mi ne komprenas vin</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Sir McDuck">Bonvolu rediri | Ĉu vi povus rediri tion?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Sir McDuck">Bonvolu paroli pli malrapide | Ĉu vi povus paroli pli malrapide?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Sir McDuck">Bonvolu skribi ĝin | Ĉu vi povus skribi ĝin? | Bonvolu noti ĝin | Ĉu vi povus noti ĝin?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Sir McDuck">Mi ne scias kiel diri tion</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Sir McDuck">Mi ne scias la korektan vorton</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Sir McDuck">Kion vi diris ?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Sir McDuck">Kiel oni diras tion en...</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Sir McDuck">Kiel oni skribas tion ?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Sir McDuck">Kiel oni prononcas tion ?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi povas traduki ĉi tion al mi?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi diris tion korekte?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Sir McDuck">Baza parolado</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Sir McDuck">Kiel vi fartas?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Sir McDuck">Mi fartas bonege!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Sir McDuck">Mi fartas bone</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Sir McDuck">Mi fartas bonete</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Sir McDuck">Mi ne fartas tre bone</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Sir McDuck">Kiom da jaroj vi havas?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Sir McDuck">Mi havas ... jarojn</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Sir McDuck">Mi ne scias</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Sir McDuck">Mi ne ŝatas tion</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Sir McDuck">Mi estas preta</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Sir McDuck">Ni iru!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Sir McDuck">Pardonu</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Sir McDuck">Komerco kaj financo</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas pagi kontante?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas pagi kreditkarte?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi akceptas ...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi povas ŝanĝi ĉi tiojn vojaĝantulajn ĉekojn?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi povas ŝanĝi ĉi tion al ...?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi povas taksi la koston?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Sir McDuck">Jen mia karto.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="Sir McDuck">Kiom da komisiono ŝarĝas vi?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Sir McDuck">Mi volus ŝanĝi iom da dolarojn / eŭrojn / pundojn.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Sir McDuck">Kio estas la kurso?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="Sir McDuck">Kio estas la inflacia takso?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Sir McDuck">Kie mi povas ŝanĝi mian monon?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Sir McDuck">Kie mi povas fotokopii?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Sir McDuck">Kie estas la plej apuda banko?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Sir McDuck">Kie mi signaturas?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas katalogon?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Sir McDuck">Mi havas rendevuon kun ...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Sir McDuck">Kiom estas la enira kosto?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Sir McDuck">Kiom ĝi kostas tage?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Sir McDuck">Kiom ĝi kostas hore?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Sir McDuck">Kiom ĝi kostas semajne?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Sir McDuck">Ĉu ĝi estas senkosta?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Sir McDuck">Komputiloj kaj Interreto</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas komputilon ?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Sir McDuck">La durdisko estas plena</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas modemon?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas interretan konekton?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas sendi retmesaĝon?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas legi mian retpoŝton?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas printi ion?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas skandi ion?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Sir McDuck">Mia komputilo kraŝis</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Sir McDuck">Vi devas restartigi</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas instali...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Sir McDuck">Kio estas via retpoŝtadreso?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Sir McDuck">Mia retpoŝtadreso estas</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas TTT-ejon?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Sir McDuck">Kio estas la adreso?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Sir McDuck">Edukado</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Sir McDuck">Kion vi studas? | Kion vi lernas?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Sir McDuck">Mi studas... | Mi lernas...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Sir McDuck">leĝon | juron</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Sir McDuck">medicinon</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Sir McDuck">ekonomikon</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Sir McDuck">lingvojn</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Sir McDuck">lingvistikon</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Sir McDuck">matematikon</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Sir McDuck">kemion</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Sir McDuck">fizikon</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Sir McDuck">komputikon</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Sir McDuck">En kio universitato vi studas?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Sir McDuck">Mi studas en...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Sir McDuck">Mi havas kurson hodiaŭ</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Sir McDuck">Mi estas libera hodiaŭ</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi estas en gimnazio?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Sir McDuck">Mi estas en gimnazio</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Sir McDuck">Mi devas iri al mia klaso nun</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Sir McDuck">Urĝaĵoj</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Sir McDuck">Voku kuraciston!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Sir McDuck">Voku ambulancon!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Sir McDuck">Voku policon!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Sir McDuck">Li ne povas spiri.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Sir McDuck">Li ne povas movi.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Sir McDuck">Li ne haltis</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Sir McDuck">Li enkuris min</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Sir McDuck">Li veturigis tro rapide.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Sir McDuck">Li tranĉis sin mem.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Sir McDuck">Mi ne povas movi mian brakon.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Sir McDuck">Mi ne povas movi mian gambon.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Sir McDuck">Mi estas rabita.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Sir McDuck">Ŝtopu tiun ŝteliston!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Sir McDuck">Mia pasporto estas ŝtelita.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Sir McDuck">Mia mono estas ŝtelita.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Sir McDuck">Mia aŭto estas ŝtelita.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Sir McDuck">Tie estas fajro!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Sir McDuck">Kie estas la plej apuda malsanejo?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Sir McDuck">Kie estas la plej apuda policejo?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Sir McDuck">Emocioj kaj opinioj</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi ŝatas ĝin?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas ĝin.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Sir McDuck">Mi ĝojas.</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Sir McDuck">Mi koleras.</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Sir McDuck">Mi elreviĝas.</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Sir McDuck">Mi estas kontenta.</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Sir McDuck">Mi estas laca.</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Sir McDuck">Mi timas.</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Sir McDuck">Mi estas varma.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Sir McDuck">Mi estas malvarma.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Sir McDuck">Mi estas dormema.</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Sir McDuck">Ni ŝatas ĉi tie.</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Sir McDuck">Ĝi estas (tre) interesa.</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Sir McDuck">Ni pensas, ke ĝi estas tre interesa.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Sir McDuck">Ĝi estas (tre) teda.</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Sir McDuck">Ĝi estas bela.</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Sir McDuck">Li estas (tre) bela.</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Sir McDuck">Ŝi estas (tre) bela.</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="Sir McDuck">Li estas belega!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="Sir McDuck">Ŝi estas belega!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Sir McDuck">Li / ŝi estas tre bonkora.</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Sir McDuck">Rigardu!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Sir McDuck">Aŭskultu!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Sir McDuck">Bona!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Sir McDuck">Bonega!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Sir McDuck">Manĝaĵo kaj manĝejo</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Sir McDuck">Mi estas malsata</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Sir McDuck">Mi estas soifa</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="Sir McDuck">Ĉu ni prenu ion por manĝi?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="Sir McDuck">Ĉu ni prenu ion por trinki?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas ion por manĝi?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas ion por trinki?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi volas ion por manĝi?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas akiri ion por manĝi al vi?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi volas ion por trinki?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Sir McDuck">Mi volus ... por trinki, dankon</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Sir McDuck">kafotason</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Sir McDuck">teotason</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Sir McDuck">glason da biero</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Sir McDuck">glason da vino</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Sir McDuck">glason da ruĝa vino</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Sir McDuck">glason da blanka vino</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Sir McDuck">glason da oranĝosuko</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Sir McDuck">glason da pomosuko</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas akiri ion por trinki al vi?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Sir McDuck">Kion vi volus trinki?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Sir McDuck">Kion vi volus manĝi?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Sir McDuck">Kion vi rekomendas?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas vidi la menuon, dankon?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas vidi la vinliston, dankon?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Sir McDuck">Mi volus tion ĉi, dankon</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi volus apetitecon?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Sir McDuck">Mi volus apetitecon, dankon.</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Sir McDuck">Mi volus iom da fiŝo, dankon</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Sir McDuck">Mi volus iom da bifsteko, dankon</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Sir McDuck">Mi volus iom da porkaĵo, dankon</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Sir McDuck">Mi volus salaton, dankon</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Sir McDuck">Mi volus iom da supo, dankon</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Sir McDuck">Mi volus ion vegetaran, dankon.</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi volus deserton?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Sir McDuck">Por apiteteco, mi volus...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Sir McDuck">Por plado, mi volus...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Sir McDuck">Por deserto, mi volus...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas havi tion ĉi kun ĉipoj / rizo / terpomoj?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas havi tiun ĉi sen...?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas havi nur malgrandan porcion, dankon?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Sir McDuck">Kiojn saladojn vi havas?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Sir McDuck">Nenio pli, dankon</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="Sir McDuck">Ĝi estas por kunpreni</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Sir McDuck">Mi estas vegetarano</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="Sir McDuck">Mi estas vegano</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Sir McDuck">Mi ne povas manĝi tion.</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Sir McDuck">Ĉu ĉi tiu enhavas...?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Sir McDuck">(multe da) salo(n)</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Sir McDuck">(multe da) sukero(n)</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Sir McDuck">(multe da) graso(n)</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Sir McDuck">kio viando ajn</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Sir McDuck">kio marmanĝaĵo ajn</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Sir McDuck">kio fiŝo ajn</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Sir McDuck">kioj laktaj produktoj ajn</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Sir McDuck">Mi ne trinkas (alkoholon)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Sir McDuck">Mi ne havas forkon</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Sir McDuck">Mi ne havas tranĉilon</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Sir McDuck">Mi ne havas kuleron</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Sir McDuck">Glaso malaperis</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Sir McDuck">Plado malaperas</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Sir McDuck">Ĉi tio ne estas pura</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Sir McDuck">Ĝi estas tro malvarma</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Sir McDuck">Ĝi estas tro spica</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Sir McDuck">Ĉi tio ne estas kion mi ordonis</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Sir McDuck">Estas eraro ĉi tie</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Sir McDuck">Ĝi estis bongustega</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Sir McDuck">Mi volus pagi, dankon</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas havi la bilon, dankon?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Sir McDuck">Ni volus pagi aparte</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Sir McDuck">Ĉu ĉio estas inkludita?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Sir McDuck">Ĉu trinkmono estas inkludita?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi ŝatas kuiri?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Sir McDuck">Kiu kuiros en ĉi tiu nokte?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi kuiros ĉi tiu nokte?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Sir McDuck">Kion mi faros?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi volus tason da kafo?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi volus tason da teo?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Sir McDuck">Saneco kaj Malsaneco</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Sir McDuck">Mi estas malsana</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Sir McDuck">Mi havas gripon</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Sir McDuck">Mi havas malvarmumon</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Sir McDuck">Mi havas alergiojn</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Sir McDuck">Mi estas diabetulo</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Sir McDuck">Mi havas dolorojn</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Sir McDuck">Mi ne sentas bone</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Sir McDuck">Mi uzas la (kontraŭkoncipan) pilolon</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Sir McDuck">Mi estas graveda</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Sir McDuck">Mi ne povas manĝi</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Sir McDuck">Mi ne povas dormi</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Sir McDuck">Mi havas kapturn(iĝ)on / Mi havas vertiĝon</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Sir McDuck">Mi havas tus(ad)on</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Sir McDuck">Mi havas kapdoloron</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Sir McDuck">Mi havas stomakdolorojn</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Sir McDuck">Mi havas infekt(ad)on</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas dolorojn?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Sir McDuck">Ĉu ĝi doloras?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Sir McDuck">Ĉu ĝi doloras, se mi faras tion?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi povas iri?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Sir McDuck">Mi bezonas rulseĝon</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Sir McDuck">Kie estas la plej apuda apotekon?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas ricevi ĝin sen preskribo?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas ion kontraŭ insektmordoj?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi havas ion kontraŭ sunbrulemo?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Sir McDuck">Mi havas preskribon de kuracisto</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Sir McDuck">Mi bezonas ion por...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Sir McDuck">Kiom ofte mi devus preni ĝin?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Sir McDuck">Hobioj</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Sir McDuck">Kiaj estas viaj hobioj?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Sir McDuck">Kion vi faras dum via libertempo?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi ŝatas legi?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Sir McDuck">Mi ne ŝatas legi</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas legi</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas kuiri</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas aŭskulti muzikon</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas ludi pianon</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas ludi gitaron</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas kanti</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas ludi ŝakon</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas elhejmiĝi</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas vojaĝi</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas aĉetumi</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas ĝardenadon</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas televidspektadon</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Sir McDuck">Mi ŝatas navigi tra la Reto</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Sir McDuck">Kia muziko plaĉas al vi?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Sir McDuck">Plaĉas al mi la muziko klasika</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Sir McDuck">Plaĉas al mi la popmuziko</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Sir McDuck">Plaĉas al mi la opero</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Sir McDuck">Plaĉas al mi ĵazo</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Sir McDuck">Plaĉas al mi la tekna muziko</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Sir McDuck">Plaĉas al mi la rokamuziko</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Sir McDuck">Kiuj estas viaj preferataj muzikensembloj?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Sir McDuck">Kion vi preferas?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Sir McDuck">Mi preferas...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Sir McDuck">Interprezentado</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Sir McDuck">Mia nomo estas...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Sir McDuck">Kiu estas via nomo? / Kiel vi nomiĝas?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Sir McDuck">Mi estas... / Mi nomiĝas...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Sir McDuck">Kiu estas vi?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi povas vin prezenti al...?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Sir McDuck">Mi volas vin prezenti al...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia edzino</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia edzo</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia koramikino</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia koramiko</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia amiko/amikino</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia filo</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia filino</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia patrino</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Sir McDuck">Tiu-ĉi estas mia patro</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Sir McDuck">Estas plezure koni vin</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Sir McDuck">Planoj kaj Rendevuoj</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Sir McDuck">Mi havas planojn jam</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Sir McDuck">Mi estas iranta al la kinejo</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Sir McDuck">Mi estas iranta al la kinejo</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Sir McDuck">Mi estas iranta al la muzeo</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Sir McDuck">Vi havas bileton?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Sir McDuck">Mi havas du biletojn por ...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Sir McDuck">Mi malŝati la muziko</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Sir McDuck">La muziko estas tro laŭta</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Sir McDuck">Volas vi iras al plia ejo?</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Sir McDuck">Mi estas interesita en politiko</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Sir McDuck">Mi ne estas interesita en politiko</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Sir McDuck">Kio vi pensas pri la prezidento?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Sir McDuck">Kio vi pensas pri la libereco de parolado?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Sir McDuck">Kio vi pensas pri la demokrateco?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Sir McDuck">Mi estas ...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Sir McDuck">komunisto</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Sir McDuck">kapitalisto</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Sir McDuck">demokrato</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Sir McDuck">kristana demokrato</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Sir McDuck">respublikano</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Sir McDuck">naciisma</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="Sir McDuck">socialisto</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Sir McDuck">faŝisto</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Sir McDuck">Vi havas koramiko?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Sir McDuck">Vi havas koramikino?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Sir McDuck">Mi havas koramiko</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Sir McDuck">Mi havas koramikino</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Sir McDuck">Vi havas infanoj?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Sir McDuck">Mi ne havas iu infanoj</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Sir McDuck">Mi havas unu infano / unu filo / unu filino</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Sir McDuck">Mi havas du infanoj</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Sir McDuck">Mi havas tri/kvar/kvin/ses/sep infanoj</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Sir McDuck">Kiom da gefratoj vi havas?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Sir McDuck">Religio</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Sir McDuck">Vi estas religia?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Sir McDuck">Mi ne estas religia</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Sir McDuck">Mi estas ateisto</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Sir McDuck">Mi estas islamano</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Sir McDuck">Mi estas juda</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Sir McDuck">Mi estas budhana</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="Sir McDuck">Mi estas hindua</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Sir McDuck">Mi estas katolika</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Sir McDuck">Mi estas kristana</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="Sir McDuck">Danki Dio</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="Sir McDuck">Se Dio volu ĝi</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Sir McDuck">Aĥ mia Dio!</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Sir McDuck">Kie vi loĝas? | Kiu vi de landon?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Sir McDuck">Mi loĝas ...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Sir McDuck">Francio</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Sir McDuck">Britio</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Sir McDuck">Hispano</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Sir McDuck">Germanio</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Sir McDuck">Usono</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Sir McDuck">Ĉinio</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Sir McDuck">Brazilo</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Sir McDuck">Japanio</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Sir McDuck">Rusio</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Sir McDuck">Kanado</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Sir McDuck">Aŭstralio</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Sir McDuck">Mi estas ...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Sir McDuck">Brita</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Sir McDuck">Franca</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Sir McDuck">Germana</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Sir McDuck">Usona</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Sir McDuck">Ĉina</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Sir McDuck">Japana</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Sir McDuck">Rusa</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Sir McDuck">Brazila</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Sir McDuck">Kanada</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Sir McDuck">Kie vi loĝas? | Kiu urbon vi loĝas?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Sir McDuck">Mi loĝas en Londono/Parizo/Berlino</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Sir McDuck">Tio proksime ... ?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Sir McDuck">Tio malproksime ... ?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Sir McDuck">Kiam vi alvenis?</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Sir McDuck">bano</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Sir McDuck">duŝo</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Sir McDuck">balkono</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Sir McDuck">Sporto</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Sir McDuck">boato</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="Sir McDuck">amerika futbalo</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Sir McDuck">futbalo</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="Sir McDuck">basbalo</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Sir McDuck">Tempo</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="Sir McDuck">Estas...</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Sir McDuck">ĵaŭdo</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Sir McDuck">lundo</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Sir McDuck">mardo</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Sir McDuck">merkredo</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Sir McDuck">vendredo</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Sir McDuck">sabato</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="Sir McDuck">Tiu monato estas...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Sir McDuck">La pasinta monato estis...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="Sir McDuck">La venonta monato estos...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Sir McDuck">januaro</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Sir McDuck">februaro</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Sir McDuck">marto</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Sir McDuck">aprilo</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Sir McDuck">majo</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Sir McDuck">junio</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Sir McDuck">julio</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Sir McDuck">septembro</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Sir McDuck">oktobro</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Sir McDuck">novembro</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Sir McDuck">decembro</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Sir McDuck">Kiam mi povas veni?</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="Sir McDuck">Kiu sezono estas?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="Sir McDuck">Jen mia pasporto</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi rajtas kunporti tion-ĉi?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="Sir McDuck">Mi ne trovas miajn pakaĵojn.</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="Sir McDuck">Ĉu vi povus helpi min pri miaj pakaĵoj?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Sir McDuck">Kie estas la (trajna) stacidomo?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="Sir McDuck">Ĉu mi devos ŝanĝi trajnojn?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="Sir McDuck">Ĉu la trajno haltos en ... ?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="Sir McDuck">Ĉu la trajno iras al ... ?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="Sir McDuck">Kiu stacio estas la nuna?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Sir McDuck">Kiam la venonta trajno venos?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Sir McDuck">Kiam la lasta trajno venos?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Sir McDuck">Kie mi trovos taksion?</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="Sir McDuck">Kiom malproksima la venonta vilaĝo estas?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="Sir McDuck">Kiom da tempo oni bezonas per aŭto?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="Sir McDuck">Kiom da tempo oni bezonas piede?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="Sir McDuck">Mi volas lui aŭton dum unu semajno / dum tri tagoj.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Sir McDuck">Vetero</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="Sir McDuck">Kia vetero estos morgaŭ?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="Sir McDuck">Kia la vetero kutime estas?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="Sir McDuck">Morgaŭ pluvos</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Sir McDuck">Pluvas</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="Sir McDuck">Varmas ekstere</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="Sir McDuck">Malvarmas ekstere</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Sir McDuck">Kia bela tago!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="Sir McDuck">Bela tago, ĉu ne?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="Sir McDuck">Ĉu ĉiam tiom varmegas?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="Sir McDuck">Ĉu ĉiam tiom malvarmas?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="Sir McDuck">Ĉu pluvo ĉiam tiom oftas?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="Sir McDuck">Ĉu la ĉielo ĉiam estas tiom nuba?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="Sir McDuck">Mi estas malseka</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Sir McDuck">Laboro</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Sir McDuck">Kie vi laboras?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Sir McDuck">Kio estas via okupo?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Sir McDuck">Mi estas instruisto</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Sir McDuck">Mi estas studento</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Sir McDuck">Mi laboras en restoracio</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Sir McDuck">Mi laboras en</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Sir McDuck">Mi laboras en aĉetejo</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Sir McDuck">Mi estas doktoro</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Sir McDuck">Mi estas psikologo</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Sir McDuck">Mi estas programisto</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Sir McDuck">Mi estas inĝeniero</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Sir McDuck">Mi estas meĥanikisto</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Sir McDuck">Mi estas verkisto</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Sir McDuck">Mi estas ŝoforo</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="Sir McDuck">Mi estas aktoro</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Sir McDuck">Mi estas politikisto.</attrib>
+		</entry>
+	</entries>
+</ulr>

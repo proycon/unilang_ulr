@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="lt">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="15018" lastmodified="1246095331">taurės vyno</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="15018" lastmodified="1246095331">taurės raudonojo vyno</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="15018" lastmodified="1246095331">taurės baltojo vyno</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="15018" lastmodified="1246095331">stiklinės apelsinų sulčių</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="15018" lastmodified="1246095331">stiklinės obuolių sulčių</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Prašau</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="15018" lastmodified="1246093982">Prašau paimkite.</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Ačiū</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="15018" lastmodified="1246095331">Ką Jūs rekomenduotumėte?</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="15018" lastmodified="1246095331">Ar galėčiau gauti meniu?</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="15018" lastmodified="1246095331">Ar galėčiau gauti vynų sąrašą?</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Sveiki</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Su dievu, iki</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Laba diena</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Labas rytas</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Labas vakaras</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Labos nakties</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Sveiki atvykę</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Geros kelionės</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="15018" lastmodified="1246094053">Suprantame vienas kitą</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Ar tu kalbi (šneki)...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Aš kalbu (šneku)...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Aš nekalbu (nešneku)...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Aš kalbu truputį (šiek tiek)...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Anglų kalba</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Prancūzų kalba</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Vokiečių kalba</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Ispanų kalba</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Portugalų kalba</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Arabų kalba</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Kinų kalba</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="15018" lastmodified="1246094152">hindi kalba</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Rusų kalba</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Italų kalba</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Olandų kalba</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="15018" lastmodified="1246094152">Norvegų kalba</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="15018" lastmodified="1246094252">Švedų  kalba</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="15018" lastmodified="1246094252">Danų kalba</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="15018" lastmodified="1246094252">Lenkų kalba</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="15018" lastmodified="1246094252">Urdu kalba</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="15018" lastmodified="1246094252">Persų kalba</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="15018" lastmodified="1246094252">japonų kalba</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="15018" lastmodified="1246094252">Malajų kalba</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="15018" lastmodified="1246094252">Ar suprantate?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="15018" lastmodified="1246094252">Ar suprantate mane?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Suprantu</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Suprantu tave</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Nesuprantu</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="15018" lastmodified="1246094331">Nesuprantu tavęs</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Ar galėtumėte pakartoti?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Ar galėtumėte kalbėti lėčiau?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Ar galėtumėte tai užrašyti?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="15018" lastmodified="1246094331">Nežinau kaip tai pasakyti</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="15018" lastmodified="1246094331">Nežinau tinkamo žodžio</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="15018" lastmodified="1246094331">Ką sakėte?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Kaip tai pasakyti....?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Kaip tai parašyti...?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Kaip tarti tai?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Ar galėtumėte man tai išversti?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Ar aš tai pasakiau teisingai?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="15018" lastmodified="1246094399">Pagrindinis bendravimas</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Kaip tau sekasi?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Laikausi puikiai!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">gerai</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">neblogai</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">nelabai gerai</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Kiek tau metų?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Man...</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Nežinau</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Man tai nepatinka</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="15018" lastmodified="1246094399">Aš pasiruošęs/pasiruošusi</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Eime!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Atsiprašau</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Ar galiu mokėti grynais?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Ar galiu mokėti kreditine kortele</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Ar priimate?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="15018" lastmodified="1246094442">Ar galite pakeisti šiuos kelionių čekius?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Ar galite pakeisti į...?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Štai mano kreditinė kortelė</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Aš norėčiau išsikeisti dolerius/eurus/svarus</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Koks keitimo kursas?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="15018" lastmodified="1246094535">Koks infliacijos lygis?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="15018" lastmodified="1246094536">Kur galėčiau pasikeisti pinigus?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Kur galima rasti artimiausią banką?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Kur man pasirašyti?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Ar turite katalogą?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Aš turiu susitikimą su...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Kiek kainuoja įėjimas?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Kiek tai kainuoja dienai?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Kiek tai kainuoja valandai?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Kiek tai kainuoja savaitei?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Ar tai nemokama?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="15018" lastmodified="1246094632">Kompiuteriai ir internetas</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Ar turite kompiuterį?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Kietasis diskas yra pilnas.</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="15018" lastmodified="1246094632">Ar turite modemą?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">Ar turi interneto ryšį?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Ar galiu išsiųsti elektroninį laišką?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Ar galiu pasitikrinti savo elektroninį paštą?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Ar galima atspausdinti?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="15018" lastmodified="1246094632">Ar galima nuskenuoti?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="15018" lastmodified="1246094632">Mano kompiuteris sugedo</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">reikia perkrauti</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Koks tavo elektroninio pašto adresas?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Mano adresas yra...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="15018" lastmodified="1246094717">Ar turi savo internetinę svetainę?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Koks adresas?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="15018" lastmodified="1246094717">Išsilavinimas</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Ką Jūs mokotės (studijuojate)?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Aš mokausi (studijuoju)...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="15018" lastmodified="1246094717">Teisę</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="15018" lastmodified="1246094717">Mediciną</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="15018" lastmodified="1246094717">Ekonomiką</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="15018" lastmodified="1246094717">Kalbas</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="15018" lastmodified="1246094872">kalbotyrą</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="15018" lastmodified="1246094872">matematiką</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="15018" lastmodified="1246094872">chemiją</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="15018" lastmodified="1246094872">fiziką</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="15018" lastmodified="1246094872">informatiką</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">Kokiame universitete studijuoji?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Studijuoju...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="15018" lastmodified="1246094872">Šiandien man paskaitos</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Aš esu laisvas šiandien</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="15018" lastmodified="1246094872">Jūs mokotės vidurinėje mokykloje?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="15018" lastmodified="1246094872">Aš mokausi vidurinėje mokykloje</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="15018" lastmodified="1246094872">Dabar man reikia eiti į užsiėmimus</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="15018" lastmodified="1246094957">Ypatingos situacijos </attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Kvieskite gydytoją</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Kvieskite greitąją pagalbą</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Kvieskite policiją</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Jis negali kvėpuoti</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Jis negali pajudėti</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Jis nesustojo</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="15018" lastmodified="1246094957">Jis atsitrenkė į mane.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Jis važiavo per greitai</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="15018" lastmodified="1246094957">jis įsipjovė</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Aš negaliu pajudinti rankos</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Aš negaliu pajudinti kojos</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Mane apvogė</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Sustabdykite vagį</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Mano pasą pavogė</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Mano pinigus pavogė</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Mano automobilį pavogė</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="15018" lastmodified="1246095018">Gaisras!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="15018" lastmodified="1246095018">Kur artimiausia ligoninė?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="15018" lastmodified="1246095018">Kur artimiausia policijos nuovada?</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Ar Jums tai patinka?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Man patinka (mėgstu)</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Aš laimingas</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Aš piktas (įpykęs)</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Aš nusivylęs</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="15018" lastmodified="1246095092">Aš patenkintas.</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Aš pavargęs</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Aš bijau</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Man šilta</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Man šalta</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Aš noriu miego</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Mums patinka čia</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">Tai (labai) įdomu</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="15018" lastmodified="1246095092">Manome, kad tai labai įdomu.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">Tai (labai) nuobodu (neįdomu)</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">Gražu</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">Jis (labai) gražus</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">Ji (labai) graži</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">Jis/ji labai mielas(a) (geras(a), nuoširdus(i)</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Žiūrėk</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Klausyk</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Jėga</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">Nuostabu</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="15018" lastmodified="1246095139">Maistas ir restoranas</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Aš alkanas</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Aš ištroškęs</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Ar turite ką nors užvalgyti?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Ar turite ką nors atsigerti?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Ar norite ką nors užvalgyti?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Ar norite ką nors išgerti?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Aš norėčiau...</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="15018" lastmodified="1246095214">puodelio kavos</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="15018" lastmodified="1246095214">puodelio arbatos</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="15018" lastmodified="1246095214"> bokalo alaus</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">taurė vyno</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">taurė raudonojo vyno</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">taurė baltojo vyno</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">stiklinė apelsinų sulčių</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">stiklinė obuolių sulčių</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">Ką Jūs rekomenduojate</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Ar galėčiau gauti meniu</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Ar galėčiau gauti vynu saraša?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Aš norėčiau šito</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Aš norėčiau žuvies</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Aš norėčiau jautienos</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Aš norėčiau kiaulienos</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Aš norėčiau salotų</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Aš norėčiau sriubos</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Aš norėčiau ko nors vegetariško</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Ar norėtumėte deserto</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">Desertui norėčiau</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Ar galėčiau šito (to) be...?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">Ar galėčiau gauti mažą porciją?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Kokių salotų turite?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">Ačiū, daugiau nereikia</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth">tai išsinešimui</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Aš vegetaras</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Aš negaliu šito valgyti</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Ar sudėtyje yra...</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">bet kokios mėsos</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">bet kokio jūros maisto</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">bet kokios žuvies</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Aš negeriu (alkoholio)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">Aš neturiu šakutės</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">Aš neturiu peilio</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">Aš neturiu šaukšto</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Čia trūksta lėkštės</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">Tai nešvaru</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">peršalta</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">per daug aštru</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Čia įvyko klaida</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">Buvo skanu</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Aš norėčiau susimokėti</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Ar galėčiau gauti sąskaitą</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Ar viskas įskaičiuota?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Ar arbatpinigiai įskaičiuoti?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">Ar mėgstate gaminti valgį?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Kas šįvakar gamins valgį?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Ką man pagaminti?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">Ar norėtumėte puodelio kavos?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">Ar norėtumėte puodelio arbatos?</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Aš sergu</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">Aš sergu gripu</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">Aš peršalau</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">Aš alergiškas</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">Aš diabetikas</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">Man skauda</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">Aš nesijaučiu gerai</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">Aš negaliu valgyti</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">Aš negaliu miegoti</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">Man skauda galvą</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">Man skauda pilvą</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">Man skauda krūtinę</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">Man įkando</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth">Ar Jums skauda?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">Ar skauda?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">Ar skauda, kai darau šitaip?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">Ar geriate vaistus?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth">Kokia Jūsų temperatūra?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">Ar galite paeiti?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">Man reikia invalido vežimėlio</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth">Ar turite ko nors nuo vabzdžių įgėlimo?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth">Ar turite ko nors nuo saulės nudegimo</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth">Man reikia...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth">Kaip dažnai man vartoti?</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Kokie Jūsų hobiai?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Ką veikiate laisvalaikiu</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Ar mėgstate skaityti?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">Aš nemėgstu skaityti</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">Man patinka skaityti</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">Man payinka gaminti valgį</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Ar galiu čia fotografuoti?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Čia negalima fotografuoti</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth">Ar galima paplaukioti valtimis po ežerą?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth">Ar galima paplaukioti valtimis upe?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Kiek trunka kelionė?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">Ar čia yra gerų naktinių klubų?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Aš norėčiau pamatyti katedrą</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Aš norėčiau aplankyti bažnyčią</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Aš norėčiau aplankyti šventyklą</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth">Kokiomis valandomis jū dirbate?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth">Kada baigiate darbą?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth">Kada pradedate darbą?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth">Kada prasideda pasirodymas?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Kada jis buvo pastatytas?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Kas pastatė tai?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth">Koks to kalno aukštis?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Koks to gyvūno pavadinimas?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth">Koks to paukščio pavadinimas?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Koks tos gėlės pavadinimas?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Koks to medžio pavadinimas?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Kaip vadinasi  tas pastatas?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth">Koks to kalno pavadinimas?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Koks tos upės pavadinimas?</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">Rūkimas kenkia sveikatai</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">Ar neprieštarauji jei aš rūkysiu?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Gal turi ugnies?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Gal galima cigaretę?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Ar čia nerūkančių vietos?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Ar galiu gauti peleninę?</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Kokia šiandien diena?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">Vakar buvo....</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Kokia rytoj diena?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">Rytoj bus...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">Pirmadienis</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">Antradienis</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">Trečiadienis</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">Katvirtadienis</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">Penktadienis</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">Šeštadienis</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">Sekmadienis</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Koks dabar mėnesis?</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">Sausis</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">Vasaris</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">Kovas</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">Balandis</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">Gegužė</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">Birželis</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">Liepa</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">Rugpjūtis</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">Rugsėjis</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">Spalis</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">Lapkritis</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">Gruodis</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">As aplankysiu jus ziema</attrib>
+		</entry>
+	</entries>
+</ulr>

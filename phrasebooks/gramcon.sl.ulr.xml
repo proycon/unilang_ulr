@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="sl">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Nominalne fraze:</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Vesel sem</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Nisem vesel</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Jaz sem bil vesel</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Tudi ona je vesela</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Oba sva vesela</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Postajam vesel</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Ostajam vesel</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Si ali bogat ali reven</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Nisi ne bogat ne reven</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">To je veliko drevo</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="13156" lastmodified="1232836451">Tisto je veliko drevo</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" author="13156" lastmodified="1232836489">Tisto je veliko drevo.</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Na mojem vrtu je (eno) veliko drevo</attrib>
+		</entry>
+		<entry id="e15000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Besedni red</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Na že v naprej določenem trgu pred cerkvijo, sem nevarnemu moškemu previdno dal denar mojega očeta.</attrib>
+		</entry>
+		<entry id="e17000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Glagolske fraze</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Danes napišem pismo.</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Danes ne napišem pisma.</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Danes ne napišem (nobenega) pisma.</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Včeraj sem napisal (eno) pismo.</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Včeraj  nisem napisal (nobenega) pisma.</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Včeraj nisem napisal pisma.</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" author="13156" lastmodified="1232836989">Vsak mesec napišem (eno) pismo.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="fr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Pennkaled">L'Ours et les Voyageurs</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Pennkaled">Une leçon sur les ours et les amis.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Pennkaled">Deux voyageurs étaient ensemble sur la route, quand un Ours fit soudain son apparition. Avant qu'il ne les remarque, l'un se dirigea vers un arbre au bord de la route, et grimpa sur les branches et se cacha là.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Pennkaled">L'autre n'était pas aussi agile que son compagnon; et, comme il ne pouvait pas s'échapper, il se jeta sur le sol et fit semblant d'être mort.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Pennkaled">L'Ours arriva et renifla tout autour de lui, mais il restait parfaitement immobile et retenait sa respiration: car on dit qu'un ours ne touchera pas un corps mort. L'Ours le prit pour un cadavre, et s'en alla.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Pennkaled">Quand le calme fut rétabli, le Voyageur descendit de l'erbre, et demanda à l'autre qu'est-ce que l'Ours lui avait chuchoté quand il mit sa bouche au niveau de son oreille.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Pennkaled">L'autre répondit, &quot;Il m'a dit de ne plus jamais voyager avec un ami qui vous laisse tomber dès le premier signe de danger&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Pennkaled">Le malheur met à lépreuve la sincérité de l'amitié.</attrib>
+		</entry>
+	</entries>
+</ulr>

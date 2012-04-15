@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="no">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="2788" lastmodified="1232901574">Substantivfraser</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Jeg er glad</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Jeg er ikke glad</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Jeg var glad</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Hun er også glad</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Vi er begge glade</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Jeg blir glad</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Jeg forblir glad</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Du er enten rik eller fattig</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="2788" lastmodified="1232901517" variant="1">Du er verken glad eller ulykkelig</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232901517">Du er hverken glad eller ulykkelig</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Dette er et stort tre</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="2788" lastmodified="1232901517">Det er et stort tre</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Det er det store treet</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Det er et stort tre i hagen min</attrib>
+		</entry>
+		<entry id="e15000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Setningsoppbygging</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Jeg gir varsomt den farlige mannen faren min sine penger på det forutbestemte torget foran kirken.</attrib>
+		</entry>
+		<entry id="e17000">
+			<attrib type="orth" author="741" lastmodified="1292545990">Verbalmønster - Tid/Betingelse/Synsvinkel</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Jeg (skal) skrive et brev i dag.</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Jeg skriver ikke brevet i dag</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Jeg skriver ikke et brev i dag</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Jeg skrev et brev i går</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Jeg skrev ikke et brev i går</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Jeg skrev ikke brevet i går</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" author="2788" lastmodified="1232901890">Jeg skrev et brev hver måned</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg pleide å skrive et brev hver måned</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg skal skrive et brev i morgen</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg skal ikke skrive et brev i morgen</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg ville skrevet et brev</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" author="2788" lastmodified="1232902101" variant="1">Jeg ville skrevet et brev om jeg hadde blyant</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg ville skrevet et brev om jeg hadde en blyant</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg har skrevet et brev</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg hadde skrevet et brev</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg skriver et brev</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg skrev et brev</attrib>
+		</entry>
+		<entry id="e34000">
+			<attrib type="orth" author="741" lastmodified="1292546051">Verbmønster - modale hjelpeverb</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg kan skrive et brev </attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" author="2788" lastmodified="1232902101">Jeg kan skrive et brev</attrib>
+		</entry>
+		<entry id="e37000">
+			<attrib type="orth" author="2788" lastmodified="1232902332" variant="1">Jeg kunne skrevet et brev</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg kunne skive et brev</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" author="2788" lastmodified="1232902332" variant="1">Jeg kunne ha skrevet et brev</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg kunne skrevet et brev</attrib>
+		</entry>
+		<entry id="e39000">
+			<attrib type="orth" author="2788" lastmodified="1232902332" variant="1">Jeg kunne skrevet et brev</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg kunne skrive et brev</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg må skrive et brev</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg måtte skrive et brev</attrib>
+		</entry>
+		<entry id="e42000">
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg måtte ha skrevet et brev</attrib>
+		</entry>
+		<entry id="e43000">
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg må skrive et brev</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" author="2788" lastmodified="1232902332" variant="2">Jeg får lov til å skrive et brev</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg kan skrive et brev</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg fikk lov til å skrive et brev</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" author="2788" lastmodified="1232902332" variant="1">Jeg trenger å skrive et brev</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg må skriver et brev</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" author="2788" lastmodified="1232902332" variant="1">Jeg trengte å skrive et brev</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232902332">Jeg måtte skrive et brev</attrib>
+		</entry>
+		<entry id="e48000">
+			<attrib type="orth" author="741" lastmodified="1292546123">Verbmønster - Passiv</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" author="741" lastmodified="1292546497" variant="1">Brevet blir skrevet av meg</attrib>
+			<attrib type="orth" author="741" lastmodified="1292546497">Brevet er skrevet av meg</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" author="741" lastmodified="1292546497">Brevet ble skrevet av meg</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" author="741" lastmodified="1292546497" variant="1">Brevet er blitt skrevet av meg</attrib>
+			<attrib type="orth" author="741" lastmodified="1292546497">Brevet er skrevet av meg</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" author="741" lastmodified="1292546497">Brevet vil bli skrevet av meg</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" author="741" lastmodified="1292546497">Brevet ville være skrevet av meg</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" author="741" lastmodified="1292546497">Brevet ville bli skrevet av meg</attrib>
+		</entry>
+		<entry id="e55000">
+			<attrib type="orth" author="741" lastmodified="1292546497">Verbmønster - Imperativ</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" author="741" lastmodified="1292546497">Skriv et brev!</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" author="741" lastmodified="1292546497">Ikke skriv et brev!</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" author="741" lastmodified="1292546497">La oss skrive et brev!</attrib>
+		</entry>
+		<entry id="e61000">
+			<attrib type="orth" author="741" lastmodified="1292546624">La brevet bli skrevet!</attrib>
+		</entry>
+		<entry id="e62000">
+			<attrib type="orth" author="741" lastmodified="1292546624">Verbmønster - Konjunktiv, Tvil, Sikkerhet, Håp, Følelser</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" author="741" lastmodified="1292546624">Jeg tviler på at han skriver et brev</attrib>
+		</entry>
+		<entry id="e72000">
+			<attrib type="orth" author="741" lastmodified="1292546624">Verbmønster - partisipp</attrib>
+		</entry>
+		<entry id="e73000">
+			<attrib type="orth" author="741" lastmodified="1292546813">Mannen, som skriver et brev, kommer til å gå på postkontoret.</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" author="741" lastmodified="1292546813">Han er en forståelsesfull mann.</attrib>
+		</entry>
+		<entry id="e80000">
+			<attrib type="orth" author="741" lastmodified="1292546813">Beskjeden som ble fortalt, var sjokkerende.</attrib>
+		</entry>
+		<entry id="e81000">
+			<attrib type="orth" author="741" lastmodified="1292546813">Substantiverte verb</attrib>
+		</entry>
+		<entry id="e82000">
+			<attrib type="orth" author="741" lastmodified="1292546813">Lesningen var avslappende</attrib>
+		</entry>
+	</entries>
+</ulr>

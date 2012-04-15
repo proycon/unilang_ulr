@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="ro">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="aldaesme">Corbul şi Ulciorul</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="aldaesme">Un corb îşi foloseşte mintea pentru a îşi potoli setea.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="aldaesme">Un corb însetat a găsit un ulcior cu ceva apă în el, dar era aşa de puţină, încât oricât a încercat, nu a reuşit să ajungă la ea cu ciocul lui, şi se părea că va muri de sete cu remediul la vedere.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="aldaesme">În final găsi un plan inteligent. A început să arunce pietricele în ulcior, şi cu fiecare pietricică apa se ridica mai sus până în final a ajuns la gura ulciorului, şi pasărea cea deşteaptă a fost în stare să îşi potolească setea.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="aldaesme">Necesitatea este mama invenţiei.</attrib>
+		</entry>
+	</entries>
+</ulr>

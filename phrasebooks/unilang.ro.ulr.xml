@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="ro">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">da</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">nu</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">te rog</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">aici esti</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Mulţumesc</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Cu plăcere</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Scuză-mă</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">poate</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Salut/buna</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">La revedere/pa</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Bună ziua</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Bună dimineaţa</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Bună seara</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Noapte bună</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Bine ai venit</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">călatorie plăcută</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Vorbeşti...</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Vorbesc...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Nu vorbesc</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Vorbesc puţin...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">engleză</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">franceză</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">germană</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">spaniolă</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">portugheză</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">arabă</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">chineză</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindusă</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">rusă</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">italiană</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">olandeză</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norvegiană</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">suedeză</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">daneză</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">poloneză</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">japoneză</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indoneziană</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malaieza</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Înţelegi?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Mă întelegi?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Inţeleg</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Te înteleg</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Nu înţeleg</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Nu te înţeleg</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Poţi, te rog, să repeţi?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Poţi să repeţi puţin mai încet?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Poţi să scrii, te rog</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Nu ştiu cum se spune la asta</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Nu ştiu cuvântul  potrivit</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Ce ai spus?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Cum spui asta în... ?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Cum scrii asta?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Cum se pronunţă asta?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Poţi să îmi traduci asta?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">E bine cum am spus asta?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Conversatie de baza</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">ce (mai) faci?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Grozav</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Sunt bine</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Sunt bine</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Nu sunt prea bine</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Câţi ani ai?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Am ... ani</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Nu stiu</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Nu-mi place</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Sunt gata</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Să mergem</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Imi pare rau</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth"></attrib>
+		</entry>
+	</entries>
+</ulr>

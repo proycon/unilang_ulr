@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="milkmaid" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="ca" stats="6" />
+		<language lang="de" stats="6" />
+		<language lang="el" stats="6" />
+		<language lang="en" stats="6" />
+		<language lang="es" stats="6" />
+		<language lang="fi" stats="6" />
+		<language lang="gl" stats="6" />
+		<language lang="ms" stats="6" />
+		<language lang="nl" stats="6" />
+		<language lang="pl" stats="6" />
+		<language lang="ru" stats="6" />
+		<language lang="sv" stats="6" />
+		<language lang="bg" stats="6" />
+	</languages>
+	<authors>
+		<author id="Abagada (anglès) / Núria Harket (Català)" langs="ca" lastmodified="0" />
+		<author id="Nietoperz" langs="de" lastmodified="0" />
+		<author id="maribi" langs="el" lastmodified="0" />
+		<author id="Abavagada" langs="en,ms" lastmodified="0" />
+		<author id="Sapthan" langs="es" lastmodified="0" />
+		<author id="Liisi" langs="fi" lastmodified="0" />
+		<author id="Eva Moreda" langs="gl" lastmodified="0" />
+		<author id="aja" langs="nl" lastmodified="0" />
+		<author id="Zaduma" langs="pl" lastmodified="0" />
+		<author id="Kathy" langs="ru" lastmodified="0" />
+		<author id="Kess" langs="sv" lastmodified="0" />
+		<author id="9000" langs="bg" lastmodified="1246389136" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">milkmaid.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+	</entries>
+</ulr>

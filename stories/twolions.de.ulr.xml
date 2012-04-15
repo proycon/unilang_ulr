@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="twolions" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Schlupp">Geschichte von zwei Löwen</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Schlupp">Zwei Löwen fliehen aus einem Zoo und versuchen in Brasilien zu überleben</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Schlupp">Man sagt es gab zwei Löwen, die aus einem Zoo in Brasilien wegliefen. Während der Flucht, wählte jeder einen anderen Weg. Einer von ihnen ging in den Wald und der andere ging in die Stadt. Die Behörden suchten überall nach den Löwen, aber niemand fand sie. Sie sind einfach verschwunden.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Schlupp">Eine Woche, nachdem sie weg waren, kam der Löwe, der in den Wald gegangen war, selbst zurück. Er war mager, am verhungern und schwach. Der Zoodirektor überlegte, den Löwen zurück nach Afrika zu schicken. Niemand will einen zottigen Löwen sehen. Ein brasilianischer Abgeordneter brachte den Direktor dazu, den Löwen im Zoo zu behalten. Wissen Sie, brasilianische Abgeordnete vollbringen Wunder.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Schlupp">Acht Monate später erinnerte sich niemand an den Löwen, der in die Stadt gegangen war, bis man ihn fing. Er wurde in gutem gesundheitlichen Zustand zum Zoo zurückgebracht.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Schlupp">Als der Löwe seinen alten Freund traf, sagte er:</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Schlupp">Oh Mann, wie hast du es geschafft, in der Stadt zu leben und doch bei guter Gesundheit zu sein? Ich bin im Wald gewesen und konnte kein Futter finden. Wie bist du durchgekommen? Erzähl mir, wie du das geschafft hast!</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Schlupp">Der andere Löwe erklärte:</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Schlupp">Ich versteckte mich in einem öffentlichen Büro. Ich pflegte, einen Zivi pro Tag zu fressen. Niemand bemerkte ihre Abwesenheit.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Schlupp">Was? Warum bist du dann zurückgekommen? Hast du alle Zivis aufgefressen?</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Schlupp">Nein, nein, nein, nein... In Brasilien gibt es viele Zivis. Aber ich war dumm. Ich habe den Direktor gefressen...den Abteilungsleiter...andere Angestellte...und niemand bemerkte ihre Abwesenheit. Ich wurde gefangen, nachdem ich den Angestellten gefressen hatte, der fürs Kaffeeservieren zuständig war.</attrib>
+		</entry>
+	</entries>
+</ulr>

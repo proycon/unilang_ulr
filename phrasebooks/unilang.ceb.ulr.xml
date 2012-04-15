@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="ceb">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="lez">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="lez">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="lez">Dili</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="lez">Palihug</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="lez">Salamat</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="lez">Basig</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="lez">Maayong adlaw!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="lez">Maayong buntag!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="lez">Maayong gabi-i!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="lez">Dayun!</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="lez">Kasabot ba ka?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="lez">Kasabot ba ka sa ako?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="lez">Kasabot ko</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="lez">Kasabot ko sa imo</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="lez">Wala ko kasabot</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="lez">Wala  ko kasabot sa imo</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="lez">Pwede nimo usabon palihug?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="lez">Pwede ka muhinay lang ug istorya palihug?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="lez">Pwede nimo isulat palihug?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="lez">Wala ko kabalo unsaon na pag-ingon</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="lez">Unsa imong gi-ingon?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="lez">Unsaon na nimo pag-ingon sa...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="lez">Unsaon na nimo pag-sulat sa...?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="lez">Unsaon na nimo pag-litok?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="lez">Tama ba akong pagka-ingon?</attrib>
+		</entry>
+	</entries>
+</ulr>

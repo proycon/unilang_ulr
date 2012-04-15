@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="pt">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="16306" lastmodified="1243468900" complexlang="-BR">O Vento do Norte e o Sol</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="16306" lastmodified="1243468900" complexlang="-BR">O vento e o sol fazem uma competição.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="16306" lastmodified="1243468900" complexlang="-BR">Uma disputa surgiu entre o Vento Norte e o Sol, pois cada um se dizia mais forte que o outro. Finalmente eles concordaram em testar seus poderes em um viajante, para ver qual poderia fazê-lo tirar sua capa o mais rápido possível.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="16306" lastmodified="1243468900" complexlang="-BR">O Vento Norte tentou primeiro; e, reunindo toda a sua força para o ataque, rodopiou furiosamente sobre o homem, como se tentasse tomar a sua capa com um único esforço: mas quanto mais forte ele ventava, mais próxima de si o homem a enrolava.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="16306" lastmodified="1243468900" complexlang="-BR">Então chegou a vez do Sol. Primeiro ele iluminou gentilmente o viajante, que logo desabotoou sua capa e começou a caminhar com ela presa frouxamente na altura de seus ombros: então ele brilhou com toda a sua força, e o homem, antes de dar muitos passos, ficou feliz em tirar a capa completamente e terminar sua jornada mais levemente vestido.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="16306" lastmodified="1243468900" complexlang="-BR">A persuasão é melhor do que a força</attrib>
+		</entry>
+	</entries>
+</ulr>

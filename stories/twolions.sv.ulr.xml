@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="twolions" version="1.9" baselang="sv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Ngdawa">Historien om två lejon</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Ngdawa">Två lejon rymmer från en djurpark och försöker överleva i Brasilien</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Ngdawa">Det sägs att det var två lejon som rymde från en djurpark i Brasilien. Under flykten, valde var och en olika vägar att gå. En av dem gick till skogen och den andra till staden. Myndigheterna letade överallt efter lejonen men ingen kunde hitta dem. Dom hade helt enkelt försvunnit.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Ngdawa">En vecka efter att dom rymt, kom lejonen som rymt till skogen tillbaka av sig själv. Det var magert, utsvultet och svagt. Djurparksdirektören funderade på att skicka tillbaka lejonet till Afrika. Ingen vill see ett ovårdat lejon. Ett brasilianskt ombud fick direktören att bevara lejonet i djurparken. Du vet, brasilianska ombudsmän med makt jobbar mirakulöst.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Ngdawa">Åtta månader senare, ingen kom ihåg lejonet som hade gått mot stan tills det blev fånat. Det togs tillbaks till djurparken med god hälsa.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Ngdawa">När lejonet träffade sin gammla vän, sa det:</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Ngdawa">Wow, hur lyckades du leva i staden och ändå vara i god form? Jag var i skogen med kunde inte hitta någon mat. Hur klarade du det? Berätta hur du gjorde!</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Ngdawa">Det andra lejonet förklarade:</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Ngdawa">- Jag gömde in en offentlig byrå. Jag brukade äta en statstjänsteman per dag. Ingen märkte deras frånvaro.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Ngdawa">Va? Men varför kom du tillbaka? Åt du upp alla statstjänstemän?</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Ngdawa">- Nej, nej, nej, nej... I Brasilien finns det många statstjänstemän. Men jag var korkad. Jag år direktören... avdelningsföreståndaren... andra anställda... och ingen märkte av deras frånvaro. Jag fångades efter att jag ätit den anställde som ansvarade för att servera kaffe.</attrib>
+		</entry>
+	</entries>
+</ulr>

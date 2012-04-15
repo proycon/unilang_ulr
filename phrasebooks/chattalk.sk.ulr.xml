@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="sk">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="1149" lastmodified="1226655916">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="1149" lastmodified="1227103726">Táto frázová príručka vás naučí niekoľko užitočných fráz užitočných pri chatovaní</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Privítanie:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Ahoj</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Ahoj všetci</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Dobré ráno</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Dobré odpoludnie</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Dobrý večer</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Dobrú noc</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Ahojte všetci</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Začíname konverzovať</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="1149" lastmodified="1226655916">Čo nového?</attrib>
+			<attrib type="orth" author="1149" lastmodified="1226655916" variant="2">Čo nové?</attrib>
+			<attrib type="orth" author="1149" lastmodified="1226655916" variant="1">Čo je nové?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Čo sa deje?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="1149" lastmodified="1226656099">O čom hovoríte? </attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Ako sa máš? | Ako sa darí?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Ako sa máte?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Ako to ide?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Osobné otázky:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Odkiaľ si, {užívateľské meno}</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Si tu nový? | Si tu prvýkrát?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Akými jazykmi hovoríš?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="1149" lastmodified="1227103757">Kde v {krajina} žiješ?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Koľko máš rokov?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Aký jazyk sa učíš?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Predstavenie sa:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Pochádzam z {krajina} | Som z {krajina}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Hovorím {jazyk(y)} | Viem {jazyk(y)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Mojou rodnou rečou je {jazyk(y)} , plynule hovorím {jazyk(y)}, som pokročilý v {jazyk(y)} a trochu  {jazyk(y)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Prepáč, nehovorím {jazyk}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Učím sa| Chcem sa naučiť {jazyk(y)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Ukončenie konverzácie:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Rád (rada - female) som Ťa spoznal(a)</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Rád (rada - female) som si s tebou pohovoril(a)</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Musím už ísť</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Čas na večeru</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="1149" lastmodified="1226656410">Idem do postele</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="1149" lastmodified="1226656514">Musím ísť spať</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Rozlúčenie:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Udivíme sa neskôr</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Dovidenia zajtra</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Do skorého videnia</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="1149" lastmodified="1227103784">Dovidenia nabudúce</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Dobrú noc všetkým</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Ahojte všetci</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Hneď prídem</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Prídem neskôr</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Ostatné</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="1149" lastmodified="1226656515">Ďakujem | Vďaka</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="1149" lastmodified="1226656577">Veľakrát ďakujem</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="1149" lastmodified="1226656577">Prepáč | Prepáčte</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="1149" lastmodified="1226656577">lol  | rehot</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="1149" lastmodified="1226656577">hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="paul1" version="1.9" baselang="fr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Emandir">Paul 1</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Emandir">Paul part en voyage - 1</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Emandir">Paul part en voyage. Il a fait sa valise. Il a pris un taxi pour l'aéroport. Lorsqu'il est arrivé à l'aéroport, il est sorti du taxi. Il a porté ses bagages jusqu'au guichet. Il a donné son billet à la femme afin d'être enregistré.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Emandir">&quot;Vous n'avez qu'un sac ?&quot; lui a t-elle demandé.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Emandir">&quot;Oui&quot; lui a dit Paul. &quot;Rien qu'un sac.&quot;.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Emandir">La femme a vérifié son bagage. Elle lui a rendu son billet. &quot;Votre avion part de la porte numéro cinq,&quot; a-t-elle dit à Paul.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Emandir">&quot;Merci,&quot; a dit Paul. Paul est ensuite allé au contrôle des passeports.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Emandir">&quot;Passeport, s'il vous plait,&quot; a dit l'agent des passeports. Paul le lui a donné. L'agent a examiné le passeport. L'agent a regardé Paul. &quot;Combien de temps partez-vous?&quot; a demandé l'agent à Paul.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Emandir">&quot;Je pars pour trois semaines,&quot; a repondu Paul.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Emandir">L'agent a hoché la tête et tamponné le passeport. L'agent a donné son passeport à Paul. &quot;Bon voyage,&quot; a dit l'agent à Paul.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Emandir">&quot;Merci,&quot; a dit Paul. Paul est allé à la porte attendre son vol. Il a acheté un journal dans une boutique de souvenirs. Bientôt, son avion est arrivé. Paul a fait la queue avec son billet. Il a donné son billet à la préposée aux billets. Elle a déchiré une partie du billet et lui a rendu le talon. Paul est monté dans l'avion et a trouvé son siège. Il s'est assis et a attaché sa ceinture.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Emandir">Quelques minutes plus tard, une jeune femme s'est assise dans le fauteuil à côté du sien. Elle était très séduisante. Paul a souri et a observé sa chemise. Sur la chemise, en grosses lettres rouges, était écrit &quot;Unilang&quot;. Paul ne savait pas ce qu'était &quot;Unilang&quot;. &quot;Excusez-moi,&quot; a dit Paul à la femme. &quot;Qu'est-ce qu''Unilang'?&quot;.</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Emandir">La femme a regardé Paul.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Emandir">&quot;Vous ne savez pas ce qu'est 'Unilang' ?&quot; lui a-t-elle demandé.</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Emandir">Avant que Paul ne puisse répondre, un homme s'est arrêté derrière la femme. L'homme a regardé son billet puis a regardé le siège. &quot;C'est mon siège,&quot; a t-il dit à la femme.</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Emandir">La femme a regardé son billet. &quot;Vous avez raison,&quot; a-t-elle dit. &quot;Excusez-moi. Je me suis trompée&quot;. Elle s'est alors dirigée vers l'arrière de l'avion.</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Emandir">L'homme s'est assis à côté de Paul. Bientôt l'avion a commencé à se diriger vers la piste de décollage. L'avion s'est envolé.</attrib>
+		</entry>
+	</entries>
+</ulr>

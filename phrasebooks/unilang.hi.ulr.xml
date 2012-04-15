@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="hi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="mary">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="mary">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="mary">Haan /ji haan</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="mary">Nahin / ji nahin</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="mary">Krupya</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="mary">Aap  Idhar  hai</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="mary">Shukriya /Dhanyavaad</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="mary">tum swagat ho</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="mary">maaf  kijye</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="mary">shayaad</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="mary">Namaste / ji namaste</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="mary">Khuda hafiz (muslim)/ namaste(hindu)</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="mary">Subh  Din</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="mary">Subh  prabhat</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="mary">Subh shaam</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="mary">Subh Ratri</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="mary">namaskar/namaste</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="mary">subh safar kare</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="mary">kya aap ...bolte hai</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="mary">Main  (language) bolta(M)/bolti(F) hoon</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="mary">main bolta/ bolti  nahin</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="mary">Thodi si bolta/bolti hoon</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="mary">Angrazee</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="mary">franseesee</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="mary">German</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="mary">spanish</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="mary">Portugee</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="mary">Aarbee</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="mary">chinee</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="mary">Hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="mary">roosee</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="mary">italian</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="mary">Urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="mary">Farsee</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="mary">jaapaanee</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="mary">kya aap  samajhte hain?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="mary">kya aap mujhe samajhte hain</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="mary">Main samajhta(M)/samajhti(F) hoon</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="mary">Main tumhe samajhta/samajhti hoon</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="mary">Main nahin samajhta/samajhti hoon</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="mary">Main tumhe nahin samajta hoon</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="mary">krupya aap phir se kahiye</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="mary">krupya  aap zara aahista se bole</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="mary">krupya aap likhke de</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="mary">mujhe voh kaise bolna nahin aata hai</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="mary">Mujhe sahi shabd nahin aata hai</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="mary">Aapne Kya Kaha?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="mary">Aap voh  (language)mein kaise bolte hain</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="mary">Aap voh kaise likhte hain?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="mary">Aap voh kis tarha bolte hain</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="mary">kya aap mere liye  yeh anuvaad kar sakte hain</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="mary">Maine kya voh sahi kaha?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="mary">mool vaartalaap/sanwaad</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="mary">Aap  kaise hai?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="mary">main  bahut theek hoon</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="mary">main  theek hoon</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="mary">main theek hoon</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="mary">main kuch theek nahin hoon</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="mary">Aap ke/ki umar kya hai</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="mary">main (30) tees saal ka/ki hoon</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="mary">mujhe  nahin pata hai</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="mary">mujhe yeh nahin pasand hai</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="mary">main tayaar hoon</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="mary">Chalo chale</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="mary">mujhe maaf kar dijye OR mujhe maaf karo</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="mary">Aap ko cash se paise de?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="mary">Aapko credit card se paise de?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="mary">Aap leyenge</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="mary">Aap yeh traveler check  change karenge</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="mary">aap yeh change karenge</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="mary">Aap mujhe takriban kitna hoga batayenge?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="mary">Yahan lo mera card</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="mary">aap kitna commission lete hai?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="mary">Mujhe koi dollar/euros/pound change karwana hai</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="mary">exchange rate kya hai?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="mary">paise kahan change kar sakta hoon?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="mary">photocopy kahan bana sakta hoon?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="mary">sabse kareeb bank kahan hai?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="mary">mujhe kahan sign karna hai?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="mary">aap ke pas catalog hai?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="mary">mere pas appointment hai</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="mary">andar jaana ki kitni fees hai?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="mary">har din ka kitna paisa lagega?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="mary">har ghante ka kitna paisa lagega?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="mary">Har hafte ka kitna paisa lagega?</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="mary">kya aapke ek sanganak hai?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="mary">yeh hard drive bhara hua hai</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="mary">kya aapke ek modem hai</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="mary">kya main aapse ek email bhej sakta hoon</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="mary">kya main mera email likh sakta hoon</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="mary">kya main kuch chhap sakta hoon</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="mary">aapna pataa ka email kya hai</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="mary">mera pataa ka email ...hai</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="mary">Padhai</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="mary">aap kya padte hai?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="mary">Main [english] padta hoon</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="mary">Kanoon</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="mary">Dawaa</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="mary">arthshaastraa</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="mary">bhaashaaye</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="mary">ganeet</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="mary">bhautikee</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="mary">aap kaun si university mein padte hai?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="mary">Main {Bombay} university mein padta/padti hoon</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="mary">Mere pas aaj class hai</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="mary">aaj main free hoon</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="mary">aap high school mein hai kya?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="mary">main high school mein hoon</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="mary">mujhe class mein jana hai abhi</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="mary">Daktar ko boolao</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="mary">Ambulance  boolao</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="mary">Pulice ko boolao</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="mary">voh saans nahin leta hai</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="mary">voh bilkul nahin hill sakte hai?</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="mary">voh nahin roke</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="mary">usne bahut tez se chalayee</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="mary">usne apne aap ko jakhm kar liya (he has been wounded)</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="mary">main apna haath nahin utha sakta hoon</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="mary">main apna pair nahin hata sakta hoon</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="mary">kisine mera saman chura liya</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="mary">uss chor ko rooko</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="mary">mera passport chori ho gaya</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="mary">mere paise chori ho gayi</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="mary">Meri ghadi chori ho gayi</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="mary">sabse kareeb aspatal kahan hai</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="mary">sabse kareeb police adda kahan hai</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="mary"></attrib>
+		</entry>
+	</entries>
+</ulr>

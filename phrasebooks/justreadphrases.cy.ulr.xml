@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="cy">
+	<entries>
+		<entry id="1">
+			<attrib type="orth" author="11262" lastmodified="1243703624" variant="1">Rwy'n dy garu di</attrib>
+			<attrib type="orth" author="11262" lastmodified="1243703624">Dw i'n dy garu di
+</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="11262" lastmodified="1243703583">Cyrrhaedda'r storm y traeth</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="11262" lastmodified="1243703583">Gwêl hi aderyn bach</attrib>
+		</entry>
+	</entries>
+</ulr>

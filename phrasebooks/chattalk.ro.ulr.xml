@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="ro">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="15087" lastmodified="1235162328">salut</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Coming in:</attrib>
+			<attrib type="phon">Intrând:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Salut</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Bună tuturor</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Bună dimineaţa! | 'Neaţa!</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Bună ziua!</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Bună seara!</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Noapte bună!</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Salut!</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Starting a conversation:</attrib>
+			<attrib type="phon">Începând o conversaţie:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Ceva nou? | Noutăţi?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Care-i treaba? | Cum vă merge?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Despre ce vorbiţi? | Care-i topicul?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Ce mai faci? | Cum o duci?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Ce mai faceţi?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Cum merg treburile?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Personal questions:</attrib>
+			<attrib type="phon">Întrebări personale:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">De unde eşti, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Eşti nou aici? | Asta e prima ta vizită aici?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Ce limbi vorbeşti?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Unde locuieşti în {country}?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Câţi ani ai?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Ce limbi studiezi?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Talking about yourself:</attrib>
+			<attrib type="phon">Vorbind despre tine însuţiŞ</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Sunt din {country}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Vorbesc {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Vorbesc {language(s)} ca limbă maternă , {language(s)} fluent, {language(s)} la nivel intermediar, {language(s)} puţin.</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Îmi pare rău, nu vorbesc {language(s)}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Studiez | Aş vrea să învăţ {language(s)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Finishing a conversation:</attrib>
+			<attrib type="phon">Terminând o conversaţie:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Mi-a părut bine să te cunosc</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Mi-a făcut plăcere să vorbesc cu tine</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Trebuie să plec</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Vremea cinei</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Plec să dorm! | Mă duc la culcare.</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Trebuie să merg la somn</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Parting:</attrib>
+			<attrib type="phon">Plecând:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Ne vedem mai târziu!</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Ne vedem mâine!</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Pe curând!</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Pe data viitoare!</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Noapte bună tuturor!</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Pa, pa tuturor</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Mă întorc imediat!</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Mă întorc mai târziu!</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Xtras:</attrib>
+			<attrib type="phon">Altele:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Mulţumesc | Mersi</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Mulţumesc mult de tot!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Scuze!</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">hihihi... | LOL</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

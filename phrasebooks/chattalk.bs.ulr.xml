@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="bs">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Koljenovic M.">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Koljenovic M.">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="Koljenovic M.">Zdravo</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="Koljenovic M.">Pozdrav svima</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="Koljenovic M.">Dobro jutro</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="Koljenovic M.">Dobar dan</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="Koljenovic M.">Dobro vece</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="Koljenovic M.">Laku noc</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="Koljenovic M.">Zdravo</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="Koljenovic M.">Sta ima novo?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="Koljenovic M.">Sta ima?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="Koljenovic M.">O cemu pricate? | Koja je tema?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="Koljenovic M.">Kako si?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="Koljenovic M.">Kako ste?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="Koljenovic M.">Kako ide?</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="Koljenovic M.">Odakle si, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="Koljenovic M.">Da li si ti novi ovdje? | Je li ovo tvoj prvi put ovdje?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="Koljenovic M.">Koje jezike govoris?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="Koljenovic M.">Gdje zivis u {country}?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="Koljenovic M.">Koliko godina imas?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="Koljenovic M.">Koje jezike ucis?</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="Koljenovic M.">Ja sam iz {country}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="Koljenovic M.">Govorim {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="Koljenovic M.">Moj maternji jezik je  {language}, tecno govorim  {language(s)}, poprilicno dobro  {language(s)} i malo  {language(s)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="Koljenovic M.">Izvinite, ne govorim  {language}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="Koljenovic M.">Ucim | Zelim nauciti  {language(s)}</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="Koljenovic M.">Drago mi je da smo se upoznali</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="Koljenovic M.">Bilo je prijatno razgovarati sa tobom</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="Koljenovic M.">Moram ici</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="Koljenovic M.">Vrijeme je za veceru</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="Koljenovic M.">Vrijeme je za otici u krevet</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="Koljenovic M.">Moram ici spavati</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="Koljenovic M.">Vidimo se poslije</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="Koljenovic M.">Vidimo se sutra</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="Koljenovic M.">Vidimo se uskoro</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="Koljenovic M.">Vidimo se slijedeci put</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="Koljenovic M.">Laku noc svima</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="Koljenovic M.">Dovidjenja svima</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="Koljenovic M.">Odmah se vracam</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="Koljenovic M.">Vracam se kasnije</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Koljenovic M.">Hvala</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="Koljenovic M.">Hvala mnogo</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Koljenovic M.">Izvinite</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="Koljenovic M.">LOL</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="Koljenovic M.">HeHe :)</attrib>
+		</entry>
+	</entries>
+</ulr>

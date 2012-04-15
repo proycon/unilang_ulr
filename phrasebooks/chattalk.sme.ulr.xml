@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="sme">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Buorre iđit</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Buorre eahket</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Giitu</attrib>
+		</entry>
+	</entries>
+</ulr>

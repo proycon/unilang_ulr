@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="fi">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" lastmodified="1217778347">(Minä) olen iloinen</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" lastmodified="1217778347">(Minä) en ole iloinen.</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" lastmodified="1217778347">(Minä) olin iloinen.</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217778347">Hänkin on iloinen.</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" lastmodified="1217778347">Me molemmat olemme iloisia.</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" lastmodified="1217778347">Tulen iloiseksi.</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" lastmodified="1217778347">Jään iloiseksi.</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" lastmodified="1217778347">Olet joko rikas tai köyhä</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" lastmodified="1217778347">(Sinä) et ole iloinen etkä surullinen</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217778347">Tämä on iso puu.</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217778347">Tuo on iso puu.</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217778347">Tuo on se iso puu.</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217778347">Minun puutarhassa on iso puu.</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" lastmodified="1217778347">Annan varovasti isäni rahat vaaralliselle miehelle ennaltamäärätyllä aukiolla kirkon edessä.</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoitan kirjeen tänään.</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" lastmodified="1217778347">En kirjoita kirjettä tänäön.</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" lastmodified="1217778347">En kirjoita sitä kirjettä tänään.</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoitin kirjeen eilen.</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" lastmodified="1217778347">En kirjoittanut sitä kirjettä eilen.</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" lastmodified="1217778347">En kirjoittanut sitä kirjettä eilen.</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoitin kirjeen joka kuukausi.</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoitin kirjeen joka kuukausi / Tapanani oli kirjoittaa kirje joka kuukausi (in written language)</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoitan kirjeen huomenna.</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" lastmodified="1217778347">En kirjoita kirjettä huomenna.</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoittaisin kirjeen.</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoittaisin kirjeen jos minulla olisi lyijykynä.</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" lastmodified="1217778347">Olen kirjoittanut kirjeen.</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" lastmodified="1217778347">Olin kirjoittanut kirjeen</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoitin kirjettä.</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" lastmodified="1217778347">Voin kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" lastmodified="1217778347">Osaan kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e37000">
+			<attrib type="orth" lastmodified="1217778347">Voisin kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" lastmodified="1217778347">Voisin kirjoittanut kirjeen.</attrib>
+		</entry>
+		<entry id="e39000">
+			<attrib type="orth" lastmodified="1217778347">Voisin olla kirjoittamassa kirjettä.</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217778347">Minun täytyy kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" lastmodified="1217778347">Minun täytyi kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e42000">
+			<attrib type="orth" lastmodified="1217778347">Minun on täytynyt kirjoittaa kirje.</attrib>
+		</entry>
+		<entry id="e43000">
+			<attrib type="orth" lastmodified="1217778347">Minun täytyy olla kirjoittamassa kirjettä</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" lastmodified="1217778347">Saan kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="orth" lastmodified="1217778347">Saisin kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" lastmodified="1217778347">Minun täytyy kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" lastmodified="1217778347">Minun täytyi kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" lastmodified="1217778347">Kirje on minun kirjoittamani.</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" lastmodified="1217778347">Kirje oli minun kirjoittamani.</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" lastmodified="1217778347">Kirje tulee olemaan minun kirjoittamani</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" lastmodified="1217778347">Kirje tulisi olemaan minun kirjoittamani</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" lastmodified="1217778347">Kirje olisi ollut minun kirjoittamani</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoita kirje</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoittakaa kirje</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" lastmodified="1217778347">Älä kirjoita kirjettä</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" lastmodified="1217778347">Älkää kirjoittako kirjettä</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" lastmodified="1217778347">Kirjoitetaan kirje</attrib>
+		</entry>
+		<entry id="e61000">
+			<attrib type="orth" lastmodified="1217778347">Kirje kirjoitettakoon</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" lastmodified="1217778347">En usko hänen kirjoittavan kirjettä</attrib>
+		</entry>
+		<entry id="e64000">
+			<attrib type="orth" lastmodified="1217778347">En usko hänen kirjoittaneen kirjettä eilen</attrib>
+		</entry>
+		<entry id="e65000">
+			<attrib type="orth" lastmodified="1217778347">En usko hänen kirjoittaneen kirjettä joka päivä</attrib>
+		</entry>
+		<entry id="e66000">
+			<attrib type="orth" lastmodified="1217778347">En usko hänen kirjoittaneen kirjettä</attrib>
+		</entry>
+		<entry id="e67000">
+			<attrib type="orth" lastmodified="1217778347">En usko että hän tulee kirjoittamaan kirjettä</attrib>
+		</entry>
+		<entry id="e68000">
+			<attrib type="orth" lastmodified="1217778347">En usko että hän kirjoittaisi kirjettä</attrib>
+		</entry>
+		<entry id="e69000">
+			<attrib type="orth" lastmodified="1217778347">Olen varma, että hän kirjoittaa kirjettä.</attrib>
+		</entry>
+		<entry id="e70000">
+			<attrib type="orth" lastmodified="1217778347">Toivon, että hän kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e71000">
+			<attrib type="orth" lastmodified="1217778347">Olen iloinen, että hän kirjoittaa kirjeen.</attrib>
+		</entry>
+		<entry id="e73000">
+			<attrib type="orth" lastmodified="1217778347">Mies, joka on kirjoittamassa kirjettä, menee myöhemmin postiin</attrib>
+		</entry>
+		<entry id="e74000">
+			<attrib type="orth" lastmodified="1217778347">Mies, joka kirjoitti kirjeen eilen, on mennyt postiin.</attrib>
+		</entry>
+		<entry id="e75000">
+			<attrib type="orth" lastmodified="1217778347">Mies, joka kirjoittaa huomenna kirjeen, menee postiin.</attrib>
+		</entry>
+		<entry id="e76000">
+			<attrib type="orth" lastmodified="1217778347">Mies, joka kirjoittaisi kirjeen, menisi postiin.</attrib>
+		</entry>
+		<entry id="e77000">
+			<attrib type="orth" lastmodified="1217778347">Hän pelastaa minut vaarantaen henkensä</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" lastmodified="1217778347">Hän on ymmärtäväinen mies</attrib>
+		</entry>
+		<entry id="e80000">
+			<attrib type="orth" lastmodified="1217778347">Kerrottu viesti oli shokeeraava.</attrib>
+		</entry>
+		<entry id="e82000">
+			<attrib type="orth" lastmodified="1217778347">Lukeminen oli rentouttavaa.</attrib>
+		</entry>
+		<entry id="e84000">
+			<attrib type="orth" lastmodified="1217778347">Alan lukea kirjaani.</attrib>
+		</entry>
+		<entry id="e85000">
+			<attrib type="orth" lastmodified="1217778347">Jatkan kirjani lukemista</attrib>
+		</entry>
+		<entry id="e86000">
+			<attrib type="orth" lastmodified="1217778347">Lopetan kirjani lukemisen</attrib>
+		</entry>
+		<entry id="e87000">
+			<attrib type="orth" lastmodified="1217778347">Luin kirjani loppuun</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217778347">Tykkään kirjoittaa kirjeitä.</attrib>
+		</entry>
+		<entry id="e90000">
+			<attrib type="orth" lastmodified="1217778347">Päätin lukea kirjani.</attrib>
+		</entry>
+		<entry id="e91000">
+			<attrib type="orth" lastmodified="1217778347">Yritän näyttää mielipiteeni</attrib>
+			<attrib type="orth" lastmodified="1217778347" variant="1">Päätän että luen kirjani</attrib>
+		</entry>
+		<entry id="e92000">
+			<attrib type="orth" lastmodified="1217778347">En osaa päättää, pitäisikö hänen lukea kirjani.</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" lastmodified="1217778347">Mikä tuo on?</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" lastmodified="1217778347">Kuka tämä/tuo on?</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217778347">Missä hän on?</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" lastmodified="1217778347">Minne me menemme?</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" lastmodified="1217778347">Milloin me menemme?</attrib>
+		</entry>
+		<entry id="e99000">
+			<attrib type="orth" lastmodified="1217778347">Miten me menemme?</attrib>
+		</entry>
+		<entry id="e100000">
+			<attrib type="orth" lastmodified="1217778347">Paljonko vettä sinulla on?</attrib>
+		</entry>
+		<entry id="e101000">
+			<attrib type="orth" lastmodified="1217778347">Montako kaveria sinulla on?</attrib>
+		</entry>
+		<entry id="e102000">
+			<attrib type="orth" lastmodified="1217778347">Mistä väristä tykkäät?</attrib>
+		</entry>
+		<entry id="e104000">
+			<attrib type="orth" lastmodified="1217778347">En ymmärrä mitä näen.</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217778347">En tiedä missä asun.</attrib>
+		</entry>
+		<entry id="e106000">
+			<attrib type="orth" lastmodified="1217778347">En tiedä milloin tulen.</attrib>
+		</entry>
+		<entry id="e107000">
+			<attrib type="orth" lastmodified="1217778347">En tiedä miten selviän tästä onnettomuudesta.</attrib>
+		</entry>
+		<entry id="e109000">
+			<attrib type="orth" lastmodified="1217778347">Jos olisin rikas, ostaisin uusi auto.</attrib>
+		</entry>
+		<entry id="e110000">
+			<attrib type="orth" lastmodified="1217778347">Kun olen rikas, ostan uuden auton.</attrib>
+		</entry>
+		<entry id="e111000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, paitsi kun sataa vettä.</attrib>
+		</entry>
+		<entry id="e112000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, paitsi jos sataa vettä.</attrib>
+		</entry>
+		<entry id="e113000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, vaikka sataisi vettä</attrib>
+		</entry>
+		<entry id="e114000">
+			<attrib type="orth" lastmodified="1217778347">Sataa vettä, mutta menen juhliin siitä huolimatta</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, vaikka sataa vettä.</attrib>
+		</entry>
+		<entry id="e117000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, koska sataa vettä.</attrib>
+		</entry>
+		<entry id="e118000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, koska sataa vettä.</attrib>
+		</entry>
+		<entry id="e119000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin jotta voin juoda olutta.</attrib>
+		</entry>
+		<entry id="e120000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, niin sano minulle hei hei!</attrib>
+		</entry>
+		<entry id="e121000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin tanssimaan kavereideni kanssa.</attrib>
+		</entry>
+		<entry id="e123000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, mutta sataa vettä.</attrib>
+		</entry>
+		<entry id="e124000">
+			<attrib type="orth" lastmodified="1217778347">Menen juhliin, ja lisäksi syön siellä.</attrib>
+		</entry>
+		<entry id="e126000">
+			<attrib type="orth" lastmodified="1217778347">Juon teetä ennen kuin luen kirjani.</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" lastmodified="1217778347">Juon teetä sen jälkeen kun olen lukenut kirjani.</attrib>
+		</entry>
+		<entry id="e128000">
+			<attrib type="orth" lastmodified="1217778347">Juon teetä lukiessani kirjaani.</attrib>
+		</entry>
+		<entry id="e129000">
+			<attrib type="orth" lastmodified="1217778347">Juon teetä heti kun olen lukenut kirjani loppuun.</attrib>
+		</entry>
+		<entry id="e130000">
+			<attrib type="orth" lastmodified="1217778347">Juon teetä sillä luin kirjani loppuun.</attrib>
+		</entry>
+		<entry id="e131000">
+			<attrib type="orth" lastmodified="1217778347">Juon teetä, sitten luen kirjani loppuun.</attrib>
+		</entry>
+		<entry id="e132000">
+			<attrib type="orth" lastmodified="1217778347">Syön kunnes minua väsyttää.</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217778347">Olen se mies, joka ostaa omenan.</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217778347">Olen se nainen, joka ostaa omenan</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217778347">Näen sen miehen, jonka ostaa omenan</attrib>
+		</entry>
+		<entry id="e137000">
+			<attrib type="orth" lastmodified="1217778347">Näen sen miehen, jonka hänkin näkee.</attrib>
+		</entry>
+		<entry id="e138000">
+			<attrib type="orth" lastmodified="1217778347">Näen sen miehen, jolle annoin lahjan.</attrib>
+		</entry>
+		<entry id="e139000">
+			<attrib type="orth" lastmodified="1217778347">Näen sen miehen, jolta sain uutiset.</attrib>
+		</entry>
+		<entry id="e140000">
+			<attrib type="orth" lastmodified="1217778347">Näen sen naisen, jonka kanssa minulla oli tapaaminen</attrib>
+		</entry>
+		<entry id="e141000">
+			<attrib type="orth" lastmodified="1217778347">Näen omenan, joka haisee hyvältä</attrib>
+		</entry>
+		<entry id="e142000">
+			<attrib type="orth" lastmodified="1217778347">Omena, jonka näen, haisee hyvältä.</attrib>
+		</entry>
+		<entry id="e143000">
+			<attrib type="orth" lastmodified="1217778347">Omena, jota katsoin, haisee hyvältä</attrib>
+		</entry>
+		<entry id="e144000">
+			<attrib type="orth" lastmodified="1217778347">Omena, jonka mies ostaa, haisee hyvältä</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="orth" lastmodified="1217778347">Olen yhtä iso kuin sinä</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="orth" lastmodified="1217778347">Olen sinua älykkäämpi</attrib>
+		</entry>
+		<entry id="e148000">
+			<attrib type="orth" lastmodified="1217778347">Olen vähemmän älykäs kuin sinä</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="orth" lastmodified="1217778347">Olen älykkäin.</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" lastmodified="1217778347">Laulan niin kuin sinä</attrib>
+		</entry>
+		<entry id="e151000">
+			<attrib type="orth" lastmodified="1217778347">Laulan niin kuin sinä itket</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" lastmodified="1217778347">Annan lahjan sinulle</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217778347">Tämä on kaverini koira</attrib>
+		</entry>
+		<entry id="e156000">
+			<attrib type="orth" lastmodified="1217778347">Lintu on häkissään</attrib>
+		</entry>
+		<entry id="e157000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkissään</attrib>
+		</entry>
+		<entry id="e158000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkiinsä</attrib>
+		</entry>
+		<entry id="e159000">
+			<attrib type="orth" lastmodified="1217778347">Lentäjä lentää lentokoneellaan</attrib>
+		</entry>
+		<entry id="e160000">
+			<attrib type="orth" lastmodified="1217778347">Lintu istuu häkillään</attrib>
+		</entry>
+		<entry id="e161000">
+			<attrib type="orth" lastmodified="1217778347">Lintu istuu häkkinsä päällä</attrib>
+		</entry>
+		<entry id="e162000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkinsä yli</attrib>
+		</entry>
+		<entry id="e163000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkinsä ali</attrib>
+		</entry>
+		<entry id="e164000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkinsä yllä</attrib>
+		</entry>
+		<entry id="e165000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkinsä alla</attrib>
+		</entry>
+		<entry id="e166000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkinsä ympäri</attrib>
+		</entry>
+		<entry id="e167000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkinsä läpi</attrib>
+		</entry>
+		<entry id="e168000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää ulos häkistään</attrib>
+		</entry>
+		<entry id="e169000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkilleen</attrib>
+		</entry>
+		<entry id="e170000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää kohti häkkiään</attrib>
+		</entry>
+		<entry id="e171000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää pois häkiltään</attrib>
+		</entry>
+		<entry id="e172000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkinsä ohi</attrib>
+		</entry>
+		<entry id="e173000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää lentokoneen vierellä</attrib>
+		</entry>
+		<entry id="e174000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää häkkinsä lähellä</attrib>
+		</entry>
+		<entry id="e175000">
+			<attrib type="orth" lastmodified="1217778347">Lintu lentää kaukana häkiltään</attrib>
+		</entry>
+		<entry id="e177000">
+			<attrib type="orth" lastmodified="1217778347">Juon viiniä ennen illallista</attrib>
+		</entry>
+		<entry id="e178000">
+			<attrib type="orth" lastmodified="1217778347">Juon viiniä illallisen jälkeen</attrib>
+		</entry>
+		<entry id="e179000">
+			<attrib type="orth" lastmodified="1217778347">Juon viiniä illallisen aikana</attrib>
+		</entry>
+		<entry id="e180000">
+			<attrib type="orth" lastmodified="1217778347">Olen juonut viiniä illallisesta lähtien</attrib>
+		</entry>
+		<entry id="e181000">
+			<attrib type="orth" lastmodified="1217778347">Join viiniä viisi päivää sitten</attrib>
+		</entry>
+		<entry id="e182000">
+			<attrib type="orth" lastmodified="1217778347">Juon viiniä viiden minuutin päästä</attrib>
+		</entry>
+		<entry id="e183000">
+			<attrib type="orth" lastmodified="1217778347">Voin juoda viinilasini loppuun viidessä minuutissa</attrib>
+		</entry>
+		<entry id="e184000">
+			<attrib type="orth" lastmodified="1217778347">Tapaan sinut maanantaina tammikuussa.</attrib>
+		</entry>
+		<entry id="e186000">
+			<attrib type="orth" lastmodified="1217778347">Äitini puhuu minulle huoneeni siivoamisesta</attrib>
+		</entry>
+		<entry id="e187000">
+			<attrib type="orth" lastmodified="1217778347">Mitä tulee huoneeseeni, se on vielä siivoamaton</attrib>
+		</entry>
+		<entry id="e189000">
+			<attrib type="orth" lastmodified="1217778347">Äitini mukaan, minun pitäisi siivota huonettani</attrib>
+		</entry>
+		<entry id="e190000">
+			<attrib type="orth" lastmodified="1217778347">En siivonnut huonettani äitini varoituksesta huolimatta.</attrib>
+		</entry>
+		<entry id="e191000">
+			<attrib type="orth" lastmodified="1217778347">En siivonnut huonettani, päinvastoin kuin siskoni.</attrib>
+		</entry>
+		<entry id="e192000">
+			<attrib type="orth" lastmodified="1217778347">En siivonnut huonettani, paitsi työpöytäni</attrib>
+		</entry>
+		<entry id="e193000">
+			<attrib type="orth" lastmodified="1217778347">Siivosin huoneeni äitini kanssa.</attrib>
+		</entry>
+		<entry id="e194000">
+			<attrib type="orth" lastmodified="1217778347">Siivosin huoneeni ilman äitiäni</attrib>
+		</entry>
+		<entry id="e195000">
+			<attrib type="orth" lastmodified="1217778347">Siivosin huoneeni luudalla.</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" lastmodified="1217778347">Näen kaikki</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217778347">Näen jonkun</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" lastmodified="1217778347">En näe ketään</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217778347">Kukaan ei voi nähdä minua</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" lastmodified="1217778347">En näe ketään paitsi sinut</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217778347">Näen vain sinut.</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" lastmodified="1217778347">Näen kaikki miehet</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" lastmodified="1217778347">En näe yhtään miestä</attrib>
+		</entry>
+		<entry id="e205000">
+			<attrib type="orth" lastmodified="1217778347">Näen jokaisen miehen</attrib>
+		</entry>
+		<entry id="e206000">
+			<attrib type="orth" lastmodified="1217778347">Näen kaiken</attrib>
+		</entry>
+		<entry id="e207000">
+			<attrib type="orth" lastmodified="1217778347">Näen jotain</attrib>
+		</entry>
+		<entry id="e208000">
+			<attrib type="orth" lastmodified="1217778347">En näe mitään</attrib>
+		</entry>
+		<entry id="e209000">
+			<attrib type="orth" lastmodified="1217778347">En näe mitään muuta</attrib>
+		</entry>
+		<entry id="e210000">
+			<attrib type="orth" lastmodified="1217778347">En näe mitään enää</attrib>
+		</entry>
+		<entry id="e211000">
+			<attrib type="orth" lastmodified="1217778347">Mikään ei voi nähdä minua</attrib>
+		</entry>
+		<entry id="e212000">
+			<attrib type="orth" lastmodified="1217778347">Näen kaikki kirjat</attrib>
+		</entry>
+		<entry id="e213000">
+			<attrib type="orth" lastmodified="1217778347">En näe yhtään kirjaa</attrib>
+		</entry>
+		<entry id="e214000">
+			<attrib type="orth" lastmodified="1217778347">Näen jokaisen kirjan</attrib>
+		</entry>
+		<entry id="e215000">
+			<attrib type="orth" lastmodified="1217778347">Näen joitain kirjoja</attrib>
+		</entry>
+		<entry id="e216000">
+			<attrib type="orth" lastmodified="1217778347">Näen jonkin kirjan</attrib>
+		</entry>
+		<entry id="e217000">
+			<attrib type="orth" lastmodified="1217778347">En näe yhtään kirjaa</attrib>
+		</entry>
+		<entry id="e218000">
+			<attrib type="orth" lastmodified="1217778347">Näen kirjan kokonaan</attrib>
+		</entry>
+		<entry id="e220000">
+			<attrib type="orth" lastmodified="1217778347">Näen saman kirjan.</attrib>
+		</entry>
+		<entry id="e221000">
+			<attrib type="orth" lastmodified="1217778347">Näen sellaisen kirjan.</attrib>
+		</entry>
+		<entry id="e222000">
+			<attrib type="orth" lastmodified="1217778347">Saat valita mikä tahansa kirjan.</attrib>
+		</entry>
+		<entry id="e223000">
+			<attrib type="orth" lastmodified="1217778347">Kukaan ei voi nähdä minua</attrib>
+		</entry>
+		<entry id="e224000">
+			<attrib type="orth" lastmodified="1217778347">Olen etsinyt joka paikasta.</attrib>
+		</entry>
+		<entry id="e225000">
+			<attrib type="orth" lastmodified="1217778347">En ole etsinyt mistään</attrib>
+		</entry>
+		<entry id="e226000">
+			<attrib type="orth" lastmodified="1217778347">Olen etsinyt jostain</attrib>
+		</entry>
+		<entry id="e227000">
+			<attrib type="orth" lastmodified="1217778347">Me tapaamme joskus</attrib>
+		</entry>
+		<entry id="e228000">
+			<attrib type="orth" lastmodified="1217778347">Me tapaamme joskus</attrib>
+		</entry>
+		<entry id="e229000">
+			<attrib type="orth" lastmodified="1217778347">Me emme koskaan tapaa</attrib>
+		</entry>
+		<entry id="e230000">
+			<attrib type="orth" lastmodified="1217778347">Me tapaamme aina</attrib>
+		</entry>
+		<entry id="e231000">
+			<attrib type="orth" lastmodified="1217778347">Me tapaamme usein</attrib>
+		</entry>
+		<entry id="e232000">
+			<attrib type="orth" lastmodified="1217778347">Me tapaamme tavallisesti</attrib>
+		</entry>
+		<entry id="e233000">
+			<attrib type="orth" lastmodified="1217778347">Me tapaamme harvoin</attrib>
+		</entry>
+		<entry id="e235000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on paljon vettä</attrib>
+		</entry>
+		<entry id="e236000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on tarpeeksi vettä</attrib>
+		</entry>
+		<entry id="e237000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on liikaa vettä.</attrib>
+		</entry>
+		<entry id="e238000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on litra vettä</attrib>
+		</entry>
+		<entry id="e239000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on viisi pulloa vettä</attrib>
+		</entry>
+		<entry id="e240000">
+			<attrib type="orth" lastmodified="1217778347">Minullä on lisää vettä</attrib>
+		</entry>
+		<entry id="e241000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on vähemmän vettä</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on vain vettä</attrib>
+		</entry>
+		<entry id="e243000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on vettäkin</attrib>
+		</entry>
+		<entry id="e244000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on jo vettä</attrib>
+		</entry>
+		<entry id="e245000">
+			<attrib type="orth" lastmodified="1217778347">Minulla on vielä vettä</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="sr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Bugi">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Bugi">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Bugi">Волим те</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Bugi">Олуја је дошла до плаже</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Bugi">Ови људи чују гласан звук</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Bugi">Добијам црвену лампу</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Bugi">Она види птичицу</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Bugi">Ми налазимо стару зграду</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Bugi">Тражим своје кључеве</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Bugi">Додирујем твоју главу</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Bugi">Он жели нов бео ауто</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Bugi">Она отвара разбијени прозор</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Bugi">Јака девојка затвара тешка црна врата</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Bugi">Он решава ужасан проблем</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Bugi">Љути криминалац изгуби много вредног новца</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Bugi">Они пробају укусну храну</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Bugi">Полицајац има другачије мишљење</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Bugi">Колеге пију хладну кафу и врућ чај</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Bugi">Богата компанија продаје зелено поврће</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Bugi">Они купују десет нових књига</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Bugi">Боли га десно уво</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="Bugi">Познајем ону високу особу</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth" author="Bugi">Мршава госпођа прати свог дебелог шефа</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth" author="Bugi">Брзи компјутер мења своју боју</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="Bugi">Они бирају погрешан алат</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="Bugi">Ми захваљујемо досадним студентима</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth" author="Bugi">Њен муж ужива у вечери</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="Bugi">Она чита своје дневне новине</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="Bugi">Сироти човек носи прљаву одећу</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="Bugi">Јака животиња среће слабу рибу</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Bugi">Плаћам 200 евра/долара</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Bugi">Она воли лепи језик</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth" author="Bugi">Олуја достиже плажу</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth" author="Bugi">Људи граде ниску канцеларију</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Bugi">Он има плаве очи</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="Bugi">Данас пада снег</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="Bugi">Он ће постати важна особа</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="Bugi">Ја сам на мећународном ареодрому</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Bugi">Она има чисте руке</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Bugi">Он је млади дечак</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="Bugi">Она је доктор</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="Bugi">Ја остајем срећан</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth" author="Bugi">Ја постајем мокар од кише</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="Bugi">Коњ се плаши</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="Bugi">Бели пас је био изненађен</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth" author="Bugi">Савремено друштво је веома напредно</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="Bugi">Узрок колизије је непознат</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="Bugi">Дајем ти поклон</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="Bugi">Он ме пита тешко питање</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="Bugi">Ја примам поруку од своје мајке</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="Bugi">Ја пишем писмо свом оцу</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="Bugi">Они живе у малом граду</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="Bugi">Пас седи иза телевизора</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="Bugi">Мачка лежи на поду</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="Bugi">Деца се играју напоље</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="Bugi">Она прича о свом универзитету</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="Bugi">Они тихо напуштају собу</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="Bugi">Он одговара професору</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="Bugi">Ја ходам испред своје куће</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="Bugi">Она спава у свом кревету</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="Bugi">Авион лети изнад планина</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth" author="Bugi">Ми трчимо кроз велику башту</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" author="Bugi">Књига је на столу</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth" author="Bugi">Ја улазим у радњу са тобом</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth" author="Bugi">Ја идем возом у град</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth" author="Bugi">Дрво расте брзо</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" author="Bugi">Он ради у малој фабрици</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth" author="Bugi">Глупи председник пада на нос</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" author="Bugi">Ми сигурно верујемо у Бога</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth" author="Bugi">Ја се жалим на цену</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth" author="Bugi">Она баца скупу лопту ка мени</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth" author="Bugi">Болесни деда умире близу болнице</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth" author="Bugi">Ја разумем реченице на овој страни</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth" author="Bugi">Баба прича детету занимљиву причу</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" author="Bugi">Ми се надамо да он пуно учи</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth" author="Bugi">Он држи нож у својој левој руци</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth" author="Bugi">Наше одредиште се налази имеђу два језера</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth" author="Bugi">Он кува основно јело за своју пријатељицу</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth" author="Bugi">Девојка изгледа прелепо увече</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="Bugi">Насилна животиња је изашла из свог кавеза</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="Bugi">Упоређујем наше законе са вашим законима</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth" author="Bugi">Возим ка нашем главном граду на истоку</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth" author="Bugi">Мртви људи се сахрањују дубоко испод земље</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="Bugi">Свештеник/имам/рабин стоји испод ведрог облака</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth" author="Bugi">Птичица изнад моје главе лети поред својих родитеља</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth" author="Bugi">Ова вода доспева из удаљеног места</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="Bugi">Пуно размишљам о животу</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth" author="Bugi">Када долази твој пријатељ?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth" author="Bugi">Колико тога памтиш</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth" author="Bugi">Колико ће ти људи помоћи</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth" author="Bugi">Зашто крадеш ове ствари?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="Bugi">Колико имаш година?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth" author="Bugi">Како се прави овај производ?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth" author="Bugi">Ко је најинтелигентнији човек на свету?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth" author="Bugi">Шта се открива у мору?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth" author="Bugi">Који сендвич више волиш?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth" author="Bugi">Одакле си?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" author="Bugi">Куда идеш?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth" author="Bugi">Да ли радња постоји?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth" author="Bugi">Који је разлог за ову истрагу?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth" author="Bugi">Који аутобуси су спремни за полазак?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth" author="Bugi">Само хоћу нешто да једем</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth" author="Bugi">Никад не сањам</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth" author="Bugi">Он увек стиже рано</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth" author="Bugi">Он је понекад у праву</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="Bugi">Ми не добијамо ништа</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth" author="Bugi">Ми се обично боримо против наших непријатеља</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth" author="Bugi">Они често губе у овој игри</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth" author="Bugi">Желим да је већ сутра</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth" author="Bugi">Има много звезда у свемиру</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth" author="Bugi">Он често показује своје голо тело</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth" author="Bugi">Ми ретко сакривамо своје идеје</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth" author="Bugi">Он се смеје неким шалама</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" author="Bugi">Гледам свугде</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth" author="Bugi">Он се не плаши никога</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth" author="Bugi">Она плеше са неким на улици</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth" author="Bugi">Можеш изабрати било шта што желиш</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth" author="Bugi">Нудим ти бесплатно цвеће</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth" author="Bugi">Он је певао док су његови родитељи слушали</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth" author="Bugi">Јели смо пошто смо отишли у биоскоп</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth" author="Bugi">Видели смо хотел пре него што су они могли да га виде</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth" author="Bugi">Можеш да очистиш ову собу пре него што се власник врати</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth" author="Bugi">Покушавам да будем заинтересовам за политику, зато што морам да гласам следећег месеца</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth" author="Bugi">Ова чаша је празна, али она друга чаша је пуна</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth" author="Bugi">Они ћуте тако да их нико не би приметио</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth" author="Bugi">Дозволићу ти да то урадиш, иако ми брат забрањује</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth" author="Bugi">Уморна сам,па зато нећу устати</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth" author="Bugi">Прошло је доста времена од нашег последњег виђања</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth" author="Bugi">Нисам се чуо са њом од јутрос</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth" author="Bugi">Волим овај крај због његове задивљујуће прошлости</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth" author="Bugi">Ова вода долази са удаљеног места</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth" author="Bugi">Одморио сам се током празника</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth" author="Bugi">Чекам да моја сестра дође</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth" author="Bugi">Он доказује да је у праву</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth" author="Bugi">Ми верујемо да то није могуће</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth" author="Bugi">Она се осмехује, он је љуби</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth" author="Bugi">Још увек се не слажемо са његовим решењем</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" author="Bugi">Знам шта мислиш</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth" author="Bugi">Жена зна како да пече хлеб</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth" author="Bugi">Магу да видим неколико речи</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth" author="Bugi">Ја сам већи од тебе</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth" author="Bugi">Он је мали као ти</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth" author="Bugi">Он почиње да мрзи своју школу</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth" author="Bugi">Настављамо свој посао</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth" author="Bugi">Спремају се да напусте брод</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth" author="Bugi">Морам да заборавим шта сам видео</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth" author="Bugi">Ако прихватиш то чудно објашњење, ти си глуп човек</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth" author="Bugi">Поново понављам мој закључак</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth" author="Bugi">Учим ученике како да броје до десет</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth" author="Bugi">Можеш ли да преведеш овај текст на енглески?</attrib>
+		</entry>
+	</entries>
+</ulr>

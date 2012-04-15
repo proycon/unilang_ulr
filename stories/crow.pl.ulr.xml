@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="pl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma">Wrona i Dzban</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma">Wrona główkuje jak się napić.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Zaduma">Spragniona Wrona znalazła Dzban z wodą, ale wody było tak mało, że, mimo iż starała się jak tylko mógła, nie dała rady sięgnąć swoim dziobem i wydawało się, że umrze z pragnienia, mając blisko to, czego potrzebuje.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Zaduma">W końcu wymysliła sprytny plan. Zaczęła wrzucać kamyczki do Dzbana a z każdym kamyczkiem woda podnosiła się wyżej, aż w końcu doszła do brzegów, a mądra wrona mogła zaspokoić pragnienie.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Zaduma">Potrzeba jest matką wynalazków.</attrib>
+		</entry>
+	</entries>
+</ulr>

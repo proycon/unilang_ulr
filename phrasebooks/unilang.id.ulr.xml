@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="id">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Pernyataan-Pernyataan Umum</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ya</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Tidak</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Silakan (to others); tolong (for self); mohon; harap</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Inilah dia</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Terima kasih | Makasih (informal)</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kembali; sama-sama</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Maaf (sorry); permisi (to pass)</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Barangkali | Mungkin</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Halo | Hai</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Selamat jalan! (leaving for a short time); Mari; Selamat tinggal! (leaving forever/long time)</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Selamat siang!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Selamat pagi!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Selamat sore!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Selamat malam!; Selamat tidur! (before sleeping)</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Selamat datang!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Semoga perjalanan Anda menyenangkan!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Memahami sesama</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda bisa berbicara [Bahasa]...</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya berbicara [Bahasa]...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak bisa berbicara [Bahasa]...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya hanya bisa berbicara sedikit [Bahasa]...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Inggris</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Perancis</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Jerman</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Spanyol</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Portugis</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Arab</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Cina</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Rusia</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Italia</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Belanda</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Norwegia</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Swedia</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Denmark</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Polandia</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Jepang</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Indonesia</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bahasa Melayu</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda mengerti?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda memahami perkataan saya?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mengerti</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mengerti apa yang Anda katakan</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak mengerti</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak mengerti apa yang Anda katakan</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Maukah / Bisakah Anda mengulanginya?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Maukah / Bisakah Anda berbicara lebih lambat?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Maukah / Bisakah Anda menuliskannya?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak tahu bagaimana mengatakan itu</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak tahu kata yang tepat</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apa yang Anda katakan?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana Anda mengatakan itu dalam [Bahasa]... ?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana Anda menulis itu?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana Anda mengucapkan itu?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah Anda menerjemahkan ini untuk saya?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah saya mengatakannya dengan benar?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Percakapan Dasar</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana kabar Anda?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya baik sekali!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya baik-baik (saja)</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya lumayan baik; Lumayan</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak begitu baik</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapakah umur Anda?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya berumur .... tahun</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak tahu</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak suka itu</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya siap</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Mari pergi!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Maafkan saya</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisnis &amp; Keuangan</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah saya membayar tunai?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah saya membayar dengan kartu kredit?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda menerima...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah Anda menukarkan cek turis ini?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah saya menukarkan ini ke...?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah Anda memberikan saya perkiraan harganya?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini kartu saya.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapa komisi yang Anda kenakan?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mau menukarkan sejumlah dolar/euro/pound.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapakah kursnya?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapakah angka inflasinya?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di manakah saya dapat menukarkan uang?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di manakah saya dapat memfotokopi?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di manakah bank terdekat?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di mana saya harus tanda tangan?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda mempunyai katalog?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mempunyai janji dengan...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapakah biaya masuknya?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapakah biayanya per hari?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapakah biayanya per jam?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapakah biayanya per minggu?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah ini gratis?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Komputer &amp; Internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda mempunyai komputer?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kandar keras ini penuh</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda mempunyai modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda mempunyai sambungan internet?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bolehkah saya mengirim pos-el (email)?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bolehkah saya membaca pos-el saya?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bolehkah saya mencetak sesuatu?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bolehkah saya memindai sesuatu?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Komputer saya ngadat (rusak)</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda perlu memulai ulang</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah saya memasang (menginstal)...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Boleh saya tahu alamat pos-el Anda?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Alamat pos-el saya...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda mempunyai sebuah halaman web?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apa alamatnya?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Pendidikan</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah yang Anda pelajari?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya belajar...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">hukum</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">ilmu kedokteran (doctor); obat-obatan (drugs)</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">ekonomi</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">bahasa</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">ilmu bahasa; linguistik</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">matematika</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">ilmu kimia</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">ilmu fisika</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">teknologi informasi</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di universitas mana Anda belajar?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya belajar di...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya ada kelas hari ini</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya bebas hari ini</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda di sekolah menengah?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya di sekolah menengah</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya harus ke kelas sekarang</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Darurat</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Panggil dokter!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Panggil ambulans!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Panggil polisi!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia tak bernapas.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia tidak bisa bergerak.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia tidak berhenti.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ia berlari menabrak saya.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ia mengemudi terlalu kencang.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ia melukai dirinya.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak bisa menggerakkan lengan saya.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak bisa menggerakkan kaki saya.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya telah dirampok.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Hentikan / cegat penjahat itu!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Paspor saya telah dicuri.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Uang saya telah dicuri.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Mobil saya telah dicuri</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ada kebakaran!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di manakah rumah sakit terdekat?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di manakah kantor polisi terdekat?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Emosi dan Opini</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda suka itu?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka itu</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya senang</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya marah (not likely to say culturally)</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya kecewa</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya puas</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya capai / lelah</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya takut</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya merasa hangat</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya kedinginan</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mengantuk</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kami/Kita* suka di sini</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini (sangat) menarik</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kami rasa ini sangat menarik</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini (sangat) membosankan</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini indah</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia tampan (sekali) / Dia (sangat) tampan</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia cantik (sekali) / Dia (sangat) cantik</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia [laki-laki] seksi!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia [perempuan] seksi!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia sangat ramah</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Lihatlah!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dengarlah!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Keren!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Mengagumkan!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Makanan &amp; Restoran / Rumah Makan</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya lapar</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya haus</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana kalau kita pesan makanan?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana kalau kita pesan minuman?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya sesuatu untuk dimakan?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda ada sesuatu untuk diminum?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda mau makan sesuatu?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Maukah Anda saya ambilkan makanan?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda mau minum sesuatu?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mau minum...., terima kasih</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">secangkir kopi</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">secangkir teh</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">segelas bir</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">segelas anggur</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">segelas anggur merah</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">segelas anggur putih</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">segelas jus jeruk</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">segelas jus apel</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Maukah Anda saya ambilkan minuman?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Minuman apa yang Anda mau?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda mau makan apa?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana sebaiknya menurut Anda?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah saya melihat menunya?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah saya melihat daftar minuman anggurnya?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mau ini, terima kasih</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Mau makanan pembuka?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mau makanan pembuka, terima kasih</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya pesan ikan, terima kasih</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya pesan daging</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya pesan daging babi</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mau salad</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mau sop</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mau suatu makanan vegetarian</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Mau makanan pencuci mulut?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Untuk pembuka, saya pesan...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Untuk santapan utama saya pesan...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Untuk pencuci mulut saya pesan...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisa saya pesan ini dengan gorengan/nasi/kentang?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisa saya pesan ini tanpa ...... ?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisa saya pesan hanya porsi kecil?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Salad apa yang Anda sediakan?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Tidak lagi, terima kasih</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini untuk dibawa pulang</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya vegetarian</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya vegan</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak boleh memakan itu</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah ini mengandung ..... ?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(banyak) garam</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(banyak) gula</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(banyak) lemak</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">daging apa saja</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">hidangan laut apa saja</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">ikan apa saja</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">produk susu apapun</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak minum (alkohol)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak punya garpu</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak punya pisau</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak punya sendok</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ada gelas hilang (loss) / gelasnya tak ada (no glass)</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ada piring hilang (loss) / piringnya tak ada (no plate)</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini tidak bersih</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini terlalu dingin</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini terlalu pedas (hot), Ini terlalu berbumbu (too much spice)</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini bukan pesanan saya</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ada kesalahan di sini</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Makanannya enak / lezat</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Tolong, saya ingin membayar</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisakah saya minta bonnya / tagihannya?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kami ingin membayar terpisah</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Semuanya termasuk?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah biaya tipnya termasuk?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda suka memasak?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Siapa yang akan memasak malam ini?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Haruskah (Bagaimana kalau) saya memasak malam ini?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apa yang harus / sebaiknya saya buat?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda mau segelas kopi?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda mau secangkir teh?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kesehatan &amp; Penyakit</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya sakit</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya terkena flu</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya terserang pilek</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya alergi</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya diabetes / kencing manis.</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya sedang kesakitan.</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak enak badan</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya memakai pil.</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya hamil / mengandung (more polite).</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak bisa makan.</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak bisa tidur.</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tak mau apapun yang terlalu kuat.</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya pusing.</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mual</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Gigi saya patah</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya terserang batuk</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya sakit kepala</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya sakit perut</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dada saya terasa sakit</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya infeksi</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya telah disengat</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya kena gigitan</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda dalam kesakitan?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini sakit?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah sakit saat saya lakukan ini?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda minum obat?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Suhu Anda berapa?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda bisa berjalan?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya perlu kursi roda</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya memakai kursi roda</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di manakah apotik/toko obat terdekat?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisa saya beli tanpa resep?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya sesuatu untuk sengatan serangga?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya sesuatu untuk sengatan matahari?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya resep dari dokter.</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya perlu sesuatu untuk ....</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Seberapa sering saya harus minum ini?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kegemaran / Hobi</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apa saja kegemaran Anda?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apa yang Anda lakukan di waktu luang?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda suka membaca?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak suka membaca</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka membaca</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka memasak</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka mendengarkan musik</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka bermain piano</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka bermain gitar</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka menyanyi</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka bermain catur</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka bepergian</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka berwisata</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka berbelanja</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka berkebun</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka menonton TV</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka berselancar ria di internet</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Musik jenis apa yang Anda suka?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka musik klasik</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka musik pop</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka opera</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka tekno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya suka 'hard rock'</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apa saja band favorit Anda?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Yang mana yang lebih Anda sukai?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya lebih suka ......</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Memperkenalkan Satu Sama Lain</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Nama saya .....</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Siapa nama Anda?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya ......</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Siapakah Anda?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Boleh saya perkenalkan Anda dengan ..... ?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya akan perkenalkan Anda dengan .....</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini istri saya</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini suami saya</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini pacar (closer rel.) / teman (friend) [perempuan] saya</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini pacar (closer rel.) / teman (friend) [laki-laki] saya</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini teman saya</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini anak laki-laki saya</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini anak perempuan saya</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini ibu saya</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini ayah saya</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Senang bertemu Anda</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Rencana &amp; Janji</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda bebas hari ini / besok / sore (malam) ini ?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya sudah punya rencana</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya akan pergi [ke bioskop] or [menonton]</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya akan pergi ke teater (musical/cultural attraction); bioskop (general movies)</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya akan pergi ke museum</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda ingin pergi bersama saya malam ini?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya senang sekali</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya karcis / tiket?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya dua tiket untuk ......</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak suka musik</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Musiknya terlalu keras</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Terlalu ramai di sini</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana kalau kita ke tempat lain?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Sebaiknya kita nonton apa?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda film tadi?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Politik</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tertarik dengan politik</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tak tertarik dengan politik</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda pemerintahnya (other country) pemerintah kita (our country)?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda mengenai raja/ratu?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda mengenai presidennya?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda tentang perdana menteri?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda tentang kebebasan berpendapat?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda tentang militer?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda tentang demokrasi?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda tentang HAM? (Hak Asasi Manusia)</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda tentang hak asasi wanita?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bagaimana menurut Anda tentang hak-hak transseksual?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah Anda anggota partai politik?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kapankah Pemilu? (Pemilihan Umum)</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Siapa yang Anda pilih/coblos terakhir kali?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Siapa yang akan Anda pilih/coblos?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya adalah ......</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) komunis</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) kapitalis</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) demokrat</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) demokrat kristen</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) republikan</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) sayap kiri</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) nasionalis</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) sosialis</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) libertarian (pro kemerdekaan)</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">(seorang) fasis</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Relasi &amp; Keluarga</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda sudah menikah?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya sudah menikah</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya belum menikah</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya pacar?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya pacar?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya pacar</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya pacar</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapa umurnya?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dia ... tahun</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apa yang dia lakukan untuk mencari nafkah?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya anak?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak punya anak</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya seorang anak / satu anak laki-laki / satu anak perempuan</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya dua anak</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya punya tiga/empat/lima/enam/tujuh anak</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapa saudara kandungmu? | Berapa saudara laki-laki dan perempuanmu?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah ibu Anda masih hidup?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah ayah Anda masih hidup?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah nenek Anda masih hidup?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apakah kakek Anda masih hidup?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Agama</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda agamais / religius?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tidak agamais / religius</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya atheis</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya agnostik</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya muslim</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya orang Yahudi</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya budhis</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya hindu</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya katolik</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya kristen</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di mana bisa saya temukan gereja?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di mana bisa saya temukan masjid?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di mana bisa saya temukan sinagoga?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di mana bisa saya temukan pura (hindu) / wihara (buddha)?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Puji Tuhan</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Jika Tuhan berkeinginan</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ya Tuhan(ku)!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Tempat Tinggal, Mengunjungi &amp; Akomodasi</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dari manakah Anda? | Dari negara manakah Anda?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya dari .....</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Prancis</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Britania, Britania Raya, Inggris</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Spanyol</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Jerman</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Amerika Serikat (AS)</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">China</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Brasil</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Jepang</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Rusia</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kanada</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Australia</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Apa kewarganegaraanmu?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya .....</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang Inggris</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang Prancis</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang Jerman</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang Amerika</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang China (Tionghoa)</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang Jepang</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang Rusia</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang Brasil</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">orang Kanada</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda dari mana? | Anda tinggal di kota apa?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tinggal di London/Paris/Berlin</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Dekatkah itu ke ......?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Jauhkah itu dari ......?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tinggal dekat dengan ......</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya tinggal jauh dari ......</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda menginap di mana?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya menginap di Hotel .......</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapa lama Anda akan berada di sini?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kapan Anda pulang / kembali?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kapan Anda tiba?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda di sini sendirian?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya di sini sendirian</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya di sini dengan keluarga</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda tinggal di sini?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya bukan dari sini</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bisa kita berkemah di sini?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya lowongan?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Anda punya ruang untuk sebuah tenda?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berapa per malam?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kami mau menginap seminggu.</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di manakah pancuran?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Di manakah toilet?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Saya mau ruangan tunggal</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Berbelanja</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Melihat Pemandangan</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Merokok</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Olahraga</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Waktu</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Hari apakah ini?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini ......</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Hari apakah kemarin?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kemarin hari ......</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Hari apa besok?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Besok hari ......</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Senin</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Selasa</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Rabu</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Kamis</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Jum'at</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Sabtu</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Minggu</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bulan apa ini?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini bulan ......</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bulan lalu .....</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Bulan depan .....</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Januari</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Pebruari</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Maret</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">April</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Mei</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Juni</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Juli</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Agustus</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">September</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Oktober</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Nopember</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Desember</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Jam berapa ini?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini jam/pukul delapan</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini setengah sembilan | Ini delapan tigapuluh</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini delapan lima belas</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini delapan empat puluh lima</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Ini delapan sepuluh</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="bluechiron, edsmedia (completion), halo-id *previously edsmedia*">Cuaca</attrib>
+		</entry>
+	</entries>
+</ulr>

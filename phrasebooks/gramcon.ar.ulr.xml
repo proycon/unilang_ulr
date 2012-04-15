@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="ar">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" lastmodified="1217790006">انا سعيدٌ</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" lastmodified="1217790006">لَسْتُ سعيدا</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" lastmodified="1217790006">كنتُ سعيدا</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217790006">هي سعيدة اَيْضًا</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" lastmodified="1217790006">كلانا سعيدان</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" lastmodified="1217790006">أغدو/أصبح/أمسي سعيد</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="comment" lastmodified="1217790006">This might be incorrect and has to be verified still!</attrib>
+			<attrib type="orth" lastmodified="1217790006">أنا سعيد</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" lastmodified="1217790006">انت اما غني او فقير</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" lastmodified="1217790006">انت لست سعيدا و لا حزينا</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217790006">هده شجرةٌ كبيرةٌ</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217790006">تلك شجرةٌ كبيرةٌ</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217790006">تلك الشجرةٌ الكبيرةٌ</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217790006">هناك شجرة كبيرة في حديقتي</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" lastmodified="1217790006">بكل حذر, أعطيت الرجل الخطير نقود والدي في المكان المحدد أمام الكنيسة</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" lastmodified="1217790006">أكتب رسالةً اليوم</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" lastmodified="1217790006">لا أكتب الرسالة اليوم</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" lastmodified="1217790006">لا أكتب رسالةً اليوم</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217790006">كتبت رسالة امس</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" lastmodified="1217790006">ما كتبت رسالة امس</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">لم أكتبْ رسالة امس</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" lastmodified="1217790006">ما كتبت الرسالة امس</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">لم أكتبْ الرسالة امس</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" lastmodified="1217790006">كتبت رسالة كلَّ شهرٍ</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" lastmodified="1217790006">كتبت رسالة الا كلّ شَهْرٍ</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" lastmodified="1217790006">سأكتب رسالةً غدا</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" lastmodified="1217790006">لن أكتب رسالةً غدا</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" lastmodified="1217790006">سأكْتُبُ رسالة</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" lastmodified="1217790006">لكتبت رسالة لو كان لدي قلم</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" lastmodified="1217790006">كتبْتُ رسالةً</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" lastmodified="1217790006">كتبت رسالة</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" lastmodified="1217790006">ٍانا كَاتِبُ رسالة</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" lastmodified="1217790006">كنت اكتب رسالة</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" lastmodified="1217790006">يمكنني انْ أكتبَ رسالة</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" lastmodified="1217790006">أعرف كيفية كتابة الرسائل</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217790006">وجب عليَّ أنْ أكتبَ رسالةً</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" lastmodified="1217790006">وجب/لزم عَلَيَِّ أن أكتب رسالة</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" lastmodified="1217790006">يمكن أن أكتب رسالة</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">مسموح لي أن أكتب رسال</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" lastmodified="1217790006">يجب أن أكتب رسالة</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" lastmodified="1217790006">كُتِبَت الرسالة بخط يدي</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" lastmodified="1217790006">كُتِبَت الرسالة بخط يدي</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" lastmodified="1217790006">كُتِبَت الرسالة بخط يدي</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" lastmodified="1217790006">ستُكتَبُ الرسالة بخط يدي</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" lastmodified="1217790006">ستُكتَبُ الرسالة بخط يدي</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" lastmodified="1217790006">ستُكتَبُ الرسالة بخط يدي</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" lastmodified="1217790006">أكْتُبْ رسالة</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" lastmodified="1217790006">أكْتُبْ رسالة</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" lastmodified="1217790006">لا تَكْتُبْ رسالة!</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" lastmodified="1217790006">لا تَكْتُبْ رسالة!</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" lastmodified="1217790006">!فلنكتب رسالة</attrib>
+		</entry>
+		<entry id="e61000">
+			<attrib type="orth" lastmodified="1217790006">فلتُكْتَب الرسالة</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" lastmodified="1217790006">أشك في أن يكتبَ رسالة</attrib>
+		</entry>
+		<entry id="e64000">
+			<attrib type="orth" lastmodified="1217790006">أشك في انه كتب رسالة امس</attrib>
+		</entry>
+		<entry id="e65000">
+			<attrib type="orth" lastmodified="1217790006">أشك في أنه يكتبُ رسالة بشكل يومي</attrib>
+		</entry>
+		<entry id="e66000">
+			<attrib type="orth" lastmodified="1217790006">أشك في انه كتب رسالة</attrib>
+		</entry>
+		<entry id="e67000">
+			<attrib type="orth" lastmodified="1217790006">أشك في انه سيكتبُ رسالة</attrib>
+		</entry>
+		<entry id="e68000">
+			<attrib type="orth" lastmodified="1217790006">أشك في انه سيكتبُ رسالة</attrib>
+		</entry>
+		<entry id="e69000">
+			<attrib type="orth" lastmodified="1217790006">أنا متأكد من أنه سيكتب رسالة</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">أنا على يقين من أنه سيكتب رسالة</attrib>
+		</entry>
+		<entry id="e70000">
+			<attrib type="orth" lastmodified="1217790006">أنا على أمل أن يكتبَ رسالة</attrib>
+		</entry>
+		<entry id="e71000">
+			<attrib type="orth" lastmodified="1217790006">أنا مسرور لأنه سيكتب رسالة</attrib>
+		</entry>
+		<entry id="e73000">
+			<attrib type="orth" lastmodified="1217790006">الرجل كاتب الرسالة سيذهب لاحقا الى صندوق البريد</attrib>
+		</entry>
+		<entry id="e74000">
+			<attrib type="comment" lastmodified="1217790006">This might be incorrect and has to be verified still!</attrib>
+			<attrib type="orth" lastmodified="1217790006">الرجل سيذهب الى صندوق البريد بما أنه كتب الرسالة في الأمس</attrib>
+		</entry>
+		<entry id="e77000">
+			<attrib type="orth" lastmodified="1217790006">مجازفاً بحياته, قام بإنقاذي</attrib>
+		</entry>
+		<entry id="e78000">
+			<attrib type="orth" lastmodified="1217790006">بعد أن جازف بحياته قام بإنقاذي</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" lastmodified="1217790006">إنه رجل متفهّم</attrib>
+		</entry>
+		<entry id="e80000">
+			<attrib type="comment" lastmodified="1217790006">This might be incorrect and has to be verified still!</attrib>
+			<attrib type="orth" lastmodified="1217790006">كان الخبر المقال مفاجئاً</attrib>
+		</entry>
+		<entry id="e82000">
+			<attrib type="orth" lastmodified="1217790006">كانت القراءة مريحة</attrib>
+		</entry>
+		<entry id="e84000">
+			<attrib type="orth" lastmodified="1217790006">لقد بدأت (توّاً) بقراءة الكتاب</attrib>
+		</entry>
+		<entry id="e85000">
+			<attrib type="orth" lastmodified="1217790006">بدأت (توّاً) إتمام قراءة الكتاب</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">سأتمم قرأة الكتاب [more literal]</attrib>
+		</entry>
+		<entry id="e86000">
+			<attrib type="orth" lastmodified="1217790006">لقد توقفت(توا) عن قراءة الكتاب</attrib>
+		</entry>
+		<entry id="e87000">
+			<attrib type="orth" lastmodified="1217790006">لقد أنهيت (توا) قراءة الكتاب</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217790006">أحب أن أكتب رسائل</attrib>
+		</entry>
+		<entry id="e90000">
+			<attrib type="orth" lastmodified="1217790006">قررت أن أقرأ كتابي</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">عزمت على قراءة كتابي</attrib>
+		</entry>
+		<entry id="e91000">
+			<attrib type="orth" lastmodified="1217790006">احاول أن أظهرَ رأيي</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">أقرر أن سوف أقرأ كتابيا</attrib>
+		</entry>
+		<entry id="e92000">
+			<attrib type="orth" lastmodified="1217790006">قررت أني سأقرأ كتابا</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" lastmodified="1217790006">ما هذا؟</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" lastmodified="1217790006">مَن هذا؟</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217790006">اين هو؟</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" lastmodified="1217790006">اين نذهب؟</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" lastmodified="1217790006">متى نذهب؟</attrib>
+		</entry>
+		<entry id="e99000">
+			<attrib type="orth" lastmodified="1217790006">كيف نذهب؟</attrib>
+		</entry>
+		<entry id="e100000">
+			<attrib type="orth" lastmodified="1217790006">ما كمية الماء التي تشربها؟</attrib>
+		</entry>
+		<entry id="e101000">
+			<attrib type="orth" lastmodified="1217790006">كم صديقا لديك؟</attrib>
+		</entry>
+		<entry id="e102000">
+			<attrib type="orth" lastmodified="1217790006">أي لون تحب؟</attrib>
+		</entry>
+		<entry id="e104000">
+			<attrib type="orth" lastmodified="1217790006">لا أفهم ما أرى</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217790006">لا أعرف اين اسكن</attrib>
+		</entry>
+		<entry id="e106000">
+			<attrib type="orth" lastmodified="1217790006">لا أعرف متى سآتي</attrib>
+		</entry>
+		<entry id="e107000">
+			<attrib type="orth" lastmodified="1217790006">لا أعرف كيف سأتخطى هذه المحنة</attrib>
+		</entry>
+		<entry id="e109000">
+			<attrib type="orth" lastmodified="1217790006">لو كنت غنى لاشتريت سيارة</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">لو أني غنى, لاشتريت سيارة</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="2">لكنت قد اشتريت سيارة لو كنت غنيا</attrib>
+		</entry>
+		<entry id="e110000">
+			<attrib type="orth" lastmodified="1217790006">عندما أصبح/أغدو/أمسي غنيا ساشتري سيارة</attrib>
+		</entry>
+		<entry id="e111000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة إلا إذا كان الجو ماطراً</attrib>
+		</entry>
+		<entry id="e112000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة إلا إذا كان الجو ماطراً</attrib>
+		</entry>
+		<entry id="e113000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة و أن كان الجو ماطراً</attrib>
+		</entry>
+		<entry id="e114000">
+			<attrib type="orth" lastmodified="1217790006">أنها تمطر, ولكني/و مع ذلك سأذهب الى الحفلة</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة مع أن الجو ماطراً</attrib>
+		</entry>
+		<entry id="e117000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة لأنها تمطر/لأن الجو ماطر</attrib>
+		</entry>
+		<entry id="e118000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة بما أنها تمطر</attrib>
+		</entry>
+		<entry id="e119000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة حتى أشرب البيرا</attrib>
+		</entry>
+		<entry id="e121000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة لأرقص مع أصدقائي</attrib>
+		</entry>
+		<entry id="e123000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة و لكن الجو ماطر</attrib>
+		</entry>
+		<entry id="e124000">
+			<attrib type="orth" lastmodified="1217790006">سأذهب الى الحفلة و سوف آكل هناك</attrib>
+		</entry>
+		<entry id="e126000">
+			<attrib type="orth" lastmodified="1217790006">أشرب الشاي قبل ان أقرأ كتابي</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" lastmodified="1217790006">أشرب الشاي بعد ان أقرأ كتابي</attrib>
+		</entry>
+		<entry id="e128000">
+			<attrib type="orth" lastmodified="1217790006">أشرب الشاي و اقرا كتابي</attrib>
+		</entry>
+		<entry id="e129000">
+			<attrib type="orth" lastmodified="1217790006">سأشرب الشاي حال انتهائي من قراءة كتابي</attrib>
+		</entry>
+		<entry id="e130000">
+			<attrib type="orth" lastmodified="1217790006">إنني أشرب الشاي بما أنني أنهيت قراءة كتابي</attrib>
+		</entry>
+		<entry id="e131000">
+			<attrib type="orth" lastmodified="1217790006">سأشرب الشاي ثم سأنهي قراءة الكتاب</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217790006">أنا (هو) الرجل الذي اشترى التفاح</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217790006">انا (هي) المرأة التي اشترت التفاح</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217790006">أرى الرجل الذي يشتري تفاحًا</attrib>
+		</entry>
+		<entry id="e137000">
+			<attrib type="orth" lastmodified="1217790006">أرى الرجل الذي تراه هي ايضا</attrib>
+		</entry>
+		<entry id="e138000">
+			<attrib type="orth" lastmodified="1217790006">أرى الرجل الذي أعطيته الهدية</attrib>
+		</entry>
+		<entry id="e139000">
+			<attrib type="orth" lastmodified="1217790006">أرى الرجل الذي أخبرني الخبر</attrib>
+		</entry>
+		<entry id="e140000">
+			<attrib type="orth" lastmodified="1217790006">أرى المرأة التي اجتمعت بها</attrib>
+		</entry>
+		<entry id="e141000">
+			<attrib type="orth" lastmodified="1217790006">أرى التفاحة التي تفوح منها رائحة عطرة/جميلة</attrib>
+		</entry>
+		<entry id="e142000">
+			<attrib type="orth" lastmodified="1217790006">التفاحة التي أراها  رائحتها عطرة/جميلة</attrib>
+		</entry>
+		<entry id="e143000">
+			<attrib type="orth" lastmodified="1217790006">التفاحة التي أنظر إليها رائحتها جميلة/عطرة</attrib>
+		</entry>
+		<entry id="e144000">
+			<attrib type="orth" lastmodified="1217790006">التفاحة التي اشتراها الرجل رائحتها زكية/جميلة/عطرة</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="orth" lastmodified="1217790006">أنا كمثل حجمك</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="orth" lastmodified="1217790006">أنا أذْكَى منك</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">أنا أكثر ذَكَاءً منك</attrib>
+		</entry>
+		<entry id="e148000">
+			<attrib type="orth" lastmodified="1217790006">أنا أَقَلُّ ذَكاءً منك</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="orth" lastmodified="1217790006">أنا الأذكى</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">أنا الأكثر ذكاء</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" lastmodified="1217790006">أدائي في الغناء كأدائك</attrib>
+		</entry>
+		<entry id="e151000">
+			<attrib type="orth" lastmodified="1217790006">أغني كبكائك</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" lastmodified="1217790006">أعطيك الحاضر</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217790006">هدا هو كلب الصديقي</attrib>
+		</entry>
+		<entry id="e156000">
+			<attrib type="orth" lastmodified="1217790006">العصفور فِي قفصه</attrib>
+		</entry>
+		<entry id="e157000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور فِي فقصه</attrib>
+		</entry>
+		<entry id="e158000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور اِلَى دَاخِل فقصه</attrib>
+		</entry>
+		<entry id="e159000">
+			<attrib type="orth" lastmodified="1217790006">طار الطيار بطائرته</attrib>
+		</entry>
+		<entry id="e160000">
+			<attrib type="orth" lastmodified="1217790006">العصفور جالس عَلَى قفصه</attrib>
+		</entry>
+		<entry id="e162000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور فَوْقَ قفصه</attrib>
+		</entry>
+		<entry id="e163000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور تَحْتَ قفصه</attrib>
+		</entry>
+		<entry id="e164000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور فوق القفص</attrib>
+		</entry>
+		<entry id="e166000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور حَوْلَ قفصه</attrib>
+		</entry>
+		<entry id="e167000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور خلال القفص</attrib>
+		</entry>
+		<entry id="e168000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور خارج القفص</attrib>
+		</entry>
+		<entry id="e169000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور اِلَى قفصه</attrib>
+		</entry>
+		<entry id="e170000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور نحو قفصه</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">طار العصفور متجهاً الى قفصه</attrib>
+		</entry>
+		<entry id="e171000">
+			<attrib type="orth" lastmodified="1217790006">طار العصفور من قفصه</attrib>
+		</entry>
+		<entry id="e172000">
+			<attrib type="comment" lastmodified="1217790006">This might be incorrect and has to be verified still!</attrib>
+			<attrib type="orth" lastmodified="1217790006">طار العصفور عابراً قفصه</attrib>
+		</entry>
+		<entry id="e177000">
+			<attrib type="orth" lastmodified="1217790006">أشرب الخمر قبل العشاء</attrib>
+		</entry>
+		<entry id="e178000">
+			<attrib type="orth" lastmodified="1217790006">أشرب الخمر بعد العشاء</attrib>
+		</entry>
+		<entry id="e179000">
+			<attrib type="orth" lastmodified="1217790006">اشرب الخمر مع العشاء</attrib>
+		</entry>
+		<entry id="e180000">
+			<attrib type="orth" lastmodified="1217790006">اشرب الخمر منذ العشاء(حتى الآن)ََـ</attrib>
+		</entry>
+		<entry id="e181000">
+			<attrib type="orth" lastmodified="1217790006">شربت الخمر قبل خمسة أيام</attrib>
+		</entry>
+		<entry id="e182000">
+			<attrib type="orth" lastmodified="1217790006">سأشرب الخمر بعد خمس دقائق</attrib>
+		</entry>
+		<entry id="e183000">
+			<attrib type="orth" lastmodified="1217790006">أستطيع أن أكمل كأسي خلال خمس دقائق</attrib>
+		</entry>
+		<entry id="e184000">
+			<attrib type="orth" lastmodified="1217790006">سألاقيك يوم الإثنين في شهر كانون الثاني</attrib>
+		</entry>
+		<entry id="e186000">
+			<attrib type="orth" lastmodified="1217790006">تحدثني أمي عن تنظيف غرفتي</attrib>
+		</entry>
+		<entry id="e187000">
+			<attrib type="orth" lastmodified="1217790006">بالنسبة الى غرفتي,فهي لم تزل غير نظيفة</attrib>
+		</entry>
+		<entry id="e189000">
+			<attrib type="orth" lastmodified="1217790006">حسب قول أمي, علي بتنظيف غرفتي</attrib>
+		</entry>
+		<entry id="e190000">
+			<attrib type="orth" lastmodified="1217790006">رغم تحذير أمي, لم أنظف غرفتي</attrib>
+		</entry>
+		<entry id="e191000">
+			<attrib type="orth" lastmodified="1217790006">على عكس أختي, لم أنظف غرفتي</attrib>
+		</entry>
+		<entry id="e192000">
+			<attrib type="orth" lastmodified="1217790006">لم أنظف شيئاً من غرفتي سوى مكتبي</attrib>
+		</entry>
+		<entry id="e193000">
+			<attrib type="orth" lastmodified="1217790006">نظفت غرفتي مَعَ أمي</attrib>
+		</entry>
+		<entry id="e194000">
+			<attrib type="orth" lastmodified="1217790006">نظفت غرفتي دون أمي</attrib>
+		</entry>
+		<entry id="e195000">
+			<attrib type="orth" lastmodified="1217790006">نظفت غرفتي بِالمكنسة</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" lastmodified="1217790006">أرى كلّ شَّخْصِ</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217790006">أرى أحدا</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" lastmodified="1217790006">لا أرى شَخْصا</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217790006">لا يمكن شخصا أن يراني</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" lastmodified="1217790006">لا أرى شخصا</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">أحداً غيرك</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217790006">أراك أنت فقط</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" lastmodified="1217790006">أرى كلّ الرجالِ</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" lastmodified="1217790006">لا أرى رَجُلًا</attrib>
+		</entry>
+		<entry id="e205000">
+			<attrib type="orth" lastmodified="1217790006">أرى كلَّ رَجُلٍ</attrib>
+		</entry>
+		<entry id="e206000">
+			<attrib type="orth" lastmodified="1217790006">أرى كلّ شيء</attrib>
+		</entry>
+		<entry id="e207000">
+			<attrib type="orth" lastmodified="1217790006">أرى سيْأً</attrib>
+		</entry>
+		<entry id="e208000">
+			<attrib type="orth" lastmodified="1217790006">ْلا أرى شيْأً</attrib>
+		</entry>
+		<entry id="e209000">
+			<attrib type="orth" lastmodified="1217790006">لا أرى شيئا آخَرَ</attrib>
+		</entry>
+		<entry id="e210000">
+			<attrib type="orth" lastmodified="1217790006">ام أعد أرى شيئاً</attrib>
+		</entry>
+		<entry id="e211000">
+			<attrib type="orth" lastmodified="1217790006">لا يمكن لشئ أن يراني</attrib>
+		</entry>
+		<entry id="e212000">
+			<attrib type="orth" lastmodified="1217790006">أرى كلّ الكُتُبِ</attrib>
+		</entry>
+		<entry id="e213000">
+			<attrib type="orth" lastmodified="1217790006">لا أرى كِتابًا</attrib>
+		</entry>
+		<entry id="e214000">
+			<attrib type="orth" lastmodified="1217790006">أرى كلّ كتابٍ</attrib>
+		</entry>
+		<entry id="e215000">
+			<attrib type="orth" lastmodified="1217790006">ِأرى بَعْضَ الكُتُب</attrib>
+		</entry>
+		<entry id="e216000">
+			<attrib type="orth" lastmodified="1217790006">أرى كتابا</attrib>
+		</entry>
+		<entry id="e217000">
+			<attrib type="orth" lastmodified="1217790006">لا أرى كتابا</attrib>
+		</entry>
+		<entry id="e218000">
+			<attrib type="orth" lastmodified="1217790006">أرى كلّ الكِتابِ</attrib>
+		</entry>
+		<entry id="e219000">
+			<attrib type="orth" lastmodified="1217790006">ُارى الكتاب نَفْسَهُ</attrib>
+		</entry>
+		<entry id="e220000">
+			<attrib type="orth" lastmodified="1217790006">أرى نفس الكتاب</attrib>
+		</entry>
+		<entry id="e221000">
+			<attrib type="orth" lastmodified="1217790006">أرى متل كتابٍ</attrib>
+		</entry>
+		<entry id="e223000">
+			<attrib type="orth" lastmodified="1217790006">لا يمكن لأحد</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">لشخص أن يراني</attrib>
+		</entry>
+		<entry id="e224000">
+			<attrib type="orth" lastmodified="1217790006">لقد بحثت في كل مكان</attrib>
+		</entry>
+		<entry id="e225000">
+			<attrib type="orth" lastmodified="1217790006">لم أبحث في أي مكان</attrib>
+		</entry>
+		<entry id="e227000">
+			<attrib type="orth" lastmodified="1217790006">سنجتمع يوما ما</attrib>
+		</entry>
+		<entry id="e228000">
+			<attrib type="orth" lastmodified="1217790006">نلتقي في بعض الأحيان</attrib>
+		</entry>
+		<entry id="e229000">
+			<attrib type="orth" lastmodified="1217790006">لن نلتقي أبداً</attrib>
+		</entry>
+		<entry id="e230000">
+			<attrib type="orth" lastmodified="1217790006">سنلتقي دوماً</attrib>
+		</entry>
+		<entry id="e231000">
+			<attrib type="orth" lastmodified="1217790006">سنلتقي أحياناً</attrib>
+		</entry>
+		<entry id="e232000">
+			<attrib type="orth" lastmodified="1217790006">سنلتقي عادة</attrib>
+		</entry>
+		<entry id="e233000">
+			<attrib type="orth" lastmodified="1217790006">سنلتقي نادراً</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">نادراً ما سناتقي</attrib>
+		</entry>
+		<entry id="e235000">
+			<attrib type="orth" lastmodified="1217790006">عندي ماء كثير</attrib>
+		</entry>
+		<entry id="e236000">
+			<attrib type="orth" lastmodified="1217790006">عندي ماء كافي</attrib>
+		</entry>
+		<entry id="e237000">
+			<attrib type="orth" lastmodified="1217790006">عندي الكثير من الماء</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">عندي فائض من الماء</attrib>
+		</entry>
+		<entry id="e238000">
+			<attrib type="orth" lastmodified="1217790006">ٍعندي لترَ ماء</attrib>
+		</entry>
+		<entry id="e239000">
+			<attrib type="orth" lastmodified="1217790006">عندي خمس قوارير ماء</attrib>
+		</entry>
+		<entry id="e240000">
+			<attrib type="orth" lastmodified="1217790006">عندي المزيد من الماء</attrib>
+		</entry>
+		<entry id="e241000">
+			<attrib type="orth" lastmodified="1217790006">عندي أقل كمية  من الماء</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" lastmodified="1217790006">عندي ماء فقط</attrib>
+		</entry>
+		<entry id="e243000">
+			<attrib type="orth" lastmodified="1217790006">عندي ماء ايضا</attrib>
+		</entry>
+		<entry id="e244000">
+			<attrib type="comment" lastmodified="1217790006">This might be incorrect and has to be verified still!</attrib>
+			<attrib type="orth" lastmodified="1217790006">عند قد ماء</attrib>
+		</entry>
+		<entry id="e245000">
+			<attrib type="orth" lastmodified="1217790006">لا يزال عندي ماء</attrib>
+		</entry>
+	</entries>
+</ulr>

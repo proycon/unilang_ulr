@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="he">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="מיכל פ">האריה והעכבר</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="מיכל פ">עכבר עוזר לאריה</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="מיכל פ">אריה ששן במאורתו התעורר בגלל עכבר שרץ על פניו. הוא איבד את קור רוחו ואחז בו בכפו ועמד להרוג אותו.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="מיכל פ">העכבר, מבועת, התחנן בפניו שיחוס על חיו. בבקשה תן לי ללכת&quot;, הוא בכה&quot; &quot;ויום אחד אני אחזיר לך על טוב לבך&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="מיכל פ">הרעיון של יצור כה פעוט וחסר ערך שמסוגל אי פעם לעשות משהו עבורו שעשע את האריה כל כך שהוא צחק בקול רם ובמצב רוחו הטוב, נתן לו ללכת.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="מיכל פ">אבל, הזדמנות נקרתה בדרכו של העכבר, למרות הכל.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="מיכל פ">יום אחד האריה נלכד ברשת שהונחה במקום בתור משחק על ידי ציידים והעכבר שמע וזיהה את שאגות הכעס של האריה ורץ אליו. בלי לחכות הוא החל לעבוד על הסרת החבלים בעזרת שיניו, והצליח, לאחר זמן מה, לשחרר את האריה לחופשי.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="מיכל פ">הנה!&quot;, אמר העכבר.&quot; &quot;אתה צחקת עלי כשהבטחתי להחזיר לך טובה:&quot; &quot;אבל עכשיו אתה רואה, שאפילו עכבר יכול לעזור לאריה&quot;.</attrib>
+		</entry>
+	</entries>
+</ulr>

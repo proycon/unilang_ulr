@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="uk">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="4430" lastmodified="1246518724">Ведмідь та мандрівники</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="4430" lastmodified="1246518724">Урок про ведмедів та друзів.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="4430" lastmodified="1246518724">Два мандрівники разом ішли дорогою, коли раптом з'явився ведмідь. Ще до того, як він їх побачив, один з них направився до дерева біля дороги, вліз на гілки і сховався там.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="4430" lastmodified="1246518724">Другий не був таким спритним, як його товариш, і, оскільки він не міг утекти, кинувся на землю та й удав з себе мертвого.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="4430" lastmodified="1246518724">Ведмідь підійшов та обнюхав його, але той лежав зовсім тихо й тримав дихання, бо кажуть, що ведмідь не торкне мертвого тіла. Ведмідь прийняв його за труп і пішов.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="4430" lastmodified="1246518724">Коли все було безпечно, мандрівник на дереві спустився й запитав другого, що ведмідь йому прошепотів, коли підніс пащу до його вуха.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="4430" lastmodified="1246518724">Другий відповів: "Він мені сказав, щоб я більше ніколи не подорожував з другом, який кидає тебе при першій ознаці небезпеки."</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="4430" lastmodified="1246518724">Щирість дружби перевіряється в біді.</attrib>
+		</entry>
+	</entries>
+</ulr>

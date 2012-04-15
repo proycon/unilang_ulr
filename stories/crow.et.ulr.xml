@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="et">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="14587" lastmodified="1231926383">Vares ja kann</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="14587" lastmodified="1231926383">Janus vares leidis kannu, milles oli veidi vett, aga vett oli selles nii vähe, et ükskõik, kuidas ta ka ei proovinud, ei ulatanud ta oma nokaga selleni ja tundus, et ta sureb janusse, abivahend silme ees. </attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="14587" lastmodified="1231926383">Viimaks tuli talle pähe kaval plaan. Ta hakkas kannu kivikesi loopima ja iga kivikesega  veetase tõusis veidi, kuni see viimaks jõudis ääreni ja nupukas lind sai oma janu kustutada.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="14587" lastmodified="1231926383">Vajadus on leiutiste ema.</attrib>
+		</entry>
+	</entries>
+</ulr>

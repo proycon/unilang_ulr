@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="fr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Emandir">Le vent du nord et le soleil</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Emandir">Une compétition entre le vent et le soleil</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Emandir">Une dispute survint entre le vent du nord et le soleil, chacun prétendant être plus fort que l'autre. Ils se mirent finalement d'accord pour tester leur puissance sur un voyageur afin de voir lequel le débarasserait en premier de son manteau.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Emandir">Le vent du nord essaya le premier; et, rassemblant toutes ses forces pour l'attaque, il s'abattit en tournoyant furieusement sur l'homme, et attrappa son manteau comme s'il allait le lui arracher d'un simple effort : mais plus il soufflait, plus l'homme serrait étroitement son manteau contre lui.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Emandir">Vint alors le tour du soleil. Il rayonna d'abord doucement sur le voyageur, qui dégrafa bientôt son manteau et marcha en laissant pendre librement sur ses épaules : puis il brilla de toute ses forces et l'homme, avant d'être allé bien loin, fut heureux de se débarrasser complètement de son manteau et termina son voyage plus légèrement vêtu.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Emandir">La persuasion vaut mieux que la force.</attrib>
+		</entry>
+	</entries>
+</ulr>

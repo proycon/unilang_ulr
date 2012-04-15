@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="travellers" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="af" stats="8" />
+		<language lang="bg" stats="8" />
+		<language lang="ca" stats="8" />
+		<language lang="de" stats="8" />
+		<language lang="el" stats="8" />
+		<language lang="en" stats="8" />
+		<language lang="eo" stats="8" />
+		<language lang="es" stats="8" />
+		<language lang="fi" stats="8" />
+		<language lang="fr" stats="8" />
+		<language lang="it" stats="8" />
+		<language lang="lv" stats="8" />
+		<language lang="nl" stats="8" />
+		<language lang="pl" stats="8" />
+		<language lang="ro" stats="8" />
+		<language lang="ru" stats="8" />
+		<language lang="sv" stats="8" />
+		<language lang="zh" stats="8" />
+		<language lang="zh.Hans" stats="8" />
+		<language lang="uk" stats="8" />
+	</languages>
+	<authors>
+		<author id="Tigaine" langs="af" lastmodified="0" />
+		<author id="Paruha" langs="bg" lastmodified="0" />
+		<author id="Abavagada (English) / Núria Harket (Catalan)" langs="ca" lastmodified="0" />
+		<author id="Kubi" langs="de" lastmodified="0" />
+		<author id="Σίνης" langs="el" lastmodified="0" />
+		<author id="Abavagada" langs="en" lastmodified="0" />
+		<author id="Anthony Ehrhardt" langs="eo" lastmodified="0" />
+		<author id="Athnea" langs="es" lastmodified="0" />
+		<author id="Gallinago" langs="fi" lastmodified="0" />
+		<author id="Pennkaled" langs="fr" lastmodified="0" />
+		<author id="lu:ka" langs="it" lastmodified="0" />
+		<author id="hekate" langs="lv" lastmodified="0" />
+		<author id="aja" langs="nl" lastmodified="0" />
+		<author id="arti" langs="pl" lastmodified="0" />
+		<author id="Alex (D39)" langs="ro" lastmodified="0" />
+		<author id="Kathy" langs="ru" lastmodified="0" />
+		<author id="Zenit" langs="sv" lastmodified="0" />
+		<author id="杨大猫" langs="zh.Hans" lastmodified="0" />
+		<author id="4430" langs="uk" lastmodified="1246518724" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">travellers.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+		<entry id="5" type="paragraph" />
+		<entry id="6" type="paragraph" />
+	</entries>
+</ulr>

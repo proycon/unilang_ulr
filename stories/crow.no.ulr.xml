@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="no">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="keme">Kråka og mugga</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="keme">Ei kråke bruker hjernen for å få seg noe å drikke</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="keme">Ei tørst kråke fant ei mugge med litt vann i, men det var så lite at sselv om hun prøvde kunne hun ikke nå det med nebbet, og det så ut til at hun ville dø av tørst med botemidlet i sikte.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="keme">Til slutt fant hun på en lur plan. Hun begynte å slippe småstein ned i mugga, og for hver stein steg vannet litt høyere til det til slutt nådde kanten, og den smarte fuglen kunne slokke tørsten.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="keme">Nød lærer naken kvinne å spinne.</attrib>
+		</entry>
+	</entries>
+</ulr>

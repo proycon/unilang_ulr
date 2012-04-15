@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="twolions" version="1.9" baselang="eo">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Snoopy">Rakonto de Du Leonojn</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Snoopy">Du leonoj eskapas de zooparkon kaj penas al travivas en Brazilo</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Snoopy">Estas diris ke estis du leonoj kiu eskapis de la zooparko en Brazilo. Dum la eskapo, ĉiu elektis diferenca vojon al iri. Iu de ili iris al la forsto kaj la alia iris al urbocentro. Estrecoj serĉis por la leonojn ĉie sed neniu trovis ilin. Ili simple malaperis.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Snoopy">Unu semajno post ili forlasis, la leono kiu iris al la forsto revenis sole. Ĝi estis svelta, malsata kaj malforta. La direktoro de la zooparko estis pensantas koncerne sendantas la leono malantaŭe al Afriko. Neniu volas al vidas malpura leono. Brazila deputito fari la direktoron konservas la leonon en la zooparkon. Jen, Brazila deputitoj en potenco faras miraklojn.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Snoopy">Ok monatoj post, neniu rememoris la leonon kiu faris al urbocentron ĝis ĝin estis kaptis. Ĝi estis alportis malantaŭe al la zooparko en bona sanon.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Snoopy">Kiam la leono rendevuis ĝia olda amikon, ĝi parolis:</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Snoopy">Ho! Ĉu kiel vi travivas loĝantas en la urbon kaj, jam, estas en bona sanon? Mi havi estis al la forston kaj malpovu trovas iu manĝaĵon. Ĉu kiel vi travivas? Rakontas mi kiel vin travivas!</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Snoopy">La alia leono eksplikis:</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Snoopy">Mi kaŝis en publikan buroon. Mi manĝis civilan serviston ĉiu tagon. Neniu perceptis sia mankon.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Snoopy">Ke kial ĉu vi venas malantaŭe? Ĉu vi elfari ĉiom la civilajn servistojn?</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Snoopy">Ne, ne, ne, ne... En Brazilo estas multaj civilajn servistojn. Sed mi estis stulta. Mi manĝis la direktoron... la fakadministriston... alia dungitojn... kaj neniu perceptis sia mankon. Mi estis kaptis post mi manĝis la dungiton responda por servantas kafon.</attrib>
+		</entry>
+	</entries>
+</ulr>

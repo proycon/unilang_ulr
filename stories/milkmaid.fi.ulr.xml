@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="fi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Liisi">Maitotyttö ja ämpäri</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Liisi">Maitotyttö haaveilee tulevaisuudesta</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Liisi">Maanviljelijän tytär oli ollut lypsämässä lehmiä ja nyt hän käveli takaisin meijerille kantaen maitoämpäriä päänsä päällä. Kävellessään hän alkoi uneksia tähän tapaan:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Liisi">&quot;Tästä maidosta ämpärissä saan kermaa, josta teen voita myytäväksi torilla. Siitä saamallani rahalla ostan muutaman kananmunan, ja kun ne ovat kuoriutuneet, saan kanoja, ja niin minulla on ennen pitkää melkoisen suuri kanatarha. Sitten myyn osan kanoistani, ja niistä saamillani rahoilla ostan itselleni uuden leningin, jonka puen päälleni, kun menen markkinoille. Silloin kaikki nuorukaiset ihastelevat sitä ja tulevat kosiskelemaan minua, mutta minä vain nostan nenäni pystyyn enkä sano heille mitään.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Liisi">Tyttö unohti ämpärin kokonaan, ja tehdäkseen sanojensa mukaisen liikkeen hän nosti nenänsä pystyyn. Ämpäri putosi alas, kaikki maito valui hukkaan, ja kaikki hienot pilvilinnat haihtuivat silmänräpäyksessä!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Liisi">Älä laske kanojasi ennen kuin ne ovat kuoriutuneet.</attrib>
+		</entry>
+	</entries>
+</ulr>

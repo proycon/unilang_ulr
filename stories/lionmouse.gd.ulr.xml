@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="gd">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Richard Raw">An Leòmhann agus an Luchag</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Richard Raw">Luchag a' toirt taic dha Leòmhann</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Richard Raw">Bha leòmhann a bh' ann a bha na chadal ann am faiche nuair a chaidh a dhùsgadh le luchag a bha na ruith air aodann an leòmhainn. Bha an leòmhann fiadhaich agus ghabh e grèim air an luchaig anns an spòig aige airson a mharbhadh.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Richard Raw">Bha feagal uamhasach air an luchaig agus dh'iarr i gu muladach ris an leòmhann a bheatha a leigeil. &quot;Leig mi air falbh,&quot; dh'iarr i, &quot;agus thig an latha a nì mi fabhar dhut airson do chairdeas.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Richard Raw">Beachd a thàinig bho chreutair cho beag dè am feum a bhiodh ise airson leòmhann cho mòr? Bha an leòmhann a' gaireachdainn gu h-àrd, agus leig e air falbh i.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Richard Raw">Àch thàinig cothrom dhan luchaig an leòmhann a chuideachadh mu dheireadh thall.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Richard Raw">Bha latha a bh' ann a thig an leòmhann gu bhith ceangailte ann an lìon, lìon a bha dèante le sealgairean mar ghèama, agus chuala an luchag an leòmhann ag èigheachd ann am pian agus gu math fiadhaich agus ruith i cho luath 's a b' urrainn dhi gus far an robh e. Ann an ùine gu math goirid, thòisich i ag ithe tron lìon leis na fiaclan aice, agus bha i soirbheachail agus fhuair an leòmhann air falbh bhon lìon.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Richard Raw">&quot;Sin thu!&quot; thuirt an luchag, &quot;bha thu a' gaireachdainn nuair a chuir mi geall dhut gun dèan mi mathanas dhut: ach chì thu a-nist, 's urrainn fiù 's do luchag taic a thoirt dha leòmhann.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

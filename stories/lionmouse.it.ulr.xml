@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Dianaaa">Il Leone e il Topolino</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Dianaaa">Un topolino aiuta un leone</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Dianaaa">Un Leone, che dormiva nella sua tana, fu svegliato da un Topolino che gli correva sulla faccia. Perdendo la pazienza, il Leone lo afferrò con la zampa e stava per ucciderlo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Dianaaa">Il Topolino, terrorizzato, lo pregò pietosamente di risparmgli la vita. &quot;Ti prego, lasciami andare&quot;, piangeva, &quot; e un giorno ti ripagherò della tua generosità&quot;.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Dianaaa">L'idea che una creatura così insignificante potesse mai fare qualcosa per lui divertì il Leone così tanto, che si mise a sghignazzare e, di buon umore, lo lasciò andare.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Dianaaa">Ma l'opportunità del Topolino arrivò, alla fine.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Dianaaa">Un giorno il Leone rimase intrappolato in una rete che era stata tesa per la selvaggina da alcuni cacciatori e il Topolino udì e riconobbe i suoi ruggiti di rabbia e corse sul posto. Senza por tempo in mezzo, si mise a rosicchiare le corde e riuscì in men che non si dica a liberare il Leone.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Dianaaa">&quot;Ecco!&quot; Disse il Topolino, &quot;hai riso di me quando ti ho promesso che ti avrei ripagato: ma ora vedi che perfino un Topolino può aiutare un Leone.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

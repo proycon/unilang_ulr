@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="wee">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Haj</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Ně</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Prošu</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Dźakuju so.</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Dobry dźeń.</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Dobre ranje. Answer: Dobre spodobanje.</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Dobry wječor.</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Dobru noc.</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Witaj! Witajće!</attrib>
+		</entry>
+	</entries>
+</ulr>

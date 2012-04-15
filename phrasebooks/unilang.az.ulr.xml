@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="az">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Ən çox işlənilən ifadələr</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Bəli / Hə</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Xeyir / Yox</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Zəhmət olmasa</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Necəsən</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Çox sağ ol / Təşəkkür edirəm</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Xoş gəldin(iz)</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Üzr istəyirəm</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Bəlkə</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Salam</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Sağ ol(un) / Salamat qal(ın)!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Salam!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Sabahın(ız) xeyir</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Axşamınız xeyir!</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Siz ......... (ca\\\\cə) danışırsınızmı</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Mən ......... (ca\\\\cə) danışıram.</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Mən ......... (ca\\\\cə) danışmıram.</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Mən bir az ......... (ca\\\\cə) danışıram.</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">İngiliscə</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">Fransızca</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">Almanca</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">İspanca</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">Portuqalca</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">Ərəbcə</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">Çəncə</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">Hindi dilində</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">Rusca</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">İtalyanca</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">Holland dilində</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">Norveç dilində</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">İsveç dilində</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">Danimarka dilində</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">Polşa dilində</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">Urduca</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">Farsca</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">İndoneziya dilində</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">Malay dilində</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Başa düşürsünüzmü</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Məni başa düşürsünuzmü</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Mən başa düşürəm</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Mən sizi başa düşürəm</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Mən sizi başa düşmürəm</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Mən sizi başa düşmürəm</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Bunu təkrər edə bilərsinizmi</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Daha yavaş danışa bilərsinizmi</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Bunu yaza bilərsinizmi</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Bunu necə demək lazım olduğunu bilmirəm</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Düzgün sözü bilmirəm</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Nə dediniz</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Bunu ...... dilində necə deyirsiz</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Bunu necə yazırsınız</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Bunu necə tələffüz edirsiniz</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Bunu mənim üçün tərcümə edə bilərsinizmi</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Bunu düzgün dedimmi</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Əsas danışıq ifadələri</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Nəcəcən / Necəsiniz (plural)</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Mən yaxşıyam!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Mən yaxşıyam!</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Mən yaxşıyam!</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Mən bir o qədər də yaxşı deyiləm</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Necə yaşın(ız) var</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Mənim .... yaşım var</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Bilmirəm</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Bu mənim xoşumə gəlmir</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Mən hazıram</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Gedək!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Bağışlayın</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Biznes və Maliyyə</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Nəğd ödəyə bilirəmmi</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Kredit kartıyla ödəyə bilirəmmi</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Bu səyahət çeklərini dəyişdirə bilərsinizmi</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Bunu ..... dəyişdirə bilərsinizmi</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Qiymətin nə qədər olacağını təxminən deyə bilərsinizmi</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Bu mənim kartım</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">Nə qədər komisyon haqqı alırsınız</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Mən bir qədər dollar/avro/funt sterlinq dəyişdirmək istəyirəm</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Mübadələ məzənnəsi nə qədərdir</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">İnflyasiya faizi nə qədərdir</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Pulumu harada dəyişdirə bilərəm</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Kserokopiya harda edə bilərəm</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Ən yaxın bank haradadır</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">İmzamı harada qoymalıyam</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Kataloqunuz varmı</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Mənim ..... ilə görüşüm təyin olunub</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Giriş haqqı nə qədərdir</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Bir günlük qiyməti neçəyədir</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Bir saatlıq qiyməti neçəyədir</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Bir həftəlik qiyməti neçəyədir</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Bu pulsuzdur mu</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Kompyuterlər və İnternet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Sizin kompyuteriniz varmı</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Hard disk doludur</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Sizin modeminiz varmı</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">Sizin internət əlaqəniz varmi</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Elektron poçt göndərə bilərəmmi</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Elektron poçtumu oxuya bilərəmmi</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Bəzi şeyləri çap edə bilərəmmi</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Bir şeyi skan edə bilərəmmi</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Mənim kompyuterim xarab oldu</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">Siz kompyuteri yenidən işlədməlisiniz</attrib>
+		</entry>
+	</entries>
+</ulr>

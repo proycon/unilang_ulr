@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="sk">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="1149" lastmodified="1227106152">Najpoužívanejšie výrazy</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Áno</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Nie</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Prosím</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Nech sa páči / Páči sa</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Ďakujem (subj. 1st person sing.) / Ďakujeme (subj. 1st person pl.)</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Nie je za čo</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="1149" lastmodified="1227106152">Prepáčte (formal or plural) / Prepáč (informal)</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Možno / azda</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Ahoj!</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Do videnia!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Dobrý deň!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Dobré ráno!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Dobrý večer!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Dobrú noc!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Vitajte (formal or plural) / Vitaj (informal)</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Šťastnú cestu</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Rozumieme si navzájom</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Hovoríte (formal) ... / Hovoríš (informal) ...</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Hovorím ...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Nehovorím ...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="1149" lastmodified="1227106281">Hovorím trochu ... / Viem trochu ...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="1149" lastmodified="1227106320">anglicky</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="1149" lastmodified="1227106320">francúzsky</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="1149" lastmodified="1227106320">nemecky</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="1149" lastmodified="1227106320">španielsky</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="1149" lastmodified="1227106320">portugalsky</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="1149" lastmodified="1227106320">arabsky</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="1149" lastmodified="1227106320">čínsky</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="1149" lastmodified="1227106320">hindsky</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="1149" lastmodified="1227106320">rusky</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="1149" lastmodified="1227106320">taliansky</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="1149" lastmodified="1227106320">holandsky</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="1149" lastmodified="1227106320">nórsky</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="1149" lastmodified="1227106400">švédsky</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="1149" lastmodified="1227106400">dánsky</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="1149" lastmodified="1227106400">poľsky</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="1149" lastmodified="1227106400">urdsky</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="1149" lastmodified="1227106400">perzsky</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="1149" lastmodified="1227106400">japonsky</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="1149" lastmodified="1227106400">indonézsky</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="1149" lastmodified="1227106400">malajsky</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="1149" lastmodified="1227106400">Rozumiete (formal) / Rozumieš (informal)</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="1149" lastmodified="1227106400">Rozumiete mi? (formal) / Rozumieš mi? (informal)</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="1149" lastmodified="1227106400">Rozumiem</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="1149" lastmodified="1227106400">Rozumiem vám (formal) / Rozumiem ti (informal)</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Nerozumiem</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Nerozumiem vám (formal) / Nerozumiem ti (informal)</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Mohli by ste to zopakovať, prosím? / Mohol (male) / Mohla (female) by si to zopakovať, prosím?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Mohli by ste hovoriť pomalšie, prosím? / Mohol (male) / Mohla (female) by si hovoriť pomalšie, prosím?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Mohli by ste to napísať, prosím? / Mohol (male) / Mohla (female) by si to napísať, prosím?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Neviem, ako sa to povie</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Nepoznám to správne slovo</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Čo ste hovorili? / Čo si hovoril (male) / hovorila (female)?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Ako sa povie ... ?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Ako sa to píše?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Ako sa to vyslovuje?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="1149" lastmodified="1227106670">Môžete mi to preložiť? (formal or plural) / Môžeš mi to preložiť? (informal)</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Povedal (male) / Povedala (female) som to správne?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Základná konverzácia</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Ako sa máte? (formal) / Ako sa máš? (informal)</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Mám sa skvele!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Mám sa dobre</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Mám sa dobre</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Nemám sa dobre</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Koľko máte rokov? (formal) / Koľko máš rokov? (informal)</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Mám ... rokov.</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Neviem</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Nepáči sa mi to</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="1149" lastmodified="1227106782">Som pripravený (male) / pripravená (female)</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Poďme!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Ľutujem</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Obchod a financie</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Môžem platiť v hotovosti?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Môžem platiť kreditnou kartou?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Beriete ... ?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Môžete vymeniť tieto cestovné šeky?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Môžete to zmeniť na ... ?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Môžete mi dať odhad ceny?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Tu je moja karta.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Koľko si účtujete poplatok?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="1149" lastmodified="1227106893">Chcem zmeniť nejaké doláre / eurá / libry.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Aký je kurz?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Aká je inflácia?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Kde si môžem zmeniť peniaze?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Kde si môžem dať urobiť kópie?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Kde je najbližšia banka?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Kde to mám podpísať?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Máte katalóg?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Mám schôdzku s ...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Koľko je vstupné?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Koľko to stojí na deň?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Koľko to stojí na hodinu?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="1149" lastmodified="1227106987">Koľko to stojí na týždeň?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Je to zadarmo?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Počítače a internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Máte počítač? (formal) / Máš počítač? (informal)</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Hard disk je plný.</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Máte modem? (formal) / Máš modem? (informal)</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Máte pripojenie na internet?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Môžem poslať e-mail?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Môžem si prečítať svoje e-maily?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Môžem si niečo vytlačiť?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Môžem si niečo oskenovať?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Môj počítač sa pokazil.</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="1149" lastmodified="1227107134">Musíte to reštartovať.</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="1149" lastmodified="1227107242">Môžem nainštalovať ... ?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="1149" lastmodified="1227107242">Akú máte (formal) / máš (informal) e-mailovú adresu?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="1149" lastmodified="1227107242">Moja e-mailová adresa je ...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="1149" lastmodified="1227107242">Máte (formal) / máš (informal) domovskú stránku?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="1149" lastmodified="1227107242">Aká je adresa</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="1149" lastmodified="1227107242">Vzdelanie</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="1149" lastmodified="1227107242">Čo študuješ (informal) / študujete (formal)?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="1149" lastmodified="1227107242">Študujem ...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="1149" lastmodified="1227107242">právo</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="1149" lastmodified="1227107242">medicínu / lekárstvo</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="1149" lastmodified="1227107242">ekonómiu</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="1149" lastmodified="1227107242">jazyky</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="1149" lastmodified="1227107359">lingvistiku</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="1149" lastmodified="1227107359">matematiku</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="1149" lastmodified="1227107359">chémiu</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="1149" lastmodified="1227107359">fyziku</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="1149" lastmodified="1227107359">informatiku</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="1149" lastmodified="1227107359">Na akej univerzite študuješ (informal) / študujete (formal)?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="1149" lastmodified="1227107359">Študujem na ...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="1149" lastmodified="1227107359">Dnes mám školu.</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="1149" lastmodified="1227107359">Dnes mám voľno</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="1149" lastmodified="1227107359">Si na strednej (škole)? / Študuješ ma strednej (škole)?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="1149" lastmodified="1227107359">Som na strednej (škole). / Študujem na strednej (škole).</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="1149" lastmodified="1227107359">Musím ísť na hodinu.</attrib>
+		</entry>
+	</entries>
+</ulr>

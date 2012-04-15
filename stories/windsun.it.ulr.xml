@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Gianluca">Il Vento del Nord ed il Sole</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Gianluca">Il vento ed il sole litigano.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Gianluca">Nacque una disputa tra il Vento del Nord ed il Sole, poiché ognuno diceva di essere più forte dell'altro. Alla fine si accordarono per provare i propri poteri su (di un) viaggiatore, per vedere chi potesse fargli togliere il mantello per primo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Gianluca">Iniziò il Vento del Nord; e, raccogliendo tutte le sue forze per attaccare, scese vorticando furioso sull'uomo, e si avvinghiò al suo mantello pensando di poterglielo sottrarre con un solo sforzo: ma più soffiava, più l'uomo lo teneva stretto intorno a sé.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Gianluca">Dopo fu il turno del Sole. All'inizio splendette dolcemente sul viaggiatore, che presto aprì il suo mantello e continuò a camminare tenendolo largamente intorno alle spalle: dopo splendette alla sua massima potenza, e l'uomo, prima di aver percorso molti passi, fu felice di togliersi del tutto il mantello e terminare il suo viaggio meno vestito.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Gianluca">La persuasione è meglio della forza</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="cs">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Majka">Severák a Slunce</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Majka">Vítr a slunce spolu soupeří.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Majka">Mezi Severákem a Sluncem se zrodil spor, oba tvrdili, že jsou silnější než ten druhý. Nakonec se dohodli, že vyzkoušejí své síly na poutníkovi, aby viděli, kdo ho dokáže dříve vysvléct z kabátu.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Majka">První pokus patřil Severáku. Sebrav k útoku veškerou svou sílu snesl se v zuřivém víru k muži a uchvátil jeho kabát, jako by jej z něj chtěl servat na jediný pokus. Ale čím silněji foukal, tím těsněji si muž přitahoval kabát k tělu.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Majka">Pak přišla řada na Slunce. Nejdřív na poutníka vyslalo jen pár něžných paprsků. Poutník se z kabátu brzy vysvlékl a šel dál maje ho jen ledabyle přehozený přes ramena. Pak slunce zazářilo plnou silou a muž, který už měl v nohách spoustu kroků, rád kabát odhodil a pokračoval v cestě v lehčím oděvu.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Majka">Přesvědčování je lepší než nátlak.</attrib>
+		</entry>
+	</entries>
+</ulr>

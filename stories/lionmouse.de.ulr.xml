@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Nietoperz">Der Löwe und die Maus</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Nietoperz">Eine Maus hilft einem Löwen.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Nietoperz">Ein Löwe, der in seiner Höhle schlief, wurde von einer Maus geweckt, die über sein Gesicht lief./n Er verlor die Beherrschung und ergriff sie mit seiner Pfote/n und war kurz davor, sie zu töten./n</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Nietoperz">Die erschreckte Maus bettelte erbärmlich, dass er ihr Leben verschonte. &quot;Bitte lass mich gehen&quot;, weinte sie,/n &quot;und eines Tages werde ich dir deine Freundlichkeit zurückzahlen.&quot;/n</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Nietoperz">Der Gedanke, dass ein so unbedeutendes Wesen je in der Lage sein könnte, etwas für ihn zu tun,/n belustigte den Löwen so sehr, dass er laut lachte,/n und sie gutgelaunt gehen ließ./n</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Nietoperz">Aber schließlich kam die Gelegenheit der Maus.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Nietoperz">Eines Tages verfing der Löwe sich in einem Netz, das zum Spaß von einigen Jägern gespannt worden war,/n und die Maus hörte und erkannte sein Ärgergrollen und rannte herbei./n Ohne lange zu fackeln, begann sie zu arbeiten und zernagte die Seile mit ihren Zähnen,/n und befreite den Löwen nach kurzer Zeit./n</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Nietoperz">&quot;Da!&quot; sagte die Maus, &quot;Du hast mich ausgelacht, als ich versprach, es dir zurück zu zahlen:/n aber jetzt siehst du, sogar eine Maus kann einem Löwen helfen.&quot;/n</attrib>
+		</entry>
+	</entries>
+</ulr>

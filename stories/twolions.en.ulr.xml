@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="twolions" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Snoopy">Story of Two Lions</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Snoopy">Two lions escape from a zoo and try to survive in Brazil</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Snoopy">It is said there were two lions that ran away from the zoo in Brazil. During the escape, each one chose a different way to go. One of them went to the forest and the other went downtown. Authorities searched for the lions everywhere but nobody found them. They simply disappeared.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Snoopy">One week after they left, the lion that went to the forest came back by itself. It was slim, starving and weak. The director of the zoo was thinking about sending the lion back to Africa. Nobody wants to see a ragged lion. A Brazilian deputy had the director maintain the lion in the zoo. You know, Brazilian deputies in power work miracles.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Snoopy">Eight months later, nobody remembered the lion that went downtown until it was caught. It was taken back to the zoo in good health.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="12803" lastmodified="1232397033">When the lion met its old friend, it said:</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="12803" lastmodified="1232397033">Come on, man! How did you live in the city, and still be in good shape? I've gone to the forest, and I couldn't find any food. How did you manage? Tell me how you did it!</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Snoopy">The other lion explained:</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Snoopy">- I hid in a public bureau. I used to eat a civil servant a day. Nobody noticed their absence.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Snoopy">- Huh? So why did you come back? Did you finish off all the civil servants?</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Snoopy">- No, no, no, no... In Brazil there are many civil servants. But I was stupid. I ate the director... the department manager... other employees... and nobody noticed their absence. I was caught after I ate the employee responsible for serving coffee.</attrib>
+		</entry>
+	</entries>
+</ulr>

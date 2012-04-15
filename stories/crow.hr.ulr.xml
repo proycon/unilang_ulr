@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="hr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">Vrana i ćup</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">Vrana koristi mozak da dobije piće</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">Žedna Vrana je pronašla Ćup sa nešto vode u njemu, ali vode je bilo tako malo, da bez obzira koliko pokušavala nije ju mogla dosegnuti svojim kljunom, i činilo se da će umrijeti od žeđi s lijekom nadohvat ruke (u pogledu na lijek)</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">Napokon je smislila pametan plan. Počela je bacati šljunak u ćup i sa svakim kamenčićem voda se digla malo više dok nije dosegla rub i  pametna ptica je uspjela utažiti svoju žeđ</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">Nužda je majka izuma.</attrib>
+		</entry>
+	</entries>
+</ulr>

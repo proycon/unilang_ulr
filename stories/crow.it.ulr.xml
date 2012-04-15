@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="martyno">Il corvo e la brocca</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="martyno">Un corvo usa la sua intelligenza per riuscire a bere</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="martyno">Un corvo assetato trovò una brocca con dell'acqua, ma ce n'era così poca che, per quanto tentasse, non riusciva a raggiungerla con il suo becco, e sembrava morire di sete alla vista del rimedio.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="martyno">Alla fine trovò un piano ingegnoso. Iniziò a lasciar cadere dei ciottoli dentro la brocca, e ad ogni ciottolo l'acqua saliva un po' di più finché alla fine raggiunse il bordo, e l'astuto uccello riuscì a soddisfare la sua sete.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="martyno">La necessità è la madre dell'inventiva.</attrib>
+		</entry>
+	</entries>
+</ulr>

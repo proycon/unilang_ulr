@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="ar">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="14975" lastmodified="1234488948">دردشة و محادثة</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274025917">dardašatun wa-muḥādaṯatun</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="14975" lastmodified="1234528530">هذا كتاب الجمل و يحتوي عبارات قصيرة يمكنك الإستفادة منها في التحدث </attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274025917" variant="1">hāḏā kitābu l-ğumali ṣ-ṣaġīru l-laḏī yaḥtawī </attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="14975" lastmodified="1234488948">تعال الى هنا:</attrib>
+			<attrib type="phon" author="14975" lastmodified="1234488948">ta'ala ila hounaا:</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274025917" variant="1">ta3ala 'ilā hunā</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="عرباوي أحمد">مرحبا</attrib>
+			<attrib type="phon" author="عرباوي أحمد">marhaban</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274025917" variant="1">marḥaban</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="14975" lastmodified="1234488948">مرحبا، جميعاً</attrib>
+			<attrib type="phon" author="14975" lastmodified="1234488948">marhaban، jami'an</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274028146">marḥaban, ğamīʕan</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="عرباوي أحمد">صباح الخير</attrib>
+			<attrib type="phon" author="عرباوي أحمد">sabah el kheir</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274028146" variant="1">ṣabāhu l-ḫayri</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="عرباوي أحمد">مساء الخير</attrib>
+			<attrib type="phon" author="عرباوي أحمد">massa el kheir</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274028146" variant="1">masā'u l-ḫayri</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="عرباوي أحمد">مساء الخير</attrib>
+			<attrib type="phon" author="عرباوي أحمد">massa el kheir</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274028146" variant="1">masā'u l-ḫayri</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="عرباوي أحمد">ليلة سعيدة</attrib>
+			<attrib type="phon" author="عرباوي أحمد">leila saiida</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274028146" variant="1">laylatun saʕīdatun</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="عرباوي أحمد">أنت هناك</attrib>
+			<attrib type="phon" author="عرباوي أحمد">anta hounak</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274028146" variant="1">'anta hunāka</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="12790" lastmodified="1274028146">بدء محادثة:‏</attrib>
+			<attrib type="phon" author="14975" lastmodified="1234488948">badou mouhadatha</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274028146" variant="1">bad'u muḥādaṯatin</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="14975" lastmodified="1234488948">ما الجديد؟</attrib>
+			<attrib type="phon" author="14975" lastmodified="1234488948">ma eldjadid</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274028146" variant="1">mā l-ğadīdu</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="عرباوي أحمد">ما الأمر؟</attrib>
+			<attrib type="phon" author="عرباوي أحمد">ma el amr</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">mā l-'amru</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="عرباوي أحمد">ما الذي تتحدّث عنه؟ | ما هو الموضوع؟</attrib>
+			<attrib type="phon" author="عرباوي أحمد">ma elathi tatahadathou anhou؟ | ma houa elmaouthouaa؟</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">mā l-laḏī tataḥaddaṯu 3an-hu | mā huwa l-mawḍūʕu</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="عرباوي أحمد">كيف حالك؟</attrib>
+			<attrib type="phon" author="عرباوي أحمد">keifa halouka؟</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="عرباوي أحمد">كيف حالكم (جمع)؟</attrib>
+			<attrib type="phon" author="عرباوي أحمد">keifa haloukoum(jamaa)؟</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">kayfa ḥālu-kum (ğamʕun)</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="عرباوي أحمد">كيف تسير الأمور؟</attrib>
+			<attrib type="phon" author="عرباوي أحمد">keifa tasirou el oumour؟</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="عرباوي أحمد">أسئلة شخصية:</attrib>
+			<attrib type="phon" author="عرباوي أحمد">asila chakhsiya:</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">'as'ilatun šaḫṣiyyatun</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="عرباوي أحمد">من أين أنت، {اسم مستخدم}؟</attrib>
+			<attrib type="phon" author="عرباوي أحمد">min ayna anta، {ism moustakhdim}؟</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">min 'ayna 'anta, {ismun mustaḫdimun}</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="12790" lastmodified="1274030242">هل أنت جديد هنا؟ | هل هذه زيارتك الأولى؟</attrib>
+			<attrib type="phon" author="14975" lastmodified="1234489176">hal anta jadidoun houna؟ | hal hathihi ziaratoka al oula؟</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">hal 'anta ğadīdun hunā | hal haḏihi ziyāratu-ka l-'ūlā</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="14975" lastmodified="1234489176">أيّ اللغات تتكلّم؟</attrib>
+			<attrib type="phon" author="14975" lastmodified="1234489176">ayou alloughati tatakalam؟</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">'ayyu l-luġāti tatakallamu</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="عرباوي أحمد">في أيّ {بلاد} تعيش؟</attrib>
+			<attrib type="phon" author="عرباوي أحمد">fi ayi{bilad} taiich؟</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">fī 'ayyi {bilādin} taʕīšu</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="عرباوي أحمد">كم عمرك؟</attrib>
+			<attrib type="phon" author="عرباوي أحمد">kam oumrouka؟</attrib>
+			<attrib type="xlit" author="12790" lastmodified="1274030242" variant="1">kam ʕumru-ka</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="عرباوي أحمد">أيّ لغات تتعلّمها؟</attrib>
+			<attrib type="phon" author="12790" lastmodified="1274022972">ayou loughatin tataalamouha؟</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="عرباوي أحمد">تحدّث عن نفسك:</attrib>
+			<attrib type="phon" author="عرباوي أحمد">tahadath an nafsika:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="عرباوي أحمد">أنا من {بلاد}</attrib>
+			<attrib type="phon" author="عرباوي أحمد">ana mine{bilad}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="عرباوي أحمد">أتكلّم {لغة (ات)}</attrib>
+			<attrib type="phon" author="عرباوي أحمد">atakalam{loughat(loughate)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="عرباوي أحمد">آسف، أنا لا أتكلّم {لغة}</attrib>
+			<attrib type="phon" author="عرباوي أحمد">asif، ana la atakalamou{loughat}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="عرباوي أحمد">إنهاء محادثة:</attrib>
+			<attrib type="phon" author="عرباوي أحمد">inha mouhadatha:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="عرباوي أحمد">سعيد بمقابلتك</attrib>
+			<attrib type="phon" author="عرباوي أحمد">saidoun bi moukabalatika</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="14975" lastmodified="1234528709">سعيد بالتحدث إليك</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="14975" lastmodified="1234528709">يجب أن أذهب</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="14975" lastmodified="1234528709">حان وقت العشاء</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="14975" lastmodified="1234528709">أنا ذاهب إلى النوم</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="14975" lastmodified="1234528874">يجب أن أنام</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="14975" lastmodified="1234528874">أراك لاحقاً</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="14975" lastmodified="1234528874">أراك غداً</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="14975" lastmodified="1234528874">أراك قريباً</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="14975" lastmodified="1234528874">أراك في المرة القادمة</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="14975" lastmodified="1234528874">تصبحون على خير، جميعاً</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="14975" lastmodified="1234528874">إلى اللقاء، جميعاً</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="14975" lastmodified="1234528874">سأعود حالاً</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="14975" lastmodified="1234528874">سأعود لاحقاً</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="14975" lastmodified="1234528874">المزيد:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="14975" lastmodified="1234528874">شكراً</attrib>
+		</entry>
+	</entries>
+</ulr>

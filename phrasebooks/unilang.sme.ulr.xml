@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="sme">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Giitu</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Buorre beaivi</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Buorre iđit</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Buorre eahket</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Mu namma lea</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Mii du namma lea?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Mon lean</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Gii don leat?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Mon orun...</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">juovlamánnu</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Mon lean oahpaheaddji</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Mon lean oahppi</attrib>
+		</entry>
+	</entries>
+</ulr>

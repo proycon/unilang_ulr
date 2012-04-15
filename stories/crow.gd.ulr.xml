@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="gd">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Richard Raw">An Starrag agus an Crogan</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Richard Raw">Tha starrag a' cleachdadh na h-eanchainn aice airson deoch fhaighinn</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Richard Raw">Bha starrag ann uaireigin a bha a' fulang leis a' phathadh nuair a chunnaic i crogan agus mhothaich i gunn robh uisge ann. An duilgheadas a bh' aice ged-ta, cha robh ach beagan ann, agus ged a bha i a' feuchainn, cha robh an gob aice fada gu leòr airson a ruigsinn, agus bha e coltach gum bàsaich i leis a' phathadh ged a bha i cho faisg air an ìocshlaint.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Richard Raw">An dèidh meòrachadh air dè dhèanadh i, bhuail an fhreagairt oirre gu h-obann. Thòisich i air clachan beaga a' leigeil anns a' chrogan, agus as dèidh a h-uile clach bheag, dh'èirich an t-uisge beag air bheag gus an do ruig e bàrr a' chrogain, agus bha an t-eun glic seo comasach am pathadh a bh' oirre a leigeil seachad.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Richard Raw">'S e feum a tha freumh dha tionnsgnadh.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="pae">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="toksave">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="toksave">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="toksave">frasenan di papia</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="toksave">si</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="toksave">no</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="toksave">por fabor</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="toksave">aki bo ta</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="toksave">danki</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="toksave">di nada</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="toksave">despensa</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="toksave">hola</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="toksave">ayo</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="toksave">bon dia</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="toksave">bon dia</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="toksave">bon nochi</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="toksave">bon nochi</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="toksave">bon bini</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="toksave">tin un bon biaha</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="toksave">komprendendo kada un</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="toksave">bo papia.....</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="toksave">mi sa papia......</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="toksave">mi no por papia......</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="toksave">mi por papia poko di......</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="toksave">ingles</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="toksave">frances</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="toksave">aleman</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="toksave">spaño</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="toksave">chines</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="toksave">hulandes</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="toksave">polesh</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="toksave">hapones</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="toksave">bo ta komprende?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="toksave">bo ta komprendemi</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="toksave">mi ta komprende</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="toksave">mi ta komprendebo</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="toksave">mi no ta komprende</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="toksave">mi no ta komprendebo</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="toksave">bo por ripití esei por fabor?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="toksave">papia mas poko poko</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="toksave">bo por skirbidje por fabor</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="toksave">mi no sa kon ta bisa esei</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="toksave">mi no sa e palabra korekta</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="toksave">kiko bo a bisa?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="toksave">kon bo ta bisa esei den.......?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="toksave">kon bo ta skirbi esei?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="toksave">kon bo ta pronunshá esei?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="toksave">bo por tradusi esaki pa mi?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="toksave">mi a bisa esei korekto?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="toksave">basika kombersashon</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="toksave">con ta bai cu bo?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="toksave">mi ta hopi bon!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="toksave">mi ta bon</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="toksave">mi ta bon</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="toksave">mi no ta bon</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="toksave">kuantu aña bo ta?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="toksave">mi ta......aña</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="toksave">mi no sa</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="toksave">mi no ta gusta esei</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="toksave">mi ta kla</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="toksave">nos ban bai!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="toksave">despensa</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="toksave">negoshi &amp; financia</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="toksave">mi por paga kèsh?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="toksave">mi por paga dor di tarheta di kredito?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="toksave">bo ta aksepta.....?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="toksave">bo por kambia esakinan chek di biahadonan?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="toksave">bo por kambia esaki den.....?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="toksave">bo por dunami un balorá di kosta?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="toksave">aki ta mi kredit</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="toksave">kuanto komishon bo ta karga?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="toksave">mi ta kier kambia algun dolarnan/euronan/pesonan.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="toksave">ta ki e interkambio balorá?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="toksave">ta ki e inflashon balorá?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="toksave">unda mi por kambia mi placa?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="toksave">unda mi por hasi fotokopia?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="toksave">unda ta e banko mas cerca?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="toksave">undo mi ta mester firma?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="toksave">bo tin un katalogo?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="toksave">mi tin un deit cu.....</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="toksave">kuanto ta e fi di entrada?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="toksave">kuanto e ta costa den dia?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="toksave">kuanto e ta costa den ora?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="toksave">kuanto e ta costa den siman?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="toksave">ta gratis?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="toksave">kompiuter i internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="toksave">bo tin un  kòmpiuter?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="toksave">e disko duru ta yen?</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="toksave">bo tin un modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="toksave">bo tin un konekshon di internet</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="toksave">mi por manda un email?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="toksave">mi por lesa mi email?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="toksave">mi por imprimi algun cos?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="toksave">mi por skan algun cos?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="toksave">mi kompiuter a crash</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="toksave">bo tin cu kuminsa atrobe</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="toksave">mi por instala........?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="toksave">kon ta bo email?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="toksave">mi email ta........</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="toksave">bo tin un hompage?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="toksave">kon ta e nomber?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="toksave">edukamentu</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="toksave">kiko bo ta studia?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="toksave">mi ta studia......</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="toksave">lei</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="toksave">remedi</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="toksave">economía</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="toksave">idiomanan</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="toksave">lenganan</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="toksave">matematika</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="toksave">kímika</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="toksave">fisika</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="toksave">informatika</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="toksave">na ki universidat bo ta studia?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="toksave">mi ta studia na......</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="toksave">mi tin klas awe</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="toksave">mi ta liber awe</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="toksave">bo ta den skol di mucha grandinan?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="toksave">mi ta den skol di mucha grandinan</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="toksave">mi tin mester bai klas awor</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="toksave">krisisnan</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="toksave">yama un dokter!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="toksave">yama un ambulans!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="toksave">yama e polis!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="toksave">e no por hala rosea.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="toksave">e no por mobe</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="toksave">e no a para.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="toksave">ela kai riba mi</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="toksave">e tabata kore hopi lihe</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="toksave">ela korta e mes</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="toksave">mi no por mobe mi brasa</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="toksave">mi no por mobe mi pía</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="toksave">nan a hòrtami</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="toksave">para esei ladron!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="toksave">nan a hòrta mi pasport</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="toksave">nan a hòrta mi placa</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="toksave">nan a hòrta mi auto</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="toksave">ta un kandela!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="toksave">unda ta e hospital mas cerca?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="toksave">unda ta e stashon di polis mas cerca?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="toksave">emoshonnan i opinionnan</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="toksave">bo gusta e?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="toksave">mi gusta</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="toksave">mi ta felis</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="toksave">mi ta rabiá</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="toksave">mi ta desapuntá</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="toksave">mi ta kontentu</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="toksave">mi ta cansa</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="toksave">mi ta miedoso</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="toksave">mi ta kayente</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="toksave">mi ta friu</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="toksave">mi ta soño</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="toksave">nos gusta aki</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="toksave">ta (hopi) interesante</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="toksave">nos haña e masha interesante</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="toksave">ta (hopi) ferfelu</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="toksave">ta bunita</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="toksave">e ta (hopi) bunita</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="toksave">e ta (hopi) bunita</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="toksave">e ta kayente</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="toksave">e ta kayente</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="toksave">e ta hopi dushi</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="toksave">wak!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="toksave">skucha!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="toksave">kul!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="toksave">tremendo!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="toksave">kuminda i restorant</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="toksave">mi tin hamber</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="toksave">mi tin sede</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="toksave">laganos ban haña algun cos pa kome?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="toksave">laganos ban haña algun cos pa bebe?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="toksave">bo tin algun cos pa kome?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="toksave">bo tin algun cos pa bebe?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="toksave">bo kier algun cos pa kome?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="toksave">mi por haña bo algun cos di kome?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="toksave">bo kier algun cos di bebe?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="toksave">lo mi ta desea.........(pa bebe), por fabor</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="toksave">un koppi di kòffi</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="toksave">un koppi di te</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="toksave">un glas di cerbes</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="toksave">un glas di biña</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="toksave">un glass di biña kora</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="toksave">un glas di biña blanku</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="toksave">un glas di orañe djus</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="toksave">un glas di apel djus</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="toksave">mi por hañabo algun cos di bebe?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="toksave">kiko lo bo gusta di bebe?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="toksave">kiko lo bo gusta di kome?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="toksave">kiko bo rekomendá?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="toksave">mi por wak e menu, por fabor?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="toksave">mi por wak e leishi di biña, por fabor?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="toksave">lo mi gusta esaki, por fabor</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="toksave">lo bo gusta un appetisado?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="toksave">lo mi gusta un appetisado, por fabor</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="toksave">lo mi gusta piska, por fabor</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="toksave">lo mi gusta karni, por fabor</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="toksave">lo mi gusta karni porko, por fabor</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="toksave">kuantu largu ta e huimento?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="toksave">na ki ora lo mi mester di chek aden?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="toksave">mi por wak bo pasport, por fabor?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="toksave">aki ta mi pasport</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="toksave">mi por tuma esaki cos cu mi?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth" author="toksave">unda mi por haña mi maleta?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="toksave">mi no por haña mi maleta</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="toksave">bo por dunami yudansa cu mi maleta?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="toksave">mi ta pensando cu ta esaki mi stul</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="toksave">ta okupá e stul aki?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="toksave">unda ta e stashon di trein?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="toksave">mi tin mester kambia di trein?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="toksave">esaki trein sa para na........?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="toksave">esaki trein sa bai na.........?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="toksave">kuantu tempu ta keda para e trein aki?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="toksave">ki stashon ta esaki?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="toksave">kuandu ta bini e siguiente trein?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="toksave">kuandu ta bini e ayeranochi trein?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="toksave">unda mi por haña un taksi?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="toksave">ta un park di auto cerca?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="toksave">mi por parker aki?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="toksave">kuantu tempo mi por parker aki?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="toksave">unda mi por parker e auto?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="toksave">mi auto a morto kaba</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="toksave">mi auto no kier kuminsa</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="toksave">unda ta e stashon di gasolin mas cerca?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="toksave">unda ta e garashi mas cerca?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="toksave">mi tin un flet tair</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="toksave">mi ta falta di gasolin</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="toksave">mi por wak bo lisensha di chufùr por fabor?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="toksave">aki ta mi lisensha di chufùr</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="toksave">kuantu leu ta keda e siguiente pueblo?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="toksave">kuantu largu ta tuma dor di auto?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="toksave">kuantu largu ta tuma na kana?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="toksave">lo mi gusta hür un auto pa un siman / pa tres dia</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="toksave">tempu</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="toksave">kon ta bai e tempu mañan?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="toksave">kon ta e tempu normalmente?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="toksave">mañan ta bai kai awaseru</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="toksave">awaseru ta kai</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="toksave">sneu ta kai</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="toksave">tin solo</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="toksave">tin nubia</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="toksave">ta hasi kayende pafó</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="toksave">ta hasi friu pafó</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="toksave">ki tempu hopi abominabel!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="toksave">ki bunita dia!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="toksave">ta un bon dia, si?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="toksave">semper ta hopi kayende?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="toksave">semper ta hopi friu?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="toksave">ta semper tin awaseru?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="toksave">ta semper tin nubia?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="toksave">mi ta muha</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="toksave">trabou</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="toksave">unda bo ta traha?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="toksave">kiko bo ta hasi pa bo bida?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="toksave">mi ta un maestro</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="toksave">mi ta un studiante</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="toksave">mi ta traha pa mi</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="toksave">mi ta traha den un restorant</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="toksave">mi ta traha den un super merkado</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="toksave">mi ta traha den un pakus</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="toksave">mi ta un dokter/ un fisiko</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="toksave">mi ta un sikologo</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="toksave">mi ta un programado</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="toksave">mi ta un engeniero</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="toksave">mi ta un mekaniko</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="toksave">mi ta un autor</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="toksave">mi ta un chufùr</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="toksave">mi ta un aktor</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="toksave">mi ta un trahado soshal</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="toksave">mi ta un politiko</attrib>
+		</entry>
+	</entries>
+</ulr>

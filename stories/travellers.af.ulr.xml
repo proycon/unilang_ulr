@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="af">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Tigaine">Die Beer en die Reisigers</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Tigaine">'n Les oor bere en vriende</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Tigaine">Twee Reisigers was saam oppad, toe 'n beer skielik op die toneel verskyn. Voordat hy hulle opgemerk het, het een gemik vir 'n boom teen die kant van die pad, en het opgeklim in die takke en daar weggekruip.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Tigaine">Die ander was nie so rats soos sy metgesel nie; en, aangesien hy nie kon ontsnap nie, het hy homself op die grond neergegooi en gemaak of hy dood is.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Tigaine">Die Beer het nadergekom en al rondom hom geruik, maar hy het heeltemal stil gebly en sy asem opgehou: want hulle beweer dat 'n beer nie sal raak aan 'n dooie liggaam nie. Die beer het hom as dood beskou, en het weggegaan.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Tigaine">Toe dit weer veilig is, het die Reisiger in die boom afgekom, en vir die ander gevra wat die beer vir hom gefluister het toe sy mond by sy oor was.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Tigaine">Die ander antwoord, &quot;Hy het vir my gesê om nooit weer saam met 'n vriend te reis wat jou verlaat met die eerste teken van gevaar nie.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Tigaine">Ongeluk toets die opregtheid van vriendskap.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="ja">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">もっともよく使われる表現</attrib>
+			<attrib type="phon">Mottomo Yoku Tsukawareru Hyougen</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">はい</attrib>
+			<attrib type="phon">hai</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">いいえ</attrib>
+			<attrib type="phon">iie</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">どうぞ／お願いします</attrib>
+			<attrib type="phon">dōzo / onegai shimasu</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">はい、どうぞ</attrib>
+			<attrib type="phon">hai, dōzo</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">どうもありがとう</attrib>
+			<attrib type="phon">dōmo arigatō</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">どういたしまして</attrib>
+			<attrib type="phon">dō itashimashite</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">すみません</attrib>
+			<attrib type="phon">sumimasen</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">たぶん</attrib>
+			<attrib type="phon">tabun</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">こんにちは</attrib>
+			<attrib type="phon">konnichi wa</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">さようなら</attrib>
+			<attrib type="phon">sayōnara</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">こんにちは</attrib>
+			<attrib type="phon">konnichi wa</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">おはよう（ございます）</attrib>
+			<attrib type="phon">ohayō (gozaimasu)</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">こんばんは</attrib>
+			<attrib type="phon">konban wa</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">おやすみなさい</attrib>
+			<attrib type="phon">oyasumi nasai</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">ようこそ</attrib>
+			<attrib type="phon">yōkoso</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">いってらっしゃい</attrib>
+			<attrib type="phon">itterasshai</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">お互いに知り合う</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">～を話しますか。</attrib>
+			<attrib type="phon">~ o hanashimasu ka?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">私は～を話します。</attrib>
+			<attrib type="phon">Watashi wa ~ o hanashimasu.</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">私は～が話せません。</attrib>
+			<attrib type="phon">Watashi wa ~ o hanasemasen.</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">～が少し話せます。</attrib>
+			<attrib type="phon">~ ga sukoshi hanasemasu.</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">英語</attrib>
+			<attrib type="phon">eigo</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">フランス語</attrib>
+			<attrib type="phon">furansugo</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">ドイツ語</attrib>
+			<attrib type="phon">doitsugo</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">スペイン語</attrib>
+			<attrib type="phon">supeingo</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">ポルトガル語</attrib>
+			<attrib type="phon">porutogarugo</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">アラビア語</attrib>
+			<attrib type="phon">arabiago</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">中国語</attrib>
+			<attrib type="phon">chūgokugo</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">ヒンディー語</attrib>
+			<attrib type="phon">hindīgo</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">ロシア語</attrib>
+			<attrib type="phon">roshiago</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">イタリア語</attrib>
+			<attrib type="phon">itariago</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">ドイツ語</attrib>
+			<attrib type="phon">doitsugo</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">ノルウェー語</attrib>
+			<attrib type="phon">noruwēgo</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">スウェーデン語</attrib>
+			<attrib type="phon">suwēdengo</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">デンマーク語</attrib>
+			<attrib type="phon">denmākugo</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">ポーランド語</attrib>
+			<attrib type="phon">pōrandogo</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">ウルドゥー語</attrib>
+			<attrib type="phon">urudūgo</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">ファルシー語</attrib>
+			<attrib type="phon">farushīgo</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">日本語</attrib>
+			<attrib type="phon">nihongo</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">インドネシア語</attrib>
+			<attrib type="phon">indoneshiago</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">マレー語</attrib>
+			<attrib type="phon">marēgo</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">わかりますか。</attrib>
+			<attrib type="phon">Wakarimasu ka?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">私の言っていることがわかりますか。</attrib>
+			<attrib type="phon">Watashi no itte iru koto ga wakarimasu ka?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">わかります。</attrib>
+			<attrib type="phon">Wakarimasu.</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">あなたの言っていることがわかります。</attrib>
+			<attrib type="phon">Anata no itte iru koto ga wakarimasu.</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">わかりません。</attrib>
+			<attrib type="phon">Wakarimasen.</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">あなたの言っていることがわかりません。</attrib>
+			<attrib type="phon">Anata no itte iru koto ga wakarimasen.</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">もう一回言っていただけますか。</attrib>
+			<attrib type="phon">Mō ichido itte itadakemasu ka?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">もう少しゆっくり話していただけませんか。</attrib>
+			<attrib type="phon">Mou sukoshi yukkuri hanashite itadakemasen ka?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">ここに書いていただけませんか。</attrib>
+			<attrib type="phon">Koko ni kaite itadakemasen ka?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">どう言ったらいいかわかりません。</attrib>
+			<attrib type="phon">Dō ittara ii ka wakarimasen.</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">正しい言葉がわかりません。</attrib>
+			<attrib type="phon">Tadashii kotoba ga wakarimasen.</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">なんとおっしゃいましたか。</attrib>
+			<attrib type="phon">Nanto osshaimashita ka?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">～でなんと言いますか。</attrib>
+			<attrib type="phon">~ de nan to iimasu ka?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">どう言えばいいですか。</attrib>
+			<attrib type="phon">Dō ieba ii desu ka?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">どう発音しますか。</attrib>
+			<attrib type="phon">Dō hatsuon shimasu ka?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">訳していただけませんか。</attrib>
+			<attrib type="phon">Yakushite itadakemasen ka?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">私は正しくいいましたか。</attrib>
+			<attrib type="phon">Watashi wa tadashiku iimashita ka?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">基本会話</attrib>
+			<attrib type="phon">Kihon Kaiwa</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">お元気ですか。</attrib>
+			<attrib type="phon">O-genki desu ka?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">元気にやっています。</attrib>
+			<attrib type="phon">Genki ni yatte imasu.</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">元気です。</attrib>
+			<attrib type="phon">Genki desu.</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">元気です。</attrib>
+			<attrib type="phon">Genki desu.</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">あまり具合がよくないんです。</attrib>
+			<attrib type="phon">Amari guai ga yoku nai n desu.</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">おいくつですか。</attrib>
+			<attrib type="phon">O-ikutsu desu ka?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">～才です。</attrib>
+			<attrib type="phon">~ sai desu.</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">わかりません。／知りません。</attrib>
+			<attrib type="phon">Wakarimasen. / Shirimasen.</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">好きではありません。</attrib>
+			<attrib type="phon">Suki de wa arimasen.</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">用意ができました。</attrib>
+			<attrib type="phon">Yōi ga dekimashita.</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">行きましょう。</attrib>
+			<attrib type="phon">Ikimashō.</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">ごめんなさい。／申し訳ありません。／すみません。</attrib>
+			<attrib type="phon">Gomen nasai. / Mōshiwake arimasen. / Sumimasen.</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">ビジネス &amp; ファイナンス</attrib>
+			<attrib type="phon">bijunesu to fainansu</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">現金で支払えますか？</attrib>
+			<attrib type="phon">Genkin de shiharaemasu ka?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">クレジットカードで支払えますか？</attrib>
+			<attrib type="phon">Kurejitto kādo de shiharaemasu ka?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">~もいいでしょうか？</attrib>
+			<attrib type="phon">~ mo ii deshou ka?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">このトラベラーズチェックを換金してもらえますか？</attrib>
+			<attrib type="phon">Kono toraberāzu chekku o genkin shite moraemasu ka?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">これを～に両替できますか？</attrib>
+			<attrib type="phon">Kore o ~ ni ryūgae dekimasu ka?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">見積額を教えてくれますか？</attrib>
+			<attrib type="phon">Mitsumorigaku o oshiete kuremasu ka?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">どうぞ私のカードです。</attrib>
+			<attrib type="phon">Dōzo watashi no kādo desu.</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">ドル / ユーロ / ポンド　を両替したいんですが。</attrib>
+			<attrib type="phon">doru / yuuro / pondo o ryougae shitain desu ga.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">円相場は何ですか？</attrib>
+			<attrib type="phon">Ensōba wa nan desu ka?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">どこに両替できますか？</attrib>
+			<attrib type="phon">Doko ni ryūgae dekimasu ka?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">どこにコピーができますか？</attrib>
+			<attrib type="phon">Doko ni kopī ga dekimasu ka?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">このあたりに銀行はありますか？</attrib>
+			<attrib type="phon">kono-atari ni ginkou wa arimasu ka?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">どこにサインしたらいいですか？</attrib>
+			<attrib type="phon">doko ni sain shitara ii desu ka?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">カタログはありますか？</attrib>
+			<attrib type="phon">katarogu wa arimasu ka?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">一日いくらかかりますか？</attrib>
+			<attrib type="phon">ichi-nichi ikura kakari masu ka?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">一時間いくらかかりますか？</attrib>
+			<attrib type="phon">ichi-jikan ikura kakari masu ka?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">一週間いくらかかりますか？</attrib>
+			<attrib type="phon">i-sshuukan ikura kakari masu ka?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">無料ですか？</attrib>
+			<attrib type="phon">muryou desu ka?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">コンピュータとインターネット</attrib>
+			<attrib type="phon">Kompyūta to Intānetto</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">コンピュータがありますか？</attrib>
+			<attrib type="phon">Kompyūta ga arimasu ka?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">ハードドライブがいっぱいです。</attrib>
+			<attrib type="phon">haado doraibu ga ippai desu.</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">モデムがありますか？</attrib>
+			<attrib type="phon">Modemu ga arimasu ka?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">インターネットに接続していますか？</attrib>
+			<attrib type="phon">intaa netto ni setsuzoku shiteimasu ka?</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">戦況は何ですか？</attrib>
+			<attrib type="phon">Senkō wa nan desu ka?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">戦況は〜です。</attrib>
+			<attrib type="phon">Senkō wa ~ desu.</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">法学</attrib>
+			<attrib type="phon">hōgaku</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">医学</attrib>
+			<attrib type="phon">igaku</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">経済学</attrib>
+			<attrib type="phon">kēzaigaku</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">言語学</attrib>
+			<attrib type="phon">gengogaku</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">言語学</attrib>
+			<attrib type="phon">gengogaku</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">数学</attrib>
+			<attrib type="phon">sūgaku</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">化学</attrib>
+			<attrib type="phon">kagaku</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">物理学</attrib>
+			<attrib type="phon">butsurigaku</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">情報学</attrib>
+			<attrib type="phon">jōhōgaku</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">どの大学で勉強しますか？</attrib>
+			<attrib type="phon">Dono daigaku de benkyō shimasu ka?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">〜で勉強します。</attrib>
+			<attrib type="phon">~ de benkyō shimasu.</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">今日は授業があります。</attrib>
+			<attrib type="phon">Kyō wa jugyō ga arimasu.</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">今日は暇です。</attrib>
+			<attrib type="phon">Kyō wa hima desu.</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">高校学生ですか</attrib>
+			<attrib type="phon">kōkō gakusei desuka.</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">高校学生です。</attrib>
+			<attrib type="phon">kōkō gakusei desu</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">今、クラスに行かなければならない。</attrib>
+			<attrib type="phon">ima, kurasu ni ikanakerebanaranai.</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">好きですか？</attrib>
+			<attrib type="phon">Suki desu ka?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">好きです。</attrib>
+			<attrib type="phon">Suki desu.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">嬉しいです。</attrib>
+			<attrib type="phon">Ureshii desu.</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">怒っています。</attrib>
+			<attrib type="phon">Ikatte imasu.</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">暗然です。</attrib>
+			<attrib type="phon">Anzen desu.</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">満ち足ります。</attrib>
+			<attrib type="phon">Michitarimasu.</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">疲れ切ります。</attrib>
+			<attrib type="phon">Tsukarekirimasu.</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">暖かいです。</attrib>
+			<attrib type="phon">Atatakai desu.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">寒いです。</attrib>
+			<attrib type="phon">Samui desu.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">眠いです。</attrib>
+			<attrib type="phon">Nemui desu.</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">（とても）面白いです。</attrib>
+			<attrib type="phon">(Totemo) omoshiroi desu.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">（とても）つまらないです。</attrib>
+			<attrib type="phon">(Totemo) tsumaranai desu.</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">きれいです。</attrib>
+			<attrib type="phon">Kirē desu.</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">聞け！/　聞いてください！</attrib>
+			<attrib type="phon">kike! kiitekudasai!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">食べ物とレストラン</attrib>
+			<attrib type="phon">tabemono to resutoran</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">何を食べましょうか</attrib>
+			<attrib type="phon">nani o tabemashōka.</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">何を飲みましょうか。</attrib>
+			<attrib type="phon">nani o nomimashōka.</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">何を食べたいですか。</attrib>
+			<attrib type="phon">nani o tabetaidesuka</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">~に　します。</attrib>
+			<attrib type="phon">～ni shimasu.</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">最初釘者です。</attrib>
+			<attrib type="phon">saishokushugisha desu.</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">何をしましょうか。</attrib>
+			<attrib type="phon">nani o shimashōka</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">私は食べられます。</attrib>
+			<attrib type="phon">watashi wa taberaremasu.</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">さんがつ</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">先生です。</attrib>
+			<attrib type="phon">sensei desu.</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">学生です。</attrib>
+			<attrib type="phon">gakusei desu.</attrib>
+		</entry>
+	</entries>
+</ulr>

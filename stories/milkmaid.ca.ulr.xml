@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="ca">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abagada (anglès) / Núria Harket (Català)">El conte de la lletera</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abagada (anglès) / Núria Harket (Català)">Una lletera somnia amb el seu futur</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abagada (anglès) / Núria Harket (Català)">La filla d’un granger havia sortit a munyir les vaques, I tornava a la lleteria duent la galleda de llet sobre el cap. Mentres caminava va començar a cavil.lar d’aquesta manera:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abagada (anglès) / Núria Harket (Català)">&quot;La llet d’aquesta galleda em donarà nata, de la nata faré mantega i Ia duré a vendre al mercat. Amb els diners compraré ous, i d’aquests sortiran pollets, i amb el temps tindré un bon galliner. Llavors vendré algunes  de les meves aus, i amb els diners que guanyi em compraré un vesitit nou, que em posaré per anar a fira; i tots els fadrins l'admiraran, i em vindran a festejar, però jo els giraré la cara i no els diré res.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abagada (anglès) / Núria Harket (Català)">Oblidant-se completament de la galleda i fent acció de la paraula, va sacsejar el cap. I avall va anar la galleda i es va vessar la llet. i tots els bonics castells a l’aire es van esvair a l’instant!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abagada (anglès) / Núria Harket (Català)">No diguis blat fins que sigui al sac, i ben lligat.</attrib>
+		</entry>
+	</entries>
+</ulr>

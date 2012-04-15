@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="sv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kess">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kess">Det här är en parlör som består av nästan 200 fraser, vi försökte använda vitt skilda grammatiska konstruktioner och en hel del av basordförrådet i de här fraserna, vilket gör dem utmärkta till att öva sig på ett språk och att lära sig ordförrådet genom att bara läsa fraser.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kess">Jag älskar dig</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kess">Stormen når stranden</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kess">De här människorna hör ett högt ljud</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Kess">Jag får rött ljus</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Kess">Hon ser en liten fågel</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Kess">Vi hittar en gammal byggnad</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Kess">Jag letar efter mina nycklar</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Kess">Jag rör ditt huvud</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Kess">Han vill ha en ny vit bil</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Kess">Hon öppnar det trasiga fönstret</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Kess">Den starka flickan stänger den tunga svarta dörren</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Kess">Han löser det hemska problemet</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Kess">Den arga förbrytaren förlorar en massa värderliga pengar</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Kess">De smakar den utsökta maten</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Kess">Poliskonstapeln har en annan åsikt</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Kess">Kollegorna dricker kallt kaffe och hett te</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Kess">Det rika företaget säljer gröna grönsaker</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Kess">De köper tio nya böcker</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Kess">Hans högra öra gör ont</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="Kess">Jag känner den där långa personen</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth" author="Kess">Den slanka damen följer sin tjocka chef</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth" author="Kess">Den snabba datorn ändrar sin färg</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="Kess">De väljer fel verktyg</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" author="Kess">Min familj bjuder in de trevliga grannarna</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="Kess">Vi tackar de tråkiga studenterna</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth" author="Kess">Hennes man njuter av kvällen</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="Kess">Hon läser sin dagliga [nyhets]tidning</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="Kess">Den fattiga mannen har lortiga kläder</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="Kess">Det starka djuret träffar på en svag fisk</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Kess">Jag betalar 200 euro/dollar</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Kess">Hon gillar det vackra språket</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth" author="Kess">Stormen når stranden</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth" author="Kess">Männen/Personerna bygger ett lågt kontor</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Kess">Han har blå ögon</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="Kess">Det snöar i dag</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="Kess">Han kommer att bli en viktig person</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="Kess">Jag är på den internationella flygplatsen</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Kess">Hon har rena händer</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Kess">Han är en ung pojke</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="Kess">Hon är läkare</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="Kess">Jag förblir lycklig</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth" author="Kess">Jag blir våt av regnet</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="Kess">Hästen är rädd</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="Kess">Den vita hunden blev förvånad</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth" author="Kess">Det moderna samhället är väldigt utvecklat</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="Kess">Orsaken för kollisionen är okänd</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="Kess">Jag ger dig en present</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="Kess">Han ställer mig en svår fråga</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="Kess">Jag får ett meddelande från min mamma</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="Kess">Jag skriver ett brev till min pappa</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="Kess">De bor i en liten stad</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="Kess">Hunden sitter bakom teven</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="Kess">Katten ligger på golvet</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="Kess">Barnen leker utomhus</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="Kess">Hon talar om sitt universitet</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="Kess">De lämnar rummet tyst</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="Kess">Han svarar läraren</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="Kess">Jag går framför mitt hus</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="Kess">Hon sover i sin egen säng</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="Kess">Flygmaskinen flyger över bergen</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth" author="Kess">Vi springer genom den stora trädgården</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" author="Kess">Boken är på bordet</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth" author="Kess">Jag går in i affären med dig</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth" author="Kess">Jag åker till stan med tåg</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth" author="Kess">Trädet växer snabbt</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" author="Kess">Han arbetar i en liten fabrik</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth" author="Kess">Den idotiska presidenten faller på näsan</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" author="Kess">Vi tror sannerligen på gud</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth" author="Kess">Jag beklagar mig om priset</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth" author="Kess">Hon kastar den dyra bollen på mig</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth" author="Kess">Den sjuka farfadern/morfadern dör nära sjukhuset</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth" author="Kess">Jag förstår meningarna på den här sidan</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth" author="Kess">Mormodern/Farmodern berättar en intressant berättelse för barnet</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" author="Kess">Vi hoppas att han pluggar ordentligt</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth" author="Kess">Han håller en kniv i sin vänstra hand</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth" author="Kess">Vårt mål ligger mellan de två sjöarna</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth" author="Kess">Han lagar ett enkelt mål mat till sin väninna</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth" author="Kess">Flickan ser vacker ut på kvällen</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="Kess">Det våldsamma djuret gick ut ur sin bur</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="Kess">Jag jämför våra lagar med era lagar</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth" author="Kess">Jag kör mot vår huvudstad i öster</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth" author="Kess">Döda personer begravs djupt under jorden</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="Kess">Prästen/imamen/rabbin står under det ljusa molnet</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth" author="Kess">Fågelungen ovanför mitt huvud flyger nära sina föräldrar</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth" author="Kess">Jag flyr in i den skadade skolan</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth" author="Kess">Det här vattnet kommer från en avlägsen plats</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="Kess">Jag tänkte mycket på livet</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth" author="Kess">När kommer din kompis?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth" author="Kess">Hur mycket minns du?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth" author="Kess">Hur många personer kommer att hjälpa dig?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth" author="Kess">Varför stjäler du de här sakerna?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="Kess">Hur gammal är du?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth" author="Kess">Hur skapar du den här produkten?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth" author="Kess">Vem är den mest intelligenta människan i världen?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth" author="Kess">Vad upptäcker du i havet?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth" author="Kess">Vilken smörgås föredrar du?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth" author="Kess">Var kommer du ifrån?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" author="Kess">Vart är du på väg?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth" author="Kess">Existerar den där affären?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth" author="Kess">Vad är anledningen till den här undersökningen?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth" author="Kess">Vilka bussar är redo för avgång?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth" author="Kess">Jag vill bara äta någonting</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth" author="Kess">Jag drömmer aldrig</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth" author="Kess">Han anländer alltid tidigt</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth" author="Kess">Han har rätt i bland</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="Kess">Vi vinner ingenting</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth" author="Kess">Vi slåss vanligtvis mot våra fiender</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth" author="Kess">De förlorar ofta i det här spelet</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth" author="Kess">Jag önskar det redan vore i morgon</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth" author="Kess">Det finns många stjärnor i rymden</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth" author="Kess">Han visar ofta sin nakna kropp</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth" author="Kess">Vi döljer sällan våra idéer</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth" author="Kess">Han skrattar åt något skämt</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" author="Kess">Jag tittar överallt</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth" author="Kess">Han räds ingen</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth" author="Kess">Hon dansar med någon på gatan</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth" author="Kess">Du kan välja vad helst du vill</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth" author="Kess">Min fru har sex med mig varje natt</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth" author="Kess">Jag erbjuder dig två gratis blommor</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth" author="Kess">Han sjöng medan hans föräldrar lyssnade</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth" author="Kess">Vi åt efter att vi varit på bio</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth" author="Kess">Vi såg hotellet innan de kunde se det</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth" author="Kess">Du kan städa det här rummet tills dess att ägaren återvänder</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth" author="Kess">Jag försöker vara intresserad i politik eftersom jag måste rösta nästa månad</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth" author="Kess">Glaset är tomt, men det andra glaset är fullt</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth" author="Kess">De skriker så att alla märker dem</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth" author="Kess">Jag tillåter dig att göra det, fast min bror förbjuder det</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth" author="Kess">Jag är trött, därför kommer jag inte kliva upp</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth" author="Kess">Jag vill döda de onda fångarna, utom de som har blont hår</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth" author="Kess">Mördaren skulle ha blivit fälld, men istället blev han frisläppt</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth" author="Kess">Det har gått lång tid sedan vi senast sågs</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth" author="Kess">Jag har inte hört från henne sedan i morse</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth" author="Kess">Trots faran, gick han in i det mörka huset mitt emot kyrkan/moskén/templet</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth" author="Kess">Alkohol har varit förbjudet enligt min pappa</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth" author="Kess">Jag gillar det här området på grund av dess fascinerande historia</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth" author="Kess">Jag flyr in i den förstörda skolan</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth" author="Kess">Det här vattnet kommer från ett avlägset ställe</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth" author="Kess">Jag vilade under helgdagarna</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth" author="Kess">Jag väntar på att min syster skall komma</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth" author="Kess">Han bevisar att han har rätt</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth" author="Kess">Vi tror det inte vara möjligt</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth" author="Kess">Hon ler, och kysser henne</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth" author="Kess">Vi går fortfarande inte med på hans lösning</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" author="Kess">Jag vet vad du tänker</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth" author="Kess">Kvinnan vet hur man bakar bröd</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth" author="Kess">Jag kan se flera ord</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth" author="Kess">Jag större än du</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth" author="Kess">Han är lika liten som du</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth" author="Kess">Han börjar hata sin skola</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth" author="Kess">Hon [av]slutar att studera detta svåra ämne</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth" author="Kess">De slutar tänka på regeringen</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth" author="Kess">Vi fortsätter vårt arbete</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth" author="Kess">De förbereder för att lämna skeppet</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth" author="Kess">Jag måste glömma vad jag såg</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth" author="Kess">Om du accepterar den där konstiga förklaringen, är du en knäpp man</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth" author="Kess">Jag reser till ditt land, såvida det inte regnar</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth" author="Kess">Den blinda flickan kunde lukta mycket bra</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth" author="Kess">I går var alla mina problem långt borta</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth" author="Kess">Jag har inte sett honom sedan tre år [tillbaka]</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth" author="Kess">Jag förväntar mig att han besöker mig i fem timmar</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth" author="Kess">Jag beslutar att ignorera deras beslut</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth" author="Kess">Jag upprepar slutledningen igen</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth" author="Kess">Jag lär eleverna hur man räknar till 10</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth" author="Kess">Kan du översätta den här texten till engelska?</attrib>
+		</entry>
+		<entry id="165">
+			<attrib type="orth" author="Kess">Du reparerade skadan själv när du var i en olycka förra gången</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth" author="Kess">Jag tycker det är omöjligt att se betydelsen</attrib>
+		</entry>
+		<entry id="167">
+			<attrib type="orth" author="Kess">Tar du resväskan åt mig eller måste jag bära den själv?</attrib>
+		</entry>
+		<entry id="168">
+			<attrib type="orth" author="Kess">Jag har inte haft möjligheten att lära mig den här läxan än</attrib>
+		</entry>
+		<entry id="169">
+			<attrib type="orth" author="Kess">Det här är troligen ett väldigt vanligt fel</attrib>
+		</entry>
+		<entry id="170">
+			<attrib type="orth" author="Kess">Lyckligtvis är jag vanligen frisk, men oturligt nog skadade jag min fot</attrib>
+		</entry>
+		<entry id="171">
+			<attrib type="orth" author="Kess">Vädret är vackert, vad mer, har solen skinit hela dagen</attrib>
+		</entry>
+		<entry id="172">
+			<attrib type="orth" author="Kess">Vet du om han kan fixa vinet till festen?</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth" author="Kess">Min religion är fortfarande den samma som förut</attrib>
+		</entry>
+		<entry id="174">
+			<attrib type="orth" author="Kess">En armé är onödig om det inte är krig, utan fred</attrib>
+		</entry>
+		<entry id="175">
+			<attrib type="orth" author="Kess">Den internationella soldaten skjuter en oskyldig passagerare</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth" author="Kess">Kanske är det osannolikt att det någonsin kommer att hända</attrib>
+		</entry>
+		<entry id="177">
+			<attrib type="orth" author="Kess">Det verkar dags att gå i väg</attrib>
+		</entry>
+		<entry id="178">
+			<attrib type="orth" author="Kess">Min ålder anses vara en hemlighet</attrib>
+		</entry>
+		<entry id="179">
+			<attrib type="orth" author="Kess">I den här kursen förväntas vi använda en ordbok och en miniräknare</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth" author="Kess">Jag är rädd för att avsluta vad jag startade</attrib>
+		</entry>
+		<entry id="181">
+			<attrib type="orth" author="Kess">Jag får inget tillfälle att jämföra min teckning med din</attrib>
+		</entry>
+		<entry id="182">
+			<attrib type="orth" author="Kess">Den elektriska apparaten genererar mycket energi</attrib>
+		</entry>
+		<entry id="183">
+			<attrib type="orth" author="Kess">Jag föreslår att inte gå norrut, men att gå söderut</attrib>
+		</entry>
+		<entry id="184">
+			<attrib type="orth" author="Kess">Jag mår dåligt. Faktum är att jag känner mig sämre än förra veckan</attrib>
+		</entry>
+		<entry id="185">
+			<attrib type="orth" author="Kess">Spädbarn är vekligen inte kapabla att tala än</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth" author="Kess">Konsekvenserna behöver omedelbart erkännas</attrib>
+		</entry>
+		<entry id="187">
+			<attrib type="orth" author="Kess">Jag visste väldigt klart om jag skulle agera eller ej</attrib>
+		</entry>
+		<entry id="188">
+			<attrib type="orth" author="Kess">Han slog rakt genom träet</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth" author="Kess">Min klasskompisar lekte tillsammans, men jag satt ensam i ett hörn</attrib>
+		</entry>
+		<entry id="190">
+			<attrib type="orth" author="Kess">Barnet ville vara snäll mot dem, men de gillade ändå inte honom</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth" author="Kess">Min lärare sade att jag inte skulle säga sådana saker</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth" author="Kess">Min mamma tyckte alltid att jag krävde extra uppmärksamhet</attrib>
+		</entry>
+	</entries>
+</ulr>

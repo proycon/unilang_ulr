@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="es">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">El Viento del Norte y el Sol</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">El viento y el Sol tienen una competencia...</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="12803" lastmodified="1228077020">Una disputa surgió entre el Viento del Norte y el Sol, cada uno clamaba que él era más fuerte que el otro. Al fin, accedieron a probar sus poderes en un viajero, par ver cual de los dos podía despójarle de su capa primero.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">Así,el Viento del Norte hizo su primer intento; Y,reuniendo toda su fuerza para el ataque, llegó arremolinando furiosamente sobre el hombre y atrapó su capa, pensando que podía arrancársela con un simple esfuerzo; pero mientras más soplaba, el hombre asía su capa más fuertemente alrededor de sí mismo.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">Entonces llegó el turno del Sol. Primero,brilló suavemente sobre el viajero, quien pronto desabrochó su capa y caminó con ella colgando holgadamente de sus hombros; entonces,el Sol brillo con toda su fuerza,y el hombre, antes de haber avanzado varios pasos, estaba apresurado de poder quitarse la capa y terminar su viaje vestido de manera más ligera.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">Más vale persuasión que fuerza.</attrib>
+		</entry>
+	</entries>
+</ulr>

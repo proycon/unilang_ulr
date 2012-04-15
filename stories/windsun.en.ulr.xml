@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">The North Wind and the Sun</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">The wind and the sun have a contest.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">A dispute arose between the North Wind and the Sun, each claiming that he was stronger than the other. At last they agreed to try their powers upon a traveller, to see which could soonest strip him of his cloak.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">The North Wind had the first try; and, gathering up all his force for the attack, he came whirling furiously down upon the man, and caught up his cloak as though he would wrest it from him by one single effort: but the harder he blew, the more closely the man wrapped it round himself.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">Then came the turn of the Sun. At first he beamed gently upon the traveller, who soon unclasped his cloak and walked on with it hanging loosely about his shoulders: then he shone forth in his full strength, and the man, before he had gone many steps, was glad to throw his cloak right off and complete his journey more lightly clad.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">Persuasion is better than force</attrib>
+		</entry>
+	</entries>
+</ulr>

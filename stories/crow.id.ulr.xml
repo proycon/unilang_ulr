@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="id">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="edsmedia">Si Burung Gagak dan Kendinya</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="edsmedia">Seekor burung gagak menggunakan otaknya untuk minum</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="edsmedia">Seekor Burung Gagak yang haus menemukan sebuah Kendi berisi air di dalamnya, tetapi sangat sedikit yang ada sehingga, sebisanya ia mencoba ia tak dapat menggapainya dengan paruhnya dan terlihat seperti ia akan mati kehausan dalam jangkauan penglihatan obatnya (air itu).</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="edsmedia">Akhirnya ia mendapat suatu rencana cerdik. Ia mulai menjatuhkan kerikil ke dalam Kendi itu, dan dengan setiap kerikil airnya naik sedikit lebih tinggi sampai akhirnya menyentuh pinggirannya, dan si burung yang mengetahui hal itu mampu memuaskan dahaganya.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="edsmedia">Kebutuhan adalah cikal-bakal penemuan.</attrib>
+		</entry>
+	</entries>
+</ulr>

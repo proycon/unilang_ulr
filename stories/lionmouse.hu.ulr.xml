@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="hu">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="1828" lastmodified="1230590462">Az egér és az oroszlán</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="1828" lastmodified="1230590462">Egy egér segít az oroszlánnak.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="1828" lastmodified="1230590462">A vackában alvó oroszlánt egyszer csak felébresztette egy kisegér, aki a pofájára mászott. Az oroszlán dühében megragadta a mancsával, és meg akarta ölni.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="1828" lastmodified="1230590462">Az rémült egér könyörögve kérte, hogy hagyja életben.
+– Kérlek, engedj el – mondta sírva – és egy nap viszonozni fogom a jóságodat.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="1828" lastmodified="1230590462">Az oroszlán olyan nevetségesnek érezte, hogy egy ilyen kis jelentéktelen lény, mint az egér bármit is tehetne őérte, hogy hangosan felkacagott, és jó hangulatában eleresztette.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="1828" lastmodified="1230590462">De egyszer mégiscsak eljött az egér lehetősége.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="1828" lastmodified="1230590462">Egy nap az oroszlán belegabalyodott a vadászok hálójába. Az egér meghallotta és felismerte az üvöltő oroszlán hangját, és a segítségére sietett. Azonnal munkához látott. Rágni kezdte a köteleket, s egyhamar kiszabadította az oroszlánt.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="1828" lastmodified="1230590462">– Na látod! – mondta az egér – kinevettél, amikor megígértem, hogy viszonozni fogom a jóságodat. Most már viszont láthatod, hogy még egy egér is tud segíteni az oroszlánnak.</attrib>
+		</entry>
+	</entries>
+</ulr>

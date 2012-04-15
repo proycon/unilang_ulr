@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="chat-talk" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="14331"  groups=""  />
+		<editors  users="14331"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="en" stats="3" />
+		<language lang="hr" stats="3" />
+		<language lang="de" stats="3" />
+		<language lang="pt" stats="3" />
+		<language lang="pt-BR" stats="3" />
+	</languages>
+	<authors>
+		<author id="14331" langs="en" lastmodified="1230032399" />
+		<author id="7754" langs="hr" lastmodified="1231597395" />
+		<author id="1059" langs="de" lastmodified="1238334727" />
+		<author id="16844" langs="pt-BR" lastmodified="1247734478" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title" />
+		<entry id="description" type="description" />
+		<entry id="e1" type="phrase" />
+	</entries>
+</ulr>

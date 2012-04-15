@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">The Lion and the Mouse</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">A mouse helps a lion.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">A Lion asleep in his lair was awoken by a Mouse running over his face. Losing his temper he seized it with his paw and was about to kill it.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">The Mouse, terrified, piteously begged him to spare its life. &quot;Please let me go,&quot; it cried, &quot;and one day I will repay you for your kindness.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">The idea of so insignificant a creature ever being able to do anything for him amused the Lion so much that he laughed aloud, and good-humouredly let it go.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">But the Mouse's chance came, after all.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Abavagada">One day the Lion got entangled in a net which had been spread for game by some hunters, and the Mouse heard and recognized his roars of anger and ran to the spot. Without more ado it set to work to gnaw the ropes with its teeth, and succeeded before long in setting the Lion free.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Abavagada">&quot;There!&quot; said the Mouse, &quot;you laughed at me when I promised I would repay you: but now you see, even a Mouse can help a Lion.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

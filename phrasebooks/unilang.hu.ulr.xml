@@ -1,0 +1,2285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="hu">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">A leggyakoribb kifejezések</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Igen</attrib>
+			<attrib type="phon">ja</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Nem</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Kérem</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Tessék</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Köszönöm</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Szívesen</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Bocsánat | Elnézést kérek</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Lehet | Talán</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Szervusz / Szia</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Viszontlátásra!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Jó napot (kívánok)</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Jó reggelt (kívánok)</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Jó estét (kívánok)</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Jó éjszakát (kívánok)</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Üdvözlöm</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Jó utat!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Megérteni egymást</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Beszél/-sz .... ? (formal/informal)</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Én beszélek ...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Én nem beszélek ....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Egy kicsit beszélek ....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">angol nyelven | angolul</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">franciául</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">németül</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">spanyolul</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">portugálul</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">arabul</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">kínaiul</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindiül</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">oroszul</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">olaszul</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">hollandul</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norvégul</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">svédül</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">dánul</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">lengyelül</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urduul</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">fársziul (perzsául)</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">japánul</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indonézul</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malájul</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Érti?/Érted? (formal/informal)</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Ért/Értesz (engem)?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Értem</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Értem/Értelek</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Nem értem</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Nem értem/értelek</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Megismételné/-d?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Tudna/tudnál lassabban beszélni?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Legyen/Légy szíves, ezt leírná/-d?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Nem tudom, hogy mondjam.</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Nem tudom a pontos szót.</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Mit mondott/mondtál?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Hogy mondja/mondod ezt .... -ul?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Hogy kell ezt írni?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Hogy kell ezt kiejteni?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Lefordítaná/-d ezt nekem?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Jól mondtam?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Alaptársalgás</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Hogy  van/vagy? (formal/informal)</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Remekül vagyok.</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Jól vagyok.</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Megvagyok</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Nem vagyok túl jól</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Hány éves (ön)? / Hány éves vagy?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Én .... éves vagyok.</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Nem tudom</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Nem tetszik / Nem szeretem</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Készen vagyok</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Menjünk!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Sajnálom</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Üzleti és pénzügyek  (all formal)</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Fizethetek készpénzzel?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Fizethetek hitelkártyával?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Elfogad(nak) .....?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Be tudja váltani ezeket az üdülési csekkeket?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Be tudja váltani ezt ...-ra/re?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Meg tudná becsülni a költséget?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Itt a kártyám</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">Mennyi jutalékot számítanak fel?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Be szeretnék váltani néhány dollárt/eurót/fontot</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Mennyi az árfolyam?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Mennyi az inflációs ráta?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Hol tudom beváltani a pénzem?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Hol tudok fényképeket előhívatni?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Hol a legközelebbi bank?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Hol kell aláírnom?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Tudna adni egy katalógust?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Találkozóm van .....-val/vel</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Mennyibe kerül a belépőjegy?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Mennyibe kerül egy napra?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Mennyibe kerül egy órára?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Mennyibe kerül egy hétre?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Ingyenes?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Számítógép és internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Van számítógépe/-d?  (formal/informal)</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Tele van a merevlemez (winchester)</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Van modeme/-d?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">Van internetcsatlakozása/internetcsatlakozásod?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Küldhetek egy e-mailt?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Elolvashatom az e-mailemet?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Kinyomtathatok valamit?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Szkennelhetek valamit?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Összeomlott a számítógépem</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">Újra kell indítanod a számítógépet</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">Installálhatok ...-t?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Mi az e-mail címe/-d?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Az e-mail címem...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Van honlapja/honlapod?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Mi a cím?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Oktatás (all informal)</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Mit tanulsz?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Én .... tanulok.</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">jogot</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">orvosnak</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">közgazdaságot</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">nyelveket</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">nyelvészetet</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">matematikát</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">kémiát</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">fizikát</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">informatikát</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">Melyik egyetemen tanulsz?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">A ... -n tanulok</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">Ma órám van</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Ma szabad vagyok</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Középiskolába jársz?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Középiskolába járok</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Most órára kell mennem</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">Vészhelyzetek (informal)</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Hívjon/hívjanak orvost!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Hívjon/Hívjanak mentőt!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Hívja/Hívják a rendőrséget!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Nem lélegzik</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Nem mozog</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Nem állt meg</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Nekem/belém jött</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Túl gyorsan vezetett</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Megvágta magát</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Nem tudom mozgatni a karomat</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Nem tudom mozgatni a lábamat</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Kiraboltak</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Állítsák meg azt a tolvajt!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Ellopták az útlevelemet</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Ellopták a pénzemet</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Ellopták az autómat</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Tűz van!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Hol a legközelebbi kórház?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Hol a legközelebbi rendőrörs?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Érzelmek és vélemények</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Tetszik?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Tetszik.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Boldog vagyok</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Mérges vagyok</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Csalódott vagyok</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">Elégedett vagyok</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Fáradt vagyok</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Félek</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Melegem van</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Fázom</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Álmos vagyok</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Tetszik itt nekünk</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">(Nagyon) érdekes</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">(Nagyon) érdekesnek találjuk</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">(Nagyon) unalmas</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">Gyönyörű</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">(Nagyon) helyes</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">(Nagyon) csinos</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">Nagyon jól néz ki</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">Nagyon jól néz ki</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">Nagyon kedves</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Nézze/nézd! (formal/informal)</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Hallgassa/hallgasd! (formal/informal)</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Király!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">Tök jó / Nagyszerű</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Étel és étterem</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Éhes vagyok</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Szomjas vagyok</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">Elmenjünk valahova enni?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">Elmenjünk valahova inni?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Van valami ennivalód? (informal)</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Van valami innivalód? (informal)</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Szeretne/szeretnél valamit enni? (formal/informal)</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Hozhatok önnek/neked  valamit  enni? (formal/informal)</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Akar/-sz valamit inni? (formal/informal)</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Szeretnék (inni) ....., kérem/kérlek (formal/informal)</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">egy csésze kávét</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">egy csésze teát</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">egy pohár sört</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">egy pohár bort</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">egy pohár vörösbort</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">egy pohár fehérbort</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">egy pohár narancslevet</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">egy pohár almalevet</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">Hozhatok önnek/neked valamit inni? (formal/informal)</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">Mit szeretne/szeretnél inni? (formal/informal)</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">Mit szeretne/szeretnél enni?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">Mit ajánl/-asz? formal/informal)</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Kérhetnék egy étlapot, kérem? (formal)</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Kérhetnék egy borlapt, kérem? (formal)</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Ezt szeretném</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth">Kér előételt? (formal)</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth">Kérnék előételt</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Halat kérnék.</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Bélszínt kérnék.</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Disznóhúst kérnék.</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Egy salátát kérnék</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Levest kérnék</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Valami vegetáriánusat kérnék</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Kér/-sz desszertet? (formal/informal)</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth">Előételnek ...-t kérnék</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth">Főételnek ...-t kérnék</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">Desszertnek ...-t kérnék</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">Kérhetném hasábburgonyával/rizzsel/(főtt) burgonyával?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Kérhetném ..... nélkül?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">Kérhetnék csak kis adagot?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Milyen salátájuk van? (formal)</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">Semmi mást, köszönöm.</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth">Elvitelre lesz</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Vegetáriánus vagyok</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth">Vega vagyok</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Ezt nem ehetem meg</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Van benne ...?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(sok) só</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(sok) cukor</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">(sok) zsír</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">hús</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">tengeri herkentyű</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">hal</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">tejtermék</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Nem iszok (alkoholt)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">Nincs villám</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">Nincs késem</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">Nincs kanalam</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Hiányzik egy pohár</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Hiányzik egy tányér</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">Ez nem tiszta</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">Túl hideg</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">Túl fűszeres</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">Ez nem az, amit rendeltem</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Itt valami tévedés történt</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">Nagyon finom volt</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Kérem, szeretnék fizetni</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Elnézést, kérhetném a számlát?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">Külön szeretnénk fizetni</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Minden benne van?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Tartalmazza a borravalót?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">Szeret/-sz főzni? (formal/informal)</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Ki főz ma este?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth">Főzhetek ma este?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Mit készítsek?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">Kér/-sz egy csésze kávét? (formal/informal)</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">Kér/-sz egy csésze teát?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Egészség és betegségek</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Beteg vagyok</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">Influenzás vagyok</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">Megfáztam</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">Allergiás vagyok</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">Cukorbeteg vagyok</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">Fájdalmaim vannak</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">Nem érzem magam jól</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth">Gyógyszert szedek</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">Terhes vagyok</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">Nincs étvágyam</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">Nem tudok aludni</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth">Nem akarok semmi erőset</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth">Szédülök</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth">Émelygek</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth">Letört az egyik fogam</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">Köhögök</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">Fáj a fejem</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">Fáj a gyomrom</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">Szúr a mellkasom</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth">Fertőzést kaptam</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth">Megcsípett (valami)</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">Megharapott (valami)</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth">Fájdalmai/-d vannak?  (formal/informal)</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">Fáj?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">Fáj, ha ezt csinálom?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">Szed/-sz  valamilyen gyógyszert? (formal/informal)</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth">Van láza/-d? (formal/informal)</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">Tud/-sz járni? (formal/informal)</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">Szükségem van tolószékre</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">Tolószékes vagyok</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth">Merre van a legközelebbi gyógyszertár/drogéria?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth">Megkaphatom recept nélkül?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth">Tudna/tudnál adni valamit rovarcsípésre? (formal/informal)</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth">Tudna/tudnál adni valamit leégés ellen?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth">Van orvosi receptem</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth">Szükségem van valamire ..... ellen</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth">Milyen gyakran kell szednem?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">Hobbik (informal)</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Mi a hobbid?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Mit csinálsz a szabad idődben?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Szeretsz olvasni?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">Nem szeretek olvasni</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">Szeretek olvasni</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">Szeretek főzni</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">Szeretek zenét hallgatni</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">Szeretek zongorázni</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">Szeretek gitározni</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">Szeretek énekelni</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">Szeretek sakkozni</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">Szeretek eljárni otthonról</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">Szeretek utazni</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">Szertek vásárolni</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">Szeretek kertészkedni</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">Szeretek tévézni / Szeretek tévét nézni</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">Szeretek internetezni</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">Milyen zenét szeretsz?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">A klasszikus zenét szeretem</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">A popzenét szeretem</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">Az operát szeretem</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">A dzsesszt szeretem</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">A technót szeretem</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">A kemény (hard) rockot szeretem</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">Melyikek a kedvenc együtteseid?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">Melyiket szereted jobban?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth">A .....-t szeretem jobban</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">Bemutatkozni egymásnak</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Az én nevem ..... / ..... a nevem</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Hogy hívják/hívnak? (formal/informal)</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Én ..... vagyok.</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Ki maga/vagy? (formal/informal)</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth">Bemutathatom/bemutathatlak ....-nak/-nek? (formal/informal) (suffix variants)</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth">Bemutatom önt/ bemutatlak ....-nak/-nek (f/i) (sv)</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">Ő a feleségem</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">Ő a férjem</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">Ő a barátnőm</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">Ő a barátom</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">Ő egy barátom</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">Ő a fiam</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">Ő a lányom</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">Ő az anyukám</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">Ő az apukám</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">Örvendek</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth">Tervek és időpontok</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth">Szabad (formal)/szabad vagy(informal) ma/holnap/ma este?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth">Már vannak terveim</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth">Moziba megyek</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth">Színházba megyek</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth">Múzeumba megyek</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth">El akar/-sz jönni velem ma este? (f/i)</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth">Szeretnék</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth">Vannak jegyei/-d? (f/i)</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth">Van két jegyem .....-ra/-re</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth">Nem tetszik a zene</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth">Túl hangos a zene</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth">Túl zsúfolt itt</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth">Elmehetnénk valahová máshová?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth">Melyik filmet nézzük meg?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth">Hogy tetszett a film?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">Politika</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth">Érdekel a politika</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth">Nem érdekel a politika</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth">Mit gondol/-sz a kormányról? (formal/informal)</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth">Mit gondol/-sz a királyról/királynőről?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth">Mit gondol/-sz az elnökről?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth">Mit gondol/-sz a miniszterelnökről?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth">Mit gondol/-sz a szólásszabadságról?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth">Mit gondol/-sz a katonaságról?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth">Mit gondol/-sz a demokráciáról?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth">Mit gondol/-sz az emberi jogokról?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth">Mit gondol/-sz a nők jogairól?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth">Mit gondol/-sz a homokoszexuálisok jogairól?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth">Tagja (formal)/tagja vagy (informal) valamelyik pártnak?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth">Mikor vannak a választások?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth">Kire szavazott/szavaztál legutóbb? (f/i)</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth">Kire fog/-sz szavazni? (f/i)</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth">Én .... vagyok</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth">kommunista</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth">kapitalista</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth">demokrata</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth">kerszténydemokrata</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth">republikánus</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth">baloldali</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth">nacionalista</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth">szocialista</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth">liberáns</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth">fasiszta</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">Kapcsolatok és család</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">(Ön) házas? (formal) / Házas vagy? (informal)</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">Házas vagyok</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">Nem vagyok házas</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">Van barátod? (informal)</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">Van barátnőd? (i)</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">Van barátom</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">Van barátnőm</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">Hány éves?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth">Ő ... éves.</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth">Mi a munkája?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">Vannak gyerekei/-d? (f/i)</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">Nincs gyerekem</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">Egy gyerekem/ egy fiam/ egy lányom van</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">Két gyerekem van</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">Három/négy/öt/hat/hét gyerekem van</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">Hány testvéred van?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">Még mindig él az anyja/anyukád? (f/i)</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">Még mindig él az apja/apukád? (f/i)</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">Még mindig él a nagymamája/nagymamád? (f/i)</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">Még mindig él a nagyapája/nagypapád?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">Vallás</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth">(Ön) vallásos? (formal) / Vallásos vagy? (informal)</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth">Nem vagyok vallásos</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth">Ateista vagyok</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth">Agnosztikus vagyok</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">Muzulmán vagyok</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">Zsidó vagyok</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">Buddhista vagyok</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">Hindu vagyok</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">Katolikus vagyok</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">Keresztény vagyok</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">Hol találok egy templomot?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">Hol találok egy mecsetet?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">Hol találok egy zsinagógát?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">Hol találok egy templomot?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Hála Istennek</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Ha Isten is úgy akarja</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">Istenem!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth">Lakóhely, látogatás és szállás</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">Honnan jött/-él? (formal/informal)</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth">Én ....-ból/-ből jöttem.</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">Franciaország</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">az Egyesült Királyság</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">Spanyolország</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">Németország</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">az Egyesült Államok</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">Kína</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth">Brazília</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth">Japán</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth">Oroszország</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth">Kanada</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth">Ausztrália</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth">Milyen nemzetiségű (vagy)? /formal(informal)/</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">Én ... vagyok.</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">brit</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">francia</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">német</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">amerikai</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">kínai</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">japán</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">orosz</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">brazil</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">kanadai</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">Honnan jött/-él? Melyik városban lakik/laksz? (f/i)</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Londonban/Párizsban/Berlinben lakom</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth">Az közel van ...-hoz/-hez/-höz?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth">Az messze van ....-tól/-től?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth">Közel lakom ....-hoz/-hez/-höz</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth">Messze lakom...-tól/-től</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth">Hol alszik/alszol? (f/i)</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth">A .... Hotelben alszom/lakom</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth">Meddig marad/-sz itt? (f/i)</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth">Mikor megy/mész vissza? (f/i)</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth">Mikor érkezett/érkeztél? (f/i)</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth">Egyedül van/vagy itt? (f/i)</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth">Egyedül vagyok itt</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth">A családommal vagyok itt</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth">Itt lakik/laksz? (f/i)</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth">Nem vagyok idevalósi</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth">Sátorozhatunk itt?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth">Van szabad szobájuk? (formal)</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth">Van sátorhelyük? (formal)</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth">Mennyibe kerül egy éjszakára?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth">Egy hétig akarunk maradni</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth">Hol van a zuhanyzó?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth">Hol van a WC?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth">Egy egyszemélyes szobát szeretnék.</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth">Egy ....-s szobát szeretnék / Egy szobát szeretnék ...-val/vel</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth">fürdőkád</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth">zuhanyzó</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth">kilátás</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth">balkon</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth">pótágy</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth">külön ágyak</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth">Egy kétágyas szobát szeretnénk</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth">Benne van a reggeli?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth">Mikor van a reggeli?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth">Van olcsóbb szoba?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth">Jött üzenet számomra?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth">Elkérhetném a kulcsomat?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth">Mi a szobaszámom?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth">Kádas/zuhanyzós szobát kértem</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Szex (informal)</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Lefekszel velem?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Van gumid?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Szedsz gyógyszert?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Nem csinálom gumi nélkül</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Kérlek légy óvatos/gyengéd</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Ez jó neked?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Ez nem jó</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Egyedülálló vagy?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Homokos vagy? (only males)</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Normális vagy?/hetero vagy?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Leszbi(kus) vagy?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Biszexuális vagy?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth">Vásárlás (formal)</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth">Segítene nekem?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth">Segíthetek?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth">Mit szeretne?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth">Mit keres?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth">Csak nézelődök</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth">Ez tetszik</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth">Tetszik ez a nadrág</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth">Tetszik ez a póló</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth">Tetszik ez a dzseki</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth">Tetszik ez a blúz</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth">Tetszik ez az öltöny</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth">Tetszik ez a szemüveg</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth">Tetszik ez a cipő</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth">Én ....-t keresek.</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth">Felpróbálhatom?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth">Megpróbálhatom?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth">Hol a próbafülke?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth">Túl hosszú</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth">Túl rövid</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth">Túl szűk</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth">Túl bő</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth">Nem jó rám</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth">Egész jó</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth">Mi a mérete?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth">A méretem .....</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth">Nem értem ezeket a méreteket</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth">Van nagyobb?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth">Van kisebb?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth">Tetszik a színe</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth">Nem tetszik a színe</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth">Van ugyanilyen pirosban/kékben/sárgában/zölben/lilában/rózsaszínben?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth">Van olcsóbb?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth">Miből készült?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth">Meg tudják javítani?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth">Városnézés</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Fényképezhetek?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Itt nem fényképezhet (formal)</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth">Van lehetőség hajókirándulásra a tavon?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth">Van lehetőség hajókirándulásra a folyón?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth">Van idegenvezetés?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Mennyi ideig tart a túra?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">Van valami jó éjszakai klub?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth">Van valami helyi ünnepség?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Szeretném meglátogatni a székesegyházat.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Szeretném meglátogatni a templomot.</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth">Szeretném meglátogatni a mecsetet.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Szeretném meglátogatni a templomot.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth">Van kedvezmény gyerekeknek?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth">Van kedvezmény csoportoknak?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth">Van kedvezmény időseknek?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth">Van kedvezmény diákoknak?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth">Mikor vannak nyitva?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth">Mikor zárnak be?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth">Mikor nyitnak ki?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth">Mikor kezdődik a műsor?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Mikor épült?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Ki építette?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth">Milyen magas az a hegy?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Mi a neve annak az állatnak?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth">Mi a neve annak a madárnak?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Mi a neve annak a virágnak?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Mi a neve annak a fának?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Mi a neve annak az épületnek?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth">Mi a neve annak a hegynek?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Mi a neve annak a folyónak?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">Dohányzás</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">A dohányzás káros az egészségére/egészségedre</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">Zavarná, ha rágyújtanék?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Van gyújtója?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Kérhetnék egy cigarettát?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Ez nemdohányzó hely?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Kérhetnék egy hamutálat?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">Sport</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth">Vannak itt veszélyes áramlatok?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth">Vannak érdekes sétautak a közelben?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth">Van itt sílift?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth">Hol van a legközelebbi golfpálya?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth">Hol van az uszoda?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth">Lehet itt horgászni?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth">Lehet itt úszni?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth">Bérelhetnék ....?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth">egy baseballütőt</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth">egy focilabdát</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth">egy pár sílécet</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth">egy teniszütőt</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth">egy csónakot</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth">egy törülközőt</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth">Vehetnék leckéket?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth">Szeretnék focimeccsre menni</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth">Szoktál .....? / Szoktál ..... játszani?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">amerikaifocizni / amerikai focit</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">focizni / focit</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">golfozni / golfot</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">teniszezni / teniszt</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">baseball-ozni / baseball-t</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">kosárlabdázni / kosárlabdát</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">Idő</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Milyen nap van ma?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth">Ma ..... van</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth">Milyen nap volt tegnap?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">Tegnap ..... volt</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Milyen nap lesz holnap?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">Holnap ..... lesz</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">hétfő</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">kedd</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">szerda</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">csütörtök</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">péntek</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">szombat</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">vasárnap</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Milyen hónap van?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth">Most ..... (hónap) van.</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth">Múlt hónapban ..... volt</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth">Jövő hónapban ..... lesz</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">január</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">február</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">március</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">április</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">május</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">június</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">július</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">augusztus</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">szeptember</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">október</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">november</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">december</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Hány óra van?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Nyolc óra van</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth">Fél kilenc van / Nyolc óra harminc perc van</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth">Negyed kilenc van / Nyolc óra tizenöt perc van</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth">Háromnegyed kilenc van / Nyolc óra negyvenöt perc van</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth">Tíz perccel múlt nyolc óra</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth">Húsz perccel múlt nyolc óra</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth">Húsz perc múlva nyolc óra | Hét óra negyven perc van</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth">Tíz perc múlva nyolc óra | Hét óra ötven perc van</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth">Hányadika van?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth">1982. december 15-e van</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth">Mikor jöhetek?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth">Mikor látogat/-sz meg?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth">Ma reggel meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth">Reggel meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth">Ma este meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth">Este meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth">A héten meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth">Most hétvégén meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth">A hétvégén meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth">Délben meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth">Két órán belül meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth">Fél tizenegykor meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth">Fél tizenegy után meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth">Fél tizenegy előtt meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth">Fél tizenegy és tizenegy óra között meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth">Fél tizenegytől tizenegyig meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth">Tavasszal meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth">Nyáron meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth">Ősszel meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">Télen meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth">December 15-én meglátogatom/meglátogatlak</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth">Meddig maradhatsz nálam?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth">Két órát tudok maradni</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth">Két órára fogom/foglak meglátogatni</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Elkéstél (informal)</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth">Épp időben vagy (informal)</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth">Túl korán jöttél (informal)</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth">Milyen évszak van?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">Nincs időm / Nem érek rá</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Kérem/kérlek várjon/várj egy percet</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth">Öt percen belül ott leszek</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Közlekedés</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">Van autója/autód?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">Van autóm</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">Nincs autóm</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth">Az én vagy az ön autójával menjünk? / Az én vagy a te autóddal menjünk? (formal/informal)</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth">Van jogosítványa/jogosítványod?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth">Nincs jogosítványom</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth">Mikor indulunk?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth">Hová megyünk?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth">Hová megy/mész?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth">Honnan jött/-él?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth">Át kell szállnom másik buszra?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth">Hol vannak a buszok?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth">Hol a buszmegálló?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth">Meg tudná/-d mondani, hol kell leszállnom?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth">Megy ez a busz ...-ba/-be?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth">Hol a repülőtér?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth">Mikor száll fel a repülőgép?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth">Mikor érkezik meg a repülőgép?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth">Milyen hosszú az út?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth">Mikor kell bejelentkeznem?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth">Megnézhetném az útlevelét, kérem?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth">Itt az útlevelem</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth">Ezt magammal vihetem?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth">Hol kaphatom meg a poggyászomat?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth">Nem találom a poggyászomat</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth">Segítene a poggyászommal?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth">Azt hiszem, ez az én ülésem</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth">Foglalt ez az ülés?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth">Hol a vasútállomás?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth">Át kell szállnom másik vonatra?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth">Megáll ez a vonat ...-ban/-ben?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth">Megy ez a vonat ...-ba/-be?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth">Meddig áll itt a vonat?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth">Mi ez az állomás?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth">Mikor jön a következő vonat?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth">Mikor jön az utolsó vonat?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth">Hol találok taxit?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth">Van a közelben parkoló?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth">Parkolhatok itt?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth">Meddig parkolhatok itt?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth">Hol parkolhatok?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">Lerobbant a kocsim</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth">Nem indul a kocsim</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth">Hol van a legközelebbi benzinkút?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth">Hol van a legközelebbi parkolóház?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth">Lapos a kerekem</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth">Kifogyott a benzinem</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth">Láthatnám a jogosítványát?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth">Itt a jogosítványom</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth">Milyen messze van a következő falu?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth">Mennyi idő autóval?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth">Mennyi idő gyalog?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth">Szeretnék kocsit bérelni egy hétre / három napra</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Időjárás</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth">Milyen idő lesz holnap?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth">Általában milyen az időjárás?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">Holnap esni fog az eső</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Esik az eső</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Hull a hó / Havazik</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">Napos idő van</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">Beborult</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">Meleg van odakint</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">Hideg van odakint</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Milyen rossz az idő!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Milyen szép idő van!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth">Ugye milyen szép idő van?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">Mindig ilyen meleg van?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">Mindig ilyen hideg van?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">Mindig ilyen esős idő van?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">Mindig ilyen borús idő van?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth">Eláztam</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Munka</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Hol dolgozik/dolgozol?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Mi a foglalkozása/foglalkozásod?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Tanár vagyok</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Diák vagyok</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth">Vállalkozó vagyok</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Egy étteremben dolgozom</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Egy szupermarketban dolgozom</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Egy boltban dolgozom</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Orvos vagyok</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">Pszichológus vagyok</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">Programozó/Informatikus vagyok</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Mérnök vagyok</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Szerelő vagyok</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Író vagyok</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Sofőr vagyok</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Színész/színésznő vagyok</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">Szociális munkás vagyok</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Politikus vagyok</attrib>
+		</entry>
+	</entries>
+</ulr>

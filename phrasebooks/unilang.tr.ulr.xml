@@ -1,0 +1,2041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="tr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">En yaygın deyimler</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">evet</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">hayır</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">lütfen</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">buyrun</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">teşekkürler | teşekkür ederim</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">bir şey değil</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">özür dilerim/ affedersiniz</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">belki</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">merhaba/ selam</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Allahaısmarladık! / Güle güle</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">iyi günler!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">günaydın!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">iyi akşamlar</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">iyi geceler</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">hoş geldiniz!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">İyi yolculuklar!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">birbirini anlama</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Ben .... konuşurum.</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Ben .... konuşamam.</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">biraz ... biliyorum</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">İngilizce</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">Fransızca</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">Almanca</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">İspanyolca</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">Portekizce</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">Arapça</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">Çince</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">Hintçe</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">Rusça</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">İtalyanca</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">Hollandaca/ Felemekçe</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">Norveççe</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">İsveççe</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">Danca</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">Lehçe (Polonya dili)</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">Urduca</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">Farsça</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">Japonca</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">Endonezyaca</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">Malayca (Malay dili)</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Anlıyor musun?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Beni anlıyor musun?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Anlıyorum</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Seni anlıyorum</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Anlamıyorum</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Seni anlamıyorum</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Tekrar edebilir misiniz lütfen?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Daha yavaş konuşabilir misiniz?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Yazabilir misiniz lütfen?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Bunu nasıl söyleyeceğimi bilmiyorum.</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Doğru kelimeyi bilmiyorum</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Ne söylediniz?/ Ne dediniz?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Bunu ... dilinde nasıl söylüyorsunuz?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Bunu nasıl yazıyorsunuz?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Bunu nasıl telaffuz ediyorsunuz?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Bunu benim için çevirebilir misiniz?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Bunu doğru söyledim mi?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Temel Sohbet</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">nasılsın?/ ne haber? (n'aber?)</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Harikayım</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">iyiyim</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">fena değilim</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">pek iyi değilim</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">kaç yaşındasın?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">ben ... yaşındayım</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">bilmiyorum</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">bundan hoşlanmıyorum</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">hazırım</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">haydi gidelim</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">üzgünüm/ özür dilerim</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">İş &amp; Finans</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Nakit ödeyebilir miyim?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Kredi kartıyla ödeyebilir miyim?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Bu seyahat çeklerini bozabilir misiniz?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Bunu ... ile değiştirebilir misiniz?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Yaklaşık olarak hesabı söyleyebilir misiniz?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">buyrun kartım/işte kartım</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">ne kadar komisyon alıyorsunuz?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">biraz dolar/ euro ( new one is avro but nobody use!) pound bozdurmak istiyorum.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Döviz kuru nedir?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Enflasyon değeri nedir?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Paramı nerede bozdurabilirim?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Nerede fotokopi çektirebilirim?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">En yakın banka nerede?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Nereyi imzalamalıyım?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Kataloğunuz var mı?</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Giriş ücreti ne kadar?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Günlüğü ne kadar?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Saati ne kadar?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Haftalığı ne kadar?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Bu ücretsiz mi?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Bilgisayar ve internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Bilgisayarınız var mı?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Sabit disk dolu</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Modeminiz var mı?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">İnternet bağlantınız var mı?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">E-posta gönderebilir miyim?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">E-postamı okuyabilir miyim?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Bir şey yazdırabilir miyim?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Bir şey tarayabilir miyim?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Bilgisayarım çöktü.</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">Yeniden başlatmanız gerekiyor.</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">E-posta adresin ne?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">E-posta adresim...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Web sayfan var mı?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Adres nedir?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Eğitim</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Ne okuyorsun?</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">hukuk (kanun)</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">tıp</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">ekonomi</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">dil</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">dilbilim</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">matematik</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">kimya</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">fizik</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">enformasyon</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">hangi üniversitede okuyorsunuz?</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">Bugün dersim var</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Bugün boşum</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Lisede misin?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Lisedeyim</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Şimdi derse girmek zorundayım</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">Acil Durumlar</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Doktor çağırın!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Ambulans çağırın!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Polis çağırın!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Nefes alamıyor.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Hareket edemiyor.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Durmadı.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Bana doğru koştu.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Çok hızlı sürüyordu.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Kendi kendini yaraladı.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Kolumu oynatamıyorum.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Bacağımı oynatamıyorum | kıpırdatamıyorum</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">soyuldum</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Şu hırsızı yakalayın/ hırsızı durdurun</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Pasaportum çalındı.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Param çalındı.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Arabam çalındı.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Yangın var!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">En yakın hastane nerede?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">En yakın karakol nerede?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Duygu ve düşünceler</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Sevdin mi?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Sevdim</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">mutluyum</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">kızgınım</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">hayal kırıklığına uğradım</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">memnunum</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">yorgunum</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">korkuyorum</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">sıcağım</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">üşüyorum</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">uykum var</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Burayı seviyoruz.</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">(çok) ilginç</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">çok ilginç bulduk</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">(çok) sıkıcı</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">güzel</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">(çok) yakışıklı</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">(çok) şirin</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">çok ateşli!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">çok ateşli!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">çok kibar</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">bak!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">dinle!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">çok güzel!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">korkunç!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">yemek ve lokanta</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">açım</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">susadım</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">yemek için bir şeyler alabilir miyiz?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">içmek için bir şeyler alabilir miyiz?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Yemek için bir şeyiniz var mı?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">içmek için bir şeyiniz var mı?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Yemek için bir şey ister misiniz?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Size yemek için bir şeyler getireyim mi?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">İçmek için bir şey ister misiniz?</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">bir fincan kahve</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">bir fincan çay</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">bir bardak bira</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">bir bardak şarap</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">bir bardak kırmızı şarap</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">bir bardak beyaz şarap</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">bir bardak portakal suyu</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">bir bardak elma suyu</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">Size içecek bir şeyler getireyim mi?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">Ne içmek istersiniz?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">Ne yemek istersiniz?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">Ne önerirsiniz?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Menüyü görebilir miyim, lütfen?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Şarap listesini görebilir miyim, lütfen?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Bundan istiyorum, lütfen</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth">Aperitif bir şey ister misiniz?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth">Aperitif bir şey istiyorum, lütfen</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Biraz balık istiyorum, lütfen</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Biraz biftek istiyorum, lütfen</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Biraz domuz eti istiyorum, lütfen</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Salata istiyorum, lütfen</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Biraz çorba istiyorum, lütfen</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Vejetaryenler için uygun bir şey istiyorum, lütfen</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Tatlı ister misiniz?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth">Aperatif olarak .. istiyorum</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth">Ana yemek olarak .. istiyorum</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">Tatlı olarak .. istiyorum</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">kızartma / pilav / patates  alabilir miyim?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">içine ... koymayın</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">Küçük bir porsiyon alabilir miyim?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Hangi tür salatalarınız var?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">Başka bir şey yok, teşekkürler</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Ben bir vejeteryanım</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Bunu yiyemem</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Bunun içinde .. var mı?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(çok) tuz</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(çok) şeker</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">(çok) yağ</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">hiç et</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">hiç denizürünü</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">hiç balık</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">hiç süt ürünü</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Alkol almıyorum</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">çatalım yok</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">bıçağım yok</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">kaşığım yok</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Bir bardak eksik</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Bir tabak eksik</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">bu temiz değil</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">Çok soğuk</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">Çok baharatlı</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">bu benim ısmarladığım şey değil</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Bunda bir hata var</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">Çok lezzetliydi / çok lezizdi</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Hesabı ödemek istiyorum.</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Hesabı alabilir miyim?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">ayrı ayrı ödemek istiyoruz</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Her şey içinde mi?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Bahşiş içinde mi?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">Yemek pişirmeyi seviyor musun?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Bu gece kim yemek yapacak?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth">Bu gece yemeği ben yapayım mı?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Ne yapayım?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">(Bir fincan) Kahve alır mısınız?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">(bir bardak ) Çay ister misiniz?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Sağlık &amp; Hastalık</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Hastayım</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">Gribim</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">Üşüttüm</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">Alerjim var</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">Şeker (diyabet) hastasıyım</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">Canım yanıyor./ ağrım var.</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">kendimi iyi hissetmiyorum</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth">İlaç alıyorum</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">Hamileyim</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">Yiyemiyorum</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">Uyuyamıyorum</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth">Çok güçlü birşey istemiyorum</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth">Başım dönüyor.</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth">Midem bulanıyor.</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth">Dişim kırıldı</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">öksürüyorum</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">Başım ağrıyor.</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">Midem ağrıyor.</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">Göğsümde bir ağrı var</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth">enfeksiyonum var.</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth">Böcek (ya da (or) arı) soktu.</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">sokuldum/ ısırıldım</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth">Canın yanıyor mu?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">Acıtıyor mu?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">Böyle yapınca acıyor mu?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">İlaç alıyor musun?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth">Ateşin kaç?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">Yürüyebilir misin?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">Tekerlekli sandalyeye ihtiyacım var.</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">Tekerlekli sandalyedeyim.</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth">En yakın eczane nerede?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth">Onu reçetesiz alabilir miyim?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth">Böcek sokmaları için bir şeyiniz var mı?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth">Güneş yanığı için bir şey var mı?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth">Doktordan reçetem var.</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth">Ne kadar zamanda bir almalıyım?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">Hobiler</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Hobilerin neler?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Boş zamanlarında ne yapıyorsun?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Okumayı seviyor musun?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">Okumayı sevmiyorum</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">Okumayı seviyorum</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">Yemek pişirmeyi seviyorum</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">Müzik dinlemeyi seviyorum</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">Piyano çalmayı seviyorum</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">Gitar çalmayı seviyorum</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">Şarkı söylemeyi seviyorum</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">Satranç oynamayı seviyorum</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">Dışarı çıkamayı seviyorum</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">Seyahat etmeyi seviyorum</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">Alışveriş yapmayı seviyorum</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">Bahçe işlerini seviyorum</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">televizyon seyretmeyi seviyorum</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">İnternette gezinmeyi seviyorum (or internete girmeyi seviyorum)</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">Ne tür müzikler seviyorsun?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">Kalsik müziği seviyorum</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">Pop müziği seviyorum</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">opera seviyorum</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">jazz (caz) seviyorum</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">tekno seviyorum</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">hard rock seviyorum</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">En sevdiğin gruplar hangileri?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">Ne tercih edersin?</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">Birbirini tanıtma</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Benim adım ...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Adınız nedir?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">ben...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">siz kimsiniz?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth">Size ..-i tanıştırabilir miyim?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth">size ...-i tanıştıracağım</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">bu benim karım</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">bu kocam.</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">bu kız arkadaşım</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">bu erkek arkadaşım</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">bu arkadaşım</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">bu oğlum</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">bu kızım</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">bu annem</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">bu babam</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">tanıştığımıza memnun oldum</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth">planlar &amp; randevular</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth">Bugün/yarın/bu akşamüstü boş musun?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth">planım var</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth">Sinemaya gideceğim</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth">Tiyatroya gideceğim</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth">Müzeye gideceğim</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth">Bu akşam benimle dışarı çıkmak ister misin?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth">Tabi isterim</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth">Biletin var mı?</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth">müziği sevmedim</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth">müziğin sesi çok yüksek</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth">Burası çok kalabalık</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth">Başka bir yere gidelim mi?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth">Hangi filme gidelim?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth">Film hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">Politika</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth">politikayla ilgileniyorum</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth">politikayla ilgilenmiyorum</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth">Hükümet hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth">Kral/ kraliçe hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth">Başkan hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth">Başbakan hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth">Özgürlük konuşması hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth">Askeriye hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth">Demokrasi hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth">İnsan hakları hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth">Kadın hakları hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth">Eşcinsel hakları hakkında ne düşünüyorsun?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth">Bir partiye üye misin?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth">Seçimler ne zaman?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth">Geçen sefer kime oy vermiştin?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth">Kime oy vereceksin?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth">ben...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth">(bir) komunistim</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth">(bir) kapitalistim</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth">(bir) demokratım</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth">(bir) hıristiyan demokratım</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth">(bir) cumhuriyetçiyim</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth">(bir) solcuyum</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth">(bir) milliyetçiyim</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth">(bir) sosyalistim</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth">(bir) özgürlükçüyüm</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth">(bir) faşistim</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">İlişki &amp; Aile</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">Evli misin?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">Evliyim</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">Evli değilim</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">Erkek arkadaşın var mı?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">Kız arkadaşın var mı?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">Bir erkek arkadaşım var</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">Bir kız arkadaşım var</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">kaç yaşında?</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth">Ne işle uğraşıyor?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">Çocuğunuz var mı?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">Hiç çocuğum yok.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">Bir çocuğum/bir oğlum/bir kızım var</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">iki çocuğum var</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">üç/dört/beş/altı/yedi çocuğum var</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">Kaç kardeşiniz var?/ Kaç erkek ve kız kardeşiniz var?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">Anneniz halen hayatta mı?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">Babanız halen hayatta mı?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">Anneanneniz halen hayatta mı?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">Dedeniz halen hayatta mı?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">Din</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth">Dindar mısınız?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth">Dindar değilim</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth">Ben ataistim</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth">ben agnostiğim</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">ben müslümanım</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">ben yahudiyim</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">ben budistim</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">ben hinduyum</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">ben katoliğim</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">ben hıristiyanım</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">Nerede bir kilise bulabilirim?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">Nerede bir cami bulabilirim?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">Nerede bir sinagog bulabilirim?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">Nerede bir tapınak bulabilirim?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Tanrıya şükür</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Eğer Tanrı öyle istiyorsa/isterse.</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">Aman Tanrım</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth">İkamet, ziyaret &amp; barınma</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">Nerelisin? / Hangi ülkeden geliyorsun?</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">Fransa'dan</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">İngiltere'den</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">İspanya'dan</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">Almanya'dan</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">Birleşmiş Milletler'den /Amerika'dan</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">Çin'den</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth">Brezilya'dan</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth">Japonya'dan</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth">Rusya'dan</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth">Kanada'dan</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth">Avusturalya'dan</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth">Hangi uyruktansın/millettensin?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">Ben...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">İngilizim</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">Fransızım</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">Almanım</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">Amerikalıyım</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">Çinliyim</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">Japonum</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">Rusum</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">Brezilyalıyım</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">Kanadalıyım</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">Nerelisin? / Hangi şehirde yaşıyorsun?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Londra'da yaşıyorum /Paris'te/ Berlin'de</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth">orası...-ya,ye yakın mı?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth">orası... -ya,ye uzak mı?</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth">Nerede kalıyorsun?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth">Hotel...../....otelinde kalıyorum.</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth">ne kadar zaman burada kalacaksın?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth">Ne zaman geri döneceksin?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth">Ne zaman geldin?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth">Burada yalnız mısın?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth">Burada yalnızım</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth">Burada ailemle beraberim</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth">Burada mı yaşıyorsun?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth">Ben buralı değilim</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth">Burada kamp yapabilir miyiz?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth">Hiç boş yeriniz var mı?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth">Bir çadır için yeriniz var mı?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth">Geceliği ne kadar?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth">Biz bir hafta kalmak istiyoruz</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth">Duşlar nerede?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth">Tuvaletler nerede?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth">Ben tek kişilik bir oda istiyorum,lütfen</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth">ben... -lı,li,lu,lü bir oda istiyorum</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth">banyolu</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth">duşlu</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth">manzaralı</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth">balkonlu</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth">fazladan bir yataklı</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth">ayrı yataklı</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth">biz çift kişilik bir oda istiyoruz, lütfen</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth">kahvaltı da içinde mi?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth">Kahvaltı ne zaman servis ediliyor?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth">daha ucuz odalarınız var mı?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth">Bana hiç mesaj var mı?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth">Anahtarlarımı alabilir miyim, lütfen?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth">Oda numaram kaç?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth">Banyosu/Duşu olan bir oda istemiştim.</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">sex</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">benimle yatmak ister misin?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Preservatifin var mı?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Doğum kontrol hapı mı kullanıyorsun?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Preservatifsiz yapmam.</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Lütfen dikkatli ol / Lütfen nazik ol(davran)</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Bundan hoşlandın mı?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Bundan hoşlanmadım</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Bekar mısın?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Eşcinsel  misin?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Heteroseksüel misin?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Lesbiyen misin?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">biseksüel misin?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth">Alışveriş</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth">Yardım eder misiniz?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth">Yardım edebilir miyim?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth">Ne istersiniz?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth">Ne arıyorsunuz?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth">Ben sadece bakınıyorum.</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth">Bunu sevdim</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth">Bu pantalonları sevdim</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth">Bu tişörtü sevdim</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth">Bu ceketi sevdim</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth">Bu buluzu sevdim</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth">Bu takımı sevdim</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth">Bu gözlükleri sevdim</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth">Bu ayakkabıları sevdim.</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth">Ben... arıyorum.</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth">Üzerimde deneyebilir miyim?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth">Deneyebilir miyim?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth">Soyunma odası nerede?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth">Bu çok uzun.</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth">Bu çok kısa.</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth">Bu çok sıkı.</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth">Bu çok bol.</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth">Bu üstüme olmadı.</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth">Bu çok güzel oldu.</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth">Bedeniniz kaç?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth">Ben...beden giyiyorum.</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth">Bu numaralardan anlamıyorum.</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth">Daha büyük olanı var mı?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth">Daha küçük olanı var mı?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth">Rengini sevdim.</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth">Rengini sevmedim.</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth">Bunun kırmızısı/mavisi/sarısı/yeşili/moru/pembesi var mı?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth">Daha ucuz olanı var mı?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth">Bu neden yapılmış?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth">Bunu tamir edebilir misin?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth">Görülmeye değer yerleri gezip dolaşma.</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Bir resim çekebilir miyim?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Burada resim çekemezsiniz.</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth">Gölde hiç tekne gezileri var mı?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth">Nehirde hiç tekne gezileri var mı?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth">Hiç rehberli turlar var mı?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Tur  ne kadar sürüyor?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">İyi gece kulüpleri var mı?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth">Hiç yerel festivaller var mı?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Katedrali ziyaret etmek isterim.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Kiliseyi ziyaret etmek isterim</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth">Cami'i ziyaret etmek isterim.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Tapınağı ziyaret etmek isterim.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth">Çocuklar için bir indirim var mı?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth">Yaşlılar için bir indirim var mı?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth">Öğrenciler için bir indirim var mı?</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">Sigara içmek sağlığına zararlı.</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Çakmağınız var mı?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Bir sigara alabilir miyim?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Burası sigara içilmeyen bölüm mü?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Kültablası alabilirmiyim?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">sporlar</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth">Umumi</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth">Burada balık tutabilirmiyim?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth">Burada yüzebilirmiyim?</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth">Futbol</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth">Tenis raketi</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth">Havlu</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">Amerikan futbolu</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">Golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">Tenis</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">Basketbol</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Bugün günlerden ne?</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Yarın günlerden ne?</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">Pazartesi</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">Salı</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">Çarşamba</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">Perşembe</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">Cuma</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">Cumartesi</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">Pazar</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">Ocak</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">Şubat</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">Mart</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">Nisan</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">Mayıs</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">Haziran</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">Temmuz</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">Ağustos</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">Eylül</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">Ekim</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">Kasım</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">Aralık</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Saat kaç?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Saat sekiz</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth">Ne zaman gelebilirim?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth">Beni ne zaman ziyaret edeceksin?</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth">Seni sabah ziyaret edeceğim</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth">Baharda seni ziyaret edeceğim.</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth">Yazın seni ziyaret edeceğim.</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth">Sonbaharda seni ziyaret edeceğim.</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">Kışın seni ziyaret edeceğim.</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth">Benimle ne kadar kalacaksın?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth">İki saat kalabilirim.</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth">İki saatliğine sana uğrayacağım.</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Çok geç kaldın.</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth">Çok dakiksin.</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth">Çok erkencisin.</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth">Hangi mevsimdeyiz?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">Vaktim yok.</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Lütfen, bir dakika bekleyiniz.</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth">Beş dakika içerisinde orada olacağım.</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Taşımacılık</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">Arabanız var mı?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">Arabam var.</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">Arabam yok.</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth">Benim arabamı mı yoksa senin arabanı mı alalım?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth">Ehliyetiniz var mı?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth">Ehliyetim yok.</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth">Ne zaman ayrılıyoruz?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth">Nereye gidiyoruz?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth">Nereye gidiyorsun(uz)?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth">Nerden geliyorsun(uz)?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth">Aktarma yapmak zorunda mıyım?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth">otobüsler nerede?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth">Otobüs durağı nerede?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth">Ne zaman ineceğimi söyleyebilir misiniz?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth">Bu otobüs .. den geçer mi?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth">Havaalanı nerede?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth">Uçak nereden kalkıyor?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth">Uçak nereye varıyor?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth">Uçuş ne kadar sürüyor?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth">Ne zaman kontrol edileceğim?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth">Pasaportunuzu görebilir miyim lütfen?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth">Buyrun pasaportum.</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth">Bunu yanıma alabilir miyim?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth">Valizlerimi nereden alabilirim?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth">Bagajım yok | Bagajımı bulamıyorum.</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth">Bagajlarımı taşımama yardım edebilir misiniz?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth">Sanırım burası benim yerim.</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth">Bu koltuk dolu mu?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth">Tren istasyonu nerede?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth">Trende aktarma yapmak zorunda mıyım?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth">Bu tren .. de duruyor mu?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth">Bu tren .. den geçer mi?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth">Tren orada ne kadar bekliyor?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth">Bu istasyon neresi?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth">Sonraki tren ne zaman?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth">Son tren ne zaman?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth">Nerden bir taksi bulabilirim?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth">Yakınlarda bir araba parkı var mı?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth">Buraya park edebir miyim?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth">Ne kadar süreliğine park edebilirm?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth">Nereye park edebilirim?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">Arabam bozuldu.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth">Arabam çalışmayacak.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth">En yakın benzin istasyonu nerede?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth">En yakın garaj nerede?</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth">Benzinim bitti.</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth">Lütfen, ehliyetinizi görebilir miyim?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth">Buyurun, işte ehliyetim.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth">En yakın köy ne kadar uzaklıkta?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth">Arabayla ne kadar sürüyor?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth">Yürüyerek ne kadar sürüyor?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth">Bir haftalğına / Üç günlüğüne bir araba kiralamak istiyorum.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Hava</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">Yarın yağmur yağacak.</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Yağmur yağıyor.</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Kar yağıyor.</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">Güneşli.</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">Bulutlu.</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">Dışarısı ılık.</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">Dışarısı soğuk.</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Ne berbat bir hava!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Ne güzel bir gün!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth">Güzel bir gün, değil mi?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">Hep böyle sıcak mıdır?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">Hep böyle soğuk mudur?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">Hep böyle yağmurlu mudur?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">Hep böyle bulutlu mudur?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth">Islandım.</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Meslek</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Nerede çalışıyorsun?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Ne iş yaparak geçiniyorsunuz?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Öğretmenim.</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Öğrenciyim.</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth">Serbest meslekle meşgulüm.</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Bir restoranda çalışıyorum.</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Bir süpermarkette çalışıyorum.</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Bir dükkânda çalışıyorum.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Doktorum.</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">Psikoloğum.</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">Programcıyım.</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Mühendisim.</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Tamirciyim.</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Yazarım.</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Şöförüm.</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Aktörüm / Aktrisim.</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">Sosyal hizmetliyim.</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Politikacıyım.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">The Milkmaid and her Pail</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">A milkmaid dreams of her future</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">A farmer's daughter had been out to milk the cows, and was returning to the dairy carrying her pail of milk upon her head. As she walked along, she fell a-musing after this fashion:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">&quot;The milk in this pail will provide me with cream, which I will make into butter and take to market to sell. With the money I will buy a number of eggs, and these, when hatched, will produce chickens, and by and by I shall have quite a large poultry-yard. Then I shall sell some of my fowls, and with the money which they will bring in I will buy myself a new gown, which I shall wear when I go to the fair; and all the young fellows will admire it, and come and make love to me, but I shall toss my head and have nothing to say to them.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">Forgetting all about the pail, and suiting the action to the word, she tossed her head. Down went the pail, all the milk was spilled, and all her fine castles in the air vanished in a moment!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">Do not count your chickens before they are hatched.</attrib>
+		</entry>
+	</entries>
+</ulr>

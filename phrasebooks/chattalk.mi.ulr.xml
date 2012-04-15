@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="mi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Hei Tomokanga</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Kia Ora</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Kia Ora koutou katoa</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">T&#275;n&#257; koe i t&#275;nei ata</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">T&#275;n&#257; koe i t&#275;nei ahiahi</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">T&#275;n&#257; koe i t&#275;nei p&#333;</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Kia Ora</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">He aha te aha?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">He aha t&#257; koutou k&#333;rero | He aha te kaupapa?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">E p&#275;hea ana koe?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">E p&#275;hea ana koutou?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">E p&#275;hea ana?</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">N&#333; whea mai koe, {ingoa}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">He tauhou koe? | He tapuwae koe?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Ka noho koe i t&#275;whea {whenua}?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">E hia &#333;u tau?</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">N&#333; {whenua} mai au</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Me haere atu au</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">E haere atu ana au ki te moenga</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Me moe</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Ka kite</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Ka kite an&#333; i a koe &#257;p&#333;p&#333;</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Kia Ora</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Aroha mai | Aroha atu</attrib>
+		</entry>
+	</entries>
+</ulr>

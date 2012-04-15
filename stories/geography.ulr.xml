@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="geography" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="af" stats="21" />
+		<language lang="bg" stats="21" />
+		<language lang="de" stats="21" />
+		<language lang="el" stats="21" />
+		<language lang="en" stats="21" />
+		<language lang="es" stats="21" />
+		<language lang="et" stats="21" />
+		<language lang="fi" stats="21" />
+		<language lang="fo" stats="21" />
+		<language lang="fr" stats="21" />
+		<language lang="gl" stats="21" />
+		<language lang="he" stats="21" />
+		<language lang="hu" stats="21" />
+		<language lang="it" stats="21" />
+		<language lang="kn" stats="21" />
+		<language lang="lv" stats="21" />
+		<language lang="nl" stats="21" />
+		<language lang="no" stats="21" />
+		<language lang="pae" stats="21" />
+		<language lang="pl" stats="21" />
+		<language lang="pt" stats="21" />
+		<language lang="ro" stats="21" />
+		<language lang="ru" stats="21" />
+		<language lang="sr" stats="21" />
+		<language lang="sv" stats="21" />
+		<language lang="th" stats="21" />
+		<language lang="zh" stats="21" />
+		<language lang="zh.Hans" stats="21" />
+	</languages>
+	<authors>
+		<author id="Punda_Milia" langs="af" lastmodified="0" />
+		<author id="Paruha" langs="bg" lastmodified="0" />
+		<author id="Kubi" langs="de" lastmodified="0" />
+		<author id="Yiannisscheidt" langs="el" lastmodified="0" />
+		<author id="Ron" langs="en,nl" lastmodified="0" />
+		<author id="samimi" langs="es" lastmodified="0" />
+		<author id="Loiks" langs="et" lastmodified="0" />
+		<author id="Sir McDuck" langs="fi" lastmodified="0" />
+		<author id="Mulder-22" langs="fo" lastmodified="0" />
+		<author id="FSidoroff" langs="fr" lastmodified="0" />
+		<author id="Porto" langs="gl" lastmodified="0" />
+		<author id="מיכל פ" langs="he" lastmodified="0" />
+		<author id="Ron (translated by Viktor Borbély)" langs="hu" lastmodified="0" />
+		<author id="Gianluca" langs="it" lastmodified="0" />
+		<author id="ರಾನ್" langs="kn" lastmodified="0" />
+		<author id="hekate" langs="lv" lastmodified="0" />
+		<author id="AMO" langs="no" lastmodified="0" />
+		<author id="ron" langs="pae" lastmodified="0" />
+		<author id="Zaduma" langs="pl" lastmodified="0" />
+		<author id="Anna Lucia Nunes" langs="pt" lastmodified="0" />
+		<author id="Bogdan State (bogororo)" langs="ro" lastmodified="0" />
+		<author id="me_cuf" langs="ru" lastmodified="0" />
+		<author id="Рон" langs="sr" lastmodified="0" />
+		<author id="Kess" langs="sv" lastmodified="0" />
+		<author id="Komodori (มงคล โหมดเจริญ)" langs="th" lastmodified="0" />
+		<author id="杨大猫" langs="zh.Hans" lastmodified="0" />
+		<author id="13070" langs="en,fr" lastmodified="1235962278" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">geography.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+		<entry id="5" type="paragraph" />
+		<entry id="6" type="paragraph" />
+		<entry id="7" type="paragraph" />
+		<entry id="8" type="paragraph" />
+		<entry id="9" type="paragraph" />
+		<entry id="10" type="paragraph" />
+		<entry id="11" type="paragraph" />
+		<entry id="12" type="paragraph" />
+		<entry id="13" type="paragraph" />
+		<entry id="14" type="paragraph" />
+		<entry id="15" type="paragraph" />
+		<entry id="16" type="paragraph" />
+		<entry id="17" type="paragraph" />
+		<entry id="18" type="paragraph" />
+		<entry id="19" type="paragraph" />
+	</entries>
+</ulr>

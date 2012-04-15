@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="ziolupo" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="4085"  groups=""  />
+		<editors  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="it" stats="3" />
+		<language lang="nl" stats="1" />
+		<language lang="en" stats="3" />
+	</languages>
+	<authors>
+		<author id="4085" langs="it,en" lastmodified="1277251586" />
+		<author id="4430" langs="nl" lastmodified="1270154706" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title" />
+		<entry id="description" type="description" />
+		<entry id="e1" type="paragraph" />
+	</entries>
+</ulr>

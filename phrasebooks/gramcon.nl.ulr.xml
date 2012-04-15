@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="nl">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="3" lastmodified="1219342092">Nominale zinnen</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben blij</attrib>
+		</entry>
+		<entry id="e2500">
+			<attrib type="orth" author="3" lastmodified="1219342092">Hij is blij</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben niet blij</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" lastmodified="1217790006">Ik was blij</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217790006">Zij is ook blij</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" lastmodified="1217790006">We zijn beide blij</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" lastmodified="1217790006">Ik word blij</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" lastmodified="1217790006">Ik blijf blij</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" lastmodified="1217790006">Je bent of rijk of arm.</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" lastmodified="1217790006">Je bent noch blij noch verdrietig</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217790006">Dit is een grote boom</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217790006">Dat is een grote boom</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217790006">Dat is de grote boom</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217790006">Er is/staat een grote boom in mijn tuin</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" lastmodified="1217790006">Ik geef de gevaarlijke man voorzichtig mijn vader's geld op het afgesproken plein voor de kerk</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" lastmodified="1217790006">Ik schrijf vandaag een brief</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" lastmodified="1217790006">Ik schrijf de brief vandaag niet</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" lastmodified="1217790006">Ik schrijf vandaag geen brief</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217790006">Ik schreef gisteren een brief</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" lastmodified="1217790006">Ik schreef gisteren geen brief</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" lastmodified="1217790006">Ik schreef de brief gisteren niet</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" lastmodified="1217790006">Ik schreef elke maand een brief</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" lastmodified="1217790006">Ik schreef (vroeger) elke maand een brief</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" lastmodified="1217790006">Ik zal morgen een brief schrijven</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" lastmodified="1217790006">Ik zal morgen geen brief schrijven</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" lastmodified="1217790006">Ik zou een brief schrijven</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" lastmodified="1217790006">Ik zou een brief schrijven als ik een pen zou hebben</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb een brief geschreven</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" lastmodified="1217790006">Ik had een brief geschreven</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben een brief aan het schrijven</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" lastmodified="1217790006">Ik was een brief aan het schrijven</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" lastmodified="1217790006">Ik kan een brief schrijven</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" lastmodified="1217790006">Ik kan een brief schrijven</attrib>
+		</entry>
+		<entry id="e37000">
+			<attrib type="orth" lastmodified="1217790006">Ik kon een brief schrijven</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" lastmodified="1217790006">Ik zou een brief hebben kunnen schrijven</attrib>
+		</entry>
+		<entry id="e39000">
+			<attrib type="orth" lastmodified="1217790006">Ik zou een brief aan het schrijven kunnen zijn</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217790006">Ik moet een brief schrijven</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" lastmodified="1217790006">Ik moest een brief schrijven</attrib>
+		</entry>
+		<entry id="e42000">
+			<attrib type="orth" lastmodified="1217790006">Ik moet een brief geschreven hebben</attrib>
+		</entry>
+		<entry id="e43000">
+			<attrib type="orth" lastmodified="1217790006">Ik moet een brief aan het schrijven zijn</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" lastmodified="1217790006">Ik mag een brief schrijven</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="orth" lastmodified="1217790006">Ik mocht een brief schrijven</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" lastmodified="1217790006">Ik moet een brief schrijven</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" lastmodified="1217790006">Ik moest een brief schrijven</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" lastmodified="1217790006">De brief is door mij geschreven</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" lastmodified="1217790006">De brief was door mij geschreven</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" lastmodified="1217790006">De brief is door mij geschreven</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" lastmodified="1217790006">De brief zal door mij geschreven worden</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" lastmodified="1217790006">De brief zou door mij geschreven worden</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" lastmodified="1217790006">De brief zou door mij geschreven zijn</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" lastmodified="1217790006">Schrijf een brief!</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" lastmodified="1217790006">Schrijf een brief!</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Schrijft een brief! [archaic]</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" lastmodified="1217790006">Schrijf geen brief!</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" lastmodified="1217790006">Schrijf geen brief!</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Schrijft geen brief! [archaic]</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" lastmodified="1217790006">Laten we een brief schrijven!</attrib>
+		</entry>
+		<entry id="e61000">
+			<attrib type="orth" lastmodified="1217790006">Laat de brief geschreven worden!</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" lastmodified="1217790006">Ik betwijfel dat hij een brief schrijft</attrib>
+		</entry>
+		<entry id="e64000">
+			<attrib type="orth" lastmodified="1217790006">Ik betwijfel dat hij gisteren een brief schreef</attrib>
+		</entry>
+		<entry id="e65000">
+			<attrib type="orth" lastmodified="1217790006">Ik betwijfel dat hij elke dag een brief schrijft</attrib>
+		</entry>
+		<entry id="e66000">
+			<attrib type="orth" lastmodified="1217790006">Ik betwijfel dat hij een brief geschreven heeft</attrib>
+		</entry>
+		<entry id="e67000">
+			<attrib type="orth" lastmodified="1217790006">Ik betwijfel dat hij een brief zal schrijven</attrib>
+		</entry>
+		<entry id="e68000">
+			<attrib type="orth" lastmodified="1217790006">Ik betwijfel dat hij een brief zou schrijven</attrib>
+		</entry>
+		<entry id="e69000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben er zeker van dat hij een brief zal schrijven</attrib>
+		</entry>
+		<entry id="e70000">
+			<attrib type="orth" lastmodified="1217790006">Ik hoop dat hij een brief schrijft</attrib>
+		</entry>
+		<entry id="e71000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben blij dat hij een brief schrijft</attrib>
+		</entry>
+		<entry id="e73000">
+			<attrib type="orth" lastmodified="1217790006">De man, die nu een brief schrijft, zal daarna naar het postkantoor gaan</attrib>
+		</entry>
+		<entry id="e74000">
+			<attrib type="orth" lastmodified="1217790006">De man, die gisteren een brief geschreven had, is naar het postkantoor gegaan</attrib>
+		</entry>
+		<entry id="e75000">
+			<attrib type="orth" lastmodified="1217790006">De man, die morgen een brief zal schrijven, zal naar het postkantoor gaan</attrib>
+		</entry>
+		<entry id="e76000">
+			<attrib type="orth" lastmodified="1217790006">De man, die een brief zou schrijven, zou naar het postkantoor gaan</attrib>
+		</entry>
+		<entry id="e77000">
+			<attrib type="orth" lastmodified="1217790006">Terwijl hij zijn leven riskeert, redt hij me</attrib>
+		</entry>
+		<entry id="e78000">
+			<attrib type="orth" lastmodified="1217790006">Terwijl hij zijn leven riskeerde, redde hij me</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" lastmodified="1217790006">Hij is een begrijpende man</attrib>
+		</entry>
+		<entry id="e80000">
+			<attrib type="orth" lastmodified="1217790006">Het vertelde bericht was schokkend</attrib>
+		</entry>
+		<entry id="e82000">
+			<attrib type="orth" lastmodified="1217790006">Het lezen was ontspannend</attrib>
+		</entry>
+		<entry id="e84000">
+			<attrib type="orth" lastmodified="1217790006">Ik begin mijn boek te lezen</attrib>
+		</entry>
+		<entry id="e85000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga door met het lezen van mijn boek</attrib>
+		</entry>
+		<entry id="e86000">
+			<attrib type="orth" lastmodified="1217790006">Ik stop met het lezen van mijn boek</attrib>
+		</entry>
+		<entry id="e87000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben klaar (met) mijn boek te lezen</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217790006">Ik hou ervan brieven te schrijven</attrib>
+		</entry>
+		<entry id="e90000">
+			<attrib type="orth" lastmodified="1217790006">Ik besloot mijn boek te lezen</attrib>
+		</entry>
+		<entry id="e91000">
+			<attrib type="orth" lastmodified="1217790006">Ik probeer mijn mening te laten zien</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ik besluit dat ik mijn boek zal lezen</attrib>
+		</entry>
+		<entry id="e92000">
+			<attrib type="orth" lastmodified="1217790006">Ik kan niet beslissen of hij mijn boek moet lezen</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" lastmodified="1217790006">Wat is dat?</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" lastmodified="1217790006">Wie is dat?</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217790006">Waar is hij?</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" lastmodified="1217790006">Waar gaan we heen?</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" lastmodified="1217790006">Wanneer gaan we?</attrib>
+		</entry>
+		<entry id="e99000">
+			<attrib type="orth" lastmodified="1217790006">Hoe gaan we?</attrib>
+		</entry>
+		<entry id="e100000">
+			<attrib type="orth" lastmodified="1217790006">Hoeveel water heb je?</attrib>
+		</entry>
+		<entry id="e101000">
+			<attrib type="orth" lastmodified="1217790006">Hoeveel vrienden heb je?</attrib>
+		</entry>
+		<entry id="e102000">
+			<attrib type="orth" lastmodified="1217790006">Welke kleur vind je mooi?</attrib>
+		</entry>
+		<entry id="e104000">
+			<attrib type="orth" lastmodified="1217790006">Ik begrijp niet wat ik zie</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217790006">Ik weet niet waar ik woon</attrib>
+		</entry>
+		<entry id="e106000">
+			<attrib type="orth" lastmodified="1217790006">Ik weet niet wanneer ik zal komen</attrib>
+		</entry>
+		<entry id="e107000">
+			<attrib type="orth" lastmodified="1217790006">Ik weet niet hoe ik deze ramp overleef</attrib>
+		</entry>
+		<entry id="e109000">
+			<attrib type="orth" lastmodified="1217790006">Als ik rijk was, zou ik een nieuwe auto kopen</attrib>
+		</entry>
+		<entry id="e110000">
+			<attrib type="orth" lastmodified="1217790006">Wanneer ik rijk ben koop ik een nieuwe auto</attrib>
+		</entry>
+		<entry id="e111000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest, behalve wanneer het regent</attrib>
+		</entry>
+		<entry id="e112000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest, tenzij het regent</attrib>
+		</entry>
+		<entry id="e113000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest, zelfs als het regent</attrib>
+		</entry>
+		<entry id="e114000">
+			<attrib type="orth" lastmodified="1217790006">Het regent, (maar) niettemin ga ik (toch) naar het feest</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest, hoewel het regent</attrib>
+		</entry>
+		<entry id="e117000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest, omdat het regent</attrib>
+		</entry>
+		<entry id="e118000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest, aangezien het regent</attrib>
+		</entry>
+		<entry id="e119000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest, zodat ik bier kan drinken</attrib>
+		</entry>
+		<entry id="e120000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest, dus neem afscheid (van mij)!</attrib>
+		</entry>
+		<entry id="e121000">
+			<attrib type="orth" lastmodified="1217790006">Ik ga naar het feest om met mijn vrienden te dansen</attrib>
+		</entry>
+		<entry id="e123000">
+			<attrib type="orth" lastmodified="1217790006">Ik zal naar het feest gaan, maar het regent</attrib>
+		</entry>
+		<entry id="e124000">
+			<attrib type="orth" lastmodified="1217790006">Ik zal naar het feest gaan, bovendien zal ik er eten</attrib>
+		</entry>
+		<entry id="e126000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink thee voordat ik mijn boek lees</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink thee nadat ik mijn boek gelezen heb</attrib>
+		</entry>
+		<entry id="e128000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink thee terwijl ik mijn boek lees</attrib>
+		</entry>
+		<entry id="e129000">
+			<attrib type="orth" lastmodified="1217790006">Ik zal thee drinken zodra ik mijn boek uitgelezen heb</attrib>
+		</entry>
+		<entry id="e130000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink thee sinds ik mijn boek uitgelezen heb</attrib>
+		</entry>
+		<entry id="e131000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink thee, dan/daarna lees ik mijn boek uit</attrib>
+		</entry>
+		<entry id="e132000">
+			<attrib type="orth" lastmodified="1217790006">Ik zal eten tot ik moe ben</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben de man die een appel koopt</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben de vrouw die een appel koopt</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie de man die een appel koopt</attrib>
+		</entry>
+		<entry id="e137000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie de man die zij ook ziet</attrib>
+		</entry>
+		<entry id="e138000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie de man die ik een cadeau gaf</attrib>
+		</entry>
+		<entry id="e139000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie de man, waarvan ik het nieuws kreeg</attrib>
+		</entry>
+		<entry id="e140000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie de vrouw, waarmee ik een ontmoeting had</attrib>
+		</entry>
+		<entry id="e141000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie de appel die goed ruikt</attrib>
+		</entry>
+		<entry id="e142000">
+			<attrib type="orth" lastmodified="1217790006">De appel, die ik zie, ruikt goed</attrib>
+		</entry>
+		<entry id="e143000">
+			<attrib type="orth" lastmodified="1217790006">De appel, waarnaar ik keek, ruikt goed</attrib>
+		</entry>
+		<entry id="e144000">
+			<attrib type="orth" lastmodified="1217790006">De appel, die de man koopt, ruikt goed</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben net zo groot als jij</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ik ben even groot als jij</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben intelligenter dan jij</attrib>
+		</entry>
+		<entry id="e148000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben minder intelligent dan jij</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben de intelligentse</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" lastmodified="1217790006">Ik zing zoals jij</attrib>
+		</entry>
+		<entry id="e151000">
+			<attrib type="orth" lastmodified="1217790006">Ik zing zoals jij schreeuwt</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" lastmodified="1217790006">Ik geef je een kado</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ik geef het kado aan je</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217790006">Dit is de hond van mijn vriend</attrib>
+		</entry>
+		<entry id="e156000">
+			<attrib type="orth" lastmodified="1217790006">The vogel is in zijn kooi</attrib>
+		</entry>
+		<entry id="e157000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt in zijn kooi</attrib>
+		</entry>
+		<entry id="e158000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt zijn kooi in</attrib>
+		</entry>
+		<entry id="e159000">
+			<attrib type="orth" lastmodified="1217790006">De piloot vliegt in zijn vliegtuig</attrib>
+		</entry>
+		<entry id="e160000">
+			<attrib type="orth" lastmodified="1217790006">De vogel zit op zijn kooi</attrib>
+		</entry>
+		<entry id="e161000">
+			<attrib type="orth" lastmodified="1217790006">De vogel zit bovenop zijn kooi</attrib>
+		</entry>
+		<entry id="e162000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt over zijn kooi (heen)</attrib>
+		</entry>
+		<entry id="e163000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt onder zijn kooi door</attrib>
+		</entry>
+		<entry id="e164000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt boven zijn kooi</attrib>
+		</entry>
+		<entry id="e165000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt onder zijn kooi</attrib>
+		</entry>
+		<entry id="e166000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt rond zijn kooi</attrib>
+		</entry>
+		<entry id="e167000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt door zijn kooi</attrib>
+		</entry>
+		<entry id="e168000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt zijn kooi uit</attrib>
+		</entry>
+		<entry id="e169000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt naar zijn kooi</attrib>
+		</entry>
+		<entry id="e170000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt richting zijn kooi</attrib>
+		</entry>
+		<entry id="e171000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt weg van zijn kooi</attrib>
+		</entry>
+		<entry id="e172000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt langs zijn kooi</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">De vogel vliegt zijn kooi voorbij</attrib>
+		</entry>
+		<entry id="e173000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt langs een vliegtuig</attrib>
+		</entry>
+		<entry id="e174000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt (dicht) bij zijn kooi</attrib>
+		</entry>
+		<entry id="e175000">
+			<attrib type="orth" lastmodified="1217790006">De vogel vliegt ver van zijn kooi</attrib>
+		</entry>
+		<entry id="e177000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink wijn voor het avondeten</attrib>
+		</entry>
+		<entry id="e178000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink wijn  na het avondeten</attrib>
+		</entry>
+		<entry id="e179000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink wijn gedurende het avondeten</attrib>
+		</entry>
+		<entry id="e180000">
+			<attrib type="orth" lastmodified="1217790006">Ik ben wijn aan het drinken sinds het avondeten</attrib>
+		</entry>
+		<entry id="e181000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb vijf dagen geleden wijn gedronken</attrib>
+		</entry>
+		<entry id="e182000">
+			<attrib type="orth" lastmodified="1217790006">Ik drink wijn over vijf minuten</attrib>
+		</entry>
+		<entry id="e183000">
+			<attrib type="orth" lastmodified="1217790006">Ik kan mijn glas wijn binnen vijf minuten opdrinken</attrib>
+		</entry>
+		<entry id="e184000">
+			<attrib type="orth" lastmodified="1217790006">Ik zal je 's maandags in januari ontmoeten</attrib>
+		</entry>
+		<entry id="e186000">
+			<attrib type="orth" lastmodified="1217790006">Mijn moeder spreekt met/tegen mij over het schoonmaken van mijn kamer</attrib>
+		</entry>
+		<entry id="e187000">
+			<attrib type="orth" lastmodified="1217790006">Wat betreft mijn kamer, die is nog steeds niet opgeruimd</attrib>
+		</entry>
+		<entry id="e189000">
+			<attrib type="orth" lastmodified="1217790006">Ik moet mijn kamer opruimen volgens mijn moeder</attrib>
+		</entry>
+		<entry id="e190000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb mijn kamer niet opgeruimd, ondanks mijn moeder's waarschuwing</attrib>
+		</entry>
+		<entry id="e191000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb mijn kamer niet opgeruimd, in tegenstelling tot mijn zus</attrib>
+		</entry>
+		<entry id="e192000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb mijn kamer niet opgeruimd, behalve mijn bureau</attrib>
+		</entry>
+		<entry id="e193000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb mijn kamer (samen) met mijn moeder schoongemaakt</attrib>
+		</entry>
+		<entry id="e194000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb mijn kamer zonder mijn moeder schoongemaakt</attrib>
+		</entry>
+		<entry id="e195000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb mijn kamer met een bezem schoongemaakt</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie iedereen</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie iemand</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie niemand</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217790006">Niemand kan me zien</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie niemand behalve jou</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie alleen jou</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie alle mannen</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie geen mannen</attrib>
+		</entry>
+		<entry id="e205000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie elke man</attrib>
+		</entry>
+		<entry id="e206000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie alles</attrib>
+		</entry>
+		<entry id="e207000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie iets</attrib>
+		</entry>
+		<entry id="e208000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie niks</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ik zie niets</attrib>
+		</entry>
+		<entry id="e209000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie niks anders</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ik zie niets anders</attrib>
+		</entry>
+		<entry id="e210000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie niks meer</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ik zie niets meer</attrib>
+		</entry>
+		<entry id="e211000">
+			<attrib type="orth" lastmodified="1217790006">Niets kan me zien</attrib>
+		</entry>
+		<entry id="e212000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie alle boeken</attrib>
+		</entry>
+		<entry id="e213000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie geen boeken</attrib>
+		</entry>
+		<entry id="e214000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie elk book</attrib>
+		</entry>
+		<entry id="e215000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie een aantal boeken</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ik zie een paar boeken</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="2">Ik zie enige boeken</attrib>
+		</entry>
+		<entry id="e216000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie een (soort) boek</attrib>
+		</entry>
+		<entry id="e217000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie geen boek</attrib>
+		</entry>
+		<entry id="e218000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie het (ge)hele book</attrib>
+		</entry>
+		<entry id="e219000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie het boek zelf</attrib>
+		</entry>
+		<entry id="e220000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie hetzelfde book</attrib>
+		</entry>
+		<entry id="e221000">
+			<attrib type="orth" lastmodified="1217790006">Ik zie zo'n soort boek</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ik zie een dergelijk boek</attrib>
+		</entry>
+		<entry id="e222000">
+			<attrib type="orth" lastmodified="1217790006">Je kan welk boek dan ook boek uitkiezen</attrib>
+		</entry>
+		<entry id="e223000">
+			<attrib type="orth" lastmodified="1217790006">Niemand kan me zien</attrib>
+		</entry>
+		<entry id="e224000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb overal gekeken</attrib>
+		</entry>
+		<entry id="e225000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb nergens gekeken</attrib>
+		</entry>
+		<entry id="e226000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb ergens gekeken</attrib>
+		</entry>
+		<entry id="e227000">
+			<attrib type="orth" lastmodified="1217790006">We zullen elkaar eens ontmoeten</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">We zullen elkaar een keer ontmoeten</attrib>
+		</entry>
+		<entry id="e228000">
+			<attrib type="orth" lastmodified="1217790006">We zullen elkaar soms ontmoeten</attrib>
+		</entry>
+		<entry id="e229000">
+			<attrib type="orth" lastmodified="1217790006">We zullen elkaar nooit ontmoeten</attrib>
+		</entry>
+		<entry id="e230000">
+			<attrib type="orth" lastmodified="1217790006">We zullen elkaar altijd ontmoeten</attrib>
+		</entry>
+		<entry id="e231000">
+			<attrib type="orth" lastmodified="1217790006">We zullen elkaar vaak ontmoeten</attrib>
+		</entry>
+		<entry id="e232000">
+			<attrib type="orth" lastmodified="1217790006">We zullen elkaar gewoonlijk ontmoeten</attrib>
+		</entry>
+		<entry id="e233000">
+			<attrib type="orth" lastmodified="1217790006">We zullen elkaar zelden ontmoeten</attrib>
+		</entry>
+		<entry id="e235000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb veel water</attrib>
+		</entry>
+		<entry id="e236000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb genoeg water</attrib>
+		</entry>
+		<entry id="e237000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb te veel water</attrib>
+		</entry>
+		<entry id="e238000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb een liter water</attrib>
+		</entry>
+		<entry id="e239000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb vijf flessen water</attrib>
+		</entry>
+		<entry id="e240000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb meer water</attrib>
+		</entry>
+		<entry id="e241000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb minder water</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb alleen (maar) water</attrib>
+		</entry>
+		<entry id="e243000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb ook water</attrib>
+		</entry>
+		<entry id="e244000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb al water</attrib>
+		</entry>
+		<entry id="e245000">
+			<attrib type="orth" lastmodified="1217790006">Ik heb nog (steeds) water</attrib>
+		</entry>
+	</entries>
+</ulr>

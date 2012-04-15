@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="ru">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Juliette Esper">Ворона и горшок</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Juliette Esper">Умная ворона находит способ напиться</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Juliette Esper">Томимая жаждой ворона нашла горшок с водой, но воды было так мало, что как  ни старалась, она не могла достать до неё клювом, и казалось, она умрёт от жажды у самой воды.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Juliette Esper">Наконец, ей пришла в голову отличная идея. Она стала бросать в горшок камешки, и с каждым камешком вода поднималась все выше, пока не достигла края, и умная птица смогла утолить жажду.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Juliette Esper">Потребность рождает изобретательность.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="ka">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Chat Talk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">გამარჯობა</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">გამარჯობა ყველას</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">დილა მშვიდობისა</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">საღამო მშვიდობისა</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">ღამე მშვიდობისა</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">რას შვრები</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">რას შვრები</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">რაზე ლაპარაკობთ</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">როგორ ხარ</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">როგორ ხართ</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">საიდან ხარ, _______</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">რომელი ენები იცი</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">რამდენი წლის ხარ</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">რომელ ენებს სწავლობ</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">მე ________იდან ვარ</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">მე _______ ვიცი</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">ძალიან სასიამოვნოა</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">ხვალამდე</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">გმადლობ</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">დიდი მადლობა</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">ბოდიში</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">ჰეჰე</attrib>
+		</entry>
+	</entries>
+</ulr>

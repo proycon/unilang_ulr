@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="ko">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">가장 흔한 표현들</attrib>
+			<attrib type="phon">Gajang Heunhan Pyohyeondeul</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">예</attrib>
+			<attrib type="phon">Ye</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">아니오</attrib>
+			<attrib type="phon">Anio</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">부탁합니다.</attrib>
+			<attrib type="phon">Butakhapnida</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">여기 있습니다.</attrib>
+			<attrib type="phon">Yeogi Itseumnida</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">고맙습니다.</attrib>
+			<attrib type="phon">Gomapseumnida</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">천만에요.</attrib>
+			<attrib type="phon">Cheonmaneyo</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">실례합니다.</attrib>
+			<attrib type="phon">Sillyehapnida</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">아마도요.</attrib>
+			<attrib type="phon">Amadoyo</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">안녕하세요.</attrib>
+			<attrib type="phon">Annyeonghaseyo</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">안녕히 가세요.</attrib>
+			<attrib type="phon">Annyeonghi Gaseyo</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">안녕히 가세요.</attrib>
+			<attrib type="phon">Annyeonghi Gaseyo</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">--</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">--</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">안녕히 주무세요.</attrib>
+			<attrib type="phon">Annyeonghi Jumuseyo</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">환영합니다.</attrib>
+			<attrib type="phon">Hwanyeonghamnida</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">좋은 여행 되세요.</attrib>
+			<attrib type="phon">Joeun Yeohaeng Doeseyo</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">서로 이해하기</attrib>
+			<attrib type="phon">Seoro Ihaehagi</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">전 ... 를 할 줄 압니다.</attrib>
+			<attrib type="phon">Jeon ... reul hal jul amnida.</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">전 ... 를 할 줄 모릅니다.</attrib>
+			<attrib type="phon">Jeon ... reul hal jul moreumnida</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">전 ... 를 조금 합니다.</attrib>
+			<attrib type="phon">Jeon ... reul jogeum hamnida</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">영어</attrib>
+			<attrib type="phon">Yeongeo</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">프랑스어 / 불어</attrib>
+			<attrib type="phon">France-eo / Beul-eo</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">독일어</attrib>
+			<attrib type="phon">Dogil-eo</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">스페인어</attrib>
+			<attrib type="phon">Spain-eo</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">포르투갈어</attrib>
+			<attrib type="phon">Portugal-eo</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">아랍어</attrib>
+			<attrib type="phon">Arab-eo</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">중국어</attrib>
+			<attrib type="phon">Jeunggukeo</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">힌두어</attrib>
+			<attrib type="phon">Hindueo</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">러시아어</attrib>
+			<attrib type="phon">Russia-eo</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">이탈리아어</attrib>
+			<attrib type="phon">Italia-eo</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">네덜란드어 / 화란어</attrib>
+			<attrib type="phon">Netherland-eo / Hwaraneo</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">노르웨이어</attrib>
+			<attrib type="phon">Norway-eo</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">스웨덴어</attrib>
+			<attrib type="phon">Sweden-eo</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">덴마크어</attrib>
+			<attrib type="phon">Denmark-eo</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">폴란드어</attrib>
+			<attrib type="phon">Poland-eo</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">우르두어</attrib>
+			<attrib type="phon">Urdu-eo</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">파르시어</attrib>
+			<attrib type="phon">Farsi-eo</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">일본어</attrib>
+			<attrib type="phon">Ilbon-eo</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">인니어</attrib>
+			<attrib type="phon">Inni-eo</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">말레이어</attrib>
+			<attrib type="phon">Malay-eo</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">이해 하시겠습니까?</attrib>
+			<attrib type="phon">Ihae Hasigesseumnigga?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">--</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">알겠습니다.</attrib>
+			<attrib type="phon">Algesseumnida.</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">--</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">모르겠습니다.</attrib>
+			<attrib type="phon">Moreugesseumnida.</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">--</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">다시 한 번 말씀해 주시겠습니까?</attrib>
+			<attrib type="phon">Dashi han beon malsseumhae jusigesseumnigga?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">좀 천천히 말씀해 주시겠습니까?</attrib>
+			<attrib type="phon">Jon cheoncheonhi malsseumhae jusigesseumnigga?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">종이에 써 주시겠습니까?</attrib>
+			<attrib type="phon">Jongi-e sseo jusigesseumnigga?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">뭐라고 하는지 모르겠습니다.</attrib>
+			<attrib type="phon">Mweorago haneunji moreugesseumnida.</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">이 단어가 기억나지 않습니다.</attrib>
+			<attrib type="phon">Ih daneoga gieoknaji anseumnida.</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">뭐라고 하셨습니까?</attrib>
+			<attrib type="phon">Mweorago hasyeossumnigga?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">그걸 ... 로는 뭐라고 합니까?</attrib>
+			<attrib type="phon">Geugeol ... roneun mweorago hamnigga?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">그걸 어떻게 씁니까?</attrib>
+			<attrib type="phon">Geugeol eoddeoke sseumnigga?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">그걸 어떻게 읽습니까?</attrib>
+			<attrib type="phon">Geugeol eoddeoke ikseumnigga?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">이것 좀 번역해 주시겠습니까?</attrib>
+			<attrib type="phon">Igeot jom beonyeokhae jusigesseumnigga?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">제가 제대로 말했습니까?</attrib>
+			<attrib type="phon">Jega jedaero malhaesseumnigga?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">간단한 대화</attrib>
+			<attrib type="phon">Gandanhan Daehwa</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">안녕하세요?</attrib>
+			<attrib type="phon">Annyeonghaseyo?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">잘 지냅니다.</attrib>
+			<attrib type="phon">Jal jinaemnida.</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">--</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">--</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">그저 그렇습니다.</attrib>
+			<attrib type="phon">Geujeo geureusseumnida.</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">몇 살입니까?</attrib>
+			<attrib type="phon">Myeot Sarimnigga?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">전 ... 살입니다.</attrib>
+			<attrib type="phon">Jeon ... sarimnida.</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">잘 모르겠습니다.</attrib>
+			<attrib type="phon">Jal Moreugesseumnida.</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">싫습니다.</attrib>
+			<attrib type="phon">Silseumnida.</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">준비 됐습니다.</attrib>
+			<attrib type="phon">Junbi Doesseumnida.</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">갑시다!</attrib>
+			<attrib type="phon">Gabsida</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">죄송합니다.</attrib>
+			<attrib type="phon">Joesonghamnida</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">비지니스 &amp; 파이낸스</attrib>
+			<attrib type="phon">Business &amp; Finance</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">현찰로 내도 됩니까?</attrib>
+			<attrib type="phon">Hyeonchallo naedo doemnigga?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">카드 됩니까?</attrib>
+			<attrib type="phon">Ka-deu doemnigga?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">여행자 수표 바꿀 수 있습니까?</attrib>
+			<attrib type="phon">Yeohangja Supyo Bakkeul su isseumnigga?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">이걸 ...로 바꿔 주시겠습니까?</attrib>
+			<attrib type="phon">Igeol ... ro bakweo jusigesseumnigga?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">대략 얼마쯤 될 것 같습니까?</attrib>
+			<attrib type="phon">Daeryak eolmajjeum doel geot gasseumnigga?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">카드 여기 있습니다.</attrib>
+			<attrib type="phon">Ka-deu yeogi isseumnida.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">커미션이 얼마나 됩니까?</attrib>
+			<attrib type="phon">Keomissyeon-i eolmana doemnigga?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">달러/유로/파운드를 환전하고 싶은데요.</attrib>
+			<attrib type="phon">Dalleo/Yuro/Paundeu reul hwanjeonhago sipeundeyo.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">환율이 얼마나 됩니까?</attrib>
+			<attrib type="phon">Hwanyul-i eolmana doemnigga?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">물가 상승률이 얼마나 됩니까?</attrib>
+			<attrib type="phon">Mulga sangseungryuli eolmaja doemnigga?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">환전소가 어디입니까?</attrib>
+			<attrib type="phon">Hwanjeonsoga eodiimnigga?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">어디서 복사할 수 있습니까?</attrib>
+			<attrib type="phon">Eodiseo boksahal su isseumnigga?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">가까운 은행이 어디입니까?</attrib>
+			<attrib type="phon">Gaggaun eunhaengi eodiimnigga?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">어디에 사인해야 합니까?</attrib>
+			<attrib type="phon">Eodie sainhaeya hamnigga?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">카탈로그 있습니까?</attrib>
+			<attrib type="phon">Katalogeu isseumnigga?</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">입장료가 얼마입니까?</attrib>
+			<attrib type="phon">Ibjangryoga eolmaimnigga?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">하루당 얼마입니까?</attrib>
+			<attrib type="phon">Harudang eolmaimnigga?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">시간당 얼마입니까?</attrib>
+			<attrib type="phon">Sigandang eolmaimnigga?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">한 주당 얼마입니까?</attrib>
+			<attrib type="phon">Han judang eolmaimnigga?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">무료입니까?</attrib>
+			<attrib type="phon">Muryoimnigga?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">컴퓨터 &amp; 인터넷</attrib>
+			<attrib type="phon">Computer &amp; Internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">컴퓨터 있습니까?</attrib>
+			<attrib type="phon">Keompyuteo isseumnigga?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">하드가 꽉 찼습니다.</attrib>
+			<attrib type="phon">Hadeuga ggwak chasseumnida.</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">모뎀 있습니까?</attrib>
+			<attrib type="phon">Modem isseumnigga?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">인터넷 연결 됩니까?</attrib>
+			<attrib type="phon">Inteonet yeongyeol doemnigga?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">이메일을 보내도 될까요?</attrib>
+			<attrib type="phon">ihmaeileul bonaedo doelggayo?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">이메일을 읽을 수 있습니까?</attrib>
+			<attrib type="phon">ihmaeileul ilgeul su isseumnigga?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">뭘 프린트할 수 있습니까?</attrib>
+			<attrib type="phon">Mweol printeu hal su isseumnigga?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">뭘 스캔할 수 있습니까?</attrib>
+			<attrib type="phon">Mweol scaen hal su isseumnigga?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">제 컴퓨터가 망가졌습니다.</attrib>
+			<attrib type="phon">Je keompyuteoga mangajyeosseumnida.</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">재부팅 해야 합니다.</attrib>
+			<attrib type="phon">Jae-buting haeya hamnida.</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">이메일 주소가 무엇입니까?</attrib>
+			<attrib type="phon">ihmaeil jusoga mueotimnigga?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">제 이메일 주소는...</attrib>
+			<attrib type="phon">Je ihmaeil jusoneun...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">홈페이지 있습니까?</attrib>
+			<attrib type="phon">Hompaeiji isseumnigga?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">주소가 어떻게 됩니까?</attrib>
+			<attrib type="phon">Jusoga eoddeoke doemnigga?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">교육</attrib>
+			<attrib type="phon">Gyoyuk</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">뭘 공부하세요?</attrib>
+			<attrib type="phon">Mweol gongbuhaseyo?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">저는 ...을(를) 공부합니다.</attrib>
+			<attrib type="phon">Jeoneun ...eul (reul) gongbuhamnida.</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">법</attrib>
+			<attrib type="phon">Beob</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">의학</attrib>
+			<attrib type="phon">Euihak</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">경제</attrib>
+			<attrib type="phon">Gyeongje</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">언어</attrib>
+			<attrib type="phon">Eoneo</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">언어학</attrib>
+			<attrib type="phon">Eoneohak</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">수학</attrib>
+			<attrib type="phon">Suhak</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">화학</attrib>
+			<attrib type="phon">Hwahak</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">물리</attrib>
+			<attrib type="phon">Mulli</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">전산</attrib>
+			<attrib type="phon">Jeonsan</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">어느 대학에서 공부하셨습니까?</attrib>
+			<attrib type="phon">Eoneu daehagaeseo gongbuhaseyosseumnigga?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">전 ...에서 공부했습니다.</attrib>
+			<attrib type="phon">Jeon ... eseo gongbuhaesseumnida.</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">오늘은 수업이 있습니다.</attrib>
+			<attrib type="phon">Oneureun sueobi isseumnida.</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">오늘은 수업이 없습니다.</attrib>
+			<attrib type="phon">Oneureun sueobi eopsseumnida.</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">고등학생이십니까?</attrib>
+			<attrib type="phon">Godeunghaksaeng isimnigga?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">고등학생입니다.</attrib>
+			<attrib type="phon">Godeunghaksaeng imnida.</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">수업에 들어가야 겠습니다.</attrib>
+			<attrib type="phon">Sueobe deuleogaya gesseumnida.</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">비상시</attrib>
+			<attrib type="phon">Bisangsi</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">의사를 불러요!</attrib>
+			<attrib type="phon">Euisareul Bulleoyo!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">구급차를 불러요!</attrib>
+			<attrib type="phon">Geugeupchareul Bulleoyo!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">경찰 불러요!</attrib>
+			<attrib type="phon">Gyeongchal bulleoyo!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">숨을 안 쉬고 있어요.</attrib>
+			<attrib type="phon">Sumeul an suigo isseoyo.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">움직일 수 없어요.</attrib>
+			<attrib type="phon">Umjigil su eopseoyo</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">그가 멈추지 않았어요.</attrib>
+			<attrib type="phon">Geuga meomchuji anasseoyo.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">그가 저한테 달려왔어요.</attrib>
+			<attrib type="phon">Geuga jeoege dalryeowasseoyo.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">그가 너무 빠르게 달리고 있었어요.</attrib>
+			<attrib type="phon">Geoga neomu bbareuge dalligo isseosseoyo.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">베였어요.</attrib>
+			<attrib type="phon">Beyeosseoyo.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">팔을 움직일 수 없어요.</attrib>
+			<attrib type="phon">Pareul umjigil su eopseoyo</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">다리를 움직일 수 없어요.</attrib>
+			<attrib type="phon">Darireul umjigil su eopseoyo.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">강도 당했어요.</attrib>
+			<attrib type="phon">Gangdo danghaesseoyo.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">도둑 잡아!</attrib>
+			<attrib type="phon">Doduk jaba!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">여권을 도난당했습니다.</attrib>
+			<attrib type="phon">Yeogwoneul donandanghaesseumnida.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">돈을 잃어버렸습니다.</attrib>
+			<attrib type="phon">Doneul ireobeoryeosseumnida.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">차를 도난당했습니다.</attrib>
+			<attrib type="phon">Chareul donandanghaesseumnida.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">불이야!</attrib>
+			<attrib type="phon">Buriya!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">가까운 병원이 어디입니까?</attrib>
+			<attrib type="phon">Gaggaeun byeongwoni eodiimnigga?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">가까운 경찰서가 어디입니까?</attrib>
+			<attrib type="phon">Gaggaeun gyeonchalseoga eodiimnigga?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">감정 &amp; 의견</attrib>
+			<attrib type="phon">Gamjeong &amp; Euigyeon</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">이걸/그걸 좋아하세요?</attrib>
+			<attrib type="phon">Igeol / Geugeol joahaseyo?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">좋아합니다.</attrib>
+			<attrib type="phon">Joahamnida.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">행복합니다.</attrib>
+			<attrib type="phon">Haengbokhamnida.</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">화가 났습니다.</attrib>
+			<attrib type="phon">Hwaga nasseumnida.</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">실망입니다.</attrib>
+			<attrib type="phon">Silmang imnida.</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">괜찮습니다.</attrib>
+			<attrib type="phon">Gwenchanseumnida.</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">피곤합니다.</attrib>
+			<attrib type="phon">Pigonhamnida.</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">무섭습니다.</attrib>
+			<attrib type="phon">Museopsseumnida.</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">따듯합니다.</attrib>
+			<attrib type="phon">Ddadeut hamnida.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">춥습니다.</attrib>
+			<attrib type="phon">Chupseumnida.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">졸립니다.</attrib>
+			<attrib type="phon">Jollimnida.</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">여기가 마음에 듭니다.</attrib>
+			<attrib type="phon">Yeogiga Maeume deumnida.</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">(아주) 재미있습니다.</attrib>
+			<attrib type="phon">(Aju) Jaemiisseumnida.</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">흥미롭습니다.</attrib>
+			<attrib type="phon">Heungmiropseumnida.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">(아주) 지루합니다.</attrib>
+			<attrib type="phon">(Aju) Jiruhamnida.</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">아름답습니다.</attrib>
+			<attrib type="phon">Areumdapseumnida.</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">(참) 잘 생겼군요.</attrib>
+			<attrib type="phon">(Cham) jal saenggyokunyo.</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">(참) 예쁘군요.</attrib>
+			<attrib type="phon">(Cham) yebbeugunyo.</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">끝내준다!</attrib>
+			<attrib type="phon">Ggeutnaejunda!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">-</attrib>
+			<attrib type="phon">-</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">아주 친절합니다.</attrib>
+			<attrib type="phon">Aju Chinjeolhamnida.</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">저기 봐요!</attrib>
+			<attrib type="phon">Jeogi bwayo!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">들어봐요!</attrib>
+			<attrib type="phon">Deuleobwayo!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">멋집니다!</attrib>
+			<attrib type="phon">Meotjimnida!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">-</attrib>
+			<attrib type="phon">-</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">음식 &amp; 음식점</attrib>
+			<attrib type="phon">Eumsik &amp; Eumsikjeom</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">배고픕니다.</attrib>
+			<attrib type="phon">Baegopeumnida.</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">목이 마릅니다.</attrib>
+			<attrib type="phon">Mogi Mareumnida.</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">뭔가 먹을까요?</attrib>
+			<attrib type="phon">Mweonga Meogeulggayo?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">뭔가 마실까요?</attrib>
+			<attrib type="phon">Mweonga Masilggayo?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">먹을 거 있습니까?</attrib>
+			<attrib type="phon">Meogeul geo isseumnigga?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">마실 거 있습니까?</attrib>
+			<attrib type="phon">Masil geo isseumnigga?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">뭔가 드실래요?</attrib>
+			<attrib type="phon">Mweonga deusillaeyo?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">뭐 드시겠습니까?</attrib>
+			<attrib type="phon">Mweo deusigesseumnigga?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">뭐 마시겠습니까?</attrib>
+			<attrib type="phon">Mweo masigesseumnigga?</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">커피 한 잔</attrib>
+			<attrib type="phon">Keopi han jan.</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">차 한 잔</attrib>
+			<attrib type="phon">Cha han jan.</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">맥주 한 잔</attrib>
+			<attrib type="phon">Maekju han jan</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">와인 한 잔</attrib>
+			<attrib type="phon">Wain jan jan</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">적포도주 한 잔</attrib>
+			<attrib type="phon">Jeokpodoju han jan</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">백포도주 한 잔</attrib>
+			<attrib type="phon">Baekpodoju han jan</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">오렌지 주스 한 컵</attrib>
+			<attrib type="phon">Orenji juseu han keop</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">사과 주스 한 컵</attrib>
+			<attrib type="phon">Sagwa juseu han keop</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">뭐 마실 것 드릴까요?</attrib>
+			<attrib type="phon">Mweo masil geot deurilggayo?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">마실 것은 뭘 드릴까요?</attrib>
+			<attrib type="phon">Masil geoseun mweol deurilggayo?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">주문은 뭘로 하시겠습니까?</attrib>
+			<attrib type="phon">Jumuneun mweollo hasigesseumnigga?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">뭘 추천합니까?</attrib>
+			<attrib type="phon">Mweol chucheonhamnigga?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">메뉴를 볼 수 있을까요?</attrib>
+			<attrib type="phon">Menyureul bol su isseulggayo?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">와인 목록을 볼 수 있을까요?</attrib>
+			<attrib type="phon">Wain mokrogeul bol su isseulggayo?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">이걸 주십시오.</attrib>
+			<attrib type="phon">Igeol jussipsio.</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">건강과 질병</attrib>
+			<attrib type="phon">Geongangwa Jilbyeong</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">취미</attrib>
+			<attrib type="phon">Chwimi</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">취미가 무엇입니까?</attrib>
+			<attrib type="phon">Chwimiga Mueosimnigga?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">여가 시간에 뭘 하십니까?</attrib>
+			<attrib type="phon">Yeoga siganae mweol hasimnigga?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">독서를 좋아하십니까?</attrib>
+			<attrib type="phon">Dokseoreul joahasimnigga?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">독서는 좋아하지 않습니다.</attrib>
+			<attrib type="phon">Dokseoneun joahaji anseumnida.</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">독서를 좋아합니다.</attrib>
+			<attrib type="phon">Dokseoreul joahamnida.</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">요리를 좋아합니다.</attrib>
+			<attrib type="phon">Yorireul joahamnida.</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">음악 듣기를 좋아합니다.</attrib>
+			<attrib type="phon">Eunak deudgireul joahamnida.</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">피아노 치기를 좋아합니다..</attrib>
+			<attrib type="phon">Piano chigireul joahamnida.</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">기타 치기를 좋아합니다.</attrib>
+			<attrib type="phon">Gita chigireul joahamnida.</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">노래하길 좋아합니다.</attrib>
+			<attrib type="phon">Noraehagil joahamnida.</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">체스 두기를 좋아합니다.</attrib>
+			<attrib type="phon">Cheseu dugireul joahamnida.</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">나가 놀기를 좋아합니다.</attrib>
+			<attrib type="phon">Naga nolgireul joahamnida.</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">여행을 좋아합니다.</attrib>
+			<attrib type="phon">Yeohaengeul joahamnida.</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">쇼핑을 좋아합니다.</attrib>
+			<attrib type="phon">Syopingeul joahamnida.</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">정원 돌보기를 좋아합니다.</attrib>
+			<attrib type="phon">Jeongwon dolbogireul joahamnida.</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">TV 보기를 좋아합니다.</attrib>
+			<attrib type="phon">TV bogireul joahamnida.</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">인터넷 서핑을 좋아합니다.</attrib>
+			<attrib type="phon">Inteonet seopingeul joahamnida.</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">어떤 음악을 좋아하세요?</attrib>
+			<attrib type="phon">Eoddeon eumageul joahaseyo?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">클래식을 좋아합니다.</attrib>
+			<attrib type="phon">Keullaesigeul joahamnida.</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">팝을 좋아합니다.</attrib>
+			<attrib type="phon">Pabeul joahamnida.</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">오페라를 좋아합니다.</attrib>
+			<attrib type="phon">Opera-reul joahamnida.</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">재즈를 좋아합니다.</attrib>
+			<attrib type="phon">Jaejeureul joahamnida.</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">테크노를 좋아합니다.</attrib>
+			<attrib type="phon">Tekeunoreul joahamnida.</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">하드 락을 좋아합니다.</attrib>
+			<attrib type="phon">Hadeu rak-eul joahamnida.</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">좋아하는 밴드가 누구입니까?</attrib>
+			<attrib type="phon">Joahaneun baendeuga nuguimnigga?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">뭘 좋아하세요?</attrib>
+			<attrib type="phon">Mweol joahaseyo?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth">전 ...를 좋아합니다.</attrib>
+			<attrib type="phon">Joen ...reul joahamnida.</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">서로 소개하기</attrib>
+			<attrib type="phon">Seoro Sogaehagi</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">저는.... 입니다.</attrib>
+			<attrib type="phon">Jeoneun.... imnida</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">남자 친구가 있습니까?</attrib>
+			<attrib type="phon">Namja chinguga isseumnigga?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">여자 친구가 있습니까?</attrib>
+			<attrib type="phon">Yeoja chinguga isseumnigga?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">남자 친구가 있습니다.</attrib>
+			<attrib type="phon">Namja chinguga isseumnida.</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">여자 친구가 있습니다.</attrib>
+			<attrib type="phon">Yeoja chinguga isseumnida.</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">저는.... 입니다.</attrib>
+			<attrib type="phon">Jeonun.... imnida</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">영국 사람</attrib>
+			<attrib type="phon">Yeong-guk saram</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">미국 사람</attrib>
+			<attrib type="phon">Miguk saram</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">중국 사람</attrib>
+			<attrib type="phon">Jung-guk saram</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">일본 사람</attrib>
+			<attrib type="phon">Ilbon saram</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">캐나다 사람</attrib>
+			<attrib type="phon">Kaenada saram</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">축구</attrib>
+			<attrib type="phon">Chukgu</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">골프</attrib>
+			<attrib type="phon">Golpeu</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">테니스</attrib>
+			<attrib type="phon">Teniseu</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">야구</attrib>
+			<attrib type="phon">Yagu</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">농구</attrib>
+			<attrib type="phon">Nong-gu</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">월요일</attrib>
+			<attrib type="phon">Weoyoil</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">화요일</attrib>
+			<attrib type="phon">Hwayoil</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">수요일</attrib>
+			<attrib type="phon">Suyoil</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">목요일</attrib>
+			<attrib type="phon">Mogyoil</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">금요일</attrib>
+			<attrib type="phon">Geumyoil</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">토요일</attrib>
+			<attrib type="phon">Toyoil</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">일요일</attrib>
+			<attrib type="phon">Ilyoil</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">일월</attrib>
+			<attrib type="phon">Ilweol</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">이월</attrib>
+			<attrib type="phon">Iweol</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">삼월</attrib>
+			<attrib type="phon">Samweol</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">사월</attrib>
+			<attrib type="phon">Saweol</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">오월</attrib>
+			<attrib type="phon">Oweol</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">육월</attrib>
+			<attrib type="phon">Yugweol</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">칠월</attrib>
+			<attrib type="phon">Chilweol</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">팔월</attrib>
+			<attrib type="phon">Palweol</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">구월</attrib>
+			<attrib type="phon">Guweol</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">십월</attrib>
+			<attrib type="phon">Sibweol</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">십일월</attrib>
+			<attrib type="phon">Sibilweol</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">십이월</attrib>
+			<attrib type="phon">Sibiweol</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">차가 있습니까?</attrib>
+			<attrib type="phon">Chaga isseumnigga?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">네, 차가 있습니다.</attrib>
+			<attrib type="phon">Ne, chaga isseumnida.</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">아니요, 차가 없습니다.</attrib>
+			<attrib type="phon">Aniyo, chaga eobsseumnida.</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">선생이 있습니다.</attrib>
+			<attrib type="phon">Seonsaengi isseumnida.</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">학생이 있습니다.</attrib>
+			<attrib type="phon">Haksaengi isseumnida.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">의사 가  있습니다.</attrib>
+			<attrib type="phon">Euisaga isseumnida.</attrib>
+		</entry>
+	</entries>
+</ulr>

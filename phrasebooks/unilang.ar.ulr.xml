@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="ar">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">تعبيرمالوف</attrib>
+			<attrib type="phon">ta`beer ma`aloof</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">نعم</attrib>
+			<attrib type="phon">NA'AM</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="14365" lastmodified="1230223179">لا</attrib>
+			<attrib type="phon">LA'A</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">من  فضلك</attrib>
+			<attrib type="phon">meen  fadhlak (m), min fadhlik (f)</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">انت هنا</attrib>
+			<attrib type="phon">anta huna</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">shukran</attrib>
+			<attrib type="phon">شكرا</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">marhaban</attrib>
+			<attrib type="phon">مرحبا</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">lav samaht</attrib>
+			<attrib type="phon">لو سمحت</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">rubbamma</attrib>
+			<attrib type="phon">ربما</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">ahlan</attrib>
+			<attrib type="phon">اهلا</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">ma´a assalaam</attrib>
+			<attrib type="phon">مع السلام</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">yawm sa`eed</attrib>
+			<attrib type="phon">يوم سعيد</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">sabah  alkhair</attrib>
+			<attrib type="phon">صباح الخير</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">masaa´ alkhair</attrib>
+			<attrib type="phon">مساء الخير</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">tasbah ala khair  (wake up in good health)</attrib>
+			<attrib type="phon">تصبح على خير</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">marhaban</attrib>
+			<attrib type="phon">مرحبا</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">rahla`a  saeeda</attrib>
+			<attrib type="phon">رحله سعيده</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">hal  tatakalam ?</attrib>
+			<attrib type="phon">هل تتكلم</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">ana atkalam</attrib>
+			<attrib type="phon">انا اتكلم</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">lam  atkalam</attrib>
+			<attrib type="phon">لم اتكلم</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">atkalam  kaleel</attrib>
+			<attrib type="phon">اتكلم قليل</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">allugha  aleengleezeeyah</attrib>
+			<attrib type="phon">اللغه الينجيلزيه</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">faransee</attrib>
+			<attrib type="phon">فارنسي</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">almaani</attrib>
+			<attrib type="phon">الماني</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">aspaanee</attrib>
+			<attrib type="phon">اسباني</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">برتغالي</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">arabee</attrib>
+			<attrib type="phon">عربي</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">seenee</attrib>
+			<attrib type="phon">صيني</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindee</attrib>
+			<attrib type="phon">هندي</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">roosee</attrib>
+			<attrib type="phon">روسي</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">eetalee</attrib>
+			<attrib type="phon">إيطالي</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">oordoo</attrib>
+			<attrib type="phon">اوردو</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">faarsi</attrib>
+			<attrib type="phon">فارسي</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">jabaani</attrib>
+			<attrib type="phon">ياباني</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">induniisi</attrib>
+			<attrib type="phon">ايندونيسي</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">hal tafhama (m), hal tafhami (f)</attrib>
+			<attrib type="phon">هل تفهم</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">hal tafhamni</attrib>
+			<attrib type="phon">هل تفهمني</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">ana afham</attrib>
+			<attrib type="phon">انا افهم</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">ana afhamuka (m), ana afhamuki (f)</attrib>
+			<attrib type="phon">انا  افهمك</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">ana lam afham</attrib>
+			<attrib type="phon">انا لم افهم</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">ana lam afhamuka (m), ana lam afhamuki (f)</attrib>
+			<attrib type="phon">انا لم افهمك</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">mumkeen tueed min fadhlak</attrib>
+			<attrib type="phon">ممكن تعيد من فضلك</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">min fadhlak mumkeen takalam beeshuwaish</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">min fadhlak/fadhlik mumkeen taktuba/taktubi lee?</attrib>
+			<attrib type="phon">من فضلك، ممكن تكتب لي</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">lam a`araf kaif akool hada</attrib>
+			<attrib type="phon">لم اعرف كايف اقول هذا</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">lam a`araf alkalima alsaheeha</attrib>
+			<attrib type="phon">لم اعرف الكلمه الصحيحا</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">mumkeen tu´eed min fadhlak?</attrib>
+			<attrib type="phon">ممكن تعيد من فضلك</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">kaif takool bi</attrib>
+			<attrib type="phon">كيف تقول ب</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">kaif taktuba/taktubi hada</attrib>
+			<attrib type="phon">كيف تكتب هذا</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">كيف تحجى هذه الكلمه</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">hal taqdir tutargima(m)/ hal taqdiri tutarjimi (f) lee hada?</attrib>
+			<attrib type="phon">هل تقدر تترجم لي هذا</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">hal  kooltu hada saheehan?</attrib>
+			<attrib type="phon">هل قلت هذا صحيح</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">kaifa haalaka, (m), kaifa haalaki (f)ا</attrib>
+			<attrib type="phon">كيف حالك</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">kwaiz or bakhair</attrib>
+			<attrib type="phon">كويس و بخير</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">انا بخير</attrib>
+			<attrib type="phon">ana bikhair</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">انا بخير</attrib>
+			<attrib type="phon">ana bikhair</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">انا لست على ما يرام</attrib>
+			<attrib type="phon">ana lastu ´ala maa yuraam?</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">كم عمرك؟</attrib>
+			<attrib type="phon">(m) kam ´umruka? - (w) kam ´umruki?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">انا عمري ... سنة</attrib>
+			<attrib type="phon">ana ´umree ....... sana</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">لم اعرف</attrib>
+			<attrib type="phon">lam a`araf</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">انا لم احب هذا</attrib>
+			<attrib type="phon">ana lam ahab hada</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">انا جاهز</attrib>
+			<attrib type="phon">ana gahiz</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">هيا بنا</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">انا اسف</attrib>
+			<attrib type="phon">ana a`asif</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">ممكن ادفع كاش</attrib>
+			<attrib type="phon">mumkin adfa` cash</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">ممكي ادفع بكارت</attrib>
+			<attrib type="phon">mumkin adfa` bi cart</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">هل تقبل...</attrib>
+			<attrib type="phon">(m) hal taqbala? - (w) hal taqbali?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">ممكن تصرف هذه الشكات؟</attrib>
+			<attrib type="phon">mumkin tasruf hadihi al-shekat?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">ممكن تصرف هذا إلى</attrib>
+			<attrib type="phon">mumkin tasruf hada ila....</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">ممكن تعطيني سعر تقريبي</attrib>
+			<attrib type="phon">mumkin tu´tiini sa`ar  taqribi?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">هنا كارتي</attrib>
+			<attrib type="phon">huna karti</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">ana uriidu an  asrifa dolaar/yuru/pounds</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">كم سعر التحويل</attrib>
+			<attrib type="phon">kam sa`ri altahweel?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">اين ممكن اصرف مالي</attrib>
+			<attrib type="phon">aina mumkin asrufu maali?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">اين اقدر أن اعمل صورا</attrib>
+			<attrib type="phon">aina aqdiru an a`amilu suwaran?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">اين اقرب مصرف</attrib>
+			<attrib type="phon">aina akrabu masraf?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">aina mumkeen awaka`a {tawke`ee/signature}</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">hal ´indaka katalog</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">´indi mi´aad ma`a</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">kam sa`ar dukhuul?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">kam si`r  al youmi?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">kam si´r kul saa`a</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">kam sa`ar kul asbooh</attrib>
+			<attrib type="phon">kam si´r kul alusbuu´</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">hal huwa bilash</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">حواسب وأنترنت</attrib>
+			<attrib type="phon">haouassib ou internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">هل لديك حاسوبا</attrib>
+			<attrib type="phon">hal ladaika hassoub</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">إنّ القرص الصلب مملوءا</attrib>
+			<attrib type="phon">ina al kourssa al salba mamlouan</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">هل لك مودم؟</attrib>
+			<attrib type="phon">hal laka moudem؟</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">هل لك ربطا بالإنترنت؟</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">هلّ بالإمكان أن أرسل بريدا كهروبيا؟</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">هلّ بالإمكان أن أقرأ بريدي الكهروبي؟</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">هلّ بالإمكان أن أطبع شيئا؟</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">هلّ بالإمكان أن أمسح شيءا؟</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">تحطّم حاسوبي</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">تحتاج للإعادة تشغيل</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">هل يمكنني أن أنصّب. . . . . . ؟</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">ما هوعنوان بريدك الكهروبي؟</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">عنوان بريدي الكهروبي هو. . . . . .</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">هل لك صفحة رئيسية؟</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">ما هو العنوان؟</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">تعليم</attrib>
+			<attrib type="phon">taalim</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">ماذا تدرس؟</attrib>
+			<attrib type="phon">matha tadrous</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">أدرس. . . . . .</attrib>
+			<attrib type="phon">adrous. . . . . .</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">القانون</attrib>
+			<attrib type="phon">al kanoun</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">الطب</attrib>
+			<attrib type="phon">al tib</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">الإقتصاد</attrib>
+			<attrib type="phon">al iktissad</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">اللّغات</attrib>
+			<attrib type="phon">al loughat</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">علم اللّغة</attrib>
+			<attrib type="phon">ilm al lougha</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">الرياضيات</attrib>
+			<attrib type="phon">al riyathyat</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">الكيمياء</attrib>
+			<attrib type="phon">al kimiya</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">الفيزياء</attrib>
+			<attrib type="phon">al fiziya</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">المعلوماتية</attrib>
+			<attrib type="phon">al maaloumatia</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">في أيّ جامعة تدرس؟</attrib>
+			<attrib type="phon">fi ayi jamiaatin tadrous</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">أدرس في. . . . . .</attrib>
+			<attrib type="phon">adrous fi. . . . . .</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">عندي درس اليوم</attrib>
+			<attrib type="phon">indi dars elyoum</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">أنا حرّ اليوم</attrib>
+			<attrib type="phon">ana horoun alyoum</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">هل أنت في مدرسة عليا؟</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">أنا في مدرسة عليا</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">يجب عليّ أن أذهب إلى القسم الآن</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">atlab aldaktoor</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">atlab eeshaaf</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">atlub al shurtaa</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">lam yawkafu</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">السيسة</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">رياضات</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">وقت</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">انّك متأخر جدا</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">الطقس</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth">كيف سيكون الطقس غداً</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth">كيف الطقس في الأحوال العادية</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">سوف تمطر غداً</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">تمطر السماء</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">يسقط الثلج</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">طلعت الشمس</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">غيمت</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">الطقس دافئ في الخارج</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">الطقس بارد في الخارج</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">الطقس جميل</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">هل الطقس دائماً ساخن هنا</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">هل الطقس دائماً  بارد</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">هل تمطر دائماً</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">عمل</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">اين تشتغل</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">ما عملك</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">انا معلم</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">انا طالب في الجامعة</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">انا أشتغل في مطعم</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">انا أشتغل في دكان</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">انا أشتغل في دكان</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">انا طبيب/حكيم</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">انا عالم النفس</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">انا مبرمج</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">انا مهندس</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">انا ميكانيكي</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">انا كاتب</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">انا سائق</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">انا ممسل</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">انا خادم إجتماعي</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">انا سياسي</attrib>
+		</entry>
+	</entries>
+</ulr>

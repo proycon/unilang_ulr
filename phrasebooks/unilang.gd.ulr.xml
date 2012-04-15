@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="gd">
+	<entries>
+		<entry id="computers">
+			<attrib type="orth" author="12109" lastmodified="1233972315">Coimpuitairean agus an Eadar-lìon</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="12109" lastmodified="1233972321">A bheil coimpuitair agad?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="12109" lastmodified="1233972321">Tha an diosc cruaidh làn</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="12109" lastmodified="1233972321">A bheil modem agad?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="12109" lastmodified="1233972321">A bheil ceangal eadar-lìon agad?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="12109" lastmodified="1233972321">An urrainn dhomh post-dealain a dhèanamh?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="12109" lastmodified="1233972321">An urrainn dhomh mo phost-dealain laughadh?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="12109" lastmodified="1233972321">An urrainn dhomh rudeigin phrinteadh?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="12109" lastmodified="1233972321">An urrainn dhomh dèan leth-bhreac air rudeigin?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="12109" lastmodified="1233972321">Chraisg mo choimpuitair</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="12109" lastmodified="1233972321">Tha fuem agad air reboot a dhèanamh</attrib>
+		</entry>
+	</entries>
+</ulr>

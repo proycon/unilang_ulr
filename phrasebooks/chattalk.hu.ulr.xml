@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="hu">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Bevezetés</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Szia</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Sziasztok</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Jó reggelt</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Jó napot</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Jó estét</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Jó éjszakát</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Sziasztok</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Beszélgetés elkezdése</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Mi újság?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Na mi van?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Miről beszéltek | Mi a téma?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Hogy vagy?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Hogy vagytok?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Hogy mennek a dolgok?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Személyes kérdések</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Honnan származol (username)?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Új vagy itt? | Először vagy itt?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Milyen nyelveken beszélsz?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Hol élsz (országon | országban)?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Hány éves vagy?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Milyen nyelveken tanulsz?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Beszélgetés magadról</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Én (ország) származom.</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Én (nyelven | nyelveken) beszélek.</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Én {nyelv(ek)en} anyanyelvi szenten, {nyelv(ek)en} folyékonyan, {nyelv(ek)en} középfokon és {nyelv(ek)en} egy kicsit beszélek.</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Sajnálom, én nem beszélek (nyelven) ...</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Én tanulok | Én szeretnék tanulni (nyelven | nyelveken).</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Beszélgetés befejezése</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Jó volt veled megismerkedni.</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Jó volt veled beszélgetni.</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Mennem kell.</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Ebédidő | Vacsoraidő</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Aludni megyek</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Megyek aludni.</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Búcsúzkodás</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Viszlát később</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Viszlát holnap</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Viszlát hamarosan</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Viszlát legközelebb</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Jó éjszakát mindenkinek</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Sziasztok!</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Rögtön visszajövök</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Később visszajövök</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Különlegességek</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Kösz | Köszönöm</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Nagyon köszönöm</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Bocs | Bocsánat</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">Hangos nevetés</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Haha</attrib>
+		</entry>
+	</entries>
+</ulr>

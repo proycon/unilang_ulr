@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="sr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="абавагада">Лав и миш</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="абавагада">миш помаже лаву</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="абавагада">Лав који је спавао у својој јазбини пробуђен је од стране миша који му је претрчао преко лица. изнервиран, зграбио га је шапом и крену да га убије.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="абавагада">Миш, престрављен, убого га је молио да му поштеди живот. &quot;Полим те, пусти ме&quot;, плакао је, &quot;И једнога дана ћу ти узвратити за твоју љубазност.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="абавагада">Идеја о томе да би тако неважно створење уопште било у могућности да ишта учини за њега толико је забавила лава да се гласно насмејао и пустио га услед добре воље.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="абавагада">Али прилика за миша је ипак дошла.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="абавагада">Једнога дана лав се уплео у мрежу коју су зарад игре поставили неки ловци, а миш је чуо и препознао његову бесну рику, и отрчао је до тог места. Без већих проблема почео је да грицка зубима конопце, и убрзо успео да ослободи лава.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="абавагада">&quot;Ето ти!&quot; рекао је миш, &quot;Смејао си ми се када сам ти обећао да ћу ти се одужити, али као што видиш, чак и миш може бити од помоћи лаву&quot;.</attrib>
+		</entry>
+	</entries>
+</ulr>

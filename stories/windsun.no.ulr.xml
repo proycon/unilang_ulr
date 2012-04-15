@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="no">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="keme">Sola og Nordavinden</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="keme">konkurranse mellom vind og sol</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="keme">Nordavinden og Sola begynte å krangle. Hver av dem hevdet at han var sterkere enn den andre. Til slutt ble de enige om å prøve kreftene sine på en ferdamann, og se hvem av dem som først greide å få kappen av ham.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="keme">Nordavinden prøvde først, han samlet all sin styrke for angrepet, kom ned i ville virvler over mannen, og tok tak i kappen hans som om han skulle vri den fra ham med en enkelt kraftanstrengelse men jo hardere han blåste jo tettere dro mannen kappen om seg.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="keme">Så var det solas tur. Først strålte den mildt over ferdamannen, som snart åpnet kappen og gikk videre med den hengende løst over skuldrene. Så skinte den opp i full styrke, og før han hadde tatt mange flere skritt kastet mannen med glede kappen av skuldrene, og fullførte reisen mer lettkledd.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="keme">Overtalelse er bedre enn maktbruk</attrib>
+		</entry>
+	</entries>
+</ulr>

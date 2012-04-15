@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="whereisjames" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="ast" stats="13" />
+		<language lang="bg" stats="13" />
+		<language lang="ca" stats="13" />
+		<language lang="cy" stats="13" />
+		<language lang="da" stats="13" />
+		<language lang="de" stats="12" />
+		<language lang="el" stats="13" />
+		<language lang="en" stats="13" />
+		<language lang="eo" stats="13" />
+		<language lang="es" stats="13" />
+		<language lang="et" stats="13" />
+		<language lang="eu" stats="13" />
+		<language lang="fi" stats="13" />
+		<language lang="fo" stats="12" />
+		<language lang="fr" stats="13" />
+		<language lang="ga" stats="13" />
+		<language lang="gl" stats="13" />
+		<language lang="he" stats="13" />
+		<language lang="hi" stats="13" />
+		<language lang="hu" stats="13" />
+		<language lang="id" stats="13" />
+		<language lang="is" stats="13" />
+		<language lang="it" stats="13" />
+		<language lang="ja" stats="13" />
+		<language lang="la" stats="13" />
+		<language lang="lt" stats="13" />
+		<language lang="lv" stats="13" />
+		<language lang="mi" stats="13" />
+		<language lang="nl" stats="13" />
+		<language lang="no" stats="13" />
+		<language lang="pl" stats="13" />
+		<language lang="pt" stats="13" />
+		<language lang="ro" stats="12" />
+		<language lang="ru" stats="13" />
+		<language lang="sr" stats="12" />
+		<language lang="sv" stats="13" />
+		<language lang="th" stats="13" />
+		<language lang="tr" stats="13" />
+		<language lang="uk" stats="13" />
+		<language lang="zh" stats="13" />
+		<language lang="zh.Hans" stats="13" />
+		<language lang="af" stats="11" />
+	</languages>
+	<authors>
+		<author id="proycon" langs="ast,en,et,eu,nl,pl" lastmodified="0" />
+		<author id="Paruha" langs="bg" lastmodified="0" />
+		<author id="(Original: Proycon / Català: Núria Harket)" langs="ca" lastmodified="0" />
+		<author id="Magnus" langs="cy" lastmodified="0" />
+		<author id="procyon" langs="da" lastmodified="0" />
+		<author id="Saaropean" langs="de" lastmodified="0" />
+		<author id="Yiannisscheidt" langs="el" lastmodified="0" />
+		<author id="elgrande" langs="eo" lastmodified="0" />
+		<author id="Kaelta" langs="es" lastmodified="0" />
+		<author id="Sir McDuck" langs="fi" lastmodified="0" />
+		<author id="Mulder-21" langs="fo" lastmodified="0" />
+		<author id="Emandir" langs="fr" lastmodified="0" />
+		<author id="DelBoy" langs="ga" lastmodified="0" />
+		<author id="Portonovo" langs="gl" lastmodified="0" />
+		<author id="מיכל פ" langs="he" lastmodified="0" />
+		<author id="sage" langs="hi" lastmodified="0" />
+		<author id="CoBB" langs="hu" lastmodified="0" />
+		<author id="edsmedia" langs="id" lastmodified="0" />
+		<author id="Ruddi" langs="is" lastmodified="0" />
+		<author id="Leppie" langs="it" lastmodified="0" />
+		<author id="プロイコン" langs="ja" lastmodified="0" />
+		<author id="rising phoenix" langs="la" lastmodified="0" />
+		<author id="Liisi" langs="lt" lastmodified="0" />
+		<author id="hekate" langs="lv" lastmodified="0" />
+		<author id="Riki" langs="mi" lastmodified="0" />
+		<author id="Anja Thoresen" langs="no" lastmodified="0" />
+		<author id="Nana" langs="pt" lastmodified="0" />
+		<author id="Aldaesme" langs="ro" lastmodified="0" />
+		<author id="lada" langs="ru" lastmodified="0" />
+		<author id="Bugi" langs="sr" lastmodified="0" />
+		<author id="Kess, Knyktor" langs="sv" lastmodified="0" />
+		<author id="FullMountie" langs="th" lastmodified="0" />
+		<author id="Benim Adım Mayıs" langs="tr" lastmodified="0" />
+		<author id="dorenda" langs="uk" lastmodified="0" />
+		<author id="HoYin" langs="zh.Hans" lastmodified="0" />
+		<author id="13408" langs="no" lastmodified="1231063497" />
+		<author id="20282" langs="it" lastmodified="1274905272" />
+		<author id="20236" langs="af" lastmodified="1275669819" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">james.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+		<entry id="5" type="paragraph" />
+		<entry id="6" type="paragraph" />
+		<entry id="7" type="paragraph" />
+		<entry id="8" type="paragraph" />
+		<entry id="9" type="paragraph" />
+		<entry id="10" type="paragraph" />
+		<entry id="11" type="paragraph" />
+	</entries>
+</ulr>

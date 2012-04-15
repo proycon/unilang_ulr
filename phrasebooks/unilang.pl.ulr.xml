@@ -1,0 +1,2292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="pl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma &amp; wsz">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma &amp; wsz">Są to średniej wielkości rozmówki zawierające przydatne, powszechnie używane wyrażenia.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Zaduma &amp; wsz">Najczęściej używane zwroty</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˌnɑi̯pɔpuˈlɑrɲɛi̯ʃɛ ˈzvrɔtɨ</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Zaduma &amp; wsz">Tak</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">tɑk</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ɲɛ</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Zaduma &amp; wsz">Proszę</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈprɔʃɛ͂</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Proszę</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈprɔʃɛ͂</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dziękuję / Dzięki</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ʥ͡ɛnˈkui̯ɛ͂/ ˈʥ͡ɛnci</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie ma za co</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ɲɛ mɑ zɑ ʦ͡ɔ</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Zaduma &amp; wsz">Przepraszam</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">pʃɛprɑʃɑm</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Zaduma &amp; wsz">Być może / Może / Możliwe</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">bɨʨ͡ mɔʒɛ/ mɔʒɛ/ mɔʒʎivɛ</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Zaduma &amp; wsz">Witam / Cześć</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">vʲitɑm/ ʧ͡ɛɕʨ͡</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Zaduma &amp; wsz">Do zobaczenia!</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">dɔ zɔbɑˈʧ͡ɛɲɑ</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Zaduma &amp; wsz">Miłego dnia!</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">mʲiˈu̯ɛgɔ dɲɑ</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dzień dobry!</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ʥ͡ɛɲ ˈdɔbrɨ</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dobry wieczór!</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈdɔbrɨ ˈvʲɛʧ͡ur</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dobranoc!</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">dɔˈbrɑnɔʦ͡</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Zaduma &amp; wsz">Witaj! (sg) / Witajcie! (plur)</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">vʲitɑi̯/ vʲitɑi̯ʨ͡ɛ</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Zaduma &amp; wsz">Miłej podróży! / Szerokiej drogi!</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈmʲiu̯ɛi̯ pɔˈdruʒɨ/ ʃɛˈrɔcei̯ ˈdrɔɟi</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zrozumieć siebie nawzajem</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">zrɔzumʲɛʨ͡ ɕɛbʲɛ nɑvzɑi̯ɛm</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mówisz...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mówię...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mówię...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Zaduma &amp; wsz">Trochę mówię...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Zaduma &amp; wsz">po angielsku</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Zaduma &amp; wsz">po francusku</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Zaduma &amp; wsz">po niemiecku</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Zaduma &amp; wsz">po hiszpańsku</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Zaduma &amp; wsz">po portugalsku</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Zaduma &amp; wsz">po arabsku</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Zaduma &amp; wsz">po chińsku</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Zaduma &amp; wsz">po hindusku</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Zaduma &amp; wsz">po rosyjsku</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Zaduma &amp; wsz">po włosku</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Zaduma &amp; wsz">po holendersku</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Zaduma &amp; wsz">po norwesku</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Zaduma &amp; wsz">po szwedzku</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Zaduma &amp; wsz">po duńsku</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Zaduma &amp; wsz">po polsku</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Zaduma &amp; wsz">w urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Zaduma &amp; wsz">w farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Zaduma &amp; wsz">po japońsku</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Zaduma &amp; wsz">po indonezyjsku</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Zaduma &amp; wsz">po malajsku</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Zaduma &amp; wsz">Rozumiesz?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mnie rozumiesz?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Zaduma &amp; wsz">Rozumiem</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Zaduma &amp; wsz">Rozumiem cię (ciebie)</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie rozumiem</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie rozumiem cię (ciebie)</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mógłbyś (mogłabyś) powtórzyć?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mógłbyś (mogłabyś) mówić wolniej?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mógłbyś (mogłabyś) mi to napisać?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie wiem jak to powiedzieć</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie znam właściwego słowa</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co powiedziałeś (-aś) ?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak to powiedzieć... ?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak to napisać?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak to wymówić?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy możesz to dla mnie przetłumaczyć?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy powiedziałem (-am) to właściwie?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podstawowa rozmowa</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak się masz?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Świetnie!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dobrze</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Zaduma &amp; wsz">W porządku</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie za dobrze</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile masz lat?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam ... lat</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie wiem</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Zaduma &amp; wsz">To mi się nie podoba</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem gotowy (-a)</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chodźmy!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Zaduma &amp; wsz">Przepraszam / Przykro mi</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Zaduma &amp; wsz">Biznes i finanse</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę zapłacić gotówką?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę zapłacić kartą?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy akceptujecie... ?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę zrealizować ten czek podróżny?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy możesz zamienić to na...?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy możesz podać mi przybliżoną wartość?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Zaduma &amp; wsz">Oto moja karta</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chciał(a)bym wymienić dolary / euro / funty</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki jest kurs?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki jest wskaźnik inflacji?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę wymienić pieniądze?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę zrobić kopie?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest najbliższy bank?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie podpisać?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy macie Państwo katalog?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam spotkanie z ...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile kosztuje wstęp?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile to kosztuje za dzień?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile to kosztuje za godzinę?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile to kosztuje za tydzień?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy to jest za darmo?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Zaduma &amp; wsz">Komputery i Internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz komputer?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dysk twardy jest pełny</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz połączenie z internetem?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę wysłać emaila?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę przeczytać emaila?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę coś wydrukować?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę coś przeskanować?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mój komputer się zawiesił</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Zaduma &amp; wsz">Musisz przeładować/zrestartować komputer</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę zainstalować... ?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki jest twój email?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mój email to...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz stronę domową?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki jest adres?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nauka</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co studiujesz?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Zaduma &amp; wsz">Studiuję...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Zaduma &amp; wsz">prawo</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Zaduma &amp; wsz">medycynę</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Zaduma &amp; wsz">ekonomię</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Zaduma &amp; wsz">języki obce</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Zaduma &amp; wsz">językoznawstwo</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Zaduma &amp; wsz">matematykę</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Zaduma &amp; wsz">chemię</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Zaduma &amp; wsz">fizykę</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Zaduma &amp; wsz">informatykę</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Zaduma &amp; wsz">Na jakim uniwersytecie studiujesz?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Zaduma &amp; wsz">Studiuję na...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam dziś zajęcia</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dziś mam wolne</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jesteś w szkole średniej?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem w szkole średniej</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Zaduma &amp; wsz">Muszę teraz iść na zajęcia</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zagrożenia</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Zaduma &amp; wsz">Niech ktoś zawoła lekarza!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Zaduma &amp; wsz">Niech ktoś zawoła karetkę!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Zaduma &amp; wsz">Niech ktoś zawoła policję!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie może oddychać</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie może się ruszać</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie zatrzymał się</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Zaduma &amp; wsz">Wpadł na mnie</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jechał zbyt szybko</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Zaduma &amp; wsz">Skaleczył (-a) się</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mogę ruszać ramieniem</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mogę ruszać nogą</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Zaduma &amp; wsz">Okradziono mnie</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zatrzymać złodzieja!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ukradziono mi paszport</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ukradziono mi pieniądze</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ukradziono mi samochód</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pożar!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest najbliższy szpital?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest najbliższy komisariat policji?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Zaduma &amp; wsz">Emocje i opinie</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba ci się?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba mi się</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem szczęśliwy (-a)</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem zły (-a)</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem rozczarowany (-a)</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem zadowolony (-a)</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Zaduma &amp; wsz">jestem zmęczony (-a)</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Zaduma &amp; wsz">Boję się</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest mi gorąco</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest mi zimno</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem śpiący(-a)</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba nam się tutaj</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Zaduma &amp; wsz">To (bardzo) ciekawe</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Zaduma &amp; wsz">To jest interesujące</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Zaduma &amp; wsz">To (bardzo) nudne</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Zaduma &amp; wsz">To jest piękne</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest (bardzo) przystojny</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest (bardzo) ładna</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Zaduma &amp; wsz">On/Ona jest bardzo miła</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Zaduma &amp; wsz">Spójrz! / Patrz!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Zaduma &amp; wsz">Słuchaj!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Zaduma &amp; wsz">Super!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Zaduma &amp; wsz">Świetne!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jedzenie i restauracja</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem głodny(-a)</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chce mi się pić</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mamy coś do jedzenia?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mamy coś do picia?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy chcesz coś zjeść?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę podać Ci coś do jedzenia?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy chcesz coś do picia?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Zaduma &amp; wsz">filiżankę kawy</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Zaduma &amp; wsz">filiżankę herbaty</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Zaduma &amp; wsz">kufel piwa</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Zaduma &amp; wsz">kieliszek wina</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Zaduma &amp; wsz">kieliszek czerwonego wina</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Zaduma &amp; wsz">kieliszek białego wina</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Zaduma &amp; wsz">szklankę soku pomarańczowego</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Zaduma &amp; wsz">szklankę soku jabłkowego</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy podać coś do picia?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czego chciałby się pan (=man)/ chciałaby się pani (=woman)/ chcieliby się państwo (=man and woman) napić?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co chciałby pan (=man)/ chciałaby pani (=woman)/ chcieliby państwo (=man and woman) zjeść?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co by pan polecił (=man)/ pani poleciła?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę poprosić jadłospis/ menu?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę poprosić kartę win?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę to.</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy podać przystawkę/ zakąskę?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę zastawkę/ przystawkę.</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę rybę.</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę wołowinę.</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę wieprzowinę.</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę sałatkę</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę zupę</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę coś wegetariańskiego.</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co chciałby pan (=man)/ chciałaby pani (=woman)/ chcieliby państwo (=man and woman) na deser?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jako przystawkę, poproszę...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jako danie główne, poproszę...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Zaduma &amp; wsz">Na deser poproszę...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę to danie z frytkami/ ryżem/ ziemniakami.</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mógłbym (=man)/ mogłabym (=woman)/ moglibyśmy (=man and woman) prosić to bez... ?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mógłbym (=man)/ mogłabym (=woman)/ moglibyśmy (=man and woman) prosić o małą porcję?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jakie mają państwo sałatki?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Zaduma &amp; wsz">To wszystko, dziękuję</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę to na wynos.</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem wegetarianinem (=man)/ wegetarianką (=woman).</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem weganinem (=man)/ weganką (=woman)</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mogę tego jeść</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy to zawiera... ?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Zaduma &amp; wsz">sól / dużo soli?</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Zaduma &amp; wsz">cukier / dużo cukru?</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Zaduma &amp; wsz">tłuszcz / dużo tłuszczu?</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Zaduma &amp; wsz">jakieś mięso?</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Zaduma &amp; wsz">jakieś owoce morza?</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Zaduma &amp; wsz">jakieś ryby?</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Zaduma &amp; wsz">jakieś produkty mleczne?</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie piję (alkoholu)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mam widelca</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mam noża</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mam łyżki</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Zaduma &amp; wsz">Brakuje kieliszka</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Brakuje talerza</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Zaduma &amp; wsz">To nie jest czyste</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest za zimne</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest za ostre</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie to zamawiałem (-am)</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Zaduma &amp; wsz">Wystąpiła tu pomyłka.</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Zaduma &amp; wsz">Było pyszne</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę rachunek.</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę prosić rachunek?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chcielibysmy zapłacić oddzielnie.</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy wszystko zostało ujęte?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy napiwek został uwzględniony?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy lubisz gotować?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kto dziś będzie gotować?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mam dziś wieczór gotować?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co mam przyrządzić?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Zaduma &amp; wsz">Masz ochotę na filiżankę kawy?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Zaduma &amp; wsz">Masz ochotę na filiżankę herbaty?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zdrowie i choroby</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem chory (=man)/ chora (=woman).</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam grypę.</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem przeziębiony (=man)/ przeziębiona (=woman).</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam alergie.</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem cukrzykiem.</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Zaduma &amp; wsz">Boli mnie.</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Zaduma &amp; wsz">Źle się czuję</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zażyłem lekarstwo</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem w ciąży</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mogę jeść</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mogę spać</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie chcę nic zbyt mocnego.</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kręci mi się w głowie.</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam nudności</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="Zaduma &amp; wsz">Złamałem (=man)/ Złamałam (=woman) zęba.</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam kaszel.</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Zaduma &amp; wsz">Boli mnie głowa.</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Zaduma &amp; wsz">Boli mnie brzuch.</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="Zaduma &amp; wsz">Boli mnie klatka piersiowa</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zaraziłem się.</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zostałem (=man)/ Zostałam (=woman) użądlona.</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pobito mnie.</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Zaduma &amp; wsz">Boli Cię?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy to boli?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy boli, kiedy tak robię?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy bierze pan (=man)/ pani (=woman) jakieś lekarstwa?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaką ma pan (=man)/ pani (=woman) temperaturę?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy może pan (=man)/ pani (=woman) chodzić?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Zaduma &amp; wsz">Potrzębuję wózka.</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem na wóżku.</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest najbliższa apteka?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę dostać to bez recepty?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy ma pan (=man)/ pani (=woman) coś na ukąszenia?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy ma pan (=man)/ pani (=woman) coś na oparzenia słoneczne?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam receptę od lekarza.</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Zaduma &amp; wsz">Potrzebuję coś na...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak często powinienem (=man)/ powinnam (=woman) to brać?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zainteresowania</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jakie są twoje zainteresowania?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co robisz w wolnym czasie?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co lubisz robić?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie lubię czytać</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię czytać</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię gotować</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię słuchać muzyki</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię grać na pianinie</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię grać na gitarze</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię śpiewać</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię grać w szachy</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię wychodzić.</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię podróżować</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię robić zakupy</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię ogrodnictwo.</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię oglądać telewizję</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię przeglądać Internet.</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jakiego rodzaju muzykę lubisz?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię muzykę klasyczną</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię muzykę pop</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię operę</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubię techno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Zaduma &amp; wsz">Lubie hard rocka</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jakie są twoje ulubione zespoły?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co wolisz?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Wolę...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Zaduma &amp; wsz">Przedstawianie się</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nazywam się...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak się nazywasz?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kim jesteś?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pozwolisz, że ci przedstawię...</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Zaduma &amp; wsz">Przedstawię ci...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Zaduma &amp; wsz">To moja żona</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Zaduma &amp; wsz">To mój mąż</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Zaduma &amp; wsz">To moja dziewczyna</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Zaduma &amp; wsz">To mój chłopak</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Zaduma &amp; wsz">To mój przyjaciel / To moja przyjaciółka</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Zaduma &amp; wsz">To mój syn</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Zaduma &amp; wsz">To moja córka</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Zaduma &amp; wsz">To moja mama</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Zaduma &amp; wsz">To mój tata</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Zaduma &amp; wsz">Miło mi cię / pana / panią poznać</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Zaduma &amp; wsz">Plany i spotkania</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz jutro/ dzisiaj/ dziś wiecór wolne?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam już plany</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Zaduma &amp; wsz">Idę do kina</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Zaduma &amp; wsz">Idę do teatru</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Zaduma &amp; wsz">Idę do muzeum</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy chcesz dzisiaj wieczorem gdzieś wyjść ze mną?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="Zaduma &amp; wsz">Z przyjemnością</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Zaduma &amp; wsz">(Czy) masz bilety?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam dwa bilety na...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie lubię muzyki</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Zaduma &amp; wsz">Muzyka jest za głośna</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="Zaduma &amp; wsz">Tu jest zbyt tłoczno</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy pódziemy gdzieś indziej?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="Zaduma &amp; wsz">Na jaki film idziemy?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o tym filmie?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Zaduma &amp; wsz">Polityka</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Zaduma &amp; wsz">Interesuję się polityką</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie interesuje mnie polityka</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myslisz o rządzie?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o królu / królowej?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o prezydenicie?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o premierze?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o wolności słowa?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o wojsku?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o demokracji?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o prawach człowieka?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myślisz o prawach kobiet?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="Zaduma &amp; wsz">Co myslisz o prawach gejów?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy należysz do partii politycznej?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy będą wybory?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Na kogo ostatnio głosowałeś (=man)/ głosowałaś (=woman)?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Na kogo zagłosujesz?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Zaduma &amp; wsz">komunist(k)ą</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Zaduma &amp; wsz">kapitalist(k)ą</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Zaduma &amp; wsz">demokrat(k)ą</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Zaduma &amp; wsz">chrześcijańskim demokrata (=man)/ chrześcijańską demokratką (=woman)</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Zaduma &amp; wsz">republikaninem (=man)/ republikanką (=woman)</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="Zaduma &amp; wsz">lewicowcem (=man)/ lewicowczynią (=woman)</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Zaduma &amp; wsz">nacjonalist(k)ą</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="Zaduma &amp; wsz">socjalist(k)ą</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="Zaduma &amp; wsz">liberałem</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Zaduma &amp; wsz">faszystą/faszystką</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="Zaduma &amp; wsz">Związki między ludźmi i rodzina</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jestes żonaty? /to a man/ Czy jesteś zamężna? /to a woman/</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem żonaty / Jestem zamężna</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie jestem żonaty / Nie jestem zamężna</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz chłopaka?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz dziewczynę?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam chłopaka</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam dziewczynę</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile on/ona ma lat?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Zaduma &amp; wsz">on/ona ma ... lat</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czym on/ona się zajmuje?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz dzieci?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mam dzieci</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam jedno dziecko / jednego syna / jedną córkę</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam dwoje dzieci</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam troje / czworo / pięcioro / sześcioro / siedmioro dzieci</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak liczne masz rodzeństwo? |  Ilu masz braci, a ile sióstr?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy twoją matka wciąż żyje?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy twój ojciec wciąż żyje?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy twoją babcia wciąż żyje?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy twój dziadek wciąż żyje?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Zaduma &amp; wsz">Religia</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jesteś religijny(-a)?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie jestem religijny(-a)</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem ateist(k)ą</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem agnostykiem (=man)/ agnostyczką (=woman).</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem muzułmaninem</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jesten żydem</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem buddystą</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem katolikiem</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem chrześcijaninem</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę znaleźć kościół?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę znaleźć meczet?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę znaleźć synagogę?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę znaleźć świątynię?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dzięki Bogu</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Zaduma &amp; wsz">O mój Boże!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mieszkanie, wizyta i zakwaterowanie</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Zaduma &amp; wsz">Skąd pochodzisz? / Z jakiego kraju jesteś?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem z...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Zaduma &amp; wsz">Francji</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Zaduma &amp; wsz">Wielkiej Brytanii</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Zaduma &amp; wsz">Hiszpanii</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Zaduma &amp; wsz">Niemiec</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Zaduma &amp; wsz">ze Stanów Zjednoczonych</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chin</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Zaduma &amp; wsz">Brazylii</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Zaduma &amp; wsz">Japonii</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Zaduma &amp; wsz">Rosji</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kanady</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Zaduma &amp; wsz">Australii</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jakiej jesteś narodowości?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Brytyjczykiem</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Francuzem</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Niemcem</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Amerykaninem</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chińczykiem</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Japończykiem</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Rosjaninem</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Brazylijczykiem</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kanadyjczykiem</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Zaduma &amp; wsz">Skąd jesteś? W jakim mieście mieszkasz?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Zaduma &amp; wsz">mieszkam w Londynie / Paryżu / Berlinie</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy to niedaleko od ... ?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy to daleko od ... ?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mieszkam blisko...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mieszkam daleko od...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie się zatrzymałeś?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zatrzymałem się w Hotelu ...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak długo tu będziesz?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy wracasz?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy przyjechałeś?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jesteś tu sam / sama ?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem tu sam(-a)</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem tu z moją rodziną</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy tu mieszkasz?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie jestem stąd</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy możemy tu obozować/biwakować?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy macie wolne pokoje?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="Zaduma &amp; wsz">Masz miejsce na namiot?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile to kosztuje za noc?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chcemy zostać tydzień</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie są prysznice?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest toaleta?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poproszę pojedyńczy pokój</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chcę pokój z ...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Zaduma &amp; wsz">wanną</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Zaduma &amp; wsz">prysznicem</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="Zaduma &amp; wsz">widokiem</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Zaduma &amp; wsz">balkonem</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="Zaduma &amp; wsz">dodatkowym łóżkiem</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="Zaduma &amp; wsz">oddzielnymi łóżkami</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poprosimy pokój dwuosobowy.</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy śniadanie jest wliczone w cenę?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="Zaduma &amp; wsz">O której jest śniadanie?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są tańsze pokoje?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są dla mnie jakieś wiadomości?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę dostać mój klucz?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki jest numer mojego pokoju?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Prosiłem o pokój z wanną/prysznicem</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="Zaduma &amp; wsz">Seks</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chcesz ze mną spać?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Masz prezerwatywę?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy używasz pigułek antykoncepcyjnych?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie zrobię tego bez prezerwatywy</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="Zaduma &amp; wsz">Proszę bądź ostrożny / delikatny</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy to lubisz?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie lubię tego</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jesteś samotny(-a)?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jesteś gejem?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jesteś lesbijką?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jesteś biseksualistą?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zakupy</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy możesz mi pomóc?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="Zaduma &amp; wsz">W czym mogę pomóc?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czego szukasz?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="Zaduma &amp; wsz">Tylko się rozglądam</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba mi się ten/ta/to.</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podobają mi się te spodnie</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba mi się ten t-shirt</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba mi się ta kurtka</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba mi się ta bluzka</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba mi się ten garnitur</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podobają mi się te okulary</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podobają mi się te buty</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Zaduma &amp; wsz">Szukam...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę to przymierzyć?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę to przymierzyć?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie są przymierzalnie?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Zaduma &amp; wsz">To jest za długie</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="Zaduma &amp; wsz">To jest za krótkie</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="Zaduma &amp; wsz">To jest za ciasne</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="Zaduma &amp; wsz">To jest za szerokie</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie pasuje</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dobrze leży</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki rozmiar?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mój rozmiar to...</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jest większy/-a?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jest mniejszy/-a?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="Zaduma &amp; wsz">Podoba mi sie ten kolor</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie lubię tego koloru</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jest takie czerwone/niebieskie/żółte/zielone/fioletowe/różowe</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jest inne tańsze?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="Zaduma &amp; wsz">Z czego to jest zrobione?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy można to naprawić?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zwiedzanie</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę robić zdjęcia?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="Zaduma &amp; wsz">Tu nie można robić zdjęć</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są jakieś wycieczki statkiem po tym jeziorze?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są jakieś wycieczki statkiem po tej rzece?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są jakieś wycieczki z przewodnikiem?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak długo trwa ta wycieczka?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są tu jakieś dobre kluby nocne?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są jakieś lokalne święta?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chciałbym zwiedzić katedrę</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chciałbym zwiedzić kościół</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chciałbym zwiedzić meczet</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chciałbym zwiedzić świątynię</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jest zniżka dla dzieci?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jest zniżka dla grup?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jest zniżka dla emerytów?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy jest zniżka dla studentów?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="Zaduma &amp; wsz">W jakich godzinach to jest otwarte?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="Zaduma &amp; wsz">O której godzinie zamykacie?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="Zaduma &amp; wsz">O której godzinie otwieracie?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="Zaduma &amp; wsz">O której zaczyna się przedstawienie?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy to zbudowano?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kto to zbudował?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak wysoka jest ta góra?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak sie nazywa to zwierzę?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak sie nazywa ten ptak?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak się nazywa ten kwiat?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak się nazywa to drzewo?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak się nazywa ten budynek?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak się nazywa ta góra?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak się nazywa ta rzeka?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="Zaduma &amp; wsz">Palenie</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="Zaduma &amp; wsz">Palenie szkodzi zdrowiu!!!!</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę zapalić?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy masz ognia?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mogę papierosa?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy to miejsce dla niepalących?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę prosić o popielniczkę?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Zaduma &amp; wsz">Sporty</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są tu jakieś niebezpieczne prądy?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są w okolicy jakieś ciekawe miejsca do spacerów?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy są tu jakieś wyciągi?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest najbliższe pole golfowe?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest publiczna pływalnia?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy można tu łowić ryby?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę tu popływać?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę wynająć/wypożyczyć..?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="Zaduma &amp; wsz">kij baseballowy</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="Zaduma &amp; wsz">piłka nożna</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="Zaduma &amp; wsz">para nart</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="Zaduma &amp; wsz">rakieta tenisowa</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Zaduma &amp; wsz">łódka</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="Zaduma &amp; wsz">ręcznik</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogłabym/mógłbym brać lekcje?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chcę zobaczyć mecz piłki nożnej.</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy grasz w...?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="Zaduma &amp; wsz">amerykański football</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Zaduma &amp; wsz">piłka nożna</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth" author="Zaduma &amp; wsz">golfa</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth" author="Zaduma &amp; wsz">tenisa</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="Zaduma &amp; wsz">baseball</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth" author="Zaduma &amp; wsz">koszykówkę</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czas</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki dzisiaj jest dzień?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki dzień był wczoraj?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="Zaduma &amp; wsz">Wczoraj był...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki jest dzisiaj dzień?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jutro będzie...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Zaduma &amp; wsz">poniedziałek</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Zaduma &amp; wsz">wtorek</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Zaduma &amp; wsz">środa</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Zaduma &amp; wsz">czwartek</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Zaduma &amp; wsz">piątek</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Zaduma &amp; wsz">sobota</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Zaduma &amp; wsz">niedziela</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki jest teraz miesiąc?</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ostatni miesiąc to był...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="Zaduma &amp; wsz">Następny miesiąc to...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Zaduma &amp; wsz">styczeń</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Zaduma &amp; wsz">luty</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Zaduma &amp; wsz">marzec</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Zaduma &amp; wsz">kwiecień</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Zaduma &amp; wsz">maj</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Zaduma &amp; wsz">czerwiec</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Zaduma &amp; wsz">lipiec</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Zaduma &amp; wsz">sierpień</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Zaduma &amp; wsz">wrzesień</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Zaduma &amp; wsz">październik</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Zaduma &amp; wsz">listopad</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Zaduma &amp; wsz">grudzień</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="Zaduma &amp; wsz">Która godzina?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ósma</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="Zaduma &amp; wsz">W pół do czwartej. Trzecia trzydzieści.</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kwadrans po ósmej/ Ósma piętnaście</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="Zaduma &amp; wsz">Za piętnaście (za kwadrans) dziewiąta/Ósma czterdzieści-pięć</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dziesięć po ósmej/Ósma dziesięć</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="Zaduma &amp; wsz">Dwadzieścia po ósmej/Ósma dwadzieścia</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="Zaduma &amp; wsz">Za dwadzieścia ósma/Siódma czterdzieści</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="Zaduma &amp; wsz">Za dziesięć ósma/Siódma pięćdziesiąt</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki jest dziś dzień?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest piętnasty grudnia 1982</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy mogę przyjść?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy mnie odwiedzisz?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię dziś rano</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię rano</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię dziś wieczorem</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię wieczorem</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię w tym tygodniu</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię w ten weekend</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię w weekend</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię w południe</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię za dwie godziny</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cie o w pół do jedenastej</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię po dziesiątej trzydzieści</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię przed dziesiąta trzydzieści</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię między 10.30 a 11.00</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię na wiosnę</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię w lato</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię na jesieni</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię w zimie</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Odwiedzę cię 15 grudnia</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak długo możesz ze mną zostać?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mogę zostać dwie godziny</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth" author="Zaduma &amp; wsz">Spóźniłeś (-aś)/-liście/-łyście się.</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jesteś (-cie)dokładnie na czas.</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jesteś (-cie) za wcześnie</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaką mamy porę roku?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mam czasu</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth" author="Zaduma &amp; wsz">Poczekaj minutę, proszę.</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth" author="Zaduma &amp; wsz">Będę tam za pięć minut.</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth" author="Zaduma &amp; wsz">Transport</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth" author="Zaduma &amp; wsz">(Czy) masz samochód?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mam samochód</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mam samochodu</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth" author="Zaduma &amp; wsz">Weźmiemy mój czy twój samochód?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth" author="Zaduma &amp; wsz">(Czy) masz prawo jazdy?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth" author="Zaduma &amp; wsz">Nie mam prawa jazdy</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy ruszamy w drogę/wyjeżdżamy?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie idziemy?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie idziesz?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth" author="Zaduma &amp; wsz">Skąd przychodzisz?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie są autobusy?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest przystanek autobusowy?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy możesz mi powiedzieć, kiedy wysiąść?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy ten autobus jedzie do... ?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest lotnisko?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy odlatuje ten samolot?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy przylatuje ten samolot?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak długi jest lot?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="Zaduma &amp; wsz">O której godzinie powinienem/powinnam zgłosić się do punktu odprawy?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę zobaczyć twój/Pana/Pani paszport?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="Zaduma &amp; wsz">Oto mój paszport</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę zabrać to ze sobą?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę znaleźć mój bagaż?</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy możesz mi pomóc z moim bagażem?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="Zaduma &amp; wsz">Myślę, że to moje miejsce.</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę usiąść?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest stacja kolejowa?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy pociąg zatrzymuje się w...</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy ten pociąg jedzie do...?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak długo pociąg się tu zatrzymuje?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaka to jest stacja?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy będzie następny pociąg?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Zaduma &amp; wsz">Kiedy odjeżdża ostatni pociąg?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę znaleźć taksówkę?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest najbliższy parking?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy można tu zaparkować?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak długę mogę tu parkować?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie mogę zaparkować?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mój samochód się zepsuł</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="Zaduma &amp; wsz">Mój samochód nie zapali</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest najbliższa stacja benzynowa?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie jest najbliższy warsztat samochodowy?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="Zaduma &amp; wsz">Złapałem gumę</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="Zaduma &amp; wsz">Skończyło mi się paliwo</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy mogę zobaczyć twój dowód jazdy?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="Zaduma &amp; wsz">Oto moje prawo jazdy.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jak daleko jest następna wioska?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile czasu potrzeba, by dojechać tam samochodem?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="Zaduma &amp; wsz">Ile czasu potrzeba, by dojśc tam na piechotę?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="Zaduma &amp; wsz">Chciałbym wypożyczyć samochód na tydzień/ na trzy dni.</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈxʨ͡ɑu̯bɨm ˌvɨpɔˈʒɨʧ͡ɨʨ͡ sɑˈmɔxut nɑ ˈtɨʥ͡ɛɲ / nɑ tʃɨ dɲi</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pogoda</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">pɔˈgɔdɑ</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaka pogoda będzie jutro?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">i̯ɑkɑ pɔˈgɔdɑ ˈbɛnʥ͡ɛ ˈi̯utrɔ</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaka jest zwykle pogoda?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">i̯ɑkɑ i̯ɛst ˈzvɨklɛ pɔˈgɔdɑ</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jutro będzie padać deszcz</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯utrɔ ˈbɛnʥ͡ɛ ˈpɑdɑʨ͡ dɛʃʧ͡</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pada deszcz</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈpɑdɑ dɛʃʧ͡</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pada śnieg</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈpɑdɑ ɕɲɛk</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest słonecznie</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">i̯ɛst su̯ɔˈnɛʧ͡ɲɛ</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jest pochmurno</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">i̯ɛst poxˈmurɲɔ</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="Zaduma &amp; wsz">Na dworze jest gorąco</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">nɑ ˈdvɔʒɛ i̯ɛst gɔˈrɔnʦ͡ɔ</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="Zaduma &amp; wsz">Na dworze jest zimno</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">nɑ ˈdvɔʒɛ i̯ɛst ˈʑimnɔ</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaka paskudna pogoda!</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɑka pɑˈskudnɑ pɔˈgɔdɑ</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jaki piękny dzień!</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɑkʲi ˈpʲɛknɨ ʥ͡ɛɲ</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="Zaduma &amp; wsz">Łany dzień, prawda?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈu̯ɑdnɨ ʥ͡ɛɲ, prɑvdɑ</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy zawsze jest tak gorąco?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ʧ͡ɨ ˈzɑfʃɛ i̯ɛst tɑk gɔˈrɔnʦ͡ɔ</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy zawsze jest tak zimno?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ʧ͡ɨ ˈzɑfʃɛ i̯ɛst tɑk ˈʑimnɔ</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy zawsze jest tak deszczowo?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ʧ͡ɨ ˈzɑfʃɛ i̯ɛst tɑk dɛʃˈʧ͡ɔvɔ</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czy zawsze jest tak pochmurno?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ʧ͡ɨ ˈzɑfʃɛ i̯ɛst tɑk poxˈmurɲɔ</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zmokłem (=man)/ Zmokłam (=woman)</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">zmɔˈku̯ɛm/ zmɔˈku̯ɑm</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Zaduma &amp; wsz">Praca</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈprɑʦ͡ɑ</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Zaduma &amp; wsz">Gdzie pracujesz?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">gʥɛ͡ prɑˈʦ͡ui̯ɛʃ</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Zaduma &amp; wsz">Czym się zajmujesz?</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ʧɨm ɕɛ zɑi̯ˈmui̯ɛʃ</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Zaduma &amp; wsz">jestem nauczycielem /nauczycielką/</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm ˌnɑuʧ͡ɨˈʨ͡ɛlɛm/ ˌnɑuʧ͡ɨˈʨ͡ɛllɔ͂</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem studentem /studentką | uczniem/ uczennicą (=pupil)</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm stuˈdɛntɛm/ stuˈdɛntkɔ͂ | ˈuʧ͡ɲɛm/ uˈʧ͡ɛnɲiʦ͡ɔ͂</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="Zaduma &amp; wsz">Zatrudniam sam siebie</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">zɑˈtrudɲɑm sɑm ˈɕɛbʲɛ</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pracuję w restauracji</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">prɑˈʦui̯ɛ͂ ˌvrɛstɑu̯ˈrɑʦ͡i̯i</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pracuję w supermarkecie</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">prɑˈʦui̯ɛ͂ ˌfsup̮ɛrmɑrˈkɛʨ͡ɛ</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Zaduma &amp; wsz">Pracuję w sklepie</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">prɑˈʦui̯ɛ͂ ˈfsklɛpʲɛ</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem lekarzem/ fizykiem</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm lɛˈkɑʒɛm/ fʲiˈzɨcɛm</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem psychologiem</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm ˌpsyxoˈlɔɟɛm</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem programistą</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm ˌprɔgrɑˈmʲistɔ͂</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem inżynierem</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm ˌinʒɨˈɲɛrɛm</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem mechanikiem</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm ˌmɛxɑˈɲicɛm</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem pisarzem /pisarką/</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm pʲiˈsɑʒɛm/ pʲiˈsɑrkɔ͂</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem kierowcą</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm cɛˈrɔfʦ͡ɔ͂</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem aktorem /aktorką/</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm ɑkˈtɔrɛm/ ɑkˈtɔrkɔ͂</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem pracownikiem socjalnym</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm ˌprɑʦ͡ɔˈvɲicɛm sɔˈʦ͡i̯ɑlnɨm</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Zaduma &amp; wsz">Jestem politykiem</attrib>
+			<attrib type="phon" author="Zaduma &amp; wsz">ˈi̯ɛstɛm pɔʎiˈtɨcɛm</attrib>
+		</entry>
+	</entries>
+</ulr>

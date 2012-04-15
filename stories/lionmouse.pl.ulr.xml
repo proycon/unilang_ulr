@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="pl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma">Lew i Mysz</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma">Mysz pomaga lwu.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Zaduma">Lwa śpiącego w swoim legowisku obudziła Mysz biegnąca po jego twarzy. Złoszcząc się, chwycił ją swoją łapą i właśnie miał ją zabić.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Zaduma">Mysz, przerażona, żałośnie błagała, by darował jej życie. &quot;Proszę, pozwól mi odejść&quot;, zapłakała, &quot;a któregoś dnia odpłacę ci za twoją łaskawość&quot;.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Zaduma">Pomysł, że tak maleńkie stworzenie mogłoby kiedykolwiek coś dla niego zrobić rozbawił Lwa tak bardzo, że śmiał się głośno i, w dobrym nastroju, wypuścił Mysz.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Zaduma">Jednakże taka sposobność nadarzyła się Myszy.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Zaduma">Pewnego dnia Lew zaplątał się w sieć rozciągniętą przez myśliwych, a Mysz usłyszała i rozpoznała jego ryki złości i pobiegła tam. Nie zwlekając wzięła sie do pracy, przegryzając sznury ząbkami, i udało jej się uwolnić Lwa.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Zaduma">&quot;Proszę!&quot; rzekła Mysz, &quot;śmiałeś się ze mnie, kiedy obiecałam, że ci się odwdzięczę: ale teraz juz wiesz, że nawet Mysz może pomóc Lwu&quot;.</attrib>
+		</entry>
+	</entries>
+</ulr>

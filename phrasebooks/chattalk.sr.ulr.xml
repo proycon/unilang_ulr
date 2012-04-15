@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="sr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Улазак:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Здраво</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Здраво свима</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Добро јутро</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Добар дан</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Добро вече</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Лаку ноћ</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Хеј тамо</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Започињање разговора:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Шта има ново?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Шта се дешава?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">О чему причате? | Шта је тема?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Како си?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Како сте?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Како иде?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Лична питања:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Одакле си, {корисничко име}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Да ли си нов(а) овде? | Да ли си овде по први пут?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Које језике говориш?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Где у {земља - локатив} живиш?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Колико имаш година?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Које језике учиш?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">О себи:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Ја сам из {земља - генитив}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Говорим {језик/језици - акузатив}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Говорим {језик/језици - акузатив} као матерњи, {језик/језици - акузатив} течно, {језик/језици - акузатив} на средњем нивоу и мало {језик/језици - генитив}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Извини, не говорим {језик - акузатив}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Учим | Желим да научим {језик/језици - акузатив}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Завршавање разговора:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Драго ми је што смо се упознали</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Лепо је било причати са тобом</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Морам да идем</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Време је за вечеру</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Идем у кревет</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Морам да идем да спавам</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Одлазак:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Видимо се касније</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Видимо се сутра</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Видимо се ускоро</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Видимо се следећи пут</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Лаку ноћ свима</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Ћао</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Одмах се враћам</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Вратићу се касније</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Додатак:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Хвала</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Пуно хвала</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Извини</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">Смејем се наглас</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Хехе</attrib>
+		</entry>
+	</entries>
+</ulr>

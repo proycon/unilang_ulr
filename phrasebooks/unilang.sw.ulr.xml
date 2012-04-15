@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="sw">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Ndiyo</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Siyo, Hapana</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Tafadhali</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Pendeza</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Asante</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Karibu.</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Samahani</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Labda, Huenda</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Jambo</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Kwa heri! | Kwa herini!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Salamu!, Habari yako?, Habari gani?</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Habari za asubuhi?</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Habari za jioni?</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Lala salama</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Karibu!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Safari salama</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Unasema ...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Nasema ...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Sisemi ...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Nasema kidogo</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">Kiingereza</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">Kifaransa</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">Kijerumani</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">Kihispania</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">Kiarabu</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">Kichina</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">Kirusi</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">Kiholanzi</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">Kiswidi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">Kijapani</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Je wafahamu? Je waelewa?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Je wanifahamu?, Je wanielewa?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Nafahamu, Naelewa</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Nakufahamu, Nakuelewa</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Sifahamu, Sikuelewa</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Sikufahamu, Sikuelewa</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Tafadhali useme tena</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Tafadhali unasema polepole.</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Tafadhali uandike</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Sijui neno sawa</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Ulisema nini?</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Habari gani?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Nzuri sana!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Nzuri!</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Sijambo</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Una miaka mingapi?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Nina miaka ...</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Sijui</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Sipendi</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Tayari</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Nina njaa</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Nina kiu</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Una chakula?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Una kinywaji?</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Najisikia mgonjwa</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Jina langu ni ... , Ninaitwa...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Jina lako nani?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Mimi ni...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">Huyu ni mwanamke wangu</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">Huyu ni mume wangu</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">Huyu ni rafiki wangu</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">Huyu ni mwana wangu</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">Huyu ni binti wangu</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">Huyu nie mama wangu</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">Huyu ni baba wangu</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">Mimi ni mwislamu</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">Mimi ni myahudi</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">Mimi ni mbudha</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">Mimi ni mhindi</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">Mimi ni mkatoliki</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">Mimi ni mkristo</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">Kanisa liko wapi?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">Msikiti uko wapi?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">Kanisa la kiyahudi liko wapi?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">Kipaji kiko wapi?</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Mungu akipenda</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">Umetoka wapi?, Umetoka nchi nani?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth">Nimetoka ...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">Ufaransi</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">Uingereza</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">Uhispania</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">Ujerumani</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">Uamerika</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">Uchina</attrib>
+		</entry>
+	</entries>
+</ulr>

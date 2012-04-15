@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="ja">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" lastmodified="1217790006">私は嬉しいです</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" lastmodified="1217790006">私は嬉しくないです</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" lastmodified="1217790006">私は嬉しかったです</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217790006">彼女も嬉しいです</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" lastmodified="1217790006">私たちは嬉しいです</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" lastmodified="1217790006">私は嬉しいです</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217790006">これは大きな木です</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217790006">それは大きな木です</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217790006">それが大きな木です</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217790006">私の庭に大きな木があります</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" lastmodified="1217790006">私は今日手紙を書きます</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙が今日書きません</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" lastmodified="1217790006">私は今日手紙を書きません</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217790006">私は昨日手紙を書きました</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙が昨日書きませんでした</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙が昨日書きませんでした</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" lastmodified="1217790006">私は毎月手紙を書きました</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" lastmodified="1217790006">昔，私は毎月手紙を書きました</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" lastmodified="1217790006">私は明日手紙を書きます</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" lastmodified="1217790006">私は明日手紙を書きません</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書きました</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書きました</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書いています</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書いていました</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書けます</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書かなければなりません</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書かなければなりませんでした</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書かせてもらいます</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書かせてもらいました</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書かなければなりません</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書かなければなりませんでした</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" lastmodified="1217790006">手紙は私に書かれます</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" lastmodified="1217790006">手紙は私に書かれました</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" lastmodified="1217790006">手紙は私に書かれました</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" lastmodified="1217790006">手紙は私に書かれます</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" lastmodified="1217790006">手紙を書きなさい</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" lastmodified="1217790006">手紙を書いて下さい</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" lastmodified="1217790006">手紙を書かないで下さい</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" lastmodified="1217790006">手紙を書きましょう</attrib>
+		</entry>
+		<entry id="e73000">
+			<attrib type="orth" lastmodified="1217790006">今手紙を書いている男はその後郵便局に行きます</attrib>
+		</entry>
+		<entry id="e74000">
+			<attrib type="orth" lastmodified="1217790006">昨日手紙を書いた男は郵便局に行きました</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" lastmodified="1217790006">分かっている男です</attrib>
+		</entry>
+		<entry id="e80000">
+			<attrib type="orth" lastmodified="1217790006">聞かせた話はショッキングでした</attrib>
+		</entry>
+		<entry id="e84000">
+			<attrib type="orth" lastmodified="1217790006">私の本を読み始めます</attrib>
+		</entry>
+		<entry id="e85000">
+			<attrib type="orth" lastmodified="1217790006">私の本を読み続けます</attrib>
+		</entry>
+		<entry id="e87000">
+			<attrib type="orth" lastmodified="1217790006">私の本を読みに仕舞いました</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217790006">私は手紙を書くのは好きです</attrib>
+		</entry>
+		<entry id="e90000">
+			<attrib type="orth" lastmodified="1217790006">私の本を読むに決めました</attrib>
+		</entry>
+		<entry id="e91000">
+			<attrib type="orth" lastmodified="1217790006">私の本を読むと決めます</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" lastmodified="1217790006">それは何ですか｡</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" lastmodified="1217790006">その人は誰ですか｡</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217790006">彼はどこですか｡</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" lastmodified="1217790006">私たちはどこに行きますか｡</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" lastmodified="1217790006">私たちは何時行きますか｡</attrib>
+		</entry>
+		<entry id="e99000">
+			<attrib type="orth" lastmodified="1217790006">私たちはどう行きますか｡</attrib>
+		</entry>
+		<entry id="e101000">
+			<attrib type="orth" lastmodified="1217790006">あなたは何人の友達がありますか｡</attrib>
+		</entry>
+		<entry id="e102000">
+			<attrib type="orth" lastmodified="1217790006">あなたはどの色が好きですか｡</attrib>
+		</entry>
+		<entry id="e104000">
+			<attrib type="orth" lastmodified="1217790006">私は見るのは分かりません</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217790006">私はどこに住んでいる知りません</attrib>
+		</entry>
+		<entry id="e106000">
+			<attrib type="orth" lastmodified="1217790006">私は何時来る知りません</attrib>
+		</entry>
+		<entry id="e113000">
+			<attrib type="orth" lastmodified="1217790006">雨が降っても私はパーティーニ行きます</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" lastmodified="1217790006">雨が降るのに私はパーティーに行きます</attrib>
+		</entry>
+		<entry id="e117000">
+			<attrib type="orth" lastmodified="1217790006">雨が降るから私はパーティーに行きます</attrib>
+		</entry>
+		<entry id="e119000">
+			<attrib type="orth" lastmodified="1217790006">私はビールが飲める為にパーティーに行きます</attrib>
+		</entry>
+		<entry id="e123000">
+			<attrib type="orth" lastmodified="1217790006">私はパーティーに行きますが，雨が降ります</attrib>
+		</entry>
+		<entry id="e124000">
+			<attrib type="orth" lastmodified="1217790006">私はパーティーに行きます，その上そこで食べます</attrib>
+		</entry>
+		<entry id="e126000">
+			<attrib type="orth" lastmodified="1217790006">私は本を読む前にお茶を飲みます</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" lastmodified="1217790006">私は本を読んだ後でお茶を飲みます</attrib>
+		</entry>
+		<entry id="e128000">
+			<attrib type="orth" lastmodified="1217790006">私は本を読みながらお茶を飲みます</attrib>
+		</entry>
+		<entry id="e132000">
+			<attrib type="orth" lastmodified="1217790006">私は疲れたまでに食べましょう</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217790006">私はりんごを買う男です</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217790006">私はりんごを買う女です</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217790006">私はりんごを買う男を見ます</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="orth" lastmodified="1217790006">私はあなた同じ大きいです</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="orth" lastmodified="1217790006">私はあなたより利口です</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="orth" lastmodified="1217790006">私は一番利口です</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" lastmodified="1217790006">私はあなたのような歌を歌います</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" lastmodified="1217790006">私はあなたに贈り物を上げます</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217790006">これは私の友達の犬です</attrib>
+		</entry>
+		<entry id="e173000">
+			<attrib type="orth" lastmodified="1217790006">鳥は飛行機の横に飛びます</attrib>
+		</entry>
+		<entry id="e177000">
+			<attrib type="orth" lastmodified="1217790006">私は晩御飯の前に葡萄酒を飲みます</attrib>
+		</entry>
+		<entry id="e178000">
+			<attrib type="orth" lastmodified="1217790006">私はばんごはんの後で葡萄酒を飲みます</attrib>
+		</entry>
+		<entry id="e179000">
+			<attrib type="orth" lastmodified="1217790006">私は晩御飯の間に葡萄酒を飲みます</attrib>
+		</entry>
+		<entry id="e180000">
+			<attrib type="orth" lastmodified="1217790006">私は晩御飯以来葡萄酒を飲みます</attrib>
+		</entry>
+		<entry id="e181000">
+			<attrib type="orth" lastmodified="1217790006">私は五日前に葡萄酒を飲みました</attrib>
+		</entry>
+		<entry id="e183000">
+			<attrib type="orth" lastmodified="1217790006">私は五分で葡萄酒が干せます</attrib>
+		</entry>
+		<entry id="e184000">
+			<attrib type="orth" lastmodified="1217790006">私はあなたに一月の月曜日に会いましょう</attrib>
+		</entry>
+		<entry id="e186000">
+			<attrib type="orth" lastmodified="1217790006">母は私と私の部屋について話します</attrib>
+		</entry>
+		<entry id="e187000">
+			<attrib type="orth" lastmodified="1217790006">私の部屋は，まだ精錬してありません</attrib>
+		</entry>
+		<entry id="e192000">
+			<attrib type="orth" lastmodified="1217790006">机の以外私の部屋が精錬しませんでした</attrib>
+		</entry>
+		<entry id="e193000">
+			<attrib type="orth" lastmodified="1217790006">母と(一緒に)私の部屋を精錬しました</attrib>
+		</entry>
+		<entry id="e195000">
+			<attrib type="orth" lastmodified="1217790006">箒で私の部屋を精錬しました</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" lastmodified="1217790006">私は各人を見ます</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217790006">私は誰かを見ます</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" lastmodified="1217790006">私は誰も見ません</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217790006">誰も私が見ません</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" lastmodified="1217790006">私はあなたの以外誰も見ません</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217790006">私はあなただけ見ます</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" lastmodified="1217790006">私はみなの男の人を見ます</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" lastmodified="1217790006">私は男の人が見ません</attrib>
+		</entry>
+		<entry id="e206000">
+			<attrib type="orth" lastmodified="1217790006">私は全部見ます</attrib>
+		</entry>
+		<entry id="e207000">
+			<attrib type="orth" lastmodified="1217790006">私は何か見ます</attrib>
+		</entry>
+		<entry id="e208000">
+			<attrib type="orth" lastmodified="1217790006">私は何も見ません</attrib>
+		</entry>
+		<entry id="e211000">
+			<attrib type="orth" lastmodified="1217790006">何も私が見ません</attrib>
+		</entry>
+		<entry id="e212000">
+			<attrib type="orth" lastmodified="1217790006">私はみなの本を見ます</attrib>
+		</entry>
+		<entry id="e213000">
+			<attrib type="orth" lastmodified="1217790006">私は本が見ません</attrib>
+		</entry>
+		<entry id="e215000">
+			<attrib type="orth" lastmodified="1217790006">私は本を若干見ます</attrib>
+		</entry>
+		<entry id="e216000">
+			<attrib type="orth" lastmodified="1217790006">私は本を若干見ます</attrib>
+		</entry>
+		<entry id="e217000">
+			<attrib type="orth" lastmodified="1217790006">私は本が全然見ません</attrib>
+		</entry>
+		<entry id="e218000">
+			<attrib type="orth" lastmodified="1217790006">私は全本を見ます</attrib>
+		</entry>
+		<entry id="e220000">
+			<attrib type="orth" lastmodified="1217790006">私は同様な本を見ます</attrib>
+		</entry>
+		<entry id="e221000">
+			<attrib type="orth" lastmodified="1217790006">私はそんなの本を見ます</attrib>
+		</entry>
+		<entry id="e223000">
+			<attrib type="orth" lastmodified="1217790006">誰も私が見ません</attrib>
+		</entry>
+		<entry id="e224000">
+			<attrib type="orth" lastmodified="1217790006">私はどこでも捜しました</attrib>
+		</entry>
+		<entry id="e225000">
+			<attrib type="orth" lastmodified="1217790006">私はどこも探しませんでした</attrib>
+		</entry>
+		<entry id="e226000">
+			<attrib type="orth" lastmodified="1217790006">私はどこかに捜しました</attrib>
+		</entry>
+		<entry id="e227000">
+			<attrib type="orth" lastmodified="1217790006">私達はいつか会いましょう</attrib>
+		</entry>
+		<entry id="e228000">
+			<attrib type="orth" lastmodified="1217790006">私達は時々会いましょう</attrib>
+		</entry>
+		<entry id="e229000">
+			<attrib type="orth" lastmodified="1217790006">私達は何時も会いませんでしょう</attrib>
+		</entry>
+		<entry id="e230000">
+			<attrib type="orth" lastmodified="1217790006">私達は何時も会いましょう</attrib>
+		</entry>
+		<entry id="e231000">
+			<attrib type="orth" lastmodified="1217790006">私達はよく合いましょう</attrib>
+		</entry>
+		<entry id="e232000">
+			<attrib type="orth" lastmodified="1217790006">私達は普通に会いましょう</attrib>
+		</entry>
+		<entry id="e233000">
+			<attrib type="orth" lastmodified="1217790006">私達は滅多に会いませんでしょう</attrib>
+		</entry>
+		<entry id="e235000">
+			<attrib type="orth" lastmodified="1217790006">私は水が沢山あります</attrib>
+		</entry>
+		<entry id="e236000">
+			<attrib type="orth" lastmodified="1217790006">私は水が十部なります</attrib>
+		</entry>
+		<entry id="e237000">
+			<attrib type="orth" lastmodified="1217790006">私は水が余りあります</attrib>
+		</entry>
+		<entry id="e238000">
+			<attrib type="orth" lastmodified="1217790006">私は水が一リットルあります</attrib>
+		</entry>
+		<entry id="e239000">
+			<attrib type="orth" lastmodified="1217790006">私は水が五本なります</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" lastmodified="1217790006">私は水だけあります</attrib>
+		</entry>
+		<entry id="e243000">
+			<attrib type="orth" lastmodified="1217790006">私は水もあります</attrib>
+		</entry>
+		<entry id="e244000">
+			<attrib type="orth" lastmodified="1217790006">私はもう水があります</attrib>
+		</entry>
+		<entry id="e245000">
+			<attrib type="orth" lastmodified="1217790006">私はまだ水があります</attrib>
+		</entry>
+	</entries>
+</ulr>

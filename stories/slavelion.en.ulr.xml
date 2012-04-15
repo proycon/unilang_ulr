@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="slavelion" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">The Slave and the Lion</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">A lion can be a man's best friend</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">A Slave ran away from his master, by whom he had been most cruelly treated, and, in order to avoid capture, betook himself into the desert. As he wandered about in search of food and shelter, he came to a cave, which he entered and found to be unoccupied.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">Really, however, it was a Lion's den, and almost immediately, to the horror of the wretched fugitive, the Lion himself appeared. The man gave himself up for lost: but, to his utter astonishment, the Lion, instead of springing upon him and devouring him, came and fawned upon him, at the same time whining and lifting up his paw. Observing it to be much swollen and inflamed, the man examined it and found a large thorn embedded in the ball of the foot. He accordingly removed it and dressed the wound as well as he could: and in course of time it healed up completely.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">The Lion's gratitude was unbounded; he looked upon the man as his friend, and they shared the cave for some time together. A day came, however, when the Slave began to long for the society of his fellow-men, and he bade farewell to the Lion and returned to the town.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">Here he was presently recognised and carried off in chains to his former master, who resolved to make an example of him, and ordered that he should be thrown to the beasts at the next public spectacle in the theatre. On the fatal day the beasts were loosed into the arena, and among the rest a Lion of huge bulk and ferocious aspect; and then the wretched Slave was cast in among them.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Abavagada">What was the amazement of the spectators, when the Lion after one glance bounded up to him and lay down at his feet with every expression of affection and delight! It was his old friend of the cave! The audience clamoured that the Slave's life should be spared: and the governor of the town, marvelling at such gratitude and fidelity in a beast, decreed that both should receive their liberty.</attrib>
+		</entry>
+	</entries>
+</ulr>

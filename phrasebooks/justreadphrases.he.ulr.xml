@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="he">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Ori Paragon">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Ori Paragon">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases. Remember! In my transliteration: 1) stressed vowels are marked with an accent above them. 2) The \\\\\\\'ch\\\\\\\' represents the Hebrew letters ח and כ and is pronounced as in \\\\\\\'loch\\\\\\\'. 3) The rest of the letters are pronounced as in English. 4) Vowels are pronounced as in Spanish, but unlike Spanish, two vowels never form a diphtong; diphthongs are marked with the semi-vowels y and w (the last is rare).</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Ori Paragon">אני אוהב אותך / אני אוהבת אותך</attrib>
+			<attrib type="phon" author="Ori Paragon">aní ohév otách / aní ohévet otchá</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Ori Paragon">הסופה מגיעה לחוף</attrib>
+			<attrib type="phon" author="Ori Paragon">hasufá magiá lachóf</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Ori Paragon">האנשים האלה שומעים צליל חזק</attrib>
+			<attrib type="phon" author="Ori Paragon">haanashím haéle shomím tslíl chazák</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Ori Paragon">היא רואה ציפור קטנה</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Ori Paragon">אנחנו מוצאים בניין ישן</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Ori Paragon">אני מחפש את המפתחות שלי</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Ori Paragon">אני נוגע בראש שלך</attrib>
+			<attrib type="phon" author="Ori Paragon">ani noge'a barosh shelkha(m)/shelakh(f)</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Ori Paragon">הוא רוצה מכונית חדשה</attrib>
+			<attrib type="phon" author="Ori Paragon">hoo rotze mekhonit khadasha</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Ori Paragon">היא פותחת את החלון השבור</attrib>
+			<attrib type="phon" author="Ori Paragon">he potakhat et hakhalon hashavur</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Ori Paragon">הילדה החזקה סוגרת את הדלת השחורה הכבדה</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Ori Paragon">הוא פותר בעיה נוראית</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Ori Paragon">הפושע הזועם מאבד הרבה כסף בעל ערך</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Ori Paragon">הם טועמים את האוכל הטעים</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Ori Paragon">לשוטר יש דעה שונה</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Ori Paragon">העמיתים לעבודה שותים קפה קר ותה חם</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Ori Paragon">החברה העשירה מוכרת ירקות ירוקים</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Ori Paragon">הם קונים עשרה ספרים חדשים</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Ori Paragon">האוזן הימנית שלו כואבת</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="Ori Paragon">הם בוחרים את הכלי הלא נכון</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" author="Ori Paragon">משפחתי מזמינה את השכנים החברותיים</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="Ori Paragon">אנו מודים לתלמידים (סטודנטים) המשעממים</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth" author="Ori Paragon">בעלה נהנה מהערב</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="Ori Paragon">היא קוראת את העיתון היומי שלה</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="Ori Paragon">הבחור המסכן לובש בגדים מלוכלכים</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="Ori Paragon">החיה החזקה פוגשת דג חלש</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Ori Paragon">אני משלם 200 אירו/דולר</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Ori Paragon">היא אוהבת את השפה היפה</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth" author="Ori Paragon">הסופה מגיעה לחוף</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Ori Paragon">יש לו עיניים כחולות</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="Ori Paragon">יורד שלג היום</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="Ori Paragon">הוא יהפוך לאדם חשוב</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="Ori Paragon">אני בשדה התעופה הבינלאומי</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Ori Paragon">הידיים שלה נקיות</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Ori Paragon">הוא ילד צעיר</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="Ori Paragon">היא דוקטור</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="Ori Paragon">אני נשאר שמח</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth" author="Ori Paragon">אני נרטב מהגשם</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="Ori Paragon">הסוס מפחד</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="Ori Paragon">הכלב הלבן היה מופתע</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth" author="Ori Paragon">החברה המודרנית מאוד מתקדמת</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="Ori Paragon">הגורם לתאונה אינו ידוע</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="Ori Paragon">אני נותן לך מתנה</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="Ori Paragon">הוא שואל אותי שאלות קשות</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="Ori Paragon">אני מקבל הודעה מאמא שלי</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="Ori Paragon">אני כותב מכתב לאבא שלי</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="Ori Paragon">הם גרים בעיר קטנה</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="Ori Paragon">הכלב יושב מאחורי הטלויזיה</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="Ori Paragon">החתול שוכב על הרצפה</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="Ori Paragon">הילדים משחקים בחוץ</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="Ori Paragon">היא מדברת על האוניברסיטה שלה</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="Ori Paragon">הם עוזבים את החדר בשקט</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="Ori Paragon">הוא עונה למורה</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="Ori Paragon">אני הולך לפני הבית שלי</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="Ori Paragon">היא ישנה במיטה שלה</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="Ori Paragon">מטוס הנוסעים טס מעל ההרים</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth" author="Ori Paragon">אנחנו רצים דרך הגן הגדול</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" author="Ori Paragon">הספר נמצא על השולחן</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth" author="Ori Paragon">אני נכנס איתך לחנות</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth" author="Ori Paragon">אני מגיע לעיר ברכבת</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" author="Ori Paragon">הוא עובד במפעל קטן</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth" author="Ori Paragon">הנשיא הטיפש נופל על האף</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" author="Ori Paragon">אנחנו בהחלט מאמינים באלוהים</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth" author="Ori Paragon">אני מתלונן על המחיר</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth" author="Ori Paragon">היא זורקת את הכדור היקר לעברי</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth" author="Ori Paragon">הסבא החולה נפטר ליד בית החולים</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth" author="Ori Paragon">אני מבין את המשפטים בדף זה</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth" author="Ori Paragon">הסבתא מספרת לילד סיפור מעניין</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" author="Ori Paragon">אנחנו מקווים שהוא לומד קשה</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth" author="Ori Paragon">הוא מחזיק סכין בידו השמאלית</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth" author="Ori Paragon">יעדנו נמצא בין שני הנהרות</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth" author="Ori Paragon">הוא מבשל ארוחה בסיסית לידידה שלו</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth" author="Ori Paragon">הבחורה נראית טוב בערב</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="Ori Paragon">החיה האלימה יצאה מהכלוב שלה</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="Ori Paragon">אני משווה את החוקים שלנו לחוקים שלך/כם</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth" author="Ori Paragon">אני נוסע לכיוון עיר הבירה שלנו במזרח</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth" author="Ori Paragon">אנשים מתים נקברים מתחת לאדמה</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="Ori Paragon">הכומר/עימאם/רב עומד תחת הענן הבהיר</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth" author="Ori Paragon">המים האלה מגיעים ממקום רחוק</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="Ori Paragon">חשבתי על החיים רבות</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth" author="Ori Paragon">מתי החבר שלך בא</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth" author="Ori Paragon">כמה אנשים יעזור לך?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth" author="Ori Paragon">למה אתה גונב את הדברים האלה?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="Ori Paragon">בן/בת כמה אתה/את?</attrib>
+			<attrib type="phon" author="Ori Paragon">Ben\\Bat kama Ata\\At?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth" author="Ori Paragon">איך אתה מייצר את המוצר הזה</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth" author="Ori Paragon">מיהו האיש הכי חכם עלי אדמות?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth" author="Ori Paragon">מה אתה מגלה בים?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth" author="Ori Paragon">איזה כריך את/ה מעדיף/פה?</attrib>
+			<attrib type="phon" author="Ori Paragon">Eize karikh at(f)/ata(m) maadif(m)/ma'adifa(f)</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth" author="Ori Paragon">מאיפה את/ה?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" author="Ori Paragon">לאן את/ה הולך/כת?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth" author="Ori Paragon">החנות הזאת קיימת?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth" author="Ori Paragon">מהי הסיבה לחקירה הזאת?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth" author="Ori Paragon">אני רק רוצה לאכול משהו</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth" author="Ori Paragon">אני אף פעם לא חולם</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth" author="Ori Paragon">הוא תמיד מגיע מוקדם</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth" author="Ori Paragon">לפעמים הוא צודק</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="Ori Paragon">לא זכינו בכלום</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth" author="Ori Paragon">בדרך כלל אנו נלחמים באויבינו</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth" author="Ori Paragon">לרב הם מפסידים במשחק הזה</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth" author="Ori Paragon">הלוואי שכבר יגיע מחר</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth" author="Ori Paragon">יש הרבה כוכבים בחלל</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth" author="Ori Paragon">הוא צוחק בחלק מהבדיחות</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" author="Ori Paragon">אני מסתכל לכל מקום</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth" author="Ori Paragon">תוכל/י לבחור כל מה שתרצה/י</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth" author="Ori Paragon">אשתי עושה איתי סקס כל לילה</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth" author="Ori Paragon">אני מציע לך שני פרחים</attrib>
+		</entry>
+	</entries>
+</ulr>

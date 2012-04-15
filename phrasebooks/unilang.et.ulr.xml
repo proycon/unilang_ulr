@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="et">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Kõige tavalisemad väljendid</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">jah</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">ei</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">palun</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">palun</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">aitäh; tänan</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">pole tänu väärt; võta/võtke heaks</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">vabandust; vabanda/vabandage</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">võib-olla</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">tere</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">head aega!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">tere päevast!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">tere hommikust!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Tere õhtust!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Head aega!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Tere tulemast!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Head reisi!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Teineteisest aru saamine</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Kas sa/te räägid/räägite...</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Ma räägin...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Ma ei räägi...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Ma räägin natuke...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">inglise keel</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">prantsuse keel</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">saksa keel</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">hispaania keel</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">portugali keel</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">araabia keel</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">hiina keel</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindi keel</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">vene keel</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">itaalia keel</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">hollandi keel</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norra keel</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">rootsi keel</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">taani keel</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">poola keel</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urdu keel</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">farsi keel (pärsia keel)</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">jaapani keel</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indoneesia keel</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malai keel</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Kas sa/te saad/saate aru?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Kas sa/te saad/saate minust aru?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Ma saan aru</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Ma saan sinust/teist aru</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Ma ei saa aru</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Ma ei saa sinust/teist aru</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Palun kas sa/te võiksid/võiksite seda korrata?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Kas sa/te võiksid/võiksite rääkida aeglasemalt?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Kas sa/te võiksid/võiksite selle üles kirjutada?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Ma ei oska seda öelda</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Ma ei tea õiget sõna</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Mida sa/te ütlesid/ütlesite?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Kuidas sa/te seda ütled/ütlete ... keeles?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Kuidas sa/te seda kirjutad/kirjutate?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Kuidas sa/te seda hääldad/hääldate?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Kas sa/te võiksid/võiksite selle minu jaoks ära tõlkida?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Kas ma ütlesin õigesti?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Põhiline vestlus</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Kuidas sul/teil läheb?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Mul läheb väga hästi!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Mul läheb hästi</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Mul läheb normaalselt</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Mul ei lähe väga hästi</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Kui vana sa/te oled/olete?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Ma olen ... aastane</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Ma ei tea</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">See ei meeldi mulle</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Ma olen valmis</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Lähme!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Vabandust; Anna/andke andeks</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Äri ja rahandus</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Kas ma võin maksta sularahas?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Kas ma võin maksta krediitkaardiga?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Kas te võtate vastu ...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Kas te saate need reisitšekid ära vahetada?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Kas te vahetaksite selle ... ?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Kas võiksite öelda, kui palju see umbes maksab?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Siin on minu kaart</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">Kui palju komisjonitasu te võtate?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Ma tahaksin vahetada dollareid/eurosid/naelu.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Milline on vahetuskurss?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Milline on inflatsioonitase?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Kus ma võiksin raha vahetada?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Kus ma võiksin teha fotokoopiaid?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Kus on lähim pank?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Kuhu ma alla kirjutama pean?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Kas teil on kataloogi?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Mul on kohtumine...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Kui suur on sissepääsutasu?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Kui palju see päevas maksab?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Kui palju see tunnis maksab?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Kui palju see nädalas maksab?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">On see tasuta?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Arvutid &amp; Internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">On sul arvuti?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Kõvaketas on täis.</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">On sul modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">On sul internetiühendus?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Kas ma saan emaili saata?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Kas ma saan oma emaile lugeda?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Kas ma saan midagi printida?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Kas ma saan midagi skanneerida?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Mu arvuti on katki.</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">Ma pean restarti tegema.</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">Kas ma saan installeerida...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Mis su emaili aadress on?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Minu emaili aadress on...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Kas sul on koduleht?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Mis selle aadress on?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Haridus</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Mida sa õpid?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Ma õpin...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">juurat</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">meditsiini</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">majandust</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">keeli</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">lingvistikat</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">matemaatikat</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">keemiat</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">füüsikat</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">informaatikat</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">Millises ülikoolis sa õpid?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Ma õpin ... ülikoolis.</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">Mul on täna tund.</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Ma olen täna vaba.</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Kas sa käid keskkoolis?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Ma käin keskkoolis.</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Ma pean nüüd tundi minema.</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">Õnnetused</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Kutsuge arst!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Kutsuge kiirabi!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Kutsuge politsei!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Ta ei saa hingata.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Ta ei saa liigutada.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Ta ei peatunud.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Ta jooksis mulle otsa.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Ta sõitis liiga kiiresti.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Ta on endale sisse lõiganud.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Ma ei saa oma kätt liigutada.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Ma ei saa oma jalga liigutada.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Mind rööviti.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Peatage see varas!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Mu pass on varastatud.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Mu raha on varastatud.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Mu auto on varastatud.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Seal on põleng!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Kus asub lähim haigla?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Kus asub lähim politseijaoskond?</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Toit &amp; Restoran</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Ma olen näljane.</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Mul on janu.</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">Kas me sööksime midagi?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">Kas me võtaksime midagi juua?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Kas sul on midagi süüa?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Kas sul on midagi juua?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Kas sa tahad midagi süüa?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Kas ma toon sulle midagi süüa?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Kas sa tahad midagi juua?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Ma tahaksin.... (juua), palun.</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">tass kohvi</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">tass teed</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">klaas õlut</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">klaas veini</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">klaas punast veini</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">klaas valget veini</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">klaas apelsinimahla</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">klaas õunamahla</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">Kas ma toon sulle midagi juua?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">Mida sa juua sooviksid?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">Mida sa süüa sooviksid?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">Mida te soovitate?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Palun, kas ma saaksin menüüd näha?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Palun, kas ma saaksin veinikaarti näha?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Ma sooviksin seda, palun.</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth">Kas te sooviksite eelrooga?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth">Ma sooviksin eelrooga, palun.</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Ma sooviksin kala, palun.</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Ma sooviksin loomaliha, palun.</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Ma sooviksin sealiha, palun.</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Ma sooviksin salatit, palun.</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Ma sooviksin suppi, palun.</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Ma sooviksin midagi taimetoitlastele, palun.</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Kas te sooviksite magustoitu?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth">Eelroaks sooviksin ma...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth">Põhiroaks sooviksin ma...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">Magustoiduks sooviksin ma...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">Kas ma saaksin seda koos friikartulitega/riisiga/kartulitega?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Kas ma saaksin seda ilma...?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">Kas ma saaksin ainult väikese portsioni, palun?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Milliseid salateid teil on?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">See on kõik, tänan.</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth">See on kaasavõtmiseks.</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Ma olen taimetoitlane.</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Ma ei saa seda süüa.</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Kas see sisaldab...?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(palju) soola</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(palju) suhkrut</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">(palju) rasva</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">liha</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">mereande</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">kala</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">piimatooteid</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Ma ei joo (alkoholi).</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">Mul ei ole kahvlit.</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">Mul ei ole nuga.</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">Mul ei ole lusikat.</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Üks klaas on puudu.</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Üks taldrik on puudu.</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">See ei ole puhas.</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">See on liiga külm.</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">See on liiga vürtsikas.</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">Ma ei ole seda tellinud.</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Siin on mingi viga.</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">See oli suurepärane.</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Ma sooviksin maksta, palun.</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Kas ma saaksin arve, palun?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">Me sooviksime eraldi maksta.</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Kas kõik on hinna sees?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Kas jootaraha on hinna sisse arvestatud?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">Kas sulle meelsib süüa teha?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Kes täna õhtul süüa teeb?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth">Kas ma teen täna õhtul süüa?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Mida ma teen?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">Kas sa sooviksid tassi kohvi?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">Kas sa sooviksid tassi teed?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">Hobid</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Mis su hobid on?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Mida sa vabal ajal teed?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Kas sulle meeldib lugeda?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">Mulle ei meeldi lugeda.</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">Mulle meeldib lugeda.</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">Mulle meeldib süüa teha.</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">Mulle meeldib muusikat kuulata.</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">Mulle meeldib klaverit mängida.</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">Mulle meeldib kitarri mängida.</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">Mulle meeldib laulda.</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">Mulle meeldib malet mängida.</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">Mulle meeldib väljas käia.</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">Mulle meeldib reisida.</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">Mulle meeldib sisseoste teha.</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">Mulle meeldib aiandusega tegeleda.</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">Mulle meeldib televiisorit vaadata.</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">Mulle meeldib internetis surfata.</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">Milline muusika sulle meeldib?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">Mulle meeldib klassikaline muusika.</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">Mulle meeldib popmuusika.</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">Mulle meeldib ooper.</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">Mulle meeldib dzäss.</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">Mulle meeldib tehno (-muusika).</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">Mulle meeldib raske rokk.</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">Mis su lemmikansamblid on?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">Mida sa eelistad?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth">Ma eelistan...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">Tutvustamine</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Minu nimi on...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Mis su nimi on?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Ma olen...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Kes sa oled?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth">Kas ma võin teid ... tutvustada?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth">Ma tutvustan teid...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">See on minu naine.</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">See on minu mees.</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">See on minu tüdruksõber.</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">See on minu poiss-sõber.</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">See on minu sõber.</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">See on minu poeg.</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">See on minu tütar.</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">See on minu ema.</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">See on minu isa.</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">Meeldiv teiega kohtuda.</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Seks</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Kas sa tahaksid minuga magada?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Kas sul on kondoom?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Kas sa kasutad rasestumisvastaseid pille?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">ma ei tee seda ilma kondoomita</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Palun ole ettevaatlik /õrn</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Kas sulle meeldib see?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Mulle see ei meeldi</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Kas sa oled vallaline?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Kas sa oled gei?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Kas sa oled hetero?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Kas sa oled lesbi?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Kas sa oled bi?</attrib>
+		</entry>
+	</entries>
+</ulr>

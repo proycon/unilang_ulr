@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="pt">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">O Leão e o rato</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">Um rato ajuda um leão.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">Um leão que dormia em sua caverna foi acordado por um rato que corria por seu rosto. Perdendo a paciência, ele tentou agarrá-lo com sua pata e matá-lo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">O rato, aterrorizado, implorou para que ele poupasse sua vida. &quot;Por favor, deixe-me ir embora&quot;, ele implorou. &quot;e um dia eu o recompensarei por sua bondade.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">A idéia de uma criatura tão insignificante poder fazer algo por ele divertia tanto o Leão que ele gargalhou estrondosamente, e bem-humorado deixou-o partir.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">Mas a oportunidade do Rato surgiu, finalmente.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Abavagada">Um dia, o Leão ficou preso em uma rede que tinha sido deixada ali apenas por diversão por alguns caçadores, e o Rato ouviu e reconheceu os rugidos zangados e correu rumo a eles. Sem demora, ele começou a roer as cordas com seus dentes, e conseguiu libertar o Leão.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Abavagada">&quot;Pronto!&quot; disse o Rato, &quot;você riu de mim quando eu prometi que o recompensaria: mas agora você percebe que até um Rato pode ajudar um Leão.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="tt">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">Мин сине яратам</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">min siNE yaraTAM</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">Мин кызыл лампа алам</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">min kyZYL LAMpa aLAM</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">ул кечкене кош курэ</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">ul kesh'keNE kosh kuRA</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">Без иске бина табабыз</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">bes isKE biNA taBAbys</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">Мин ачкычларымны эзлим</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">min ash'kychlarymNY ezLIM</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">Мин синен башны тиям</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">min siNENG bashNY tiYAM</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">Ул яНГа ак машина тели</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">ul yaNGA ak mashiNA teLI</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">мин ике йез евро / доллар тулям</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">min iKE yoz YEvra / DOLlar tulAM</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">ана матур тел ошый</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">aNGA maTUR tel oSHY</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">анын кузлэре зэнгэр</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">aNYNG kuzlaRE zanGAR</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">анын куллары чиста</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">aNYNG kullaRY sh'isTA</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Sergio (Sergei Buhtoyarov)">ул яшь малай</attrib>
+			<attrib type="phon" author="Sergio (Sergei Buhtoyarov)">ul yash maLAY</attrib>
+		</entry>
+	</entries>
+</ulr>

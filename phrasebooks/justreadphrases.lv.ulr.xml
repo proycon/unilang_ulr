@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="lv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">Es tevi mīlu</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">Vētra sasniedz pludmali</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">Cilvēki dzird skaļu skaņu</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">Es sadabūšu sarkano lampu</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">Viņa redz putniņu</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth">Mēs atrodam vecu celtni</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">Es meklēju savas atslēgas</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">Es pieskaros tavai galvai</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">Viņš grib jaunu baltu mašīnu</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth">Viņa atver sasisto logu</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth">Spēcīgā meitene aizver smagās melnās durvis</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth">Viņš atrisina briesmīgo problēmu</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth">Niknais noziedznieks zaudē daudz vērtīgas naudas</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth">Viņi nogaršo garšīgo ēdienu</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth">Policistam ir cits viedoklis</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth">Kolēģi dzer aukstu kafiju un karstu tēju</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth">Bagātā kompānija pārdod zaļus dārzeņus</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth">Viņi nopērk desmit jaunas grāmatas</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth">Viņam sāp labā auss</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">Es pazīstu to garo personu</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth">Tievā dāma seko savam resnajam priekšniekam</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth">Ātrais dators maina savu krāsu</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth">Viņi izvēlas nepiemērotu instrumentu</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth">Mana ģimene uzaicina draudzīgos kaimiņus</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth">Mēs pateicamies grlaicīgajiem studentiem</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth">Viņas vīrs izbauda vakaru</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth">Viņa lasa savu dienišķo avīzi</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth">Nabadzīgais vīrs valkā netīru apģērbu</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth">Stiprais dzīvnieks sastop vāju zivi</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth">Es samaksāju 200 eiro/dolārus</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth">Viņai patīk skaistā valoda</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth">Vētra sasniedz pludmali</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth">Vīrieši ceļ zemu iestādi</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">Viņam ir zilas acis</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth">Šodien snieg</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth">Viņš kļūs par svarīgu personu</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth">Es esmu starptautiskajā lidostā</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth">Viņai ir tīras rokas</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">Viņš ir jauns zēns</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth">Viņa ir ārste</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth">Es palieku laimīgs</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth">Es lietū izmirkstu</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">Zirgs baidās</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth">Baltais suns bija pārsteigts</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth">Mūsdienu sabiedrība ir ļoti attīstīta</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth">Sadursmes cēlonis nav zināms</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth">Es dodu tev dāvanu</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth">Viņš uzdod man grūtu jautājumu</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth">Es saņemu ziņu no savas mātes</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth">Es rakstu vēstuli savam tēvam</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth">Viņi dzīvo mazpilsētā</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth">Suns sēž aiz televizora</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth">Kaķis guļ uz grīdas</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth">Bērni spēlējas ārā</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth">Viņa runā par savu universitāti</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth">Viņi klusām pamet istabu</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth">Viņš atbild skolotājam</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth">Es staigāju savas mājas priekšā</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth">Viņa guļ pati savā gultā</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth">Lidmašīna lido pār kalniem</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth">Mēs skrienam caur plašu dārzu</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth">Grāmata ir uz galda</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth">Es ieeju veikalā kopā ar tevi</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth">Es dodos uz pilsētu ar vilcienu</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth">Koks aug strauji</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth">Viņš strādā mazā fabrikā</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth">Dumjais prezidents nokrīt uz deguna</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth">Mēs noteikti ticam Dievam</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth">Es sūdzos par cenu</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth">Viņa met man ar dārgo bumbu</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth">Slimais vectēvs mirst netālu no slimnīcas</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth">Es saprotu teikumus šajā lapā</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth">Vecāmāte stāsta bērnam interesantu stāstu</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth">Mēs ceram, ka viņš nopietni mācās</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth">Viņš tur nazi savā kreisajā rokā</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth">Mūsu mērķis atrodas starp diviem ezeriem</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth">Viņš gatavo vienkāršu maltīti savai draudzenei</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth">Meitene vakarā izskatās skaista</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth">Plēsīgais dzīvnieks izmuka no sava būra</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth">Es salīdzinu mūsu likumus ar jūsu likumiem</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth">Es braucu uz mūsu galvaspilsētu austrumos</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth">Miruši cilvēki tiek apglabāti dziļi zem augsnes</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth">Priesteris/imāms/rabīns stāv zem spoža mākoņa</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth">Putnēns virs manas galvas lido tuvu saviem vecākiem</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth">Es iebēgu sagrautajā skolā</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth">Šis ūdens nāk no tālas vietas</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth">Es daudz domāju par dzīvi</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth">Kad nāks tavs draugs ?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth">Cik daudz tu atceries ?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth">Cik cilvēku tev palīdzēs ?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth">Kāpēc tu zodz šīs lietas ?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth">Cik vecs tu esi ?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth">Kā jūs radāt šo produktu ?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth">Kas ir visgudrākais cilvēks pasaulē ?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth">Ko tu atklāj jūrā ?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth">Kuru sviestmaizi to izvēlies labprātāk ?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth">No kurienes tu esi ?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth">Kurp tu dodies ?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth">Vai tas veikals pastāv ?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth">Kāds ir šīs izmeklēšanas iemesls ?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth">Kuri autobusi ir gatavi atiešanai ?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth">Es tikai vēlos kaut ko ieēst</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth">Es nekad nesapņoju</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth">Viņš vienmēr ierodas agri</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth">Viņam dažreiz ir taisnība</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth">Mēs nelaimējām neko</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth">Mēs parasti cīnāmies pret saviem ienaidniekiem</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth">Viņi bieži zaudē šajā spēlē</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth">Es vēlos kaut jau būtu rītdiena</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth">Visumā ir daudz zvaigžņu</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth">Viņš bieži rāda savu kailo ķermeni</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth">Mēs reti slēpjam savas idejas</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth">Viņš smejas par kaut kādu joku</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth">Es skatos visur</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth">Viņš neviena nebaidās</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth">Viņa ar kādu uz ielas dejo</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth">Tu vari izvēlēties ko vien patīk</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth">Mēs ar sievu katru nakti mīlējamies</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth">Es dāvāju tev trīs ziedus</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth">Viņš dziedāja kamēr viņa vecāki klausījās</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth">Pēc kino apmeklējuma mēs ēdām</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth">Mēs redzējām viesnīcu pirms viņi to varēja ieraudzīt</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth">Tu vari tīrīt šo izstabu līdz atgriežas īpašnieks</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth">Es mēģinu interesēties par politiku, jo man nākammēnes jābalso</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth">Šī glāze ir tukša, bet otra glāze ir pilna</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth">Viņi kliedz, lai visi viņus ievērotu</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth">Es tev atļauju to darīt, lai gan mans brālis aizliedz</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth">Es esmu noguris, tāpēc es necelšos augšā</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth">Es vēlos nogaliņāt ļaunos cietumniekus, izņemot to ar blondajiem matiem</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth">Slepkavu vajadzēja notiesāt, bet tā vietā viņu atbrīvoja</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth">Ir pagājis ilgs laiks kopš mūsu pēdējās tikšanās</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth">Viņa nav ar mani sazinājusies kopš šā rīta</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth">Spītējot briesmām, viņš iegājā tumšajā mājā iepretim baznīcai/mošejai/templim</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth">Saskaņā ar mana tēva teikto, alkahols bija aizliegts</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth">Man patīk šis apgabals, jo tam ir fascinējoša vēsture</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth">Es iebēgu sagrautajā skolā</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth">Šis ūdens ir no attālas vietas</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth">Brīvdienās es atpūtos</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth">Es gaidu atnākam savu māsu</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth">Viņš pierāda, ka viņam ir taiznība</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth">Mēs uzskatām, ka tas nav iespējams</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth">Viņa smaida un viņš noskūpsta viņu</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth">Mēs joprojām nepiekrītam viņa piedāvātajam risinājumam</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth">Es zinu ko tu domā</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth">Sieviete zina kā cept maizi</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth">Es redzu vairākus vārdus</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth">Es esmu lielāks par tevi</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth">Viņš ir tikpat mazs kā tu</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth">Viņš sāk ienīst savu skolu</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth">Viņa beidz mācīties šo grūto priekšmetu</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth">Viņi pārtrauc domāt par valdību</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth">Mēs turpinām savu darbu</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth">Viņi gatavojas pamest kuģi</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth">Man jāaizmirst ko es redzēju</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth">Ja tu pieņemsi to dīvaino izskaidrojumu, tu esi stulbs cilvēks</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth">Es aizceļošu uz tavu valsti, ja vien nelīs</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth">Aklā meitene spēja saost ļoti labi</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth">Vakardien visas manas raizes bija tālu prom</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth">Neesmu viņu redzējis trīs gadus</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth">Es domāju, ka viņš pie manis ciemosies piecas stundas</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth">Esmu nolēmis neņemt vērā viņu lēmumu</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth">Es atkārtoju savu secinājumu</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth">Es mācu skolēnus skaitīt līdz desmit</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth">Vai tu vari pārtulkot šo tekstu angliski?</attrib>
+		</entry>
+		<entry id="165">
+			<attrib type="orth">Tu pats novērsi bojājumus, kad pagājušo reizi iekļuvi negadījumā</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth">Es nespēju izprast nozīmi</attrib>
+		</entry>
+		<entry id="167">
+			<attrib type="orth">Vai tu atnesīsi manu koferi vai arī man tas jānes pašam ?</attrib>
+		</entry>
+		<entry id="168">
+			<attrib type="orth">Man vēl nav sanācis iemācīties šo stundu</attrib>
+		</entry>
+		<entry id="169">
+			<attrib type="orth">Šī iespējams ir ļoti izplatīta kļūda</attrib>
+		</entry>
+		<entry id="170">
+			<attrib type="orth">Par laimi es esmu neparasti veselīgs, par nelaimi, es savainoju savu kāju</attrib>
+		</entry>
+		<entry id="171">
+			<attrib type="orth">Laiks ir jauks, turklāt saule spīdēja visu dienu</attrib>
+		</entry>
+		<entry id="172">
+			<attrib type="orth">Vai nezini vai viņš var sagādāt vīnu viesībām ?</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth">Mana reliģija joprojām ir tāda pati kā iepriekš</attrib>
+		</entry>
+		<entry id="174">
+			<attrib type="orth">Armija nekam neder, ja nav kara, bet ir miers</attrib>
+		</entry>
+		<entry id="175">
+			<attrib type="orth">Starptautiskais kareivis sašauj nevainīgu pasažieri</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth">Iespējams tas visticamākais nekad nenotiks</attrib>
+		</entry>
+		<entry id="177">
+			<attrib type="orth">Izskatās, ka ir laiks doties prom</attrib>
+		</entry>
+		<entry id="178">
+			<attrib type="orth">Mans vecums tiek uzskatīts par noslēpumu</attrib>
+		</entry>
+		<entry id="179">
+			<attrib type="orth">No mums sagaida, ka šajā kursā lietosim vārdnīcu un kalkulātoru</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth">Man bail pabeigt iesākto</attrib>
+		</entry>
+		<entry id="181">
+			<attrib type="orth">Man nebija iespējas salīdzināt savu zīmējumu ar tavu</attrib>
+		</entry>
+		<entry id="182">
+			<attrib type="orth">Elektriskā ierīce ražo daudz enerģijas</attrib>
+		</entry>
+		<entry id="183">
+			<attrib type="orth">Es iesaku nedoties uz ziemeļiem, bet doties uz dienvidiem</attrib>
+		</entry>
+		<entry id="184">
+			<attrib type="orth">Es jūtos slikti. Patiesībā, es jūtos daudz sliktāk kā pagājušonedēļ</attrib>
+		</entry>
+		<entry id="185">
+			<attrib type="orth">Mazuļi tiešām vēl nespēj runāt</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth">Sekām jātiek nekavējoties atzītām</attrib>
+		</entry>
+		<entry id="187">
+			<attrib type="orth">Es labi zinu vai rīkoties vai ne</attrib>
+		</entry>
+		<entry id="188">
+			<attrib type="orth">Viņš trāpīja tieši cauri koksnei</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth">Mani klasesbiedri kopā spēlējās, bet es vienatnē sēdēju kaktā</attrib>
+		</entry>
+		<entry id="190">
+			<attrib type="orth">Bērns mēģināja izturēties pret viņiem labi, bet viņiem vienalga viņš nepatika</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth">Mans skolotājs teica, ka man nevajadzētu runāt tādas lietas</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth">Mana māte vienmēr uzskatīja, ka man vajag vairāk uzmanības</attrib>
+		</entry>
+	</entries>
+</ulr>

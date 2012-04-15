@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="fr">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="12790" lastmodified="1273968577">Groupes Nominaux</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="orth" lastmodified="1217790006">Je suis content</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" lastmodified="1217790006">Je ne suis pas content</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="3324" lastmodified="1228832646">J'étais content</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217790006">Elle aussi est contente</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" lastmodified="1217790006">Nous deux sommes contents</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="3324" lastmodified="1228832646">Je deviens content</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" lastmodified="1217790006">Je reste content</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" lastmodified="1217790006">Tu es soit riche soit pauvre</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="3324" lastmodified="1228832646">Tu n'es ni content ni triste.</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217790006">C'est un grand arbre</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217790006">C'est un grand arbre</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217790006">C'est le grand arbre</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217790006">Il y a un grand arbre dans mon jardin</attrib>
+		</entry>
+		<entry id="e15000">
+			<attrib type="orth" author="3324" lastmodified="1227719093">Ordre des mots</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" lastmodified="1217790006">Je donne prudemment l'argent de mon père à l'homme dangereux, sur la place en face de l'église, comme convenu</attrib>
+		</entry>
+		<entry id="e17000">
+			<attrib type="orth" author="12803" lastmodified="1228091873">Groupes verbaux - Temps/Mode/Aspect</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" lastmodified="1217790006">J'écris une lettre aujourd'hui</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" lastmodified="1217790006">Je n'écris pas la lettre aujourd'hui</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" lastmodified="1217790006">Je n'écris pas de lettre aujourd'hui</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217790006">J'ai écrit une lettre hier</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" lastmodified="1217790006">Je n'ai pas écrit de lettre hier</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" author="3324" lastmodified="1228832681">Je n'ai pas écrit la lettre hier</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" lastmodified="1217790006">J'écrivais une lettre chaque mois</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" lastmodified="1217790006">J'écrivais alors une lettre chaque mois</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" lastmodified="1217790006">J'écrirai une lettre demain</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" lastmodified="1217790006">Je n'écrirai pas de lettre demain</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" lastmodified="1217790006">J'écrirais une lettre</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" lastmodified="1217790006">J'écrirais une lettre si j'avais un stylo</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" lastmodified="1217790006">J'ai écrit une lettre</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" lastmodified="1217790006">J'avais écris une lettre</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" lastmodified="1217790006">Je suis en train d'écrire une lettre</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" lastmodified="1217790006">J'étais en train d'écrire une lettre</attrib>
+		</entry>
+		<entry id="e34000">
+			<attrib type="orth" author="3324" lastmodified="1228832727">Groupes verbaux - Modalité</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" lastmodified="1217790006">Je peux écrire une lettre</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" lastmodified="1217790006">Je sais écrire une lettre</attrib>
+		</entry>
+		<entry id="e37000">
+			<attrib type="orth" lastmodified="1217790006">Je pourrais écrire une lettre</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" lastmodified="1217790006">J'aurais pu écrire une lettre (could have)</attrib>
+		</entry>
+		<entry id="e39000">
+			<attrib type="orth" author="3324" lastmodified="1228832783">Je pourrais être en train d'écrire une lettre</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217790006">Je dois écrire une lettre</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Il faut que j'écrive une lettre</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" lastmodified="1217790006">Je devais écrire une lettre</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Il fallait que j'écrive une lettre</attrib>
+		</entry>
+		<entry id="e42000">
+			<attrib type="orth" lastmodified="1217790006">Il a fallu que j'écrive une lettre</attrib>
+		</entry>
+		<entry id="e43000">
+			<attrib type="orth" lastmodified="1217790006">Il faut que je sois en train d'écrire une lettre</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" lastmodified="1217790006">Je peux écrire une lettre</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="orth" lastmodified="1217790006">Je pouvais écrire une lettre</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" lastmodified="1217790006">J'ai besoin d'écrire une lettre</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" lastmodified="1217790006">J'avais besoin d'écrire une lettre</attrib>
+		</entry>
+		<entry id="e48000">
+			<attrib type="orth" author="3324" lastmodified="1227719131">Groupes verbaux - le passif</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" lastmodified="1217790006">La lettre est écrite par moi.</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" lastmodified="1217790006">La lettre était écrite par moi.</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" lastmodified="1217790006">La lettre était été écrite par moi.</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" lastmodified="1217790006">La lettre sera écrite par moi.</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" lastmodified="1217790006">La lettre serait écrite par moi.</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" author="3324" lastmodified="1228832821">La lettre aurait été écrite par moi.</attrib>
+		</entry>
+		<entry id="e55000">
+			<attrib type="orth" author="3324" lastmodified="1227719147">Groupes verbaux - l'impératif</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" lastmodified="1217790006">Ecris une lettre! [tu]</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" lastmodified="1217790006">Ecrivez une lettre! [vous]</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" lastmodified="1217790006">N'écris pas une lettre!</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" lastmodified="1217790006">N'écris pas une lettre!</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" lastmodified="1217790006">Écrivons une lettre !</attrib>
+		</entry>
+		<entry id="e61000">
+			<attrib type="orth" lastmodified="1217790006">Que la lettre soit écrite!</attrib>
+		</entry>
+		<entry id="e62000">
+			<attrib type="orth" author="3324" lastmodified="1228832949">Groupes verbaux - subjonctif, doute, assurance, espoir, emotion</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" lastmodified="1217790006">Je doute qu'il n'écrive une lettre</attrib>
+		</entry>
+		<entry id="e64000">
+			<attrib type="orth" author="3324" lastmodified="1227719319">Je doute qu'il n'ait écrit une lettre hier</attrib>
+		</entry>
+		<entry id="e65000">
+			<attrib type="orth" author="3324" lastmodified="1228832949">Je doute qu'il ait écrit une lettre tous les jours</attrib>
+		</entry>
+		<entry id="e66000">
+			<attrib type="orth" author="3324" lastmodified="1227719319">Je doute qu'il ait écrit une lettre</attrib>
+		</entry>
+		<entry id="e67000">
+			<attrib type="orth" author="13070" lastmodified="1261504066">Je doute qu'il écrive une lettre</attrib>
+		</entry>
+		<entry id="e68000">
+			<attrib type="orth" author="13070" lastmodified="1261504066">Je doute qu'il écrive une lettre</attrib>
+		</entry>
+		<entry id="e69000">
+			<attrib type="comment" lastmodified="1217790006">This might be incorrect and has to be verified still!</attrib>
+			<attrib type="orth" lastmodified="1217790006">Je suis sûr qu'il écrira une lettre</attrib>
+		</entry>
+		<entry id="e70000">
+			<attrib type="comment" lastmodified="1217790006">This might be incorrect and has to be verified still!</attrib>
+			<attrib type="orth" author="3324" lastmodified="1227719319">J'èspère qu'il écrira une lettre</attrib>
+		</entry>
+		<entry id="e71000">
+			<attrib type="orth" author="3324" lastmodified="1228832949">Je suis content qu'il écrive bientôt une lettre</attrib>
+		</entry>
+		<entry id="e72000">
+			<attrib type="orth" author="3324" lastmodified="1227719319">Groupes verbaux - les participes</attrib>
+		</entry>
+		<entry id="e73000">
+			<attrib type="orth" author="3324" lastmodified="1228833058">L'homme, écrivant une lettre maintenant, ira à la poste plus tard</attrib>
+		</entry>
+		<entry id="e74000">
+			<attrib type="orth" author="3324" lastmodified="1228833058">L'homme, ayant écrit une lettre, est parti à la poste</attrib>
+		</entry>
+		<entry id="e75000">
+			<attrib type="orth" author="3324" lastmodified="1228833058">L'homme, qui écrira une lettre demain, ira à la poste</attrib>
+		</entry>
+		<entry id="e76000">
+			<attrib type="orth" author="3324" lastmodified="1228833058">L'homme, qui écrirait une lettre, irait à la poste</attrib>
+		</entry>
+		<entry id="e77000">
+			<attrib type="orth" lastmodified="1217790006">Risquant sa vie, il me sauve</attrib>
+		</entry>
+		<entry id="e78000">
+			<attrib type="orth" lastmodified="1217790006">Risquant sa vie, il me sauvait</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" author="3324" lastmodified="1227719489">C' est un homme compréhensif</attrib>
+		</entry>
+		<entry id="e80000">
+			<attrib type="orth" author="3324" lastmodified="1227719489">Le message raconté était choquant</attrib>
+		</entry>
+		<entry id="e81000">
+			<attrib type="orth" author="3324" lastmodified="1227719489">Noms déverbaux</attrib>
+		</entry>
+		<entry id="e82000">
+			<attrib type="orth" author="3324" lastmodified="1228833058">La lecture était relaxante</attrib>
+		</entry>
+		<entry id="e83000">
+			<attrib type="orth" author="3324" lastmodified="1228833058">Groupes verbaux - processus</attrib>
+		</entry>
+		<entry id="e84000">
+			<attrib type="orth" lastmodified="1217790006">Je commence à lire mon livre</attrib>
+		</entry>
+		<entry id="e85000">
+			<attrib type="orth" author="3324" lastmodified="1227719581">Je continue à lire mon livre</attrib>
+		</entry>
+		<entry id="e86000">
+			<attrib type="orth" author="3324" lastmodified="1227719581">J'arrête de lire mon livre</attrib>
+		</entry>
+		<entry id="e87000">
+			<attrib type="orth" author="3324" lastmodified="1228833136">J'ai fini de lire mon livre</attrib>
+		</entry>
+		<entry id="e88000">
+			<attrib type="orth" author="13070" lastmodified="1261504133">Expressions subordonées</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217790006">J'aime écrire des lettres</attrib>
+		</entry>
+		<entry id="e90000">
+			<attrib type="orth" author="3324" lastmodified="1227719581">J'ai decidé de lire mon livre</attrib>
+		</entry>
+		<entry id="e91000">
+			<attrib type="orth" author="3324" lastmodified="1228833136">Je decide que je lirai mon livre</attrib>
+			<attrib type="orth" author="3324" lastmodified="1228833136" variant="1">J'essaye de montrer mon opinion</attrib>
+		</entry>
+		<entry id="e92000">
+			<attrib type="orth" author="3324" lastmodified="1227719581">Je ne peux pas decider s'il doit lire mon livre</attrib>
+		</entry>
+		<entry id="e93000">
+			<attrib type="orth" author="3324" lastmodified="1227719581">Phrases interrogatives</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" lastmodified="1217790006">Qu'est-ce que c'est?</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">C'est quoi?</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" author="3324" lastmodified="1227719581">Qui est-ce ?</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">C'est qui?</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217790006">Où est-il?</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" lastmodified="1217790006">Où allons-nous?</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" author="3324" lastmodified="1228833175">Quand partons-nous?</attrib>
+		</entry>
+		<entry id="e99000">
+			<attrib type="orth" lastmodified="1217790006">Comment allons-nous?</attrib>
+		</entry>
+		<entry id="e100000">
+			<attrib type="orth" lastmodified="1217790006">Combien d'eau as-tu?</attrib>
+		</entry>
+		<entry id="e101000">
+			<attrib type="orth" lastmodified="1217790006">Combien d'amis as-tu?</attrib>
+		</entry>
+		<entry id="e102000">
+			<attrib type="orth" lastmodified="1217790006">Quelle couleur te plaît?</attrib>
+		</entry>
+		<entry id="e103000">
+			<attrib type="orth" author="3324" lastmodified="1227719636">Phrases non-interrogatives</attrib>
+		</entry>
+		<entry id="e104000">
+			<attrib type="orth" lastmodified="1217790006">Je ne comprends pas ce que je vois</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217790006">Je ne sais pas où j'habite</attrib>
+		</entry>
+		<entry id="e106000">
+			<attrib type="orth" lastmodified="1217790006">Je ne sais pas quand je vendrai</attrib>
+		</entry>
+		<entry id="e107000">
+			<attrib type="orth" author="3324" lastmodified="1227719636">Je ne sais pas comment survivre à ce désastre</attrib>
+		</entry>
+		<entry id="e108000">
+			<attrib type="orth" author="3324" lastmodified="1228833199">Conjonctions - expressions conditionnelles</attrib>
+		</entry>
+		<entry id="e109000">
+			<attrib type="orth" lastmodified="1217790006">Si j'étais riche, j'achèterais une nouvelle voiture</attrib>
+		</entry>
+		<entry id="e110000">
+			<attrib type="orth" author="3324" lastmodified="1228833265">Quand je serais riche, j'achèterai une nouvelle voiture</attrib>
+		</entry>
+		<entry id="e111000">
+			<attrib type="orth" lastmodified="1217790006">Je vais à la fête, sauf  quand il pleut</attrib>
+		</entry>
+		<entry id="e112000">
+			<attrib type="orth" lastmodified="1217790006">Je vais à la fête, sauf s'il pleut</attrib>
+		</entry>
+		<entry id="e113000">
+			<attrib type="orth" lastmodified="1217790006">Je vais à la fête, même s'il pleut</attrib>
+		</entry>
+		<entry id="e114000">
+			<attrib type="orth" lastmodified="1217790006">Il pleut, toutefois j'irai à la fête</attrib>
+		</entry>
+		<entry id="e115000">
+			<attrib type="orth" author="3324" lastmodified="1228833265">Conjonctions - Raison, Cause, Conséquence</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" lastmodified="1217790006">Je vais à la fête bien qu'il/quoiqu'il pleuve</attrib>
+		</entry>
+		<entry id="e117000">
+			<attrib type="orth" lastmodified="1217790006">Je vais à la fête, parce qu'il pleut</attrib>
+		</entry>
+		<entry id="e118000">
+			<attrib type="orth" lastmodified="1217790006">Je vais à la fête car il pleut/puisqu'il pleut</attrib>
+		</entry>
+		<entry id="e119000">
+			<attrib type="orth" lastmodified="1217790006">Je rejoins la fête, afin de pouvoir boire de la bière</attrib>
+		</entry>
+		<entry id="e120000">
+			<attrib type="orth" lastmodified="1217790006">J'irai à la fête, alors dis-moi au revoir</attrib>
+		</entry>
+		<entry id="e121000">
+			<attrib type="orth" lastmodified="1217790006">Je vais à la fête pour aller danser avec mes amis.</attrib>
+		</entry>
+		<entry id="e122000">
+			<attrib type="orth" author="3324" lastmodified="1228833353">Conjonctions - Coordination</attrib>
+		</entry>
+		<entry id="e123000">
+			<attrib type="orth" lastmodified="1217790006">J'irai à la fête, mais il pleut</attrib>
+		</entry>
+		<entry id="e124000">
+			<attrib type="orth" lastmodified="1217790006">J'irai à la fête, (et) en plus, j'y mangerai</attrib>
+		</entry>
+		<entry id="e125000">
+			<attrib type="orth" author="3324" lastmodified="1227719820">Conjonctions - temporelles</attrib>
+		</entry>
+		<entry id="e126000">
+			<attrib type="orth" lastmodified="1217790006">Je bois du thé avant que je lise mon livre</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Je bois du thé avant de lire mon livre</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" lastmodified="1217790006">Je bois du thé après que j'aie lu mon livre</attrib>
+			<attrib type="orth" author="3324" lastmodified="1227719820" variant="1">Je bois du thé après avoir lu mon livre</attrib>
+		</entry>
+		<entry id="e128000">
+			<attrib type="orth" lastmodified="1217790006">Je bois du thé pendant que je lis mon livre</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Je bois du thé pendant de lire mon livre</attrib>
+		</entry>
+		<entry id="e129000">
+			<attrib type="orth" author="3324" lastmodified="1227719820">Je vais boire le thé dès que j'ai fini (de lire) mon livre</attrib>
+		</entry>
+		<entry id="e130000">
+			<attrib type="orth" author="3324" lastmodified="1228833353">Je bois du thé puisque j'ai fini mon livre</attrib>
+		</entry>
+		<entry id="e131000">
+			<attrib type="orth" lastmodified="1217790006">Je bois du thé, après je termine mon livre</attrib>
+		</entry>
+		<entry id="e132000">
+			<attrib type="orth" author="11491" lastmodified="1238131513">Je mangerai jusqu'à je sois fatigué</attrib>
+		</entry>
+		<entry id="e133000">
+			<attrib type="orth" author="3324" lastmodified="1227719893">Propositions relatives</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217790006">Je suis l'homme qui achète une pomme</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217790006">Je suis la femme qui achète une pomme</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217790006">Je vois l'homme qui achète une pomme</attrib>
+		</entry>
+		<entry id="e137000">
+			<attrib type="orth" lastmodified="1217790006">Je vois l'homme qu'elle [que] voit aussi</attrib>
+		</entry>
+		<entry id="e138000">
+			<attrib type="orth" author="3324" lastmodified="1228833378">Je vois l'homme auquel j'ai donné un cadeau</attrib>
+		</entry>
+		<entry id="e139000">
+			<attrib type="orth" lastmodified="1217790006">Je vois l'homme par lequel j'ai appris la/les nouvelle(s)</attrib>
+		</entry>
+		<entry id="e140000">
+			<attrib type="orth" lastmodified="1217790006">Je vois la femme avec laquelle j'ai eu un rendez-vous</attrib>
+		</entry>
+		<entry id="e141000">
+			<attrib type="orth" lastmodified="1217790006">Je vois la pomme qui sent bon</attrib>
+		</entry>
+		<entry id="e142000">
+			<attrib type="orth" lastmodified="1217790006">La pomme que je vois sent bon</attrib>
+		</entry>
+		<entry id="e143000">
+			<attrib type="orth" author="3324" lastmodified="1227719893">La pomme, que j'ai regardée, sent bon</attrib>
+		</entry>
+		<entry id="e144000">
+			<attrib type="orth" author="3324" lastmodified="1227719893">La pomme, que l'homme achète, sent bon</attrib>
+		</entry>
+		<entry id="e145000">
+			<attrib type="orth" author="3324" lastmodified="1227719930">Phrases comparatives</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="orth" author="3324" lastmodified="1227719930">Je suis aussi grande que toi</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="orth" lastmodified="1217790006">Je suis plus intelligent que toi</attrib>
+		</entry>
+		<entry id="e148000">
+			<attrib type="orth" lastmodified="1217790006">Je suis moins intelligent que toi</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="orth" lastmodified="1217790006">Je suis le plus intelligent</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" lastmodified="1217790006">Je chante comme toi</attrib>
+		</entry>
+		<entry id="e151000">
+			<attrib type="orth" lastmodified="1217790006">Je chante comme tu cris</attrib>
+		</entry>
+		<entry id="e152000">
+			<attrib type="orth" author="12790" lastmodified="1273978799">Phrases Positionelles - Objective/Raison</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" author="3324" lastmodified="1227719930">Je te donne le cadeau</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217790006">C'est le chien de mon ami</attrib>
+		</entry>
+		<entry id="e155000">
+			<attrib type="orth" author="12790" lastmodified="1273978799">Phrases Positionelles - Endroit/Mouvement</attrib>
+		</entry>
+		<entry id="e156000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau est dans sa cage</attrib>
+		</entry>
+		<entry id="e157000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole dans sa cage</attrib>
+		</entry>
+		<entry id="e158000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole dans sa cage</attrib>
+		</entry>
+		<entry id="e159000">
+			<attrib type="orth" author="3324" lastmodified="1227720033">Le pilote vole dans son avion</attrib>
+		</entry>
+		<entry id="e160000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau est assis sur sa cage</attrib>
+		</entry>
+		<entry id="e161000">
+			<attrib type="orth" author="3324" lastmodified="1227720033">L'oiseau est assis au sommet de sa cage</attrib>
+		</entry>
+		<entry id="e162000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole sur sa cage</attrib>
+		</entry>
+		<entry id="e163000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole sous sa cage</attrib>
+		</entry>
+		<entry id="e164000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole au-dessus de sa cage</attrib>
+		</entry>
+		<entry id="e165000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole en-dessous de sa cage</attrib>
+		</entry>
+		<entry id="e166000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole autour de sa cage</attrib>
+		</entry>
+		<entry id="e167000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole à travers sa cage</attrib>
+		</entry>
+		<entry id="e168000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole hors de sa cage</attrib>
+		</entry>
+		<entry id="e169000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole à sa cage</attrib>
+		</entry>
+		<entry id="e170000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole vers sa cage</attrib>
+		</entry>
+		<entry id="e171000">
+			<attrib type="orth" author="3324" lastmodified="1227720143">L'oiseau sort de sa cage en volant</attrib>
+		</entry>
+		<entry id="e172000">
+			<attrib type="orth" author="3324" lastmodified="1227720143">L'oiseau passe devant sa cage en volant</attrib>
+		</entry>
+		<entry id="e173000">
+			<attrib type="orth" author="3324" lastmodified="1227720143">L'oiseau vole à coté d'un avion</attrib>
+		</entry>
+		<entry id="e174000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole près de sa cage</attrib>
+		</entry>
+		<entry id="e175000">
+			<attrib type="orth" lastmodified="1217790006">L'oiseau vole loin de sa cage</attrib>
+		</entry>
+		<entry id="e176000">
+			<attrib type="orth" author="12790" lastmodified="1273978663">Phrases Positionelles - Temps</attrib>
+		</entry>
+		<entry id="e177000">
+			<attrib type="orth" lastmodified="1217790006">Je bois du vin avant le dîner</attrib>
+		</entry>
+		<entry id="e178000">
+			<attrib type="orth" author="3324" lastmodified="1227720143">Je bois du vin après le dîner</attrib>
+		</entry>
+		<entry id="e179000">
+			<attrib type="orth" author="3324" lastmodified="1227720143">Je bois du vin pendant le dîner</attrib>
+		</entry>
+		<entry id="e180000">
+			<attrib type="orth" author="3324" lastmodified="1227720143">J'ai bu du vin depuis le diner</attrib>
+		</entry>
+		<entry id="e181000">
+			<attrib type="orth" author="3324" lastmodified="1227720232">J'ai bu du vin il y a cinq jours</attrib>
+		</entry>
+		<entry id="e182000">
+			<attrib type="orth" lastmodified="1217790006">Je vais boire du vin dans cinq minutes</attrib>
+		</entry>
+		<entry id="e183000">
+			<attrib type="orth" author="3324" lastmodified="1227720232">Je peux finir mon verre de vin en cinq minutes</attrib>
+		</entry>
+		<entry id="e184000">
+			<attrib type="orth" author="3324" lastmodified="1228833502">Je te rencontrerai lundi en janvier</attrib>
+		</entry>
+		<entry id="e185000">
+			<attrib type="orth" author="12790" lastmodified="1273978561">Phrases Positionelles - Thème</attrib>
+		</entry>
+		<entry id="e186000">
+			<attrib type="orth" author="3324" lastmodified="1228833502">Ma mère me parle du nettoyage de ma chambre</attrib>
+		</entry>
+		<entry id="e187000">
+			<attrib type="orth" author="3324" lastmodified="1227720232">Concernant ma chambre, elle n'est pas encore nettoyée</attrib>
+		</entry>
+		<entry id="e188000">
+			<attrib type="orth" author="12790" lastmodified="1273978561">Phrases Positionelles - Autres</attrib>
+		</entry>
+		<entry id="e189000">
+			<attrib type="orth" lastmodified="1217790006">Je dois nettoyer ma chambre selon ma mère</attrib>
+		</entry>
+		<entry id="e190000">
+			<attrib type="orth" lastmodified="1217790006">Je n'ai pas nettoyé ma chambre, malgré l'avertissement de ma mère</attrib>
+		</entry>
+		<entry id="e191000">
+			<attrib type="orth" author="3324" lastmodified="1227720232">Je n'ai pas nettoyé ma chambre, contrairement à ma soeur.</attrib>
+		</entry>
+		<entry id="e192000">
+			<attrib type="orth" lastmodified="1217790006">Je n'ai pas nettoyé ma chambre, sauf mon bureau.</attrib>
+		</entry>
+		<entry id="e193000">
+			<attrib type="orth" lastmodified="1217790006">J'ai nettoyé ma chambre avec ma mère.</attrib>
+		</entry>
+		<entry id="e194000">
+			<attrib type="orth" lastmodified="1217790006">J'ai nettoyé ma chambre sans ma mère.</attrib>
+		</entry>
+		<entry id="e195000">
+			<attrib type="orth" author="3324" lastmodified="1227720292">J'ai nettoyé ma chambre avec un balais.</attrib>
+		</entry>
+		<entry id="e196000">
+			<attrib type="orth" author="13070" lastmodified="1261504216">Corrélatives</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" lastmodified="1217790006">Je vois tout le monde</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217790006">Je vois quelqu'un</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" lastmodified="1217790006">Je ne vois personne</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217790006">Personne ne peut me voir</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" author="3324" lastmodified="1227720292">Je ne vois personne à part toi</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217790006">Je ne vois que toi</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" lastmodified="1217790006">Je vois tous les hommes</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" lastmodified="1217790006">Je ne vois pas d'hommes</attrib>
+		</entry>
+		<entry id="e205000">
+			<attrib type="orth" author="3324" lastmodified="1227720332">Je vois chaque homme</attrib>
+		</entry>
+		<entry id="e206000">
+			<attrib type="orth" author="3324" lastmodified="1227720332">Je vois tout</attrib>
+		</entry>
+		<entry id="e207000">
+			<attrib type="orth" lastmodified="1217790006">Je vois quelque chose</attrib>
+		</entry>
+		<entry id="e208000">
+			<attrib type="orth" lastmodified="1217790006">Je ne vois rien</attrib>
+		</entry>
+		<entry id="e209000">
+			<attrib type="orth" lastmodified="1217790006">Je ne vois rien d'autre</attrib>
+		</entry>
+		<entry id="e210000">
+			<attrib type="orth" author="3324" lastmodified="1227720332">Je ne vois plus rien</attrib>
+		</entry>
+		<entry id="e211000">
+			<attrib type="orth" lastmodified="1217790006">Rien ne peut me voir</attrib>
+		</entry>
+		<entry id="e212000">
+			<attrib type="orth" lastmodified="1217790006">Je vois tous les livres</attrib>
+		</entry>
+		<entry id="e213000">
+			<attrib type="orth" lastmodified="1217790006">Je ne vois pas de livres</attrib>
+		</entry>
+		<entry id="e214000">
+			<attrib type="orth" lastmodified="1217790006">Je vois chaque livre</attrib>
+		</entry>
+		<entry id="e215000">
+			<attrib type="orth" lastmodified="1217790006">Je vois quelques livres</attrib>
+		</entry>
+		<entry id="e216000">
+			<attrib type="orth" lastmodified="1217790006">Je vois quelque livre</attrib>
+		</entry>
+		<entry id="e217000">
+			<attrib type="orth" author="3324" lastmodified="1227720371">Je ne vois aucun livre</attrib>
+		</entry>
+		<entry id="e218000">
+			<attrib type="orth" lastmodified="1217790006">Je vois tout le livre</attrib>
+		</entry>
+		<entry id="e219000">
+			<attrib type="orth" lastmodified="1217790006">Je vois le livre même</attrib>
+		</entry>
+		<entry id="e220000">
+			<attrib type="orth" lastmodified="1217790006">Je vois le même livre</attrib>
+		</entry>
+		<entry id="e221000">
+			<attrib type="orth" lastmodified="1217790006">Je vois un tel livre</attrib>
+		</entry>
+		<entry id="e222000">
+			<attrib type="orth" author="3324" lastmodified="1227720371">Tu peux choisir n'importe quel livre</attrib>
+		</entry>
+		<entry id="e223000">
+			<attrib type="orth" lastmodified="1217790006">Personne ne peut me voir</attrib>
+		</entry>
+		<entry id="e224000">
+			<attrib type="orth" lastmodified="1217790006">J'ai regardé partout</attrib>
+		</entry>
+		<entry id="e225000">
+			<attrib type="orth" lastmodified="1217790006">Je n'ai regardé nulle part</attrib>
+		</entry>
+		<entry id="e226000">
+			<attrib type="orth" author="3324" lastmodified="1227720371">J'ai regardé quelque part</attrib>
+		</entry>
+		<entry id="e227000">
+			<attrib type="orth" lastmodified="1217790006">Nous nous rencontrerons autrefois</attrib>
+		</entry>
+		<entry id="e228000">
+			<attrib type="orth" lastmodified="1217790006">Nous nous rencontrerons parfois</attrib>
+		</entry>
+		<entry id="e229000">
+			<attrib type="orth" lastmodified="1217790006">Nous ne nous rencontrerons jamais</attrib>
+		</entry>
+		<entry id="e230000">
+			<attrib type="orth" lastmodified="1217790006">Nous nous rencontrerons toujours</attrib>
+		</entry>
+		<entry id="e231000">
+			<attrib type="orth" lastmodified="1217790006">Nous nous rencontrerons souvent</attrib>
+		</entry>
+		<entry id="e232000">
+			<attrib type="orth" lastmodified="1217790006">Nous nous rencontrerons généralement</attrib>
+		</entry>
+		<entry id="e233000">
+			<attrib type="orth" lastmodified="1217790006">Nous nous rencontrerons rarement</attrib>
+		</entry>
+		<entry id="e234000">
+			<attrib type="orth" author="3324" lastmodified="1227720416">Quantité</attrib>
+		</entry>
+		<entry id="e235000">
+			<attrib type="orth" lastmodified="1217790006">J'ai beaucoup d'eau</attrib>
+		</entry>
+		<entry id="e236000">
+			<attrib type="orth" lastmodified="1217790006">J'ai assez d'eau</attrib>
+		</entry>
+		<entry id="e237000">
+			<attrib type="orth" lastmodified="1217790006">J'ai trop d'eau</attrib>
+		</entry>
+		<entry id="e238000">
+			<attrib type="orth" lastmodified="1217790006">J'ai un litre d'eau</attrib>
+		</entry>
+		<entry id="e239000">
+			<attrib type="orth" lastmodified="1217790006">J'ai cinq bouteilles d'eau</attrib>
+		</entry>
+		<entry id="e240000">
+			<attrib type="orth" lastmodified="1217790006">J'ai plus d'eau</attrib>
+		</entry>
+		<entry id="e241000">
+			<attrib type="orth" lastmodified="1217790006">J'ai moins d'eau</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" author="3324" lastmodified="1227720448">J'ai seulement de l'eau</attrib>
+		</entry>
+		<entry id="e243000">
+			<attrib type="orth" author="3324" lastmodified="1227720448">J'ai aussi de l'eau</attrib>
+		</entry>
+		<entry id="e244000">
+			<attrib type="orth" author="3324" lastmodified="1227720448">J'ai déjà de l'eau</attrib>
+		</entry>
+		<entry id="e245000">
+			<attrib type="orth" author="3324" lastmodified="1227720448">J'ai toujours de l'eau</attrib>
+		</entry>
+	</entries>
+</ulr>

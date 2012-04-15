@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="ga">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="jbflanman">An Préachán agus an Crúsca</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="jbflanman">Faigh Préachán glic deoch!</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="jbflanman">Fuair préachán tartmhar crúsca le uisce ann, ach nil a dhóthain de aige go déan a dhícheall, ní féidir leis é a shroichint le a ghob, agus feichtear dó go gheobhadh sé bás de tart ar amharc an leigheas.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="jbflanman">Cheap sé beart glic ar deireadh thiar. Bhíodh sé ag titeadh méaróga isteach sa crúscá, agus d'ardaigh an uisce le gach méaróg go bhí sé lan go béal ar deireadh thiar, agus gurbh fhéidir an éan eolach do thart a chosc.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="jbflanman">Gineann an gá an gniomh.</attrib>
+		</entry>
+	</entries>
+</ulr>

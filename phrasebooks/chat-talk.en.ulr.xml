@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chat-talk" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="14331" lastmodified="1230032399">chat-talk </attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="14331">Here goes a text describing your resource!</attrib>
+		</entry>
+		<entry id="e1">
+			<attrib type="orth">Replace this text with an actual phrase! Then use the plus button on the far left to add a second phrase, and so on.</attrib>
+		</entry>
+	</entries>
+</ulr>

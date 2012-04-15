@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="ro">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="donraulo">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="donraulo">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="donraulo">te iubesc</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="donraulo">furtuna ajunge la plaja</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="donraulo">acesti oameni aud un sunet puternic</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="donraulo">primesc lampa rosie</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="donraulo">ea vede o pasare mica</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="donraulo">noi gasim o cladire veche</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="donraulo">imi caut cheile</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="donraulo">iti ating capul</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="donraulo">ea vrea o masina noua alba</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="donraulo">ea deschide fereastra sparta</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="donraulo">Fata puternica inchide usa grea si neagra</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="donraulo">El rezolva problema ingrozitoare</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="donraulo">Criminalul suparat pierde o gramada de bani pretiosi/importanti</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="donraulo">Ei gusta mancarea delicioasa</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="donraulo">Politistul are o opinie diferita</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="donraulo">Colegii beau cafea rece si ceai fierbinte</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="donraulo">Compania bogata vinde legume verzi</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="donraulo">Ei cumpara zece carti noi</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="donraulo">urechea ei dreapta o doare</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="donraulo">cunosc persoana inalta</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth" author="donraulo">doamna slabuta il urmeaza pe seful ei gras</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth" author="donraulo">computerul rapid isi schimba culoarea</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="donraulo">au ales unealta gresita</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" author="donraulo">Familia mea invită vecinii prietenoşi</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="donraulo">le multumim studentilor plictisitori</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth" author="donraulo">sotului ei ii plac serile</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="donraulo">ea isi citeste ziarul</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="donraulo">omul cel sarac poarta haine murdare</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="donraulo">animalul cel puternic se intalneste cu pestele cel slab</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="donraulo">eu platesc 200 euro</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="donraulo">Ei îi plac limbile frumoase</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth" author="donraulo">furtuna ajunge la plaja</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth" author="donraulo">oamenii construiesc un oficiu mic</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="donraulo">el are ochi albastri</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="donraulo">azi ninge</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="donraulo">el va deveni o persoana importanta</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="donraulo">eu sunt la aeroportul international</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="donraulo">Ea are mâinile curate</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="donraulo">el este un baiat tanar</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="donraulo">ea este doctor</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="donraulo">sunt fericit/a</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth" author="donraulo">m-am udat de la ploaie</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="donraulo">calului ii este frica</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="donraulo">cainele alb a fost surprins</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth" author="donraulo">societatea moderna este foarte avansata</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="donraulo">Cauza coliziunii este necunoscută</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="donraulo">iti dau un cadou</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="donraulo">el mi-a pus o intrebare dificila</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="donraulo">am primit un mesaj de la mama mea</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="donraulo">scriu o scrisoare tatalui meu</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="donraulo">ei traiesc intr-un oras mic</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="donraulo">Câinele stă in spatele televizorului</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="donraulo">pisica sta pe podea</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="donraulo">copii se joaca afara</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="donraulo">Ea vorbeşte despre universitatea ei</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="donraulo">ei pleca in camera in liniste</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="donraulo">el raspunde profesorului</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="donraulo">ma plimb in fata casei mele</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="donraulo">ea doarme in patul ei</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="donraulo">avionul zboara deasupra muntilor</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth" author="donraulo">am alergat prin gradina mare</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" author="donraulo">Cartea este pe masă</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth" author="donraulo">am intrat in magazin cu tine</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth" author="donraulo">am ajuns in oras cu trenul</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth" author="donraulo">copacul creste foarte repede</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" author="donraulo">el lucreaza intr-o mica fabrica</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth" author="donraulo">presendintele posac cade in nas</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" author="donraulo">cu siguranta credem in Dumnezeu</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth" author="donraulo">Mă plâng în legătură cu preţul</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth" author="donraulo">ea arunca mingea scumpa la mine</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth" author="donraulo">Bunicul bolnav, a murit lângă spital</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth" author="donraulo">am inteles frazele de pe pagina asta</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth" author="donraulo">bunica ii spune nepotului o poveste interesanta</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" author="donraulo">noi speram ca el invata bine</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth" author="donraulo">el tine un cutit in mana dreapta</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth" author="donraulo">destinatia noastra se afla intre cele doua lacuri</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth" author="donraulo">el gateste un meniu de baza pentru prietena lui</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth" author="donraulo">fata arata foarte frumos seara</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="donraulo">animalul cel violent a iesit afara din cusca sa</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="donraulo">eu compar legile noastre cu ale voastre</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth" author="donraulo">conduc spre capitala noastra din est</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth" author="donraulo">oamenii morti sunt ingropati adanc in sol</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="donraulo">preotul/imam/rabin sta sub norul luminos</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth" author="donraulo">puisorul de deasupra capului meu zboara aproape de parintii lui</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth" author="donraulo">ma refugiez in scoala distrusa</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth" author="donraulo">apa aceasta vine dintr-o loc indepartat</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="donraulo">m-am gandit mult la viata</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth" author="donraulo">Când vine prietenul tău?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth" author="donraulo">Cât de mult îţi aminteşti?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth" author="donraulo">cati oameni te vor ajuta</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth" author="donraulo">de ce furi lucrurile astea</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="donraulo">cati ani ai?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth" author="donraulo">cum ai creat acest produs?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth" author="donraulo">cine este cel mai inteligent om de pe pamant?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth" author="donraulo">ce ai descoperit in mare?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth" author="donraulo">Ce sandwich preferi?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth" author="donraulo">de unde esti?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" author="donraulo">unde te duci?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth" author="donraulo">exista acel magazin?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth" author="donraulo">care este motivul acestei investigatii?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth" author="donraulo">care autobuze sunt gata de plecare?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth" author="donraulo">vreau doar sa mananc ceva</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth" author="donraulo">nu visez niciodata</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth" author="donraulo">el ajunge intodeauna devreme</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth" author="donraulo">uneori el are dreptate</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="donraulo">noi nu castigam nimic</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth" author="donraulo">noi luptam de obicei impotriva dusmanilor nostrii</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth" author="donraulo">noi pierdem de obicei la acest joc</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth" author="donraulo">imi doresc sa fie deja maine</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth" author="donraulo">sunt multe stele in spatiu</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth" author="donraulo">Frecvent îşi arată trupul gol</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth" author="donraulo">noi ne ascundem foarte rar ideile</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth" author="donraulo">el rade la unele glume</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" author="donraulo">ma uit peste tot</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth" author="donraulo">lui nu-i e frica de nimeni</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth" author="donraulo">ea danseaza cu cineva pe strada</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth" author="donraulo">poti sa-ti alegi orice iti place</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth" author="donraulo">sotia mea face sex cu mine in fiecare noapte</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth" author="donraulo">iti ofer doua flori gratis</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth" author="donraulo">el canta in timp ce parintii sai il asculta</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth" author="donraulo">noi am mancat dupa ce am fost la cinema</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth" author="donraulo">noi am vazut hotelul inainte ca ei sa-l poata vedea</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth" author="donraulo">poti sa cureti camera asta inainte sa se intoarca proprietarul</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth" author="donraulo">Încerc să fiu interesat de politică, pentru că trebuie să votez luna viitoare</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth" author="donraulo">acest pahar este gol, dar celalalt este plin</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth" author="donraulo">Strigă pentru ca toată lumea să-i observe.</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth" author="donraulo">Îţi permit să faci aceasta, deşi fratele meu o interzice.</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth" author="donraulo">Sunt obosit, deci nu mă voi trezi.</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth" author="donraulo">Vreau să ucid prizonierii răi, exceptându-l (exceptând-o) pe cel (cea) cu părul blond.</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth" author="donraulo">Criminalul ar fi trebuit să fie condamnat, însă a fost eliberat.</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth" author="donraulo">A trecut mult de când ne-am întâlnit ultima oară.</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth" author="donraulo">Nu mai am veşti de la ea de azi dimineata.</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth" author="donraulo">În ciuda pericolului, el a intrat în casa întunecată de vizavi de biserică/moschee/templu.</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth" author="donraulo">Alcoolul era interzis, după tatăl meu.</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth" author="donraulo">Îmi place această zonă, datorită fascinantei ei istorii.</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth" author="donraulo">M-am refugiat în şcoala afectată.</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth" author="donraulo">Această apă vine de departe.</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth" author="donraulo">M-am odihnit in timpul vacantei.</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth" author="donraulo">Am aşteptat să vină sora mea.</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth" author="donraulo">El demonstrează că are dreptate.</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth" author="donraulo">Noi credem că nu este posibil.</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth" author="donraulo">Ea zâmbeşte iar el o sărută.</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth" author="donraulo">Tot nu suntem de acord cu soluţia lui.</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" author="donraulo">Ştiu ce gândeşti.</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth" author="donraulo">Femeia ştie (cum) să coacă pâinea.</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth" author="donraulo">Pot să văd câteva cuvinte.</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth" author="donraulo">Sunt mai mare ca tine.</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth" author="donraulo">El este la fel de mic ca tine.</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth" author="donraulo">El incepe să-şi urască şcoala.</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth" author="donraulo">Ea termină studiul acestei materii dificile.</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth" author="donraulo">Au încetat să se mai gândească la guvern.</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth" author="donraulo">Ne continuăm munca.</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth" author="donraulo">Se pregătesc să abandoneze nava.</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth" author="donraulo">Trebuie să uit ce am văzut.</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth" author="donraulo">Eşti un om prost, dacă accepţi acea explicaţie ciudată.</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth" author="donraulo">Voi veni în ţara ta dacă nu plouă.</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth" author="donraulo">Fata oarbă putea mirosi foarte bine.</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth" author="donraulo">ieri toate problemele mele erau departe</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth" author="donraulo">Nu l-am văzut de trei ani.</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth" author="donraulo">Îl aştept să mă viziteze de cinci ore.</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth" author="donraulo">Decid să le ignor decizia.</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth" author="donraulo">Repet concluzia mea.</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth" author="donraulo">Învăţ elevii să numere până la 10.</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth" author="donraulo">Poţi să traduci acest text in engleză ?</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth" author="donraulo">Mi-a fost imposibil să recunosc semnificaţia.</attrib>
+		</entry>
+		<entry id="167">
+			<attrib type="orth" author="donraulo">Îmi aduci tu valiza sau trebuie să o duc singur?</attrib>
+		</entry>
+		<entry id="168">
+			<attrib type="orth" author="donraulo">Încă nu am reuşit să învăţ lecţia.</attrib>
+		</entry>
+		<entry id="169">
+			<attrib type="orth" author="donraulo">Aceasta este probabil o greşeală foarte frecventă.</attrib>
+		</entry>
+		<entry id="170">
+			<attrib type="orth" author="donraulo">Din fericire sunt sănătos de obicei. Din păcate, cu toate acestea, m-am rănit la picior.</attrib>
+		</entry>
+		<entry id="171">
+			<attrib type="orth" author="donraulo">Vremea este frumoasă, ba mai mult soarele a strălucit toată ziua.</attrib>
+		</entry>
+		<entry id="172">
+			<attrib type="orth" author="donraulo">Ştii dacă poate face rost de vin pentru petrecere?</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth" author="donraulo">Religia mea este aceeaşi ca înainte.</attrib>
+		</entry>
+		<entry id="174">
+			<attrib type="orth" author="donraulo">O armată este inutilă dacă nu este război, ci pace.</attrib>
+		</entry>
+		<entry id="175">
+			<attrib type="orth" author="donraulo">Soldaţii internaţionali au împuşcat un pasager nevinovat.</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth" author="donraulo">Este puţin probabil că se va întâmpla vreodată.</attrib>
+		</entry>
+		<entry id="177">
+			<attrib type="orth" author="donraulo">Pare că e timpul să plec.</attrib>
+		</entry>
+		<entry id="178">
+			<attrib type="orth" author="donraulo">Vârsta mea este considerată secret / Vârsta mea este secretă.</attrib>
+		</entry>
+		<entry id="179">
+			<attrib type="orth" author="donraulo">in cursul asta ar trebui sa folosim un dictionar si un calculator</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth" author="donraulo">Îmi e teamă să termin ceea ce am început.</attrib>
+		</entry>
+		<entry id="181">
+			<attrib type="orth" author="donraulo">nu am nici o sansa sa imi compar desenele cu ale tale</attrib>
+		</entry>
+		<entry id="182">
+			<attrib type="orth" author="donraulo">Dispozitivul (aparatul) electric, generează (produce) multă energie</attrib>
+		</entry>
+		<entry id="183">
+			<attrib type="orth" author="donraulo">Sugerez să nu mergeti înspre nord, ci înspre sud.</attrib>
+		</entry>
+		<entry id="184">
+			<attrib type="orth" author="donraulo">Mă simt rău. De fapt, mă simt mai rău ca săptămâna trecută</attrib>
+		</entry>
+		<entry id="185">
+			<attrib type="orth" author="donraulo">Bebeluşii nu pot într-adevăr să vorbească încă.</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth" author="donraulo">Consecinţele trebuie să fie confirmate imediat.</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth" author="donraulo">colegii mei se jucau impreuna dar eu stateam singur intr-un colt</attrib>
+		</entry>
+		<entry id="190">
+			<attrib type="orth" author="donraulo">copilul a vrut sa fie dragut cu ei dar cu toate acestea ei nu l-au placut</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth" author="donraulo">profesorul meu/profesoara mea spune ca nu ar trebui sa zic astefel de lucruri</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth" author="donraulo">mama mea credea mereu ca eu am nevoie de mai multa atentie</attrib>
+		</entry>
+	</entries>
+</ulr>

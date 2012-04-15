@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="lv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="hekate">Ziemeļvējš un Saule</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="hekate">Vējš un saule sacenšas.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="hekate">Starp Ziemeļvēju un Sauli izcēlās strīds par to, kurš no abiem ir stiprāks. Beidzot tie piekrita izmēģināt savus spēkus uz kādu ceļotāju, lai redzētu, kurš ātrāk var tam noraut mēteli.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="hekate">Vispirms mēģināja Ziemeļvējš; un, uzbrukumam sakopojot visu savu spēku, viņš, nikni griezdamies, vērsās pret vīru un sagrāba viņu aiz mēteļa, domājot, ka var to noraut ar vienu piegājienu: bet, jo stiprāk Ziemeļvējš pūta, jo ciešāk vīrs ietinās mētelī.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="hekate">Tad pienāca Saules kārta. Vispirms viņa maigi uzsmaidīja ceļiniekam, kurš drīz vien atpogāja savu mēteli un gāja, ļaujot tam vaļīgi karāties uz pleciem: tad Saule turpināja spīdēt ar visu savu spēku, un vīrs, pirms viņš bija nogājis daudz soļu, bija priecīgs novilkt savu mēteli un pabeigt savu ceļojumu vieglāk tērpies.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="hekate">Pierunāšana ir labāka nekā spēks.</attrib>
+		</entry>
+	</entries>
+</ulr>

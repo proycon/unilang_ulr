@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="ca">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Original: Abavagada / Català: Núria Harket">El lleó i el ratolí</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Original: Abavagada / Català: Núria Harket">Un ratolí ajuda un lleó.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Original: Abavagada / Català: Núria Harket">Un lleó adormit al seu cau  va ser despertat per un ratolí que li corria  per la cara. Enfadat, el va atrapar amb la seva urpa I estava a punt de matar-lo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Original: Abavagada / Català: Núria Harket">El ratolí, esfereït, li suplicà llastimosament que li perdonés la vida. &quot;Si us plau, deixa’m anar”- plorava/cridava I un dia et tornaré el favor per la teva bondat.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Original: Abavagada / Català: Núria Harket">La idea de que una criatura tan insignificant Fós capaç algun cop de fer quelcom per ell va divertir tant el lleó que va començar a riure ben fort i amb bonhomia (amablement) el va deixar marxar.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Original: Abavagada / Català: Núria Harket">Però l’ oportunidad del ratolí va arribar, finalment..</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Original: Abavagada / Català: Núria Harket">Un dia el lleó es  va enredar en una xarxa que habia estat posada per uns caçadors, i el ratolí eva sentir i reconéixer els seus rugits de ràbia i va córrer fins allí. Sense rumiar-so gens es va posar a treballar per rosegar les cordes amb les seves dents, i aviat va aconseguir alliberar el lleó.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Original: Abavagada / Català: Núria Harket">&quot;Ja està!&quot; va dir el ratolí, “te’n vas riure de mi quan et vaig prometre que et tornaria el favor: però ara ja ho veus, fins i tot un ratolí pot ajudar un lleó.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

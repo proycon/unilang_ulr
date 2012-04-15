@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="ro">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" author="6811" lastmodified="1227939221">Sunt fericit</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="6811" lastmodified="1227939221">Nu sunt fericit</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="6811" lastmodified="1227939221">Eram fericit</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="6811" lastmodified="1227939221">Și ea este fericită</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="14919" lastmodified="1234429259">Sîntem amîndoi mulţumiţi</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="14919" lastmodified="1234429259">Devin fericit</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" author="14919" lastmodified="1234429259">Rămîn fericit</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" author="14919" lastmodified="1234429259">Eşti fie bogat, fie sărac</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="14919" lastmodified="1234429259">Nu eşti nici mulţumit, nici trist</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="14919" lastmodified="1234429259">Acesta e un copac mare</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="14919" lastmodified="1234429259">Acela e un copac mare</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" author="6811" lastmodified="1227939308">Beau ceai după ce am citit cartea mea</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="gramcon" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="en" stats="249" />
+		<language lang="nl" stats="221" />
+		<language lang="fr" stats="245" />
+		<language lang="es" stats="246" />
+		<language lang="pt" stats="205" />
+		<language lang="it" stats="245" />
+		<language lang="de" stats="237" />
+		<language lang="ru" stats="219" />
+		<language lang="zh" stats="93" />
+		<language lang="zh.Hans" stats="93" />
+		<language lang="el" stats="2" />
+		<language lang="ar" stats="203" />
+		<language lang="bg" stats="230" />
+		<language lang="pl" stats="217" />
+		<language lang="ja" stats="132" />
+		<language lang="la" stats="50" />
+		<language lang="pt-BR" stats="5" />
+		<language lang="pt-PT" stats="4" />
+		<language lang="ro" stats="12" />
+		<language lang="hu" stats="44" />
+		<language lang="lv" stats="108" />
+		<language lang="uk" stats="18" />
+		<language lang="gl" stats="15" />
+		<language lang="esAR" stats="20" />
+		<language lang="hr" stats="13" />
+		<language lang="sl" stats="24" />
+		<language lang="no" stats="67" />
+		<language lang="sk" stats="55" />
+		<language lang="lt" stats="55" />
+		<language lang="sv" stats="88" />
+		<language lang="esNI" stats="6" />
+		<language lang="ptBR" stats="76" />
+		<language lang="et" stats="124" />
+	</languages>
+	<authors>
+		<author id="proycon" langs="en,nl,fr,es,pt,it,de,zh,ru,ar,el" lastmodified="1217790006" />
+		<author id="Aberine" langs="bg" lastmodified="1217790006" />
+		<author id="minus273" langs="zh" lastmodified="1217790006" />
+		<author id="Stacy" langs="fi" lastmodified="1217790006" />
+		<author id="zoroa" langs="fr" lastmodified="1217790006" />
+		<author id="bab" langs="de" lastmodified="1217790006" />
+		<author id="om" langs="de" lastmodified="1217790006" />
+		<author id="nighmi" langs="de,la" lastmodified="1217790006" />
+		<author id="alea" langs="it" lastmodified="1217790006" />
+		<author id="Italiensk_Mann" langs="it" lastmodified="1217790006" />
+		<author id="arti" langs="pl" lastmodified="1217790006" />
+		<author id="Nord" langs="ru" lastmodified="1217790006" />
+		<author id="lisica" langs="ru" lastmodified="1217790006" />
+		<author id="Pasajero" langs="es" lastmodified="1217790006" />
+		<author id="angasule" langs="es" lastmodified="1217790006" />
+		<author id="shak" langs="es" lastmodified="1217790006" />
+		<author id="Albs" langs="es" lastmodified="1217790006" />
+		<author id="CuteLoverlyGurl" langs="ar" lastmodified="1217790006" />
+		<author id="karo" langs="ar" lastmodified="1217790006" />
+		<author id="3" langs="en,nl" lastmodified="1219342092" />
+		<author id="12501" langs="en,it" lastmodified="1227475734" />
+		<author id="3324" langs="fr" lastmodified="1228833502" />
+		<author id="6811" langs="en,ro" lastmodified="1227939676" />
+		<author id="12803" langs="fr,es" lastmodified="1239581075" />
+		<author id="13323" langs="hu" lastmodified="1228116678" />
+		<author id="13645" langs="lv" lastmodified="1230648952" />
+		<author id="14244" langs="uk" lastmodified="1229891565" />
+		<author id="10726" langs="it" lastmodified="1231158972" />
+		<author id="14479" langs="gl" lastmodified="1231328532" />
+		<author id="12790" langs="en,es,esAR,esNI,ar,fr" lastmodified="1283226831" />
+		<author id="7754" langs="hr" lastmodified="1232576722" />
+		<author id="13156" langs="sl" lastmodified="1232836989" />
+		<author id="2788" langs="no" lastmodified="1232902332" />
+		<author id="1149" langs="sk" lastmodified="1233081622" />
+		<author id="14919" langs="ro" lastmodified="1234429259" />
+		<author id="15181" langs="hu" lastmodified="1235917448" />
+		<author id="11491" langs="de,fr" lastmodified="1238131848" />
+		<author id="1059" langs="de" lastmodified="1244926770" />
+		<author id="9000" langs="bg" lastmodified="1247514185" />
+		<author id="15018" langs="lt" lastmodified="1246093846" />
+		<author id="16336" langs="uk" lastmodified="1246576845" />
+		<author id="16844" langs="pt" lastmodified="1247926335" />
+		<author id="17800" langs="hu" lastmodified="1255126612" />
+		<author id="6594" langs="sv" lastmodified="1257554434" />
+		<author id="13070" langs="fr" lastmodified="1261504216" />
+		<author id="18968" langs="ptBR,pt" lastmodified="1264940196" />
+		<author id="18884" langs="et" lastmodified="1281264195" />
+		<author id="4085" langs="it,en" lastmodified="1268239129" />
+		<author id="20282" langs="it" lastmodified="1274974602" />
+		<author id="741" langs="no" lastmodified="1292546813" />
+	</authors>
+	<categories>
+		<category id="e1000" entries="e2000,e3000,e4000,e5000,e6000,e7000,e8000,e9000,e10000,e11000,e12000,e13000,e14000" />
+		<category id="e15000" entries="e16000" />
+		<category id="e17000" entries="e18000,e19000,e20000,e21000,e22000,e23000,e24000,e25000,e26000,e27000,e28000,e29000,e30000,e31000,e32000,e33000" />
+		<category id="e34000" entries="e35000,e36000,e37000,e38000,e39000,e40000,e41000,e42000,e43000,e44000,e45000,e46000,e47000" />
+		<category id="e48000" entries="e49000,e50000,e51000,e52000,e53000,e54000" />
+		<category id="e55000" entries="e56000,e57000,e58000,e59000,e60000,e61000" />
+		<category id="e62000" entries="e63000,e64000,e65000,e66000,e67000,e68000,e69000,e70000,e71000" />
+		<category id="e72000" entries="e73000,e74000,e75000,e76000,e77000,e78000,e79000,e80000" />
+		<category id="e81000" entries="e82000" />
+		<category id="e83000" entries="e84000,e85000,e86000,e87000" />
+		<category id="e88000" entries="e89000,e90000,e91000,e92000" />
+		<category id="e93000" entries="e94000,e95000,e96000,e97000,e98000,e99000,e100000,e101000,e102000" />
+		<category id="e103000" entries="e104000,e105000,e106000,e107000" />
+		<category id="e108000" entries="e109000,e110000,e111000,e112000,e113000,e114000" />
+		<category id="e115000" entries="e116000,e117000,e118000,e119000,e120000,e121000" />
+		<category id="e122000" entries="e123000,e124000" />
+		<category id="e125000" entries="e126000,e127000,e128000,e129000,e130000,e131000,e132000" />
+		<category id="e133000" entries="e134000,e135000,e136000,e137000,e138000,e139000,e140000,e141000,e142000,e143000,e144000" />
+		<category id="e145000" entries="e146000,e147000,e148000,e149000,e150000,e151000" />
+		<category id="e152000" entries="e153000,e154000" />
+		<category id="e155000" entries="e156000,e157000,e158000,e159000,e160000,e161000,e162000,e163000,e164000,e165000,e166000,e167000,e168000,e169000,e170000,e171000,e172000,e173000,e174000,e175000" />
+		<category id="e176000" entries="e177000,e178000,e179000,e180000,e181000,e182000,e183000,e184000" />
+		<category id="e185000" entries="e186000,e187000" />
+		<category id="e188000" entries="e189000,e190000,e191000,e192000,e193000,e194000,e195000" />
+		<category id="e196000" entries="e197000,e198000,e199000,e200000,e201000,e202000,e203000,e204000,e205000,e206000,e207000,e208000,e209000,e210000,e211000,e212000,e213000,e214000,e215000,e216000,e217000,e218000,e219000,e220000,e221000,e222000,e223000,e224000,e225000,e226000,e227000,e228000,e229000,e230000,e231000,e232000,e233000" />
+		<category id="e234000" entries="e235000,e236000,e237000,e238000,e239000,e240000,e241000,e242000,e243000,e244000,e245000" />
+	</categories>
+	<entries order="bycategory_strict">
+		<entry id="title" type="title" />
+		<entry id="description" type="description" />
+		<entry id="e1000" type="category" />
+		<entry id="e2000" type="phrase" />
+		<entry id="e2500" type="phrase" />
+		<entry id="e3000" type="phrase" />
+		<entry id="e4000" type="phrase" />
+		<entry id="e5000" type="phrase" />
+		<entry id="e6000" type="phrase" />
+		<entry id="e7000" type="phrase">
+			<attrib type="comment" lastmodified="1217790006">The validity of this entry is disputed! It may perhaps better be removed or edited</attrib>
+		</entry>
+		<entry id="e8000" type="phrase">
+			<attrib type="comment" lastmodified="1217790006">The validity of this entry is disputed! It may perhaps better be removed or edited</attrib>
+		</entry>
+		<entry id="e9000" type="phrase" />
+		<entry id="e10000" type="phrase" />
+		<entry id="e11000" type="phrase" />
+		<entry id="e12000" type="phrase" />
+		<entry id="e13000" type="phrase" />
+		<entry id="e14000" type="phrase" />
+		<entry id="e15000" type="category" />
+		<entry id="e16000" type="phrase" />
+		<entry id="e17000" type="category" />
+		<entry id="e18000" type="phrase" />
+		<entry id="e19000" type="phrase" />
+		<entry id="e20000" type="phrase" />
+		<entry id="e21000" type="phrase" />
+		<entry id="e22000" type="phrase" />
+		<entry id="e23000" type="phrase" />
+		<entry id="e24000" type="phrase" />
+		<entry id="e25000" type="phrase">
+			<attrib type="comment" lastmodified="1217790006">The validity of this entry is disputed! It may perhaps better be removed or edited</attrib>
+		</entry>
+		<entry id="e26000" type="phrase" />
+		<entry id="e27000" type="phrase" />
+		<entry id="e28000" type="phrase" />
+		<entry id="e29000" type="phrase" />
+		<entry id="e30000" type="phrase" />
+		<entry id="e31000" type="phrase" />
+		<entry id="e32000" type="phrase" />
+		<entry id="e33000" type="phrase" />
+		<entry id="e34000" type="category" />
+		<entry id="e35000" type="phrase" />
+		<entry id="e36000" type="phrase" />
+		<entry id="e37000" type="phrase" />
+		<entry id="e38000" type="phrase" />
+		<entry id="e39000" type="phrase" />
+		<entry id="e40000" type="phrase" />
+		<entry id="e41000" type="phrase" />
+		<entry id="e42000" type="phrase" />
+		<entry id="e43000" type="phrase" />
+		<entry id="e44000" type="phrase" />
+		<entry id="e45000" type="phrase" />
+		<entry id="e46000" type="phrase" />
+		<entry id="e47000" type="phrase" />
+		<entry id="e48000" type="category" />
+		<entry id="e49000" type="phrase" />
+		<entry id="e50000" type="phrase" />
+		<entry id="e51000" type="phrase" />
+		<entry id="e52000" type="phrase" />
+		<entry id="e53000" type="phrase" />
+		<entry id="e54000" type="phrase" />
+		<entry id="e55000" type="category" />
+		<entry id="e56000" type="phrase" />
+		<entry id="e57000" type="phrase" />
+		<entry id="e58000" type="phrase" />
+		<entry id="e59000" type="phrase" />
+		<entry id="e60000" type="phrase" />
+		<entry id="e61000" type="phrase" />
+		<entry id="e62000" type="category" />
+		<entry id="e63000" type="phrase" />
+		<entry id="e64000" type="phrase" />
+		<entry id="e65000" type="phrase" />
+		<entry id="e66000" type="phrase" />
+		<entry id="e67000" type="phrase" />
+		<entry id="e68000" type="phrase" />
+		<entry id="e1258229171549" type="phrase" />
+		<entry id="e69000" type="phrase" />
+		<entry id="e70000" type="phrase" />
+		<entry id="e71000" type="phrase" />
+		<entry id="e72000" type="category" />
+		<entry id="e73000" type="phrase" />
+		<entry id="e74000" type="phrase" />
+		<entry id="e75000" type="phrase">
+			<attrib type="comment" lastmodified="1217790006">The validity of this entry is disputed! It may perhaps better be removed or edited</attrib>
+		</entry>
+		<entry id="e76000" type="phrase">
+			<attrib type="comment" lastmodified="1217790006">The validity of this entry is disputed! It may perhaps better be removed or edited</attrib>
+		</entry>
+		<entry id="e77000" type="phrase" />
+		<entry id="e78000" type="phrase" />
+		<entry id="e79000" type="phrase" />
+		<entry id="e80000" type="phrase" />
+		<entry id="e81000" type="category" />
+		<entry id="e82000" type="phrase" />
+		<entry id="e83000" type="category" />
+		<entry id="e84000" type="phrase" />
+		<entry id="e85000" type="phrase" />
+		<entry id="e86000" type="phrase" />
+		<entry id="e87000" type="phrase" />
+		<entry id="e88000" type="category" />
+		<entry id="e89000" type="phrase" />
+		<entry id="e90000" type="phrase" />
+		<entry id="e91000" type="phrase" />
+		<entry id="e92000" type="phrase" />
+		<entry id="e93000" type="category" />
+		<entry id="e94000" type="phrase" />
+		<entry id="e95000" type="phrase" />
+		<entry id="e96000" type="phrase" />
+		<entry id="e97000" type="phrase" />
+		<entry id="e98000" type="phrase" />
+		<entry id="e99000" type="phrase" />
+		<entry id="e100000" type="phrase" />
+		<entry id="e101000" type="phrase" />
+		<entry id="e102000" type="phrase" />
+		<entry id="e103000" type="category" />
+		<entry id="e104000" type="phrase" />
+		<entry id="e105000" type="phrase" />
+		<entry id="e106000" type="phrase" />
+		<entry id="e107000" type="phrase" />
+		<entry id="e108000" type="category" />
+		<entry id="e109000" type="phrase" />
+		<entry id="e110000" type="phrase" />
+		<entry id="e111000" type="phrase" />
+		<entry id="e112000" type="phrase" />
+		<entry id="e113000" type="phrase" />
+		<entry id="e114000" type="phrase" />
+		<entry id="e115000" type="category" />
+		<entry id="e116000" type="phrase" />
+		<entry id="e117000" type="phrase" />
+		<entry id="e118000" type="phrase" />
+		<entry id="e119000" type="phrase" />
+		<entry id="e120000" type="phrase" />
+		<entry id="e121000" type="phrase" />
+		<entry id="e122000" type="category" />
+		<entry id="e123000" type="phrase" />
+		<entry id="e124000" type="phrase" />
+		<entry id="e125000" type="category" />
+		<entry id="e126000" type="phrase" />
+		<entry id="e127000" type="phrase" />
+		<entry id="e128000" type="phrase" />
+		<entry id="e129000" type="phrase" />
+		<entry id="e130000" type="phrase" />
+		<entry id="e131000" type="phrase" />
+		<entry id="e132000" type="phrase" />
+		<entry id="e133000" type="category" />
+		<entry id="e134000" type="phrase" />
+		<entry id="e135000" type="phrase" />
+		<entry id="e136000" type="phrase" />
+		<entry id="e137000" type="phrase" />
+		<entry id="e138000" type="phrase" />
+		<entry id="e139000" type="phrase" />
+		<entry id="e140000" type="phrase" />
+		<entry id="e141000" type="phrase" />
+		<entry id="e142000" type="phrase" />
+		<entry id="e143000" type="phrase" />
+		<entry id="e144000" type="phrase" />
+		<entry id="e145000" type="category" />
+		<entry id="e146000" type="phrase" />
+		<entry id="e147000" type="phrase" />
+		<entry id="e148000" type="phrase" />
+		<entry id="e149000" type="phrase" />
+		<entry id="e150000" type="phrase" />
+		<entry id="e151000" type="phrase" />
+		<entry id="e152000" type="category" />
+		<entry id="e153000" type="phrase" />
+		<entry id="e154000" type="phrase" />
+		<entry id="e155000" type="category" />
+		<entry id="e156000" type="phrase" />
+		<entry id="e157000" type="phrase" />
+		<entry id="e158000" type="phrase" />
+		<entry id="e159000" type="phrase" />
+		<entry id="e160000" type="phrase" />
+		<entry id="e161000" type="phrase" />
+		<entry id="e162000" type="phrase" />
+		<entry id="e163000" type="phrase" />
+		<entry id="e164000" type="phrase" />
+		<entry id="e165000" type="phrase" />
+		<entry id="e166000" type="phrase" />
+		<entry id="e167000" type="phrase" />
+		<entry id="e168000" type="phrase" />
+		<entry id="e169000" type="phrase" />
+		<entry id="e170000" type="phrase" />
+		<entry id="e171000" type="phrase" />
+		<entry id="e172000" type="phrase" />
+		<entry id="e173000" type="phrase" />
+		<entry id="e174000" type="phrase" />
+		<entry id="e175000" type="phrase" />
+		<entry id="e176000" type="category" />
+		<entry id="e177000" type="phrase" />
+		<entry id="e178000" type="phrase" />
+		<entry id="e179000" type="phrase" />
+		<entry id="e180000" type="phrase" />
+		<entry id="e181000" type="phrase" />
+		<entry id="e182000" type="phrase" />
+		<entry id="e183000" type="phrase" />
+		<entry id="e184000" type="phrase" />
+		<entry id="e185000" type="category" />
+		<entry id="e186000" type="phrase" />
+		<entry id="e187000" type="phrase" />
+		<entry id="e188000" type="category" />
+		<entry id="e189000" type="phrase" />
+		<entry id="e190000" type="phrase" />
+		<entry id="e191000" type="phrase" />
+		<entry id="e192000" type="phrase" />
+		<entry id="e193000" type="phrase" />
+		<entry id="e194000" type="phrase" />
+		<entry id="e195000" type="phrase" />
+		<entry id="e196000" type="category" />
+		<entry id="e197000" type="phrase" />
+		<entry id="e198000" type="phrase" />
+		<entry id="e199000" type="phrase" />
+		<entry id="e200000" type="phrase" />
+		<entry id="e201000" type="phrase" />
+		<entry id="e202000" type="phrase" />
+		<entry id="e203000" type="phrase" />
+		<entry id="e204000" type="phrase" />
+		<entry id="e205000" type="phrase" />
+		<entry id="e206000" type="phrase" />
+		<entry id="e207000" type="phrase" />
+		<entry id="e208000" type="phrase" />
+		<entry id="e209000" type="phrase" />
+		<entry id="e210000" type="phrase" />
+		<entry id="e211000" type="phrase" />
+		<entry id="e212000" type="phrase" />
+		<entry id="e213000" type="phrase" />
+		<entry id="e214000" type="phrase" />
+		<entry id="e215000" type="phrase" />
+		<entry id="e216000" type="phrase" />
+		<entry id="e217000" type="phrase" />
+		<entry id="e218000" type="phrase" />
+		<entry id="e219000" type="phrase" />
+		<entry id="e220000" type="phrase" />
+		<entry id="e221000" type="phrase" />
+		<entry id="e222000" type="phrase" />
+		<entry id="e223000" type="phrase" />
+		<entry id="e224000" type="phrase" />
+		<entry id="e225000" type="phrase" />
+		<entry id="e226000" type="phrase" />
+		<entry id="e227000" type="phrase" />
+		<entry id="e228000" type="phrase" />
+		<entry id="e229000" type="phrase" />
+		<entry id="e230000" type="phrase" />
+		<entry id="e231000" type="phrase" />
+		<entry id="e232000" type="phrase" />
+		<entry id="e233000" type="phrase" />
+		<entry id="e234000" type="category" />
+		<entry id="e235000" type="phrase" />
+		<entry id="e236000" type="phrase" />
+		<entry id="e237000" type="phrase" />
+		<entry id="e238000" type="phrase" />
+		<entry id="e239000" type="phrase" />
+		<entry id="e240000" type="phrase" />
+		<entry id="e241000" type="phrase" />
+		<entry id="e242000" type="phrase" />
+		<entry id="e243000" type="phrase" />
+		<entry id="e244000" type="phrase" />
+		<entry id="e245000" type="phrase" />
+	</entries>
+</ulr>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="lu:ka">L'Orso e i Viaggiatori</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="lu:ka">Una lezione sugli orsi e sugli amici</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="lu:ka">Due Viaggiatori erano in viaggio insieme, quando improvvisamente un Orso apparve sulla scena. Prima che li guardasse, uno si diresse verso un albero al lato della strada, si arrampicò tra i rami e si nascose lì.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="lu:ka">L'altro non fu agile come il suo compagno; poiché non poteva scappare, si gettò in terra fingendo di essere morto.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="lu:ka">L'Orso arrivò e lo annusò tutt'intorno, ma egli restò perfettamente immobile e trattenne il respiro: poiché dicono che un orso non tocchi un corpo morto. L'Orso lo scambiò per un cadavere e andò via.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="lu:ka">Quando non ci fu più pericolo, il Viaggiatore che era sull'albero scese, e chiese all'altro che cosa gli avesse sussurrato l'Orso quando accostò la bocca al suo orecchio.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="lu:ka">L'altro rispose, &quot;Mi ha detto di non viaggiare più con un amico che ti abbandona al primo segno di pericolo&quot;.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="lu:ka">La disgrazia mette alla prova la sincerità dell'amicizia.</attrib>
+		</entry>
+	</entries>
+</ulr>

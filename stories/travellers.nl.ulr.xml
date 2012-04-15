@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="nl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="aja">De Beer en de Reizigers</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="aja">Een les over beren en vrienden</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="aja">Twee reizigers waren samen op weg, toen plotseling een beer op hun pad verscheen. Voordat hij hen in de gaten kreeg, rende de een naar de boom aan de kant van de weg en klom tussen de takken en verstopte zich daar.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="aja">De ander was niet zo snel als zijn metgezel; en omdat hij niet kon ontsnappen, wierp hij zich op de grond en deed of hij dood was.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="aja">De Beer kwam naderbij en besnuffelde hem overal, maar hij hield zich heel stil en hield ook zijn adem in: want men zegt dat een beer een dood lichaam niet aanraakt. De Beer dacht dat het een lijk was en ging weg.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="aja">Toen de kust veilig was, kwam de Reiziger in de boom naar beneden en vroeg de ander wat de beer hem nu had toegefluisterd toen hij zijn bek tegen zijn oor hield.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="aja">De ander antwoordde: "Hij zei me nooit meer op reis te gaan met een vriend die je bij het eerste teken van gevaar in de steek laat."</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="aja">In de nood leert men zijn vrienden kennen.</attrib>
+		</entry>
+	</entries>
+</ulr>

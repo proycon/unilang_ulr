@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="nl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Proycon">De noorderwind en de zon</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Proycon">De noorderwind en de zon houden een wedstrijd</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Proycon">De noorderwind en de zon kregen ruzie, allebei beweerden ze sterker te zijn dan de ander. Uiteindelijk besloten ze hun krachten op een reiziger te testen, om te zien wie hem het eerst van zijn jas zou kunnen ontdoen.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Proycon">De noorderwind begon als eerste; en, terwijl hij al zijn krachten bijeenraapte voor de aanval, stormde hij woest af op de man, en greep zijn jas alsof hij hem in één klap van hem los zou rukken: maar hoe harder hij blies, hoe dichter de man zijn jas om zich heen sloeg.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Proycon">Toen was de zon aan de beurt. Eerst scheen hij zachtjes op de reiziger, die al snel zijn jas losknoopte en ermee  losjes over de schouders verder liep: toen scheen hij op hem met volle kracht, en de man, nog voordat hij veel stappen had gezet, was maar al te blij zijn jas uit  te kunnen trekken en zijn reis op lichtere voet voort te zetten</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Proycon">Overreden is beter dan kracht</attrib>
+		</entry>
+	</entries>
+</ulr>

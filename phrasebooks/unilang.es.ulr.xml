@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="es">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Océan">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Océan">This is a medium-sized phrasebook containing useful common phrases.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Océan">Expresiones comunes</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Océan">Si</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Océan">No</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Océan">Por favor</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Océan">Aquí tiene</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Océan">Gracias</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Océan">De nada</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Océan">Disculpe</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Océan">Tal vez-Quizás</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Océan">Hola!!!</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Océan">Adios!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Océan">Buen día!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Océan">Buenos dias!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Océan">Buenas tardes!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Océan">Buenas noches!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Océan">Bienvenido!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Océan">Buen viaje!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Océan">Entendiéndose el uno al otro</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Océan">Hablas...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Océan">Yo hablo...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Océan">No hablo...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Océan">Hablo un poco de...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Océan">Inglés</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Océan">Francés</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Océan">Alemán</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Océan">Español</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Océan">Portugués</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Océan">Árabe</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Océan">Chino</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Océan">Hindú</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Océan">Ruso</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Océan">Italiano</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Océan">Holandés</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Océan">Noruego</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Océan">Sueco</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Océan">Danés</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Océan">Polaco</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Océan">Kurdo</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Océan">Persa</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Océan">Japonés</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Océan">Indonesio</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Océan">Malayo</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Océan">Entiendes?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Océan">Me entiendes?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Océan">Entiendo</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Océan">Te entiendo</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Océan">No comprendo</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Océan">No te comprendo</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Océan">Podrías repetirmelo?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Océan">Podría/Podrías (formal/informal) hablar más lento?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Océan">Podría/Podrías (formal/informal) anotarlo por favor?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Océan">No sé como decir esto</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Océan">No sé la palabra correcta</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Océan">Qué dijo/dijiste? (formal/informal)</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Océan">Cómo se dice eso en..?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Océan">Cómo se escribe eso?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Océan">Cómo se pronuncia eso?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) traducirme esto?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Océan">Lo he dicho correctamente?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Océan">Conversacion Básica</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Océan">Cómo está/estás? (formal/informal)</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Océan">Estoy muy bien!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Océan">Estoy bien</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Océan">Estoy bien</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Océan">No estoy tan bien</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Océan">Cuántos años tienes?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Océan">Tengo.... años</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Océan">No lo sé</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Océan">No me gusta eso</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Océan">Estoy listo</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Océan">Vamos!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Océan">Lo siento</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Océan">Negocios</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Océan">Puedo pagar en efectivo?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Océan">Puedo pagar con tarjeta?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Océan">Acepta?/Aceptas? (formal/informal)</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) cambiar estos cheques de viajero?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) cambiar esto a ...</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) darme un costo aproximado?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Océan">Acá tiene/tienes (formal/informal) mi tarjeta.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="Océan">Cuánto cobra/cobras (formal/informal) de comisión?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Océan">Quiero cambiar algunos dólares/euros/libras.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Océan">Cuál es la tasa de cambio?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="Océan">Cuál es la tasa de inflación?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Océan">Dónde puedo cambiar dinero?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Océan">Dónde puedo sacar fotocopias?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Océan">Dónde está el banco más cercano?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Océan">Dónde debo firmar?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Océan">Tiene/Tienes (formal/informal) un catálogo?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Océan">Tengo una cita con ...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Océan">Cuánto cuesta la entrada?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Océan">Cuál es el precio por día?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Océan">Cuál es el precio por hora?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Océan">Cuál es el precio por semana?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Océan">Es gratis?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Océan">Computadoras &amp; Internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Océan">Tienes computadora?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Océan">El disco duro esta lleno</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Océan">Tienes módem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Océan">Tienes conección a internet?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Océan">Puedo enviar un correo electrónico?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Océan">Puedo leer mi correo electrónico?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Océan">Puedo imprimir algo?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Océan">Puedo escanear algo?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Océan">Mi computadora se trabó</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Océan">Necesitas reiniciar</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Océan">Puedo instalar ...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Océan">Cuál es tu correo electrónico?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Océan">Mi correo electrónico es ...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Océan">Tienes una página web?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Océan">Cuál es la dirección?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Océan">Educación</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Océan">Qué estudia/estudias? (formal/informal)</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Océan">Estudio ...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Océan">leyes</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Océan">medicina</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Océan">economía</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Océan">idiomas</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Océan">lingüística</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Océan">matemática</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Océan">química</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Océan">física</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Océan">informática</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Océan">En qué universidad estudia/estudias? (formal/informal)</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Océan">Estudio en ...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Océan">Tengo clases hoy</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Océan">Estoy disponible hoy</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Océan">Está/Estás (formal/informal) en secundaria?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Océan">Estoy en secundaria.</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Océan">Debo ir a clases ahora</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Océan">Emergencias</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Océan">Llame/Llama (formal/informal) a un doctor!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Océan">Llame/Llama (formal/informal) una ambulancia!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Océan">Llame/Llama (formal/informal) a la policía!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Océan">No puede respirar.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Océan">No puede moverse.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Océan">No se detuvo.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Océan">El se tropezó conmigo.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Océan">El iba conduciendo muy rápido</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Océan">Se cortó.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Océan">No puedo mover mi brazo.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Océan">No puedo mover mi pierna.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Océan">Me robaron.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Océan">Detengan ese ladrón!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Océan">Me robaron el pasaporte.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Océan">Me robaron el dinero.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Océan">Me robaron el auto.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Océan">Hay un incendio!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Océan">Dónde está el hospital más cercano?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Océan">Dónde está la estación de policía más cercana?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Océan">Emociones y Opiniones</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Océan">Le/Te (formal/informal) gusta?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Océan">Me gusta</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Océan">Estoy feliz</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Océan">Estoy enojado</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Océan">Estoy decepcionado</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Océan">Estoy contento</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Océan">Estoy cansado</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Océan">Estoy asustado</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Océan">Tengo calor</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Océan">Tengo frío</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Océan">Tengo sueño</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Océan">Nos gusta ahí</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Océan">(Muy) interesante</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Océan">Nos parece muy interesante</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Océan">Es (muy) aburrido</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Océan">Es hermoso</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Océan">El es (muy) atractivo</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Océan">Ella es (muy) bonita</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="Océan">El está muy bien</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="Océan">Ella está muy bien</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Océan">Es muy amable</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Océan">Mira!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Océan">Escucha!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Océan">genial!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Océan">Impresionante!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Océan">Comida y Restaurante</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Océan">Tengo hambre</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Océan">Tengo sed</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="Océan">Buscamos algo de comer?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="Océan">Buscamos algo de beber?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Océan">Tiene/Tienes (formal/informal) algo de comer?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Océan">Tiene/Tienes (formal/informal) algo de beber?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Océan">Quiere/Quieres (formal/informal) algo de comer?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Océan">Quiere/Quieres (formal/informal) algo de comer?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Océan">Quiere/Quieres (formal/informal) algo de beber?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Océan">Quisiera ... , por favor</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Océan">una taza de café</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Océan">una taza de té</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Océan">un tarro de cerveza</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Océan">un vaso de vino</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Océan">un vaso de vino tinto</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Océan">un vaso de vino blanco</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Océan">un vaso de jugo de naranja</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Océan">un vaso de jugo de manzana</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Océan">Quiere/Quieres (formal/informal) algo de beber?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Océan">Qué le gustaría/te gustaría (formal/informal) beber?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Océan">Qué le gustaría/te gustaría (formal/informal) comer?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Océan">Qué recomienda/recomiendas?(formal/informal)</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Océan">Puedo ver el menú, por favor?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Océan">Puedo ver la carta de vinos, por favor?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Océan">Me gustaría esto, por favor</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Océan">Desea una entrada ?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Océan">Quisiera una entrada, por favor</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Océan">Quisiera algo de pescado, por favor</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Océan">Quisiera algo de carne, por favor</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Océan">quisiera algo de cerdo, por favor</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Océan">Quisiera una ensalada, por favor</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Océan">Quisiera una sopa, por favor</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Océan">Quisiera algo vegetariano, por favor</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Océan">Quiere/Quieres (formal/informal) postre?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Océan">como entrada, quisiera ...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Océan">Para plato fuerte, quisiera ...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Océan">Para postre, quisiera ...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Océan">Puedo ordenar esto con [papas fritas]/arroz/papas?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Océan">Puedo ordenar esto sin ...?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Océan">Me puede dar sólo una porción pequeña por favor?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Océan">Qué ensaladas tiene?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Océan">Nada más, gracias.</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="Océan">Es para llevar</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Océan">Soy vegetariano</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="Océan">Soy vegetariano</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Océan">No puedo comer eso</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Océan">Esto tiene ...?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Océan">(mucha) sal</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Océan">(mucha) azúcar</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Océan">(mucha) grasa</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Océan">carne</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Océan">mariscos</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Océan">pescado</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Océan">productos lácteos</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Océan">No bebo (alcohol)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Océan">No tengo tenedor</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Océan">No tengo cuchillo</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Océan">No tengo cuchara</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Océan">Falta un vaso</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Océan">Falta un plato</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Océan">Esto no está limpio</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Océan">Está muy frío</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Océan">Está muy condimentado</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Océan">Esto no es lo que ordené</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Océan">Hay un error</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Océan">Estaba delicioso</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Océan">Quisiera pagar, por favor</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) traerme la cuenta?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Océan">Vamos a pagar cuentas separadas</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Océan">Está todo incluido?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Océan">Está incluida la propina?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Océan">Le/Te (formal/informal) gustaría cocinar?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Océan">Quién cocinará esta noche?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Océan">Debo cocinar esta noche?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Océan">Qué debo preparar?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Océan">Quiere/Quieres (formal/informal) una taza de café?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Océan">Quiere/Quieres (formal/informal) una taza de té?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Océan">Salud &amp; Enfermedad</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Océan">Estoy enfermo</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Océan">Tengo catarro</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Océan">Tengo un resfriado</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Océan">Tengo alregia</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Océan">Soy diabético.</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Océan">Me duele.</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Océan">No me siento bien.</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Océan">Tomo la píldora.</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Océan">Estoy embarazada.</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Océan">No puedo comer.</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Océan">No puedo dormir.</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="Océan">No quiero nada muy fuerte.</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Océan">Me siento mareado.</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="Océan">Tengo náusea.</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="Océan">Tengo un diente quebrado.</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Océan">Tengo tos.</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Océan">Me duele la cabeza.</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Océan">Me duele el estómago.</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="Océan">Me duele el pecho.</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Océan">Tengo una infección</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="Océan">Tengo un piquete</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="Océan">Tengo una mordedura</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Océan">Le/Te (formal/informal) duele?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Océan">Duele?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Océan">Duele cuando hago esto?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) tomar medicina?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="Océan">Cuál es su/tu (formal/informal) temperatura?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) caminar?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Océan">Necesito una silla de ruedas</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="Océan">Estoy en silla de ruedas</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Océan">Dónde está la farmacia/drogueria más cercana?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Océan">Puedo llevarlo sin receta?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Océan">Tiene algo para piquetes de insectos?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Océan">Tiene algo para quemaduras solares?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Océan">Tengo una receta médica.</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Océan">Necesito algo para ...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Océan">Cada cuámto debo tomarlo?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Océan">Hobbies</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Océan">Cuáles son tus hobbies?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Océan">Qué haces en tu tiempo libre?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Océan">Te gusta leer?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Océan">No me gusta leer</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Océan">Me gusta leer</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Océan">Me gusta cocinar</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Océan">Me gusta escuchar música</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Océan">Toco el piano</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Océan">Toco la guitarra</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Océan">Me gusta cantar</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Océan">Me gusta jugar ajedrez</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Océan">Me gusta salir</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Océan">Me gusta viajar</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Océan">Me gusta ir de compras</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Océan">Me gusta la jardinería</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Océan">Me gusta ver televisión</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Océan">Me gusta navegar en internet</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Océan">Quéc clase de música te gusta?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Océan">Me gusta la música clásica</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Océan">Me gusta la música pop</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Océan">Me gusta la ópera</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Océan">Me gusta el jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Océan">Me gusta el tecno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Océan">Me gusta el rock pesado</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Océan">Cuáles son tus bandas favoritas?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Océan">Qué prefieres?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Océan">Prefiero ...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Océan">Presentándose</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Océan">Mi nombre es ...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Océan">Cuál es tu nombre</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Océan">Soy ...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Océan">Quién eres?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Océan">Te presento a ...?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Océan">Me presentas a ...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Océan">Ella es mi esposa</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Océan">El es mi esposo</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Océan">Ella es mi novia</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Océan">El es mi novio</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Océan">El/Ella es mi amigo/amiga (he/she friend)</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Océan">El es mi hijo</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Océan">Ella es mi hija</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Océan">Ella es mi madre</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Océan">El es mi padre</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Océan">Gusto en conocerte</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Océan">Planes &amp; Citas</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="Océan">Está/Estás (formal/informal) libre hoy / mañana / esta noche?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Océan">Ya tengo planes</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Océan">Voy a ir al cine</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Océan">Voy a ir al teatro</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Océan">Voy a ir al museo</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="Océan">Quiere/Quieres (formal/informal) salir conmigo esta noche?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="Océan">Me encantaría</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Océan">Tienes boletos?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Océan">Tengo boletos para ...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Océan">No me gusta la música</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Océan">La música está demasiado fuerte</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="Océan">Está demasiado lleno aquí</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Océan">Vamos a otro lugar?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="Océan">Qué película vemos?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="Océan">Cómo te pareció la película?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Océan">Política</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Océan">Me interesa la política</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Océan">No me interesa la política</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="Océan">Qué piensas del gobierno?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="Océan">Qué piensas del rey/reina?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Océan">Qué piensas del presidente?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="Océan">Qué piensas del primer ministro?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Océan">Qué piensas de la libertad de expresión?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="Océan">Qué piensas del ejército?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Océan">Qué piensad de la democracia?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="Océan">Qué piensas de los derechos humanos?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="Océan">Qué piensas de los derechos de la mujer?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="Océan">Qué piensas de los derechos gay?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="Océan">Eres miembro de un partido político?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="Océan">Cuándo son las elecciones?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="Océan">Por quién votaste la última vez?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="Océan">Por quién votarás?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Océan">Soy ...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Océan">comunista</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Océan">capitalista</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Océan">demócrata</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Océan">demócrata cristiano</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Océan">republicano</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="Océan">izquierdista</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Océan">nacionalista</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="Océan">socialista</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="Océan">libertario/libertaria (masculine/feminine)</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Océan">fascista</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="Océan">Parentezco &amp; Familia</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="Océan">Eres casado/casada? (to a man/woman)</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="Océan">Soy casado/casada (man/woman)</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="Océan">No soy casado/casada (man/woman)</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Océan">Tienes novio?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Océan">Tienes novia?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Océan">Tengo novio</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Océan">Tengo novia</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Océan">Cuantos años tiene? (either he or she)</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Océan">Tiene ... años.</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="Océan">A qué se dedica?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Océan">Tienes hijos?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Océan">No tengo hijos</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Océan">Tengo un niño / un hijo / una hija</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Océan">Tengo dos hijos</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Océan">Tengo tres/cuatro/cinco/seis/siete hijos</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Océan">Cuantos hermanos tienes? | Cuantos hermanos y hermanas tienes?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="Océan">Su/Tu (formal/informal) madre aún vive?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="Océan">Su/Tu (formal/informal) padre aún vive?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="Océan">Su/Tu (formal/informal) abuela aún vive?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="Océan">Su/Tu (formal/informal) abuelo aún vive?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Océan">Religión</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Océan">Eres religioso/religiosa? (m/f)</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Océan">No soy religioso/religiosa (m/f)</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Océan">Soy ateo/atea</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="Océan">Soy gnóstico/gnóstica</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Océan">Soy musulmán/musulmana</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Océan">Soy judío/judía</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Océan">Soy budista</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="Océan">Soy hindú</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Océan">Soy católico/católica</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Océan">Soy cristiano/cristiana</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="Océan">Dónde puedo encontrar una iglesia?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="Océan">Dónde puedo encontrar una mezquita?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="Océan">Dónde puedo encontrar una sinagoga?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="Océan">Dónde puedo encontrar un templo?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="Océan">Gracias a Dios</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="Océan">Si Dios así lo quiere</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Océan">Oh por Dios!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="Océan">Residencia, Visita &amp; Hospedaje</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Océan">De dónde es/eres (formal/informal)? | De qué país viene/vienes (formal/informal)?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Océan">Soy de ...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Océan">Francia</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Océan">Reino Unido</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Océan">España</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Océan">Alemania</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Océan">Estados Unidos</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Océan">China</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Océan">Brasil</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Océan">Japón</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Océan">Rusia</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Océan">Canadá</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Océan">Australia</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="Océan">Qué nacionalidad tienes?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Océan">Soy ...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Océan">Británico/Británica (m/f)</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Océan">Francés/Francesa (m/f)</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Océan">Alemán/Alemana (m/f)</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Océan">Americano/Americana (m/f)</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Océan">Chino/China (m/f)</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Océan">Japonés/Japonesa (m/f)</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Océan">Ruso/Rusa (m/f)</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Océan">Brasileño/Brasileña (m/f)</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Océan">Canadiense (either)</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Océan">De dónde eres? | En qué ciudad vives?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Océan">Vivo en Londres/París/Berlín</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Océan">Eso está cerca de ...?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Océan">Eso está lejos de ...?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Océan">Vivo cerca de ...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Océan">Vivo lejos de ...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="Océan">En donde te hospedas?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="Océan">Me estoy hospedando en el Hotel ...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="Océan">Cuánto tiempo estará/estarás (formal/informal) aquí?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="Océan">Cuándo regresa/regresas? (formal/informal)</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Océan">Cuándo llegó/llegaste? (formal/informal)</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="Océan">EstáEstás (formal/informal) aquí solo?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Océan">Estoy aquí sólo</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="Océan">Estoy aquí con mi familia</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Océan">Vive/Vives (formal/informal) aquí?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="Océan">No soy de aquí</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="Océan">Podemos acampar aquí?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="Océan">Tiene/Tienes (formal/informal) vacantes?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="Océan">Tiene/Tienes (formal/informal) una habitacion?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="Océan">Cuánto es por noche?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="Océan">Queremos quedarnos una semana.</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="Océan">Dónde están las duchas?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="Océan">Dónde están los sanitarios?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="Océan">Quiero una habitación sencilla, por favor</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="Océan">Quiero una habitación con ...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Océan">baño</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Océan">ducha</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="Océan">vista</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Océan">balcón</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="Océan">una cama extra</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="Océan">camas separadas</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="Océan">Queremos una habitación doble, por favor</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="Océan">Incluye el desayuno?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="Océan">Cuándo se sirve el desayuno?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="Océan">Hay habitaciones más baratas?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="Océan">Hay mensajes para mi?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) darme mi llave, por favor?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="Océan">Cuál es mi número de habitación?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="Océan">Pedí una habitación con ducha.</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="Océan">Sexo</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="Océan">Quieres acostarte conmigo?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="Océan">Tienes un condón?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth" author="Océan">Tomas la píldora?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="Océan">No lo haré sin un condón</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="Océan">Por favor ten cuidado | Por favor sé gentil</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="Océan">Te gusta esto?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Océan">No me gusta esto</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="Océan">Eres soltero/soltera? (m/f)</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="Océan">Eres homosexual?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth" author="Océan">Eres heterosexual?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="Océan">Eres lesbiana?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="Océan">Eres bisexual?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="Océan">Compras</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) ayudarme?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="Océan">Puedo ayudarle/ayudarte? (formal/informal)</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" author="Océan">Qué le/te (formal/informal) gustaría?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Océan">Qué está/estás (formal/informal) buscando?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="Océan">Sólamente estoy viendo</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="Océan">Me gusta este</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="Océan">Me gustan estos pantalones</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="Océan">Me gusta esta playera</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="Océan">Me gusta esta chaqueta</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="Océan">Me gusta esta blusa</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="Océan">Me gusta este traje</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="Océan">Me gustan estos lentes</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="Océan">Me gustan estos zapatos</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Océan">Busco ...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="Océan">Puedo probármelo?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="Océan">Puedo probarlo?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Océan">Dónde están los vestidores?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Océan">Está demasiado largo</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="Océan">Está demasiado corto</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="Océan">Está demasiado apretado</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="Océan">Está demasiado flojo</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="Océan">No me queda</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="Océan">Me queda muy bien</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="Océan">Qué talla es/eres? (formal/informal)</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="Océan">Soy talla ...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth" author="Océan">No entiendo estas tallas</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="Océan">Tiene uno más grande?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="Océan">Tiene uno más pequeño?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="Océan">Me gusta el color</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="Océan">No me gusta el color</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="Océan">Tiene este en rojo/azul/amarillo/verde/morado/rosado?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="Océan">Tiene uno más barato?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="Océan">De qué está hecho?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="Océan">Puede reparar esto?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="Océan">Turismo</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="Océan">Puedo tomar fotografías?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="Océan">No puede/puedes (formal/informal) tomar fotografías aquí</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="Océan">Hay paseos en bote por el lago?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="Océan">Hay paseos en bote por el río?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="Océan">Hay tours guiados?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="Océan">Cuánto tarda el tour?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="Océan">Hay buenos clubs nocturnos?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="Océan">Hay algún festival local?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="Océan">Me gustaría visitar la catedral</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="Océan">Me gustaría visitar la iglesia</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="Océan">Me gustaría visitar la mezquita</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="Océan">Me gustaría visitar el templo</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="Océan">Hay descuento para niños?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="Océan">Hay descuento en grupo?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="Océan">Hay descuento para personas mayores?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="Océan">Hay descuento para estudiantes?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="Océan">A qué horas está abierto?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="Océan">A qué hora cierra?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="Océan">A qué hora abre?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="Océan">A qué hora empieza el show?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="Océan">Cuándo fue construido?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="Océan">Quién construyó esto?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="Océan">Qué altura tiene esa montaña?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Océan">Cómo se llama ese animal?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Océan">Cómo se llama esa ave?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Océan">Cómo se llama esa flor?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Océan">Cómo se llama ese árbol?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Océan">Cómo se llama ese edificio?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Océan">Cómo se llama esa montaña?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Océan">Cómo se llama ese río?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="Océan">Fumar</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="Océan">Fumar es malo para su salud</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="Océan">Le/Te (formal/informal) molesta si fumo?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="Océan">Tienes fuego?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="Océan">Puedo tomar un cigarrillo?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="Océan">Es ésta un área de No Fumar?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="Océan">Me permite un cenicero?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Océan">Deportes</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="Océan">Hay corrientes peligrosas?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="Océan">Hay paseos interesantes cerca?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth" author="Océan">Hay elevadores para ski?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Océan">Dónde está el campo de golf más cercano?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Océan">Dónde está la piscina pública?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="Océan">Puedo pescar aquí?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="Océan">Puedo nadar aquí?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="Océan">Puedo rentar ... ?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="Océan">un bate de base ball</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="Océan">un balón de foot ball</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="Océan">un par de eskis</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="Océan">una raqueta de tenis</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Océan">un bote</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="Océan">una toalla</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="Océan">Puedo tomar lecciones?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="Océan">Quiero ver un partido de foot ball</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="Océan">Juegas ... ?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="Océan">foot ball americano</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Océan">foot ball</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth" author="Océan">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth" author="Océan">tenis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="Océan">base ball</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth" author="Océan">basket ball</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Océan">Tiempo</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="Océan">Qué día es hoy?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="Océan">Es ...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="Océan">Qué día fue ayer?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="Océan">Ayer fue ...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="Océan">Qué día es mañana?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Océan">Mañana será ...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Océan">Lunes</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Océan">Martes</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Océan">Miércoles</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Océan">Jueves</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Océan">Viernes</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Océan">Sábado</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Océan">Domingo</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="Océan">En qué mes estamos?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="Océan">Estamos en el mes de ...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Océan">El mes pasado fue ...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="Océan">El próximo mes será ...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Océan">Enero</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Océan">Febrero</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Océan">Marzo</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Océan">Abril</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Océan">Mayo</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Océan">Junio</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Océan">Julio</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Océan">Agosto</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Océan">Septiembre</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Océan">Octubre</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Océan">Noviembre</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Océan">Diciembre</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="Océan">Qué hora es?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="Océan">Son las ocho en punto</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="Océan">Son las ocho y media</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="Océan">Son las ocho y cuarto | Son las ocho y quince</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="Océan">Son las nueve menos cuarto | Son las ocho cuarenta y cinco</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="Océan">Son las ocho y diez</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="Océan">Son las ocho y veinte</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="Océan">Son las ocho menos veinte | Son las siete y cuarenta</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="Océan">Son las ocho menos diez | Son las siete y cincuenta</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth" author="Océan">Qué fecha es hoy?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth" author="Océan">Es 15 de Diciembre de 1982</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Océan">Cuándo puedo venir?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="Océan">Cuándo me visitarás?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth" author="Océan">Te visitaré esta mañana</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="Océan">Te visitaré en la mañana</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth" author="Océan">Te visitaré esta noche</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="Océan">Te visitaré en la noche</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth" author="Océan">Te visitaré esta semana</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth" author="Océan">Te visitaré este fin de semana</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth" author="Océan">Te visitaré el fin de semana</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="Océan">Te visitaré al mediodia</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth" author="Océan">Te visitaré en dos horas</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth" author="Océan">Te visitaré a las diez y media</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth" author="Océan">Te visitaré después de las diez y media</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth" author="Océan">Te visitaré antes de las diez y media</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth" author="Océan">Te visitaré entre las diez y media y las once en punto</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth" author="Océan">Te visitaré de diez y media a once en punto</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="Océan">Te visitaré en la primavera</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="Océan">Te visitaré en el verano</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth" author="Océan">Te visitaré en otoño</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="Océan">Te visitaré en invierno</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth" author="Océan">Te visitaré el 15 de Diciembre</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth" author="Océan">Cuánto tiempo te puedes quedar conmigo?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth" author="Océan">Me puedo quedar dos horas</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth" author="Océan">Te visitaré dos horas</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth" author="Océan">Vienes muy tarde</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth" author="Océan">Vienes justo a tiempo</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth" author="Océan">Vienes muy temprano</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="Océan">En qué estación estamos?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth" author="Océan">No tengo tiempo</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth" author="Océan">Espera un minuto por favor</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth" author="Océan">Estaré ahí en cinco minutos</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth" author="Océan">Transporte</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth" author="Océan">Tienes automóvil?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="Océan">Tengo automóvil</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth" author="Océan">No tengo automóvil</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth" author="Océan">Llevamos mi automóvil o el suyo/tuyo? (formal/informal)</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth" author="Océan">Tienes licencia de conducir?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth" author="Océan">No tengo licencia de conducir</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth" author="Océan">Cuándo partiremos?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth" author="Océan">Hacia dónde vamos?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth" author="Océan">Hacia dónde vas?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth" author="Océan">De dónde vienes?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth" author="Océan">Debo transbordar bus?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth" author="Océan">Dónde están los buses?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="Océan">Dónde está la parada de bus?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth" author="Océan">Puede/Puedes (formal/informal) decirme cuándo bajarme?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth" author="Océan">Este bus va hacia ... ?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="Océan">Dónde está el aeropuerto?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth" author="Océan">Cuándo parte el avión?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth" author="Océan">Cuándo llega el avión?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="Océan">Cuánto tarda el vuelo?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="Océan">A qué hora debo registrarme?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="Océan">Puedo ver su pasaporte, por favor?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="Océan">Acá tiene mi pasaporte</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="Océan">Puedo llevarme esto?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth" author="Océan">Dónde puedo recoger mi equipaje?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="Océan">No encuentro mi equipaje</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="Océan">Puede ayudarme con mi equipaje?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="Océan">Creo que ese es mi asiento</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="Océan">Está ocupado este asiento?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Océan">Dónde está la estación del tren?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="Océan">Debo transbordar de tren?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="Océan">Este tren para en ... ?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="Océan">Va este tren hacia ... ?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="Océan">Cuánto tiempo para el tren aquí?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="Océan">Qué estación es ésta?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Océan">Cuándo sale el próximo tren?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Océan">Cuándo sale el último tren?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Océan">Dónde puedo tomar un taxi?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="Océan">Hay un aparcamiento cerca?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="Océan">Puedo aparcar aquí?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="Océan">Cuánto tiempo puedo aparcar aqui?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="Océan">Dónde puedo aparcar?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="Océan">Mi automóvil se ha descompuesto.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="Océan">Mi automóvil no arranca.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="Océan">Dónde está la gasolinera más cercana?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="Océan">Adonde es el garage el mas cerca?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="Océan">Tengo una llanta pinchada.</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="Océan">No tengo gasolina</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="Océan">Puedo ver su licencia de conducir?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="Océan">Acá tiene mi licencia de conducir.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="Océan">Qué tan lejos está el siguiente pueblo?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="Océan">Cuánto tiempo lleva en automóvil?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="Océan">Cuánto tiempo lleva a pie?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="Océan">Quisiera alquilar un automóvil por una semana / tres días.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Océan">Clima</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="Océan">Cómo estará el clima mañana?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="Océan">Cómo es el clima usualmente?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="Océan">Mañana lloverá</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Océan">Está lloviendo</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="Océan">Está nevando</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="Océan">Está soleado</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="Océan">Está nublado</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="Océan">Hace calor afuera</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="Océan">Hace frío afuera</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="Océan">Qué tiempo más horrible!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Océan">Qué día tan hermoso!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="Océan">Bonito día, no?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="Océan">Siempre hace este calor?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="Océan">Siempre hace este frío?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="Océan">Siempre es así de lluvioso?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="Océan">Siempre está así de nublado?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="Océan">Estoy mojado</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Océan">Trabajo</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Océan">Dónde trabajas?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Océan">Cómo te ganas la vida?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Océan">Soy maestro</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Océan">Soy estudiante</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="Océan">Soy un autoempleado</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Océan">Trabajo en un restaurante</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Océan">Trabajo en un supermercado</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Océan">Trabajo en una tienda</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Océan">Soy médico</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Océan">Soy psicólogo</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Océan">Soy programador</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Océan">Soy ingeniero</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Océan">Soy mecánico</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Océan">Soy escritor</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Océan">Soy conductor</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="Océan">Soy actor / actriz</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="Océan">Soy trabajador social</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Océan">Soy político</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="twolions" version="1.9" baselang="fr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="3324" lastmodified="1228843140">L'histoire de deux lions</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="3324" lastmodified="1228843140">Deux lions s'échappent d'un zoo and tentent de survivre au Brésil</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="3324" lastmodified="1228843140">On raconte qu'il y eut deux lions qui s'échappèrent d'un zoo au Brézil. Pendant leur fuite, chacun choisit de suivre un chemin différent. L'un deux partit dans la forêt et l'autre partit au centre ville. Les autorités cherchèrent les lions partout personne ne les trouva. Ils disparurent tout simplement.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="3324" lastmodified="1228843140">Une semaine après leur départ, le lion qui était parti dans la forêt revint de lui-même. Il était maigre, affamé et faible. Le directeur du zoo pensait renvoyer le lion en Afrique. Personne ne souhaite regarder un lion en piteux état. Un député brézilien contraignit le directeur à garder le lion dans le zoo. Les députés bréziliens au pouvoir font des miracles, vous savez.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="3324" lastmodified="1228843140">Huit mois plus tard, personne ne se souvenait du lion qui était parti au centre ville jusqu'à ce qu'il se fît attraper. Il fut rammené au zoo en bonne santé.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="3324" lastmodified="1228843140">Lorsque le lion recontra son vieil ami, il lui dit :</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="3324" lastmodified="1228843140">L'autre lion expliqua :</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="3324" lastmodified="1228843140">- Je me suis caché dans un bureau public. Je mangeais un fonctionnaire par jour. Personne n'a remarqué leur absence.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="3324" lastmodified="1228843140">- Ah bon ? Alors pourquoi es-tu revenu ? As-tu dévoré tous les fonctionnaires ?</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="3324" lastmodified="1228843140">- Non, non, non, non... Au Brézil, il y a beaucoup de fonctionnaires. Mais j'ai été stupide. J'ai mangé le directeur...le responsable du département...les autres employés...et personne n'a remarqué leur absence. J'ai été attrapé après avoir mangé l'employé qui s'occupe de servir le café.</attrib>
+		</entry>
+	</entries>
+</ulr>

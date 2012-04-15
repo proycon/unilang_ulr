@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="ru">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я люблю тебя</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya lyublyU tibyA</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Эти люди слышат громкий звук</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">Eti lyUdi sLYshat grOmkiy zvuk</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Она видит маленькую птичку</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">anA vIdit mAlen'kuyu ptIchku</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Мы находим старое здание</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">my naHOdim STAraye ZDAniye</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я ищу свои ключи</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya ishsh'U svaI klyuchI</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я трогаю твою голову</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya trOgayu tvayU gOlavu</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Он хочет новую белую машину</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">on hOchet nOvuyu bEluyu mashInu</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Она открывает разбитое окно</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">anA  atkryvAyet razbItaye aknO</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Сильная девочка закрывает тяжёлую чёрную дверь</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">sILnaya dEvachka zakryvAyet tizhOluyu chOrnuyu dver'</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Он решает ужасную проблему / задачу</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">on riSHAyet uZHAsnuyu praBLEmu / zaDAchu</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Злой преступник теряет много ценных денег</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">zloy pristUpnik tiryAyet mnOga tsEnnyh dEnek</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Они пробуют вкусную еду</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">anI prObuyut fkUsnuyu yidU</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">У полицейского другое мнение</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">u palitsEyskava drugOye mnEniye</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Коллеги пьют холодный кофе и горячий чай</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">kaLEgi pyut halodny kOfe i garyAchiy chay</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Богатая компания продает зеленые овощи</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">bagAtaya kampAniya pradayOt zilyOnye Ovashsh'i</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Они покупают десять новых книг</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">anI pakupAyut dEsyat' nOvyh knik</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">У него болит правое ухо</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">u nivO baLIt prAvaye Uha</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я знаю того высокого человека</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya znAyu tavO vysOkava chilavEka</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Они выбирают не тот инструмент</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">aNI vybiRAyut ni tOt instrumEnt</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Моя семья приглашает дружелюбных соседей</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">maYA siMYA priglaSHAyet druzhiLYUbnyh saSEdey</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Мы благодарим скучных студентов</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">my blagadarIm skUshnyh studEntaf</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Она читает свою ежедневную газету</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">anA chitAyet svayU yizhidnEvnuyu gazEtu</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Бедный человек (бедняк) носит грязную одежду</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">BEdnyi chilaVEK NOsit GRYAznuyu aDEzhdu</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Сильное животное встречает слабую рыбу [lol]</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">SILnaye zhiVOTnaye fstriCHAyet SLAbuyu RYbu</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я плачу двести евро / долларов</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya plaCHU DVEsti YEvra / DOLLaraf</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Ей нравится [этот] красивый язык</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">yey NRAvitsa [Etat] kraSIvyi yiZYK</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">У него голубые глаза</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">u niVO galuBYye glaZA</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Сегодня идёт снег</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">siVOdnya iDYOT snek</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Он станет важным человеком</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">on STAnet VAZHnym chilaVEkam</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я в международном аэропорту</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya v mizhdunaRODnam aeraparTU</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">У неё чистые руки</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">u niYO CHIStye RUki</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Он маленький мальчик</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">on MAlin'kiy MAL'chik</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Она доктор (врач)</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">aNA DORtar (or: vrach)</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Лошадь боится</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">LOshat' baITsa</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Причина столкновения неизвестна</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">priCHIna stalknaVEniya niiZVESna</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я дарю вам подарок</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya daRYU vam paDArak</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Он задаёт мне сложный вопрос</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">on zadaYOT mne SLOZHnyi vaPROS</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я получаю сообщение из мойей матери</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я пишу письмо своему отцу</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya piSHU pis'MO svaiMU atTSU</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Они живут в маленьком городе</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">aNI zhiVUT v MALin'kam GOrade</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Собака сидит за телевизором</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">saBAka siDIT za tiliVIzaram</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Кошка лежит на полу</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">KOshka liZHIT na paLU</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Дети играют на улице</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">DEti igRAyut na ULitse</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Она говорит о своём университете</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">aNA gavaRIT a svaYOM univirsiTEte</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Они покидают комнату молча</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">aNI pakiDAyut KOMnatu MOLcha</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Он отвечает учителю</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">on atviCHAyet uCHItilyu</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я гуляю перед своим домом</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya guLYAyu PEret svaIM DOmam</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Она спит в своей собственной постели / кровати</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">aNA spit f svaYEY SOPstvinnay paSTEli / kraVAti</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Воздушное судно летит над горами</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">vaZDUshnaye SUdna liTIt nad gaRAmi</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Свирепое животное вышло из своей клетки</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">sviREpaye zhiVOTnaye VYshla is svaYEY KLETki</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я сравниваю наши законы с вашими законами</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya SRAvnivayu NAshi zaKOny s VAshimi zaKOnami</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Священник / имам / раввин стоит под ярким облаком</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">sviSHSHENnik / iMAM / ravVIN staIT pad YARkim OBlakam</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Птенец над моей головой летит рядом со своими родителями</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ptiNETS nad maYEY galaVOY liTIT RYAdam sa svaIMi raDItilyami</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я много думал (думала) о жизни</attrib>
+			<attrib type="phon" author="Sergei Buhtoyarov (Sergio)">ya MNOga DUmal (DUmala - feminine) a ZHIZni</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Сколько тебе лет?</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Мы не выграли</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Я знаю что ты думаеш</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth" author="Sergei Buhtoyarov (Sergio)">Мы продолжаем няшу работу</attrib>
+		</entry>
+	</entries>
+</ulr>

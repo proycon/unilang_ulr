@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="no">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Caroline Ødegaard - rettet av Seán Scully">Løven og musa</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Caroline Ødegaard - rettet av Seán Scully">En mus hjelper en løve</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Caroline Ødegaard - rettet av Seán Scully">En løve som sov i sin hule ble vekket av en mus som løp over ansiktet hans. Løven ble sint, og grep tak i musa med poten sin og skulle til å drepe den.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Caroline Ødegaard - rettet av Seán Scully">Musa, som var vettskremt, ba løven om å spare livet hans &quot;Vær så snill og la meg gå,&quot; gråt han. &quot;og en dag vil jeg stå til tjeneste for deg.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Caroline Ødegaard - rettet av Seán Scully">At et slikt ubetydelig dyr noen gang kunne gjøre noe for ham syntes løven var så morsomt at han lo høyt. og lot ham gå.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Caroline Ødegaard - rettet av Seán Scully">Men musas sjanse kom.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Caroline Ødegaard - rettet av Seán Scully">En dag ble løven fanget i et nett som hadde blitt lagt der av noen jegere og musa hørte og kjente igjen løvens brøl av sinne og løp mot han. Musa begynte med en gang å gnage over tauene med tennene sine, og klarte å befrie løven.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Caroline Ødegaard - rettet av Seán Scully">&quot;Der!&quot; sa musa &quot;du lo av meg da jeg lovet å stå til tjeneste for deg: men nå ser du, til og med en mus kan hjelpe en løve.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

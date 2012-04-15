@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="el">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Σίνης">Η αρκούδα και οι ταξιδιώτες</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Σίνης">Ένα μάθημα για τις αρκούδες και τους φίλους</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Σίνης">Δύο ταξιδιώτες ήταν μαζί στο δρόμο, όταν ξαφνικά μια αρκούδα εμφανίστηκε σε μικρή απόσταση από αυτούς. Πριν τους δει, ο ένας πήγε προς ένα δέντρο δίπλα από το δρόμο, και σκαρφάλωσε στα κλαδιά και κρύφτηκε εκεί.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Σίνης">Ο άλλος δεν ήταν τόσο ευκίνητος όσο ο συνοδοιπόρος του' και, καθώς δεν μπορούσε να ξεφύγει, έπεσε στο έδαφος και έκανε τον πεθαμένο.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Σίνης">Η αρκούδα ήρθε και τον μύρισε γύρω-γύρω, αλλά αυτός έμεινε εντελώς ακίνητος και κρατήσε την αναπνοή του: καθώς λένε ότι μια αρκούδα δεν αγγίζει ένα πτώμα. Η αρκούδα τον πέρασε για πτώμα, και έφυγε.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Σίνης">Όταν το πεδίο ήταν ελεύθερο, ο ταξιδιώτης που ήταν στο δέντρο κατέβηκε, και ρώτησε τον άλλο τι του είχε ψιθυρίσει η αρκούδα όταν έβαλε το στόμα της στο αυτί του.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Σίνης">Ο άλλος απάντησε, &quot;Μου είπε να μην ταξιδέψω ποτέ ξανά με έναν φίλο που σε εγκαταλείπει με την πρώτη ένδειξη κινδύνου&quot;.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Σίνης">Η δυστυχία δοκιμάζει την ειλικρίνεια της φιλίας.</attrib>
+		</entry>
+	</entries>
+</ulr>

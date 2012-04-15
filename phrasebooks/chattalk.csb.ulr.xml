@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="csb">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="Zaduma">Na pòczątk:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="Zaduma">Witce!</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="Zaduma">Witéjta! | Witéjtaż!</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="Zaduma">Dzéń dobri!</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="Zaduma">Dzéń dobri!</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="Zaduma">Dobri wieczórk!</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="Zaduma">Dobri noce!</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="Zaduma">Pòczątk rozmowë:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="Zaduma">Co nowégò?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="Zaduma">Cëż tam czëc?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="Zaduma">Cëż je czëc?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="Zaduma">Pëtania òsobisté:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="Zaduma">Skądka(ż) tё jes, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="Zaduma">Jes tu nowi? | Jes tu pierszi rôz?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="Zaduma">Dze w {country} mieszkósz?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="Zaduma">Jak stôri jes të?</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="Zaduma">Jô jem z...</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="Zaduma">Gôdajã pò...</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="Zaduma">Przeprôszajã, nié gôdajã pò...</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="Zaduma">Ùczã sã | Chcã ùczëc sã {language(s)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="Zaduma">Pò kùńc rozmòwë:</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="Zaduma">Mùszã jic</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="Zaduma">Ju je wiôldżi czas na òbiôd</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="Zaduma">Jidã do łoża</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="Zaduma">Pòra spac</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="Zaduma">Òdchòdząc:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="Zaduma">Do ùzdrzonka!</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="Zaduma">Do ùzdrzeni witro!</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="Zaduma">Do ùzdrzeni wkrótce!</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="Zaduma">Dobri noce wszëtkim!</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="Zaduma">Wrócã za chwilã</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="Zaduma">Wrócã pòtemù</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="Zaduma">Dodatk:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Zaduma">Dzãczi</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="Zaduma">Dzãkùjã baro</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Zaduma">Przeprôszajã | Przeprôszóm</attrib>
+		</entry>
+	</entries>
+</ulr>

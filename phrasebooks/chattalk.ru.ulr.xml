@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="ru">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="8367" lastmodified="1228569222">Разговор в чате</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="8367" lastmodified="1228569222">Это небольшой разговорник, который поможет вам при общении в чате</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="8367" lastmodified="1228569222">Входит в чат:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Привет!</attrib>
+			<attrib type="phon">priv'et</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Привет всем!</attrib>
+			<attrib type="phon">priv'et fs'em</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Доброе утро</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Добрый день</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Добрый вечер</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Спокойной ночи</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Привет!</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="8367" lastmodified="1228569222">Начало разговора:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Что новенького?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="8367" lastmodified="1228569265">Какие дела?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">О чём разговор?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Как дела?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Как у вас дела?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Как дела?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="8367" lastmodified="1228569265">Личные вопросы:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Вы откуда, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Вы здесь в первый раз?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">На каких языках Вы говорите?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Из какой Вы страны?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Сколько Вам лет?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Какие языки Вы изучаете?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="8367" lastmodified="1228569316">О себе:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Я из {country}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Я говорю на {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Мой родной язык {language(s)}, я свободно говорю на {language(s)}, посредственно на {language(s)}, и немножко на {language(s)}.</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Извините, я не говорю по-{language}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Я изучаю | Я хочу изучать {language(s)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="8367" lastmodified="1228569316">Окончание разговора:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Приятно было познакомиться с Вами</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Приятно (было) с Вами поговорить</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Мне надо идти</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Пора обедать</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Я иду спать</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Мне надо спать</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="8367" lastmodified="1228569358">Прощание:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Увидимся</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">До завтра</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="15018" lastmodified="1246091531">Скоро увидимся / До свидания</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">До следующей встречи</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="8367" lastmodified="1228569358">Спокойной ночи всем</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Всем пока</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Сейчас вернусь</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Я вернусь позже</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="8367" lastmodified="1228569358">Дополнительно:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Спасибо</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Большое спасибо</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Извини(те)</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="8367" lastmodified="1228569387">Ха-ха-ха!</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="8367" lastmodified="1228569387">Хе-хе</attrib>
+		</entry>
+	</entries>
+</ulr>

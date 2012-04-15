@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="no">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="2788" lastmodified="1232825534">Bare les uttrykk!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="2788" lastmodified="1232825534">Dette er en uttrykksamling, som inneholder nesten 200 uttrykk. Vi prøvde å bruke forskjellige grammatiske oppbygninger og mye grunnleggende ordforråd i disse uttrykkene, for å gjøre dem til en flott måte å øve språk og få nye ord i ordforrådet ved bare å lese uttrykk.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="2788" lastmodified="1232825534">Jeg elsker deg</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232825534" variant="1" complexlang="nyn">Eg elskar deg</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="2788" lastmodified="1232825534" variant="1" complexlang="nyn">Stormen når stranda</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232825534">Stormen når stranden</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="2788" lastmodified="1232825534" variant="1" complexlang="nyn">Desse folka høyrer eit høgt ljod</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232825534">Disse folkene hører en høy lyd</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">Jeg får den røde lampe</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">Hun ser en liten fugl</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="2788" lastmodified="1232825534" variant="1" complexlang="nyn">Vi finn ein gammal bygning</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232825534">Vi finner en gammel bygning</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">Jeg leter etter nøkklene mine</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232825534" variant="1" complexlang="nyn">Eg leiter etter nyklane mine</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="2788" lastmodified="1232825534" variant="1" complexlang="nyn">Eg tek på hovudet ditt</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232825534">Jeg tar på hodet ditt</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">Han vil ha en ny hvit bil</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232825534" variant="1" complexlang="nyn">Han vil ha ein ny kvit bil</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="2788" lastmodified="1232825534" variant="1" complexlang="nyn">Ho opnar det øydelagte vindauga</attrib>
+			<attrib type="orth" author="2788" lastmodified="1232825534">Hun åpner det ødelagte vinduet</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth">De smaker på den deilige mat</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth">De køper ti nye bøker</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">Jeg kjenner den der store person</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth">Hun leser den daglige avisen hennes</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth">Jeg betaler tohundre euros/dollars</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">Han har blå øyne</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth">Det snør i dag</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth">Han skal bli en viktig person</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">Han er en ung gutt</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth">Hun er lege</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">Hesten er redd</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth">Jeg skrever et brev til faren min</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth">De bor i en liten by</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth">Katten ligger på gulven</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth">Barna leker ute</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth">Hun snakker om universiteten hennes</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth">Boken er på bordet</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth">Han arbeider i en liten fabrikk</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth">Når kommer vennen din?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth">Hvor mye husker du?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth">Hvor mange mennesker skal hjelpe deg?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth">Hvor gammel er du?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth">Hvor kommer du fra?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth">Jeg vil bare spise noe</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth">Jeg drømmer aldri</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth">Hun danser med noen på gatan</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth">Jeg er trøtt, derfor skal jeg ikke opp</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth">Vi tror det er ikke umuligt</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth">Hun smiler og han kysser henne</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth">Jeg vet hvad du tenker</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth">Jeg kan se noen ord</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth">Jeg er større enn deg</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth">Jeg må glemme hvad jeg så</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth">Kan du oversette denne texten til engelsk?</attrib>
+		</entry>
+	</entries>
+</ulr>

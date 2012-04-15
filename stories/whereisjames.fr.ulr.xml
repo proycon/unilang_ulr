@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="whereisjames" version="1.9" baselang="fr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Emandir">Où est Jean ?</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Emandir">Ceci est une histoire pour enfant, mais parfaitement adaptée aux débutants dans l'apprentissage de la langue</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Emandir">OU EST JEAN ? (Français: Emandir)</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Emandir">Jean et Marie sont dans le jardin. Il fait beau aujourd'hui, il fait très chaud. Mais hier, il faisait très froid ! Ils n'ont pas pu jouer dehors. Jean et Marie adorent jouer, ils jouent toujours ensemble dans le jardin devant la grande maison.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Emandir">Jean est un petit garçon et il a six ans. La petite fille est sa sœur, elle a cinq ans. Jean a un petit chien, le chien est aussi dans le jardin en ce moment. Le chien aime jouer avec les deux enfants. Le chien est très content à présent.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Emandir">Est-ce que Marie a aussi un chien ? Non, Marie n'a pas de chien, elle a un chat. Mais le chat est dans la maison, le chat dort.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Emandir">Leur mère est dans la maison avec le chat, elle regarde par la fenêtre et voit Jean et Marie qui jouent. Jean court vite vers le gros arbre vert, il se cache de Marie. Savez-vous pourquoi ? Marie est assise et a les mains devant ses yeux. Elle ne peut rien voir et elle compte. Pourquoi fait-elle cela ? Et que fait Jean près de l'arbre ?</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Emandir">C'est un jeu. Lorsque Marie a fini de compter, elle regarde autour d'elle. Elle cherche Jean : où est-il allé ? Le voyez-vous ?</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Emandir">Marie ne sait pas où est Jean. Elle demande au chien : &quot;As-tu vu Jean ?&quot; Mais le chien ne peut pas parler, bien sûr ! Alors Marie n'obtient aucune réponse à sa question. Les gens n'obtiennent jamais de réponse lorsqu'ils parlent aux chiens !</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Emandir">Marie regarde sa mère derrière la fenêtre, sa mère rit. Marie pense qu'elle a vu où Jean est allé : &quot;Dis-moi où il est !&quot;, dit-elle à sa mère. &quot;Non, Marie, je ne peux pas te le dire&quot;,  répond-elle. Bien qu'elle sache probablement où il est, elle ne veut pas le dire.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Emandir">Marie marche lentement à travers le jardin. Elle cherche toujours à trouver Jean. Elle regarde sous la table et sous les chaises, mais Jean n'y est pas. Elle regarde partout mais elle ne peut pas trouver Jean.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Emandir">Elle entend alors un bruit, il vient de derrière le gros arbre vert. Est-ce que c'est Jean ? Encore ce bruit ! Elle écoute attentivement. Ce n'est pas un oiseau ou un autre animal. Elle l'entend bien maintenant. Ce doit être Jean !</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Emandir">Elle voit alors une petite main et lorsqu'elle s'approche, elle voit aussi sa tête ! Elle rit et dit : &quot;Je t'ai trouvé !&quot; Ils sont contents, tous les deux, et ils rentrent à la maison, il est l'heure de manger quelque chose et de boire de l'eau !</attrib>
+		</entry>
+	</entries>
+</ulr>

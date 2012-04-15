@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">Ti amo</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">La tempesta raggiunge la spiaggia</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">Queste persone sentono un suono forte</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">Prendo la lampada rossa</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">[Lei] vede un uccellino</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth">Troviamo un vecchio edificio</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">Cerco le chiavi</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">Ti tocco la testa</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">Vuole una nuova auto bianca</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth">Apre la finestra rotta</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth">La ragazza forte chiude la pesante porta nera</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth">Risolve il grosso problema</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth">Il criminale arrabbiato perde molti soldi preziosi</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth">Assaggiano il cibo delizioso</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth">L'ufficiale di polizia ha una diversa opinione</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth">I colleghi bevono caffè freddo e tè caldo</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth">La ricca compagnia vende verdura verde.</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth">Comprano dieci libri nuovi</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth">Gli fa male l'orecchio destro</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">Conosco quella persona alta</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth">La signora magra segue il suo grasso capo</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth">Il computer veloce cambia il proprio colore</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth">Scelgono lo strumento sbagliato</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth">La mia famiglia invita i vicini amichevoli</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth">Ringraziamo gli studenti noiosi</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth">Suo marito si gode la serata</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth">Legge il quotidiano</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth">L'uomo povero indossa abiti sporchi</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth">L'animale forte incontra un pesce debole</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth">Pago 200 euro/dollari</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth">[Lei] ama il magnifico linguaggio</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth">La tempesta raggiunge la spiaggia</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth">Gli uomini costruiscono un ufficio basso</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">[Lui] ha gli occhi blu</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth">Oggi nevica</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth">Diventerà una persona importante</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth">Sono all'aeroporto internazionale</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth">[Lei] ha le mani pulite</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">[lui] è un ragazzo giovane</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth">[Lei] è un dottore</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth">Resto contento</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth">Mi bagno con la pioggia</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">Il cavallo è preoccupato</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth">Il cane bianco fu era/fu sorpreso</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth">La società moderna è molto avanti</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth">La causa della collisione è sconosciuta</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth">Ti do un regalo</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth">Mi fa/pone una domanda difficile</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth">Ricevo un messaggio da mia madre</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth">Scrivo una lettera a mio padre</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth">Vivono in una piccola città</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth">Il cane siede davanti alla TV</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth">Il gatto giace/sta sul pavimento</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth">I bambini giocano fuori</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth">Parla della sua università</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth">Lasciano la stanza silenziosamente</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth">Risponde al maestro/alla maestra</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth">Cammino/Passo davanti a casa mia</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth">Dorme nel suo [proprio] letto</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth">l'aereo vola sopra le montagne</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth">Corriamo attraverso il grande giardino</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth">il libro è sul tavolo</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth">Entro nel negozio con te</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth">Vado in città col treno</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth">L'albero cresce in fretta</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth">Lavora in una fabbrica piccola</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth">Il presidente muto (sciocco?) cade sul so naso</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth">Certo che crediamo a Dio</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth">Mi lamento del prezzo</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth">mi lancia la palla costosa</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth">Il  nonno malato muore vicino all'ospedale</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth">Capisco le frasi in questa pagina</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth">La nonna racconta al bambino una storia interessante</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth">Speriamo che studi tanto</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth">Tiene un coltello nella mano sinistra</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth">La nostra destinazione sta tra i due laghi</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth">Cucina un pasto semplice per la sua amica</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth">La ragazza appare splendida di sera</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth">L'animale violento uscì dalla gabbia</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth">Confronto le nostre leggi alle vostre</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth">Guido verso la nostra capitale nell'est</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth">I morti vengono sepolti in profondità nel sottosuolo</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth">Il prete/imam/rabbino sta sotto la nuvola chiara</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth">L'uccellino appena nato vola sopra la mia testa vicino ai genitori</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth">Scappo nella scuola danneggiata</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth">Quest'acqua arriva da un posto lontano</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth">Penso spesso alla vita</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth">Da dove arriva il tuo amico</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth">Quanto ricordi?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth">Quante persone ti aiuteranno?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth">Perché rubi queste cose?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth">Quanti anni hai?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth">Come si crea questo prodotto?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth">Chi è la persona piú intelligente del mondo?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth">Che cosa scopri nel mare?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth">Che panino preferisci?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth">Da dove vieni?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth">Dove vai?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth">Esiste quel negozio?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth">Qual è il motivo di questa indagine?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth">Quali bus sono pronti a partire?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth">Voglio solo mangiare qualcosa</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth">Non sogno mai</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth">Arriva sempre presto</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth">Alle volte ha ragione</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth">Non vinciamo niente</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth">Di solito combattiamo i nostri nemici</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth">Spesso perdono a questo gioco</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth">Vorrei che fosse già domani</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth">Ci sono molte stelle nello spazio</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth">Spesso si mostra nudo</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth">Nascondiamo raramente le nostre idee</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth">Ride a qualche scherzo</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth">Guardo ovunque</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth">Non ha paura di nessuno</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth">Balla per strada con qualcuno</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth">Puoi prendere quello che vuoi</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth">Mia moglie ed io facciamo sesso ogni notte</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth">Ti offro due fiori gratis</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth">Cantava mentre i suoi genitori ascoltavano</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth">Mangiammo dopo essere stati al cinema</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth">Vedemmo l'hotel prima che lo vedessero loro</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth">Puoi pulire la stanza prima che torni il proprietario</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth">Cerco di interessarmi alla politica perché il mese prossimo voto</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth">Questo bicchiere è vuoto, ma l'altro è pieno</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth">Gridano cosicché tutti li notino</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth">ti permetto di farlo io, anche se mio fratello te lo impedisce</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth">Sono stanco, quindi non mi alzerò</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth">Voglio uccidere i prigionieri cattivi, tranne quello coi capelli biondi</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth">L'assassino sarebbe dovuto essere imprigionato, ma invece venne liberato</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth">È passato molto tempo dall'ultima volta che ci siamo incontrati</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth">Non l'ho più sentita fino a stamattina</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth">Nonostante il pericolo, entrò nella casa di fronte alla chiesa/moschea/tempio</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth">L'alcool era proibito un tempo,</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth">Mi piace questo posto per la sua storia affascinante</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth">Scappo nella scuola danneggiata</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth">Quest'acqua arriva da un posto lontano</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth">Durante le ferie mi sono riposato</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth">Aspetto che arrivi mia sorella</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth">Dimostra d'aver ragione</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth">Crediamo non sia possibile</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth">Sorride, e lui la bacia</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth">Non sono ancora d'accordo con la sua soluzione</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth">So cosa pensi</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth">La donna sa cuocere il pane</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth">Posso vedere molte parole</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth">Sono più grande di te</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth">È piccolo come te</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth">Inizia ad odiare la scuola</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth">Finisce di studiare questa materia difficile</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth">Smettono di pensare al governo</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth">Continuiamo il nostro lavoro</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth">Si preparano ad abbandonare la nave</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth">Devo dimenticare quello che ho visto</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth">Se accetti questa strana spiegazione, sei una persona stupida</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth">Viaggerò nel tuo paese, sempre che non piova</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth">La ragazza cieca ha un buon odorato</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth">Ieri tutte le mie preoccupazioni erano lontane</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth">Non lo vedo da tre anni</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth">Mi aspetto che mi faccia visita per cinque ore</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth">Scelgo di ignorare la loro decisione</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth">Ripeto ancora le mie conclusioni</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth">Insegno agli alunni a contare fino a 10</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth">Puoi tradurre questo testo in inglese?</attrib>
+		</entry>
+		<entry id="165">
+			<attrib type="orth">Riparasti il danno da solo quando facesti incidente la scorsa volta</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth">Trovo impossibile riconoscerne il significato</attrib>
+		</entry>
+		<entry id="167">
+			<attrib type="orth">Puoi portarmi la valigia o devo portarla da solo?</attrib>
+		</entry>
+		<entry id="168">
+			<attrib type="orth">Non sono ancora riuscito ad imparare questa lezione</attrib>
+		</entry>
+		<entry id="169">
+			<attrib type="orth">Questo è probabilmente un errore  molto comune</attrib>
+		</entry>
+		<entry id="170">
+			<attrib type="orth">Per fortuna di solito sono sano, ma sfortunatamente mi sono fatto male ad un piede</attrib>
+		</entry>
+		<entry id="171">
+			<attrib type="orth">C'è bel tempo ed, inoltre, è stato soleggiato tutto il giorno</attrib>
+		</entry>
+		<entry id="172">
+			<attrib type="orth">Sa se può procurare il vino per la festa?</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth">La mia religione è la stessa di prima</attrib>
+		</entry>
+		<entry id="174">
+			<attrib type="orth">Un esercito è inutile se non c'è guerra, ma pace</attrib>
+		</entry>
+		<entry id="175">
+			<attrib type="orth">Il soldato internazionale colpisce un passeggero innocente</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth">Forse è improbabile che mai succederà</attrib>
+		</entry>
+		<entry id="177">
+			<attrib type="orth">Sembra che sia ora di andare via</attrib>
+		</entry>
+		<entry id="178">
+			<attrib type="orth">la mia età è ritenuta un segreto</attrib>
+		</entry>
+		<entry id="179">
+			<attrib type="orth">In queste lezioni possiamo usare un dizionario e un computer</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth">Ho paura di finire quello che ho iniziato</attrib>
+		</entry>
+		<entry id="181">
+			<attrib type="orth">Non mi è possibile confrontare i miei disegni con i tuoi</attrib>
+		</entry>
+		<entry id="182">
+			<attrib type="orth">L'apparecchio elettrico genera molta energia</attrib>
+		</entry>
+		<entry id="183">
+			<attrib type="orth">Suggerisco di non andare a nord, ma di andare a sud</attrib>
+		</entry>
+		<entry id="184">
+			<attrib type="orth">Mi sento male. In effetti, mi sento peggio che la settimana scorsa</attrib>
+		</entry>
+		<entry id="185">
+			<attrib type="orth">I bambini davvero non sanno ancora parlare</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth">Le conseguente devono immediatamente essere rese note</attrib>
+		</entry>
+		<entry id="187">
+			<attrib type="orth">Sapevo bene se agire o no</attrib>
+		</entry>
+		<entry id="188">
+			<attrib type="orth">Colpí giusto nel mezzo del legno/bosco</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth">I miei compagni giocavano assieme, ma io sedevo in un angolo da solo.</attrib>
+		</entry>
+		<entry id="190">
+			<attrib type="orth">Il bambino voleva essere gentile con loro, ma nonostante ci</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth">Il mio insegnante disse che non avrei dovuto dire certe cose</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth">Mia madre ha sempre pensato che avessi bisogno di maggior attenzione</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="zh">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我很高兴</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我不高兴</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我曾经很高兴</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">她也很高兴</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我们都很高兴</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我变高兴了</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我还是高兴</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">你要么有钱，要么没钱</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">你又不高兴，又不难过</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">这是棵大树</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">那是棵大树</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">那就是那棵大树</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我家花园里有棵大树。</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我在教堂前面预定的广场上小心地把父亲的钱给了那个危险的男人。</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我今天写封信</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我今天不写那封信</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我今天不写封信</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我昨天写了封信</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我作天没写信</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我作天没写信</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我以前每月写封信</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我明天要写封信</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我明天不写封信</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我要是有根铅笔的话，就写封信了</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我写了一封信</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我写过一封信</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我在写信</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我在写信</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我可以写封信</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我会写信</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我本可以写封信的</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我得/必须写一封信</attrib>
+		</entry>
+		<entry id="e84000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我开始读我的书</attrib>
+		</entry>
+		<entry id="e85000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我接着读我的书</attrib>
+		</entry>
+		<entry id="e86000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我不读我的书了</attrib>
+		</entry>
+		<entry id="e87000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我读完我的书了</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我喜欢写信</attrib>
+		</entry>
+		<entry id="e90000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我决定要读我的书了</attrib>
+		</entry>
+		<entry id="e91000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我试图展示我的观点</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1" complexlang=".Hans">我决定什么时候要读读我的书了</attrib>
+		</entry>
+		<entry id="e92000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我不知道他该不该读我的书</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">那是什么？</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">这／那是谁？</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">他在哪儿？</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我们去哪儿？</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我们什么时候去 ?</attrib>
+		</entry>
+		<entry id="e99000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我们怎么去？</attrib>
+		</entry>
+		<entry id="e100000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">你有多少水？</attrib>
+		</entry>
+		<entry id="e101000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">你有几个朋友</attrib>
+		</entry>
+		<entry id="e102000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">你喜欢什么颜色？</attrib>
+		</entry>
+		<entry id="e104000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我不理解我看到的东西</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我不知道我住在哪里</attrib>
+		</entry>
+		<entry id="e106000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我不知道什么时候来</attrib>
+		</entry>
+		<entry id="e107000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我不知道我怎么活过这次灾难</attrib>
+		</entry>
+		<entry id="e109000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我要是有钱，就去买辆新车。</attrib>
+		</entry>
+		<entry id="e110000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我有钱的时候，就去买辆新车</attrib>
+		</entry>
+		<entry id="e111000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">除了下雨天，我都去参加聚会</attrib>
+		</entry>
+		<entry id="e112000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">除非下雨，否则我就参加聚会</attrib>
+		</entry>
+		<entry id="e113000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">就算下雨，我都要参加聚会</attrib>
+		</entry>
+		<entry id="e114000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">天在下雨，不管怎么说我还是要参加聚会</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">虽然在下雨，但我还是要参加聚会</attrib>
+		</entry>
+		<entry id="e117000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">因为在下雨，所以我就参加聚会</attrib>
+		</entry>
+		<entry id="e118000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">既然在下雨，那么我就参加聚会</attrib>
+		</entry>
+		<entry id="e119000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我参加聚会，好喝点啤酒</attrib>
+		</entry>
+		<entry id="e120000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我参加聚会去了，大家道别吧！</attrib>
+		</entry>
+		<entry id="e121000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我参加聚会，去和朋友跳舞</attrib>
+		</entry>
+		<entry id="e123000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我本来想参加聚会的，但是下雨了</attrib>
+		</entry>
+		<entry id="e124000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我要参加聚会，而且还要吃饭。</attrib>
+		</entry>
+		<entry id="e126000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我读我的书之前要喝茶</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我读我的书之前要喝喝茶</attrib>
+		</entry>
+		<entry id="e128000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我边读我的书，边喝茶。</attrib>
+		</entry>
+		<entry id="e129000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我读完我的书就喝茶。</attrib>
+		</entry>
+		<entry id="e130000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我读完我的书以后，现在就在喝茶了。</attrib>
+		</entry>
+		<entry id="e131000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我先喝茶，然后就把书读完</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我是买苹果的男人</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我是买苹果的女人</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我看到了买了个苹果的男人</attrib>
+		</entry>
+		<entry id="e137000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我看到了她也看到的那个男人。</attrib>
+		</entry>
+		<entry id="e138000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我看到了给过他礼物的男人</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我和你一样大</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我比你聪明</attrib>
+		</entry>
+		<entry id="e148000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我没你聪明</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我最聪明</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我唱得跟你一样</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我把礼物给你</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">这是我朋友的狗</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我看见大家</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我看见一个人</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我看不见人</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1" complexlang=".Hans">我没见到人</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">没有人见到我</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">除了你之外我见不到任何人</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我只看到你</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我见了所有的男人</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" lastmodified="1217790006" complexlang=".Hans">我没见到男人</attrib>
+		</entry>
+	</entries>
+</ulr>

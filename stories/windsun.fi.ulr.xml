@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="fi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Liisi">Pohjoistuuli ja Aurinko</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Liisi">Tuuli ja Aurinko ovat kilpasilla</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Liisi">Pohjoistuuli ja Aurinko väittelivät keskenään: kumpikin heistä vakuutti olevansa toista vahvempi. Viimein he sopivat, että koettelisivat voimiaan matkamieheen, jotta näkisivät, kumpi saisi hänet nopeammin riisumaan viittansa.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Liisi">Pohjoistuuli sai yrittää ensin, ja koottuaan kaikki voimansa hyökkäystä varten se alkoi pyöriä raivokkaasti miehen ympärillä ja tarttui kiinni tämän viittaan, aivan kuin se voisi kiskaista sen mieheltä yhdellä ainoalla liikkeellä, mutta mitä kovempaa se puhalsi, sitä tiukemmin mies kietoi viittaa ympärilleen.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Liisi">Sitten oli Auringon vuoro. Ensin se lämmitti säteillään kevyesti matkamiestä, joka pian avasi viittansa ja jatkoi kävelyään viitan riippuen löyhästi hänen olkapäillään. Sitten Aurinko paistoi koko voimallaan, ja mies, otettuaan vain muutaman askeleen, heitti ilomielin viittansa pois ja jatkoi matkaansa kevyemmin pukeutuneena.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Liisi">Suostuttelu on parempi keino kuin voima.</attrib>
+		</entry>
+	</entries>
+</ulr>

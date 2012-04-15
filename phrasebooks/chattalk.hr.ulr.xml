@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="hr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Dolazak:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Bok</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="7754" lastmodified="1231597549">Pozdrav svima</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Dobro jutro</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Dobar dan</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Dobra večer</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Laku noć</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Hej tamo</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="7754" lastmodified="1231597549">Početak razgovora:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="7754" lastmodified="1231597549">Što je novo?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Što ima?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">O čemu pričate? | Koja je tema?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="7754" lastmodified="1231597741">Kako si?/Kako ste? (formalno/neformalno)</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Kako ste?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="7754" lastmodified="1231597741">Kako ide?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Osobna pitanja:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="7754" lastmodified="1231597741">Odakle si , {korisničko ime}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="7754" lastmodified="1231597741">Jesi li nov ovdje?(m.) / Jesi li nova ovdje?(f.)| Jesi li ovdje prvi put?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="7754" lastmodified="1231597741">Koje jezike govoriš? /Koje jezike govorite?(neformalno/formalno)</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="7754" lastmodified="1231597741">U kojem dijelu {zemlja} živiš?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="7754" lastmodified="1231597741">Koliko imaš godina?/Koliko imate godina? (neformalno/formalno)</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="7754" lastmodified="1231597741">Koje jezike učiš? / Koje jezike učite?(neformalno/formalno)</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="7754" lastmodified="1231597787">Predstavljanje:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="7754" lastmodified="1231597787">Ja sam iz (zemlja)</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Govorim  {jezik(e)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="7754" lastmodified="1231597958">Moj maternji jezik je{jezik}, tečno govorim {jezik(e)}, donekle govorim {jezik(e)} i malo {jezik(e)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="7754" lastmodified="1231597958">Žao mi je, ne govorim {jezik} </attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Učim | Želim učiti {jezik(e)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="7754" lastmodified="1231597958">Završavanje razgovora:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="7754" lastmodified="1231597958">Drago mi je da smo se upoznali</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Bilo je ugodno razgovarati sa tobom</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Moram ići</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="7754" lastmodified="1231597958">Vrijeme je za večeru</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Idem u krevet</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="7754" lastmodified="1231598005">Moram ići na spavanje </attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Odlazak:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Vidimo se poslije</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Vidimo se sutra</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Vidimo se uskoro</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Vidimo se drugi put</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Laku noć svima</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="7754" lastmodified="1231598005">Bok svima</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="7754" lastmodified="1231598005">Odmah se vraćam</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="7754" lastmodified="1231598005">Vratit ću se kasnije</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Dodaci:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Hvala</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Hvala puno</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="7754" lastmodified="1231598030">Oprosti</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="7754" lastmodified="1231598030">lol</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="7754" lastmodified="1231598030">hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

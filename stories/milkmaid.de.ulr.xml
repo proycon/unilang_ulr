@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Nietoperz">Die Milchmagd und ihr Melkeimer</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Nietoperz">Eine Milchmagd träumt von ihrer Zukunft</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Nietoperz">Eine Bauerntochter war Kühe melken gewesen und kehrte gerade mit ihrem Milcheimer auf dem Kopf zum Hof zurück. Während sie ging, begann sie über folgendes nachzugrübeln:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Nietoperz">&quot;Die Milch in diesem Eimer wird mich mit Sahne versorgen, die ich zu Butter machen und auf dem Markt verkaufen werde. Mit dem Geld werde ich einige Eier kaufen, und wenn diese erst einmal ausgebrütet sind, werden sie zu Hühnern, und nach und nach werde ich einen ziemlich großen Hühnerhof haben. Dann werde ich einige meiner Hühner verkaufen, und mit dem Geld, das sie einbringen, werde ich mir ein neues Kleid kaufen , das ich anziehen werde, wenn ich zum Jahrmarkt gehe; und alle jungen Männer werden es bewundern, und zu mir kommen und mich lieben, aber ich werde nur mit dem Kopf schütteln und ihnen nichts zu sagen haben.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Nietoperz">Sie vergaß den Melkeimer vollständig und, indem sie es ihren Worten gleichtat, schüttelte sie mit dem Kopf. Herunter fiel der Eimer, die ganze Milch war verschüttet, und all ihre schönen Luftschlösser verschwanden auf der Stelle!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Nietoperz">Zähle deine Hühner nicht, bevor sie ausgebrütet sind.</attrib>
+		</entry>
+	</entries>
+</ulr>

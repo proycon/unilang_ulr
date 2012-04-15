@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="paul1" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kubi">Paul 1</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kubi">Paul verreist - 1</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kubi">Paul verreist. Er packte seinen Koffer. Er nahm ein Taxi zum Flughafen. Als Paul am Flughafen ankam, stieg er aus dem Taxi. Paul brachte sein Gepäck zum Einchecken. Er gab der Frau sein Ticket, um einzuchecken.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kubi">&quot;Haben Sie nur diese eine Tasche?&quot; fragte die Frau Paul.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kubi">&quot;Ja&quot;, sagte Paul ihr, &quot;nur eine Tasche.&quot;</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Kubi">Die Frau überprüfte sein Gepäck. Sie gab Paul seine Bordkarte. &quot;Ihr Flugzeug fliegt von Gate fünf.&quot; sagte sie Paul.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Kubi">&quot;Danke.&quot; sagte Paul. Dann ging Paul zur Passkontrolle.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Kubi">&quot;Ihren Pass bitte&quot;, sagte der Kontrolleur. Paul gab ihm seinen Pass. Der Kontrolleur schaute in den Pass. Der Kontrolleur schaute Paul an. &quot;Wie lange werden Sie weg sein?&quot; fragte der Kontrolleur Paul.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Kubi">&quot;Ich werde zwei Wochen weg sein&quot; antwortete Paul.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Kubi">Der Kontrolleur nickte und stempelte den Pass. Der Kontrolleur gab Paul den Pass. &quot;Gute Reise&quot; sagte der Kontrolleur zu Paul.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Kubi">&quot;Danke&quot; sagte Paul. Paul ging zum Gate, um auf seinen Flug zu warten. Er kaufte eine Zeitung im Geschenkeladen. Bald kam sein Flugzeug an. Paul stellte sich mit seiner Bordkarte an. Er gab der Kontrolleurin seine Bordkarte. Sie riß einen Teil der Karte ab und gab ihm den Rest. Paul stieg in das Flugzeug und fand seinen Platz. Er setzte sich und schloß den Sicherheitsgurt.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Kubi">Ein paar Minuten später setzte sich eine junge Frau in den Sitz neben ihm. Sie war sehr attraktiv. Paul lächelte und starrte auf ihr T-Shirt. Auf dem T-Shirt stand in dicken roten Buchstaben &quot;UniLang&quot;. Paul wußte nicht, was &quot;UniLang&quot; war. &quot;Entschuldigung&quot;, sagte Paul zu der Frau, &quot;was ist 'UniLang'?&quot;</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Kubi">Die Frau schaute Paul an.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Kubi">&quot;Sie wissen nicht, was 'UniLang' ist?&quot; fragte sie Paul.</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Kubi">Bevor Paul antworten konnte, hielt ein Mann hinter der Frau an. Der Mann schaute auf seine Karte, dann schaute er auf den Sitz. &quot;Dies ist mein Platz&quot; sagte der Mann zu der Frau.</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Kubi">Die Frau schaute auf ihre Karte. &quot;Sie haben recht.&quot; sagte sie. &quot;Entschuldigung. Mein Fehler.&quot; Dann ging sie zum hinteren Ende des Flugzeugs.</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Kubi">Der Mann setzte sich neben Paul. Bald bewegte sich das Flugzeug zur Startbahn. Das Flugzeug hob ab und flog.</attrib>
+		</entry>
+	</entries>
+</ulr>

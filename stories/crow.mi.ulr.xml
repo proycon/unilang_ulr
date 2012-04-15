@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="mi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Pierrick18">Lää míchokkä ä lää michikan.</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Pierrick18">U michokkä ammat sa tête minää u calum't.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Pierrick18">U laurium michokkä a'tt'u michikan avec quelqu'eux, ab'ba zu candi é lâää, akkräkka, sa ne regge pas çä avec sa muchä, ä ça mirrage â englund sa manakigan michimac michilimanicac'aw.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Pierrick18">Á bikku sa frappé d'un amen jokala. Sa commentençä pleup bikküsää dans lää michikan. ä'avec quelä bikkäsää l'eux ontêë u puüëé michigan ça lake linden, ä lää smirä mukalinnen aä göä à hubbel sa michimac.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Pierrick18">Poikkä.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Nietoperz">Der Nordwind und  die Sonne</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Nietoperz">Der Wind und die Sonne wetteifern</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Nietoperz">Zwischen dem Nordwind und der Sonne kam ein Streit auf jeder von beiden behauptete, stärker zu sein als der andere. Schließlich einigten sie sich darauf, ihre Kräfte an einem Reisenden auszuprobieren, um zu sehen, wer ihm als erstes seinen Mantel ausziehen kann.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Nietoperz">Der Nordwind hatte den ersten Versuch; und, indem er seine ganze Kraft für seinen Angriff zusammennahm, kam er wütend wirbelnd auf den Mann herab, und fing seinen Mantel als wollte er ihm ihn mit einer einzigen Anstrengung entreißen: aber je stärker er blies, desto enger wickelte der Mann ihn um sich.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Nietoperz">Dann war die Sonne an der Reihe. Zuerst strahlte sie sanft auf den Reisenden, der bald seinen Mantel aufknöpfte und weiterging, während der Mantel locker von seinen Schultern hing: dann schien sie mit ihrer ganzen Kraft, und der Mann, bevor er viele Schritte gegangen war, war glücklich, seinen Mantel einfach abwerfen und seine Reise leichter bekleidet beenden zu können.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Nietoperz">Überzeugung ist besser als rohe Kraft</attrib>
+		</entry>
+	</entries>
+</ulr>

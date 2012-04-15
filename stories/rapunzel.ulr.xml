@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="rapunzel" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="13070"  groups=""  />
+		<editors  users="13070"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="en" stats="17" />
+		<language lang="fr" stats="17" />
+	</languages>
+	<authors>
+		<author id="13070" langs="en,fr" lastmodified="1236709889" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title" />
+		<entry id="description" type="description" />
+		<entry id="e1" type="paragraph" />
+		<entry id="e1236706360640" type="paragraph" />
+		<entry id="e1236706391690" type="paragraph" />
+		<entry id="e1236706424189" type="paragraph" />
+		<entry id="e1236708743771" type="paragraph" />
+		<entry id="e1236708765421" type="paragraph" />
+		<entry id="e1236706446753" type="paragraph" />
+		<entry id="e1236706467727" type="paragraph" />
+		<entry id="e1236706485365" type="paragraph" />
+		<entry id="e1236706506528" type="paragraph" />
+		<entry id="e1236706524291" type="paragraph" />
+		<entry id="e1236706541566" type="paragraph" />
+		<entry id="e1236709296910" type="paragraph" />
+		<entry id="e1236706588379" type="paragraph" />
+		<entry id="e1236706607167" type="paragraph" />
+	</entries>
+</ulr>

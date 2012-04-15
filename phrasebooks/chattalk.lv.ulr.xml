@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="lv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Ienākot</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">čau</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="13645" lastmodified="1228900851">Sveiki visapkārt</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">labrīt</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">labdien</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">labvakar</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">ar labu nakti</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">sveiks</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Sarunas iesākšana</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Kas jauns?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Kas notiek?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Par ko jūs runājat? Kas par tēmu?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">kā tev iet?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">kā jums iet?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">kā iet ?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Personiski jautājumi</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">No kurienes tu esi, [lietotājvārds]?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Vai tu šeit esi jauniņais/jauniņā? | Vai tu šeit esi pirmoreiz?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Kādās valodās tu runā?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Kur {valstī} tu dzīvo?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Cik tu esi vecs?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Kādas valodas tu mācies?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Runāšana par sevi</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Es esmu no {valsts}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Es runāju {valodā(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Mana dzimtā valoda ir {valoda(s)}, Es tekoši runāju {valoda(s)}, viduvēji {valoda(s)} un nedaudz {valoda(s)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Piedod, es nerunāju {valodā}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Es mācos | Es gribu mācīties {valodu(as)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Sarunas beigšana</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Bija prieks iepazīties.</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Bija prieks ar tevi parunāties</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Man jāiet</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">laiks iet pusdienās</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">es eju gulēt</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">jāiet gulēt</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Atvadīšanās</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">redzēsimies vēlāk</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">līdz rītdienai</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">uz drīzu tikšanos</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="13645" lastmodified="1228900948">līdz nākamajai reizei</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Labu nakti visiem</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Atā visiem</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">drīz būšu atpakaļ</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">būšu atpakaļ vēlāk</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Papildinājumi</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">paldies</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">liels paldies</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">piedod</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">rēc</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

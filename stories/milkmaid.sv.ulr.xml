@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="sv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kess">Mjölkerskan och hennes spann</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kess">En mjölkerska drömmer om sin framtid</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kess">En lantbrukares dotter hade varit ute och mjölkat korna, och återvände till mejeriet med sin mjölkspann buren på huvudet. Medan hon vandrade på, underhöll hon sig på detta vis:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kess">»Mjölken i denna spann kommer ge mig grädde, vilken jag kan få till smör och ta till marknaden för att sälja. Med pengarna kommer jag köpa ett antal ägg, och dessa, när kläckta, kommer ge mig kycklingar, och så småningom kommer jag ha en ganska stor hönsgård. Då skall jag sälja några av mina hönsfåglar, och med pengarna de för in kommer jag köpa mig själv en ny klänning, som jag kommer bära när jag går till marknaden. Och alla ynglingar kommer att beundra den, och komma och bekänna sin kärlek till mig, men jag skall kasta med mitt huvud och inte ha något att säga dem.»</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kess">Spannen helt ur minnet, och gesten passande till orden, kastade hon med sitt huvud. Ned föll spannen, all mjölken spilld, och alla hennes fina luftslott förgångna i ett ögonblick!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Kess">Räkna inte dina kycklingar innan de har kläckts.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="windsun" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="cs" stats="6" />
+		<language lang="de" stats="6" />
+		<language lang="el" stats="6" />
+		<language lang="en" stats="6" />
+		<language lang="es" stats="6" />
+		<language lang="fi" stats="6" />
+		<language lang="fr" stats="6" />
+		<language lang="hu" stats="6" />
+		<language lang="it" stats="6" />
+		<language lang="lv" stats="6" />
+		<language lang="nl" stats="6" />
+		<language lang="no" stats="6" />
+		<language lang="pl" stats="6" />
+		<language lang="ro" stats="6" />
+		<language lang="ru" stats="6" />
+		<language lang="gd" stats="6" />
+		<language lang="pt" stats="6" />
+		<language lang="pt-BR" stats="6" />
+	</languages>
+	<authors>
+		<author id="Majka" langs="cs" lastmodified="0" />
+		<author id="Nietoperz" langs="de" lastmodified="0" />
+		<author id="Σίνης" langs="el" lastmodified="0" />
+		<author id="Abavagada" langs="en,es" lastmodified="0" />
+		<author id="Liisi" langs="fi" lastmodified="0" />
+		<author id="Emandir" langs="fr" lastmodified="0" />
+		<author id="egovki" langs="hu" lastmodified="0" />
+		<author id="Gianluca" langs="it" lastmodified="0" />
+		<author id="hekate" langs="lv" lastmodified="0" />
+		<author id="Proycon" langs="nl" lastmodified="0" />
+		<author id="keme" langs="no" lastmodified="0" />
+		<author id="Zaduma" langs="pl" lastmodified="0" />
+		<author id="aldaesme" langs="ro" lastmodified="0" />
+		<author id="Kathy" langs="ru" lastmodified="0" />
+		<author id="12803" langs="es" lastmodified="1228077020" />
+		<author id="12109" langs="gd" lastmodified="1233959280" />
+		<author id="16306" langs="pt-BR" lastmodified="1243468900" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">windsun.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+	</entries>
+</ulr>

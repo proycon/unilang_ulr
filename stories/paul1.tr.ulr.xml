@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="paul1" version="1.9" baselang="tr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="oncue">Paul 1</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="oncue">Paul bir geziye çıkıyor -1</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="oncue">Paul bir geziye çıkıyor O, bavulunu hazırladı. Havaalanına bir taksi tuttu. Paul havaalanına vardığında taksiden indi. Paul bagajını  bilet masasına koydu. O, kadına biletini verdi, böylece kontrol edilebildi</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="oncue">Kadın Paul'e sordu:&quot;Sadece bir çantan mı var?&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="oncue">&quot;Evet&quot; dedi Paul ona .&quot;Sadece bir çanta&quot;.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="oncue">Kadın onun bagajını kontrol etti. O, Paul'e biletini verdi. &quot;Uçağınız Kapı 5 ten ayrılır&quot; dedi Paul'e .</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="oncue">&quot;Teşekkür ederim&quot; dedi Paul. Sonra Paul pasaport kontrolüne gitti.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="oncue">&quot;Pasaport lütfen&quot; dedi pasaport görevlisi. Paul ona pasaportunu verdi. Görevli pasaporta baktı. Görevli Paul 'e baktı. Görevli Paul'e sordu:&quot;Ne kadar zaman için gidiyor olacaksınız?&quot;.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="oncue">&quot;İki haftalığına gidiyor olacağım&quot; diye cevapladı Paul.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="oncue">Görevli başını salladı ve pasaportu damgaladı. Görevli Paul'e pasaportunu  verdi. &quot;İyi yolculuklar&quot; dedi görevli Paul'e.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="oncue">&quot;Teşekkür ederim&quot; dedi Paul. Paul uçuşunu beklemek için kapıya gitti . O,hediye dükkanından bir gazete aldı . Kısa zamanda onun uçağı geldi. Paul bileti ile sıraya girdi. O, bilet temsilcisine biletini verdi. O, biletinin bir bölümünü  kopardı ve koçanı ona verdi. Paul uçağa bindi ve koltuğunu buldu. O, oturdu ve emniyet kemerini taktı.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="oncue">Birkaç dakika sonra,genç bir kadın onun yanına oturdu. O, çok çekiciydi. Paul gülümsedi ve onun gömleğine gözünü dikip baktı. Gömleğin üstünde, büyük harflerle&quot;Unilang&quot; yazıyordu. Paul &quot;Unilang&quot; nedir bilmiyordu. &quot;Afedersiniz&quot; dedi Paul kadına .&quot;'Unilang' nedir?&quot;</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="oncue">Kadın Paul'e baktı.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="oncue">&quot; Unilang'ın ne demek olduğunu bilmiyor musunuz?&quot; diye sordu Paul'e.</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="oncue">Paul cevap vermeden önce, bir adam kadının arkasında durdu. Adam biletine baktı,sonra koltuğa baktı. &quot;Bu benim koltuğum&quot; dedi adam kadına.</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="oncue">Kadın biletine baktı. &quot;Haklısınız&quot; dedi.&quot;Afedersiniz.Benim hatam&quot;. Sonra uçağın arkasına doğru hareket etti.</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="oncue">Adam Paul'ün yanına oturdu. Az sonra uçak , uçak pistine doğru hareket etti. Uçak havaya yükseldi ve uçuyordu.</attrib>
+		</entry>
+	</entries>
+</ulr>

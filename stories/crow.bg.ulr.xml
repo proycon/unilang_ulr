@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="bg">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Paruha">Гарванът и стомната</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Paruha">Гарван използва ума си, за да пие.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Paruha">Един жаден Гарван намерил стомна с вода, но тя била толкова малко, че както и да се опитвал, не можел да я достигне с човката си и изглеждало, че той щял да умре от жажда с водата пред очите му.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Paruha">Най-накрая му дошла умна идея. Започнал да хвърля камъчета в Стомната и с всяко камъче нивото на водата се покачвало докато накрая достигнало ръба и умната птица могла да утоли жаждата си.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Paruha">Необходимостта е майка на изобретението.</attrib>
+		</entry>
+	</entries>
+</ulr>

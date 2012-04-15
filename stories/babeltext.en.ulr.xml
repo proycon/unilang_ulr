@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="babeltext" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="13070" lastmodified="1229554658">The Babel Text</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="13070" lastmodified="1229554658">This is the story of the breaking of the Babel Tower.</attrib>
+		</entry>
+		<entry id="e1">
+			<attrib type="orth" author="13070" lastmodified="1229554658">Now the whole world had one language and a common speech.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="13070" lastmodified="1229554658">As men moved eastward, they found a plain in Shinar and settled there.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="13070" lastmodified="1229554658">They said to each other, "Come, let's make bricks and bake them thoroughly." They used brick instead of stone, and tar for mortar.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="13070" lastmodified="1229554658">Then they said, "Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves and not be scattered over the face of the whole earth."</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="13070" lastmodified="1229554658">But the Lord came down to see the city and the tower that the men were building.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="13070" lastmodified="1229554658">The Lord said, "If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="13070" lastmodified="1229554658">Come, let us go down and confuse their language so they will not understand each other."</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="13070" lastmodified="1229554658">So the Lord scattered them from there over all the earth, and they stopped building the city.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="13070" lastmodified="1229554658">That is why it was called Babel—because there the Lord confused the language of the whole world. From there the Lord scattered them over the face of the whole earth.</attrib>
+		</entry>
+	</entries>
+</ulr>

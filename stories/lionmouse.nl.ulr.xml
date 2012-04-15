@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="nl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Ron">De leeuw en de muis</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Ron">Een muis helpt een leeuw</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Ron">Een  leeuw die in in zijn hol lag te slapen, werd wakker van een muis die over zijn gezicht rende. Hij werd boos, greep de muis met zijn klauw en stond op het punt hem doden.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Ron">De doodsbange muis smeekte hem jammerend zijn leven te sparen. ‘Laat me alstublieft gaan,’ huilde hij, ‘en ik zal ooit nog eens je goedheid  belonen.’</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Ron">Het idee dat zo'n onbelangrijk schepsel ooit in staat zou zijn iets voor hem te doen vond de leeuw zo amusant dat hij luid moest lachen, en goed gehumeurd liet hij hem gaan.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Ron">Maar uiteindelijk kreeg de muis een kans.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Ron">Op een dag raakte de leeuw verstrikt in een net dat daar door enkele jagers was uitgezet om wild te vangen, en de muis hoorde en herkende zijn woedend gebrul en rende erheen. Zonder aarzelen begon hij de touwen door te knabbelen met zijn tandjes, en slaagde erin de leeuw in een mum van tijd te bevrijden.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Ron">‘Zo!’ zei de muis, jij lachte mij uit toen ik je beloofde dat ik je zou terugbetalen: maar zie je wel, zelfs een muis kan een leeuw helpen.’</attrib>
+		</entry>
+	</entries>
+</ulr>

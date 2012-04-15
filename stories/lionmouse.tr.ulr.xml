@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="tr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Yasemin Gedik">Aslan ve Fare</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Yasemin Gedik">Bir fare bir aslana yardım eder.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Yasemin Gedik">İninde uyuyan aslan üzerinden geçen bir fare yüzünden uyandı. Buna çok öfkelenen aslan fareyi yakaladı ve onu öldürecekti.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Yasemin Gedik">Fare korku içinde hayatını bağışlaması için ona yalvardı. &quot;Lütfen gitmeme izin ver&quot; diye bağrdı, &quot;birgün bu iyiliğinin karşılığını ödeyeceğim&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Yasemin Gedik">Böyle önemsiz bir yaratığın onun için birşeyler yapabileceği fikri aslanı öyle eğlendirmişti ki kahkaha atmaya başladı ve gitmesine izin verdi.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Yasemin Gedik">Ancak sonunda farenin şansı da geldi.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Yasemin Gedik">Bir gün aslan avcılar tarafından bırakılan bir ağa takılıp kaldı. Fare onun öfkeli kükremelerini duydu Hemen ipleri kemirmeye başlayarak işe koyuldu ve aslanı özgürlüğüne kavuşturmayı başardı.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Yasemin Gedik">&quot;İşte!&quot; dedi fare, &quot;sana borcumu ödeyeceğimi söylediğimde bana güldün ama şimdi görüyorsun ki bir fare de bir aslana yardım edebilir&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

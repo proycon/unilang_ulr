@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="zh">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">近来时：</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">jin4 lai2 shi2;</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">嗨！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">hai4</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">大家好！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">da4 jia1 hao3</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">早安！/  早！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">zao3 an1 / zao3</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">午安！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wu3 an1</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">晚安！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wan3 an1</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">晚安</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wan3 an1</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">你好！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">ni2 hao3</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">有什么新东西啊?</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">you3 shen3 me4 xin1 dong1 xi1 a?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">什么事情啊？/  干嘛？(colloquial and a little rude)</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">shen3 me4 shi4 qing2 a? / gan4 ma2?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">在讲些什么啊？/在讨论些什么啊？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">zai4 jiang3 xie1 shen3 me4 a1? / zai4 tao3 lun4 xie1 shen3 me4 a1?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">别来无恙吧？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">bie2 lai2 wu2 yang4 ba?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">大家还不错吗？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">da4 jia1 hai2 bu2 cuo4 ma1?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">过得怎样？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">guo4 de2 zen3 yang4?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">关于个人的问题</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">guan1 yu2 ge4 ren2 de wen4 ti2</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">你从哪儿来啊，{username}?</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">ni3 cong2 na-er3 lai2 a, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">你是新来的吗？|  这是你第一次来吗？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">ni3 shi4 xin1 lai2 de ma1? | zhe4 shi4 ni3 di4 yi2 ci4 lai2 ma1?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">你懂得说哪一些语言？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">ni2 dong3 de2 shuo1 na3 yi4 xie1 yu3 yan2</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">你住在 {country} 的哪里？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">ni3 zhu4 zai4 {country} de na2 li3?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">你今年有多大？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">ni3 jin1 nian2 you3 duo1 da4?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">你正在学哪一些语言？</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">ni3 zheng4 zai4 xue2 na3 yi4 xie1 yu3 yan2?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">介绍自己</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">jie4 shao4 zi4 ji3</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">我从{country}来</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wo3 cong2 {country} lai2</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">我会讲{language(s)}</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wo3 hui4 jiang3 {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">我的母语是 {native language}, 我的 {fluent language} 还讲得蛮不错。 我的 {intermediate la点nguage } 还好，而我只会一点 { a-little-bit-of-this language)</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wo3 de mu2 yu3 shi4 {native language}, wo3 de {fluent language} hai2 jiang3 de2 man2 bu2 cuo4. wo3 de {intermediate language} hai2 hao3, er2 wo2 zhi3 hui4 yi4 dian3 { a-little-bit-of-this language }</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">对不起，我不会 { language }</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">dui4 bu4 qi3, wo3 bu2 hui4</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">我正在学 | 我很想学 { language}</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wo3 zheng4 zai4 xue2 | wo3 hen2 xiang3 xue2</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">结束交谈</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">jie2 shu4 jiao1 tan2</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">很高兴能认识到你</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">hen3 gao1 xing4 neng2 ren4 shi4 dao4 ni3</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">很高兴能跟你对话</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">hen3 gao1 xing4 neng2 gen1 ni3 dui4 hua4</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">我要走了</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wo3 yao4 zou3 le</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">是时间吃饭了</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">shi4 shi2 jian1 chi1 fan4 le</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">我要去睡了</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wo3 yao4 qu4 shui4 le</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">我要去睡了</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">wo3 yao4 qu4 shui4 le</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">分开</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">fen1 kai1</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">待会儿见</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">dai1 hu-er3 jian4</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">明天见</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">ming2 tian1 jian4</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">待会儿见</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">dai1 hu-er3 jian4</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">下次见</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">xia4 ci4 jian4</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">大家,晚安！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">da4 jia1, wan3 an1!</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">再见！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">zai4 jian4</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">待会儿再回来</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">dai1 hu-er3 zai4 hui2 lai2</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">待会儿再回来</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">dai1 hu-er3 zai4 hui2 lai2</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">其他</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">qi2 ta1</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">谢谢！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">xie4 xie4</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">多谢！</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">duo1 xie4</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">对不起 / 不好意思</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">dui4 bu4 qi3 / bu4 hao3 yi4 si1</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">大声笑出来</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">da4 sheng1 xiao4 chu1 lai2</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="浩然 /" complexlang=".Hans">呵呵 / 哈哈</attrib>
+			<attrib type="phon" author="浩然 /" complexlang=".Hans" form="pinyin">he1 he1 / ha1 ha1</attrib>
+		</entry>
+	</entries>
+</ulr>

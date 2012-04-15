@@ -1,0 +1,2250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="bg">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="745" lastmodified="1244453233">Основен разговорник на УниЛанг</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="745" lastmodified="1244453233">Това е един среден по обем разговорник, който съдържа полезни често срещани фрази</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Paruha">Най-често употребявани изрази</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Paruha">Да</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Paruha">Не</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Paruha">Моля</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Paruha">Заповядай/Заповядайте(formal)</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Paruha">Благодаря</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Paruha">Няма защо</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Paruha">Извинявай/Извинете(formal)</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Paruha">Може би</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Paruha">Здравей</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Paruha">Довиждане!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Paruha">Добър ден!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Paruha">Добро утро!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Paruha">Добър вечер!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Paruha">Лека нощ!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="745" lastmodified="1244453265">Добре дошъл! (sg.) / Добре дошли! (pl.)</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Paruha">Приятно пътуване!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Paruha">Разбиране един друг</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="745" lastmodified="1244453265">Говориш ли.....?(infml) / Говорите ли....? (fml)</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Paruha">Аз говоря....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Paruha">Аз не говоря....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Paruha">Аз говоря малко....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Paruha">английски</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Paruha">френски</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Paruha">немски</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Paruha">испански</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Paruha">португалски</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Paruha">арабски</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Paruha">китайски</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Paruha">хинди</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Paruha">руски</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Paruha">италиански</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Paruha">холандски</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Paruha">норвежки</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Paruha">шведски</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Paruha">датски</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Paruha">полски</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Paruha">урду</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Paruha">фарси</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Paruha">японски</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Paruha">индонезийски</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Paruha">малайски</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Paruha">Разбираш ли?(infml)/ Разбирате ли?(fml)</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Paruha">Разбираш ли ме?(infml)/ Разбирате ли ме?(fml)</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Paruha">Разбирам</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Paruha">Разбирам те(infml)/ Разбирам Ви(fml)</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Paruha">Аз не разбирам</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Paruha">Аз не те разбирам(infml)/ Аз не Ви разбирам(fml)</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Paruha">Би ли повторил(а) това?(infml)/ Бихте ли повторили това?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Paruha">Би ли говорил(а) по-бавно?(infml)/ Бихте ли говорили по-бавно?(fml)</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Paruha">Би ли записал(а) това?(infml)/ Бихте ли записали това?(fml)</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Paruha">Не знам как да кажа това</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Paruha">Не знам точната дума</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Paruha">Какво каза?(infml)/ Какво казахте?(fml)</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Paruha">Как е това на ....?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Paruha">Как се пише това?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Paruha">Как се произнася това?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Paruha">Би ли ми превел(а) това?(infml)/ Бихте ли ми превели това?(fml)</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Paruha">Казах ли това правилно?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Paruha">Начален разговор</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Paruha">Как си?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Paruha">Аз съм супер!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Paruha">Бивам</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Paruha">Добре съм</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Paruha">Не съм чак толкова добре</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Paruha">На колко си години?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Paruha">Аз съм на....години</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Paruha">Не знам</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Paruha">Това не ми харесва</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Paruha">Готов(а) съм</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Paruha">Хайде да вървим!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Paruha">Съжалявам</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Paruha">Бизнес &amp; финанси</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Paruha">Мога ли да платя в брой?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Paruha">Мога ли да платя с кредитна карта?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Paruha">Приемате ли .... ?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Paruha">Може ли да обмените това в .....?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Paruha">Ето картата ми.</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Paruha">Искам да обменя няколко долара/евро/паунда.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Paruha">Какъв е обменния (валутен) курс?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Paruha">Къде мога да обменя парите си?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Paruha">Къде мога да направя фотокопия?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Paruha">Къде е най-близката банка?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Paruha">Къде трябва да подпиша?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Paruha">Имате ли каталог?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Paruha">Имам среща с...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Paruha">Колко е входната такса?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Paruha">Колко струва за ден?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Paruha">Колко струва за час?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Paruha">Колко струва за седмица?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Paruha">Безплатно ли е?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Paruha">Компютри и Интернет</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Paruha">Имаш ли компютър?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Paruha">Твърдият диск е пълен</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Paruha">Имаш ли модем?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Paruha">Имаш ли интернет?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Paruha">Може ли да пратя и-мейл?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Paruha">Може ли да прочета и-мейла си?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Paruha">Може ли да разпечатам нещо?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Paruha">Може ли да сканирам нещо?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Paruha">Компютърът ми блокира</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Paruha">Трябва да се рестартираш</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Paruha">Може ли да инсталирам.....?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Paruha">Какъв е и-мейл адресът ти?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Paruha">Моят и-мейл адрес е.....</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Paruha">Имаш ли си уеб-страница?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Paruha">Какъв е адресът?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Paruha">Образование</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Paruha">Какво учиш?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Paruha">Аз уча..... | следвам...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Paruha">право</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Paruha">медицина</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Paruha">икономика</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Paruha">езици</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Paruha">лингвистика</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Paruha">математика</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Paruha">химия</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Paruha">физика</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Paruha">информатика</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Paruha">В какъв университет учиш?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Paruha">Аз уча в....</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Paruha">Днес имам часове</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Paruha">Днес съм свободен</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Paruha">В гимназия ли си?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Paruha">Аз съм в гимназия</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Paruha">Трябва да отивам на училище сега</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Paruha">Спешни случаи</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Paruha">Извикайте доктор!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Paruha">Извикайте линейка!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Paruha">Извикайте полицията!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Paruha">Той не може да диша.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Paruha">Той не може да се движи.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Paruha">Той не спря.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Paruha">Той ме блъсна.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Paruha">Той шофира твърде бързо.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Paruha">Той се поряза.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Paruha">Не мога да си движа ръката.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Paruha">Не мога да си движа крака.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Paruha">Ограбиха ме.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Paruha">Спрете този крадец!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Paruha">Откраднаха ми паспорта.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Paruha">Откраднаха ми парите.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Paruha">Откраднаха ми колата.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Paruha">Там има пожар!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Paruha">Къде е най-близката болница?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Paruha">Къде е най-близката полиция?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Paruha">Емоции &amp; мнения</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Paruha">Харесва ли ти?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Paruha">Харесва ми</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Paruha">Аз съм весел(а)</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Paruha">Аз съм ядосан(а)</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Paruha">Аз съм разочарован(а)</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Paruha">Аз съм доволен(доволна)</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Paruha">Аз съм изморен(а)</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Paruha">Аз съм уплашен(а)</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Paruha">Топло ми е.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Paruha">Студено ми е.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Paruha">Спи ми се</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Paruha">Тук ни харесва</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Paruha">Това е (много) интересно</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Paruha">Ние смятаме, че е много интересно</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Paruha">Това е (много) скучно</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Paruha">Това е красиво</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Paruha">Той е (много) красив</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Paruha">Тя е (много) красива</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="Paruha">Той е як!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="Paruha">Тя е яка!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Paruha">Той/тя е много любезен/любезна</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Paruha">Виж!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Paruha">Чуй!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Paruha">Супер!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Paruha">Чудесно!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Paruha">Храна &amp; ресторант</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Paruha">Аз съм гладен(гладна)</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Paruha">Аз съм жаден(жадна)</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="Paruha">Ще вземем ли нещо за ядене?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="Paruha">Ще вземем ли нещо за пиене?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Paruha">Имаш ли нещо за ядене?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Paruha">Имаш ли нещо за пиене?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Paruha">Искаш ло нещо за ядене?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Paruha">Да ти взема ли нещо за ядене?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Paruha">Искаш ло нещо за пиене?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Paruha">Аз бих искал(а)......(за пиене), моля</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Paruha">чаша кафе</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Paruha">чаша чай</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Paruha">чаша бира</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Paruha">чаша вино</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Paruha">чаша червено вино</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Paruha">чаша бяло вино</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Paruha">чаша портокалов сок</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Paruha">чаша ябълков сок</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Paruha">Да ти взема ли нещо за пиене?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Paruha">Какво ще пиете?(fml)</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Paruha">Какво ще ядете?(fml)</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Paruha">Какво ми препоръчвате?(fml)</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Paruha">Може ли да видя менюто, моля?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Paruha">Може ли да видя списъка с вината, моля?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Paruha">Бих искал(а) това, моля</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Paruha">Ще желаете ли мезе?(fml)</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Paruha">Бих искал(а) мезе, моля</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Paruha">Бих искал(а) риба, моля</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Paruha">Бих искал(а) говеждо месо, моля</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Paruha">Бих искал(а) свинско месо, моля</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Paruha">Бих искал(а) салата, моля</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Paruha">Бих искал(а) супа, моля</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Paruha">Бих искал(а) нещо вегитарианско, моля</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Paruha">Бихте ли желали някакъв десерт?(fml)</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Paruha">За мезе, бих искал(а).....</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Paruha">За основно ястие, бих искал(а).......</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Paruha">За десерт, бих искал(а)........</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Paruha">Може ли да поръчам това с пържени картофи/ориз/картофи?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Paruha">Може ли да поръчам това без.....?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Paruha">Може ли да поръчам само малка порция, моля?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Paruha">Какви салати имате?(fml)</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Paruha">Нищо повече, благодаря</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Paruha">Аз съм вегетарианец (-а)</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="Paruha">Аз съм строг вегетарианец</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Paruha">Не мога да ям това</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Paruha">Това съдържа ли.....?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Paruha">(много) сол</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Paruha">(много) захар</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Paruha">(много) мазнини</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Paruha">месо</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Paruha">морска храна</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Paruha">риба</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Paruha">млечни продукти</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Paruha">Не пия (алкохол)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Paruha">Нямам вилица</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Paruha">Нямам нож</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Paruha">Нямам лъжица</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Paruha">Липсва една чаша</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Paruha">Липсва една чиния</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Paruha">Това е мръсно.</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Paruha">Твърде студено е</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Paruha">Твърде пикантно е</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Paruha">Това не е това, което поръчах</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Paruha">Тук има грешка</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Paruha">Беше  много вкусно.</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Paruha">Бих искал (-а) да платя.</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Paruha">Може ли сметката, моля?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Paruha">Ние искаме да платим поотделно</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Paruha">Всичко ли е включено?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Paruha">Бакшишът включен ли е?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Paruha">Харесвате ли готвача?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Paruha">Кой ще готви довечера?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Paruha">Да готвя ли довечера?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Paruha">Какво да направя?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Paruha">Ще желаете ли чаша кафе?(fml)</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Paruha">Ще желаете ли чаша чай?(fml)</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Paruha">Здраве &amp; болести</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Paruha">Аз съм болен/болна</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Paruha">Болен/Болна съм от грип</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Paruha">Настинал(а) съм</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Paruha">Имам алергии</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Paruha">Диабетик/Диабетичка съм.</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Paruha">Боли ме</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Paruha">Не се чувствм добре</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Paruha">На хапчета съм</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Paruha">Бременна съм</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Paruha">Аз не мога да ям.</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Paruha">Аз не мога да спя.</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="Paruha">Не искам нищо твърде силно</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Paruha">Вие ми се свят</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="Paruha">Гади ми се</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="Paruha">Имам счупен зъб</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Paruha">Имам кашлица</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Paruha">Имам главоболие</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Paruha">Боли ме стомахът</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="Paruha">Имам болки в гърдите</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Paruha">Имам инфекция</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="Paruha">Ужилен(а) съм</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="Paruha">Ухапан(а) съм</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Paruha">Боли ли те?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Paruha">Боли ли?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Paruha">Боли ли те като правя така?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="Paruha">Вземаш ли някакви лекарства?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="Paruha">Каква ти е температурата</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Paruha">Можеш ли да ходиш?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Paruha">Имам нужда от инвалидна количка.</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="Paruha">На инвалидна количка съм</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Paruha">Къде е най-близката аптека?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Paruha">Мога ли да го вземам без предписание?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Paruha">Иаш ли нещо срещу ухапвания от насекоми</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Paruha">Имаш ли нещо за изгаряния?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Paruha">Имам предписание от доктор</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Paruha">Имам нужда от нещо за ....</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Paruha">Колко често трябва да го вземам?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Paruha">Хобита</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Paruha">Какви са хобитата ти?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Paruha">Какво правиш в свободното си време</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Paruha">Обичаш ли да четеш?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Paruha">Не обичам да чета</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Paruha">Обичам да чета</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Paruha">Обичам да готвя</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Paruha">Обичам да слушам музика</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Paruha">Обичам да свиря на пиано</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Paruha">Обичам да свиря на китара</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Paruha">Обичам да пея</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Paruha">Обичам да играя шах</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Paruha">Обичам да излизам</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Paruha">Обичам да пътувам</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Paruha">Обичам да пазарувам</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Paruha">Обичам да се занимавам с градинарство</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Paruha">Обичам да гледам телевизия</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Paruha">Обичам да сърфирам в интернет</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Paruha">Какъв вид музика харесваш?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Paruha">Харесвам класическа музика</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Paruha">Харесвам поп музика</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Paruha">Харесвам оперна музика</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Paruha">Харесвам джаз</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Paruha">Харесва техно</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Paruha">Харесвам хард рок</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Paruha">Кои са любимите ти групи?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Paruha">Какво предпочиташ?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Paruha">Предпочитам ....</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Paruha">Запознаванство</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Paruha">Казвам се ....</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Paruha">Как се казваш?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Paruha">Аз съм ...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Paruha">Кой си ти?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Paruha">Мога ли да представя на ....?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Paruha">Ще те представя на ...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Paruha">Това е съпругата ми</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Paruha">Това е съпругът ми</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Paruha">Това е приятелката/гаджето ми</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Paruha">Това е приятелят/гаджето ми</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Paruha">Това е моят приятел</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Paruha">Това е синът ми</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Paruha">Това е дъщеря ми</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Paruha">Това е майка ми</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Paruha">Това е баща ми</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Paruha">Приятно ми е да се запознаем</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Paruha">Планове &amp; срещи</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="Paruha">Свободен (m)/ Свободна (f) ли си си днес / утре / довечера?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Paruha">Вече имам планове</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Paruha">Отивам на кино</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Paruha">Отивам на театър</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Paruha">Отивам в музей.</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="Paruha">Искаш ли да ходим някъде заедно днеска вечер?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="Paruha">Да, искам много. | С удоволствие.</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Paruha">Имаш ли билети?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Paruha">Имам два билета за...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Paruha">Музиката не ми харесва.</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Paruha">Музиката е твърде силна.</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="Paruha">Много народ е тук.</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Paruha">Хайде да ходим някъде другаде.</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="Paruha">Какъв филм искаш да гледаме?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="Paruha">Какво мислиш за филма?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Paruha">Политика</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Paruha">Интересувам се от политика.</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Paruha">Не се интересувам от политика.</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="Paruha">Какво мислиш за правителството?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="Paruha">Какво мислиш за краля/кралицата?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Paruha">Какво мислиш за президента?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="Paruha">Какво мислиш за премиера?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Paruha">Какво мислиш за свободата на словото?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="Paruha">Какво мислиш за войската?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Paruha">Какво мислиш за демокрацията?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="Paruha">Какво мислиш за човешките права?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="Paruha">Какво мислиш за правата на жените?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="Paruha">Какво мислиш за правата на гейовете?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="Paruha">Член ли си на някоя политическа партия?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="Paruha">Кога са изборите?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="Paruha">За кого гласува последният път?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="Paruha">За кого ще гласуваш?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Paruha">Аз съм....</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Paruha">комунист</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Paruha">капиталист</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Paruha">демократ</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Paruha">христиански демократ</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Paruha">републиканец</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="Paruha">ляв</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Paruha">националист</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="Paruha">социалист</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="Paruha">последовател на учението за свободната воля</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Paruha">фашист</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="Paruha">Връзки &amp; семейство</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="Paruha">Омъжена ли си? | Женен ли си?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="Paruha">Да, омъжена съм. | Да, женен съм.</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="Paruha">Не, не съм омъжена. | Не съм женен.</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Paruha">Имаш ли гадже (приятел)?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Paruha">Имаш ли гадже (приятелка)?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Paruha">Да, имам гадже (имам приятел)</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Paruha">Да, имам гадже (имам приятелка)</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Paruha">На колко години  е ?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Paruha">Тя | Той е на ..... години.</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="Paruha">С какво се занимава? Какво работи?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Paruha">Имаш ли деца?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Paruha">Не, нямам деца.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Paruha">Имам едно дете / имам сън / имам дъщеря</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Paruha">Имам две деца.</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Paruha">Имам три / четири / пет / шест / седем деца</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Paruha">Колко братя и сестри имаш?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="Paruha">Майка ти жива ли е все още?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="Paruha">Баща ти жив ли е все още?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="Paruha">Баба ти жива ли е все още?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="Paruha">Дядо ти жив ли е все още?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Paruha">Религия</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Paruha">Религиозен ли си?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Paruha">Не съм религиозен.</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Paruha">Атеист(ка) съм.</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="Paruha">Агностик/Агностичка съм.</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Paruha">Мюсюлманин/Мюсюлманка съм.</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Paruha">Евреин/Еврейка съм.</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Paruha">Будист(ка) съм.</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="Paruha">Индус съм.</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Paruha">Католик/Католичка съм.</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Paruha">Христианин/Христианка съм.</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="Paruha">Къде мога да намеря църква?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="Paruha">Къде мога да намеря джамия?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="Paruha">Къде мога да намеря синагога?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="Paruha">Къде мога да намеря храм?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="Paruha">Благодаря ти Господи.</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="Paruha">Ако Бог го иска.</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Paruha">О, Боже!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="Paruha">Жилище, посещение &amp; квартира</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Paruha">Откъде си? | От коя държава си?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Paruha">Аз съм от ....</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Paruha">Франция</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Paruha">Великобритания</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Paruha">Испания</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Paruha">Германия</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Paruha">САЩ</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Paruha">Китай</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Paruha">Бразилия</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Paruha">Япония</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Paruha">Русия</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Paruha">Канада</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Paruha">Австралия</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="Paruha">От каква националност си?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Paruha">Аз съм ....</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Paruha">британец  / британка</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Paruha">французин / французойка</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Paruha">немец / немкиня</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Paruha">американец / американка</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Paruha">китаец / китайка</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Paruha">японец / японка</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Paruha">руснак / рускиня</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Paruha">бразилец / бразилка</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Paruha">канадец / канадка</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Paruha">Откъде си? | В кой град живееш?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Paruha">Живея в Лондон/Париж/Берлин</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Paruha">Това близко ли е до .... ?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Paruha">Това далеч ли е от ... ?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Paruha">Живея близо до ......</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Paruha">Живея далеч от .....</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="Paruha">Къде си отседнал(а)?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="Paruha">Отседнал(а) съм в хотел.</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="Paruha">За колко време си тук?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="Paruha">Кога ще се връщаш?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Paruha">Кога пристигна?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="Paruha">Сам(а) ли си тук?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Paruha">Тук съм сам(а).</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="Paruha">Тук съм със семейството ми.</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Paruha">Тук ли живееш?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="Paruha">Не съм от тук.</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="Paruha">Може ли да лагеруваме тук?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="Paruha">Има ли свободни места?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="Paruha">Желаем да отседнем за една седмица</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="Paruha">Къде са душовете?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="Paruha">Къде са тоалетните?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="Paruha">Желая самостоятелна стая, моля.</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="Paruha">Желая стая със</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Paruha">вана</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Paruha">душ</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="Paruha">изглед</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Paruha">балкон</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="Paruha">допълнително легло</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="Paruha">отделени легла</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="Paruha">Желаем двойна стая, моля</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="Paruha">Закуската включена ли е?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="Paruha">Кога се сервира закуската?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="Paruha">Имате ли по-евтини стаи?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="Paruha">Има ли някакви съобщения за мен?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="Paruha">Може ли да ми дадете ключа, моля?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="Paruha">Какъв е номера на стаята?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="Paruha">Помолиш за стая с вана/душ.</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="Paruha">секс</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="Paruha">Искаш ли да спиш с мен?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="Paruha">Имаш ли презерватив?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="Paruha">Не искам да го правя без презерватив</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="Paruha">Бъди внимателен (на) І Бъди нежен (на)</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="Paruha">Харесва ли ти?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Paruha">Не ми харесва</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="Paruha">Обвързана ли си?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="Paruha">Гей ли си?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="Paruha">Лесбийка ли си?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="Paruha">Бисексуална ли си?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="Paruha">Пазаруване</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="Paruha">Извинявайте, можете ли да ми помогнете?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="Paruha">Мога ли да ви помогна?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" author="Paruha">Какво ще желаете?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Paruha">Какво търсите?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="Paruha">Просто разглеждам.</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="Paruha">Това ми харесва.</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="Paruha">Харесват ми тези панталони.</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="Paruha">Тази тениска ми харесва.</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="Paruha">Това яке ми харесва.</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="Paruha">Тази блуза ми харесва.</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="Paruha">Този костюм ми харесва.</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="Paruha">Тези очила ми харесват.</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="Paruha">Тези обувки ми харесват.</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Paruha">Търся ....</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="Paruha">Мога ли да го пробвам?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="Paruha">Мога ли да го пробвам?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Paruha">Къде е стаята за проби?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Paruha">Твърде е дълго.</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="Paruha">Твърде е късо.</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="Paruha">Твърде е стегнато.</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="Paruha">Твърде е разхлабено.</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="Paruha">Не става.</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="Paruha">Става ми чудесно.</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="Paruha">Кой размер сте?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="Paruha">Аз съм ......</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth" author="Paruha">Не разбирам тези рамери.</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="Paruha">Имате ли по-голям?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="Paruha">Имате ли по-малък?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="Paruha">Харесва цвета.</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="Paruha">Не харесвам цвета.</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="Paruha">Имате ли това в червено/синьо/жълто/зелено/лилаво/розово?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="Paruha">Имате ли нещо по-евтино?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="Paruha">От какво е направено?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="Paruha">Можете ли да поправите това?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="Paruha">Разглеждане на забележителности</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="Paruha">Може ли да правя снимки?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="Paruha">Не е позволено да се снима.</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="Paruha">Колко време продължава обикалката?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="Paruha">Има ли добри нощни клубове?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="Paruha">Има ли някакви местни фестивали?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="Paruha">Желая да посетя катедралата.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="Paruha">Желая да посетя църквата.</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="Paruha">Желая да посетя джамията.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="Paruha">Желая да посетя храма.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="Paruha">Има ли намаление за деца?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="Paruha">Има ли намаление за групи?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="Paruha">Има ли намаление за възрастни?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="Paruha">Има ли намаление за студенти?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="Paruha">Кога е работното време?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="Paruha">В колко часа затваряте?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="Paruha">Кога е отворено?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="Paruha">В колко часа започва шоуто?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="Paruha">Кога е построено?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="Paruha">Кой е построил това?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="Paruha">Колко е висока планината?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Paruha">Как се нарича това животно?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Paruha">Как се нарича тази птица?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Paruha">Как се нарича това цвете?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Paruha">Как се нарича това дърво?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Paruha">Как се нарича тази сграда?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Paruha">Как се нарича тази планина?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Paruha">Как се нарича тази река?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="Paruha">Пушене</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="Paruha">Пушенето е вредно за Вашето здраве</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="Paruha">Имате ли нещо против да пуша?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="Paruha">Имате ли запалка?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="Paruha">Може ли една цигара?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="Paruha">Може ли да се пуши тук?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="Paruha">Може ли един пепелник?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Paruha">Спорт</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="Paruha">Има ли опасни течения?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="Paruha">Има ли някакви интересни разходки в района?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth" author="Paruha">Има ли ски лифтове</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Paruha">Къде е най-близкото игрище за голф?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Paruha">Къде е обществения басейн?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="Paruha">Може ли да ловя риба тук?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="Paruha">Може ли да плувам тук?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="Paruha">Мога ли да наема...?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="Paruha">бейзболна бухалка</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="Paruha">футбол</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="Paruha">ски</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="Paruha">тенис ракета</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Paruha">лодка</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="Paruha">кърпа</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="Paruha">Мога ли да взимам уроци?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="Paruha">Искам да гледам футболен мач</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="Paruha">Играете ли...?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="Paruha">Американски футбол</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Paruha">Футбол</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth" author="Paruha">голф</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth" author="Paruha">тенис</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="Paruha">бейзбол</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth" author="Paruha">баскетбол</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Paruha">Време</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="Paruha">Какъв ден е днес?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="Paruha">Днес е...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="Paruha">Какъв ден беше вчера?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="Paruha">Вчера беше...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="Paruha">Какъв ден ще бъде утре?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Paruha">Утре ще бъде...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Paruha">понеделник</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Paruha">вторник</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Paruha">сряда</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Paruha">четвъртък</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Paruha">петък</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Paruha">събота</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Paruha">неделя</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="Paruha">Кой месец е?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="Paruha">Месецът е...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Paruha">Миналият месец беше...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="Paruha">Следващият месец ще бъде...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Paruha">януари</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Paruha">февруари</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Paruha">март</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Paruha">април</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Paruha">май</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Paruha">юни</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Paruha">юли</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Paruha">август</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Paruha">септември</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Paruha">октомври</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Paruha">ноември</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Paruha">декември</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="Paruha">Колко е часът?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="Paruha">Часът е 8.</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="Paruha">Осем и половина.| Осем и трийсет.</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="Paruha">Четвърт час след осем.| Осем и петнайсет.</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="Paruha">Девет без петнайсет. | Осем и четиридесет пет</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="Paruha">Осем и десет.</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="Paruha">Осем и двайсет.</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="Paruha">Осем без двайсет. | Седем и четирийсет</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="Paruha">Десет и десет | Седем и петдесет.</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth" author="Paruha">Коя дата е днес?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth" author="Paruha">Петнайсти декември, хиляда деветстотин осемдесет и втора година.</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Paruha">Кога мога да дойда?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="Paruha">Кога ще ме посетиш?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth" author="Paruha">Ще те посетя тази сутрин.</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="Paruha">Ще те посетя сутринта.</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth" author="Paruha">Ще те посетя тази вечер.</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="Paruha">Ще те посетя вечерта.</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth" author="Paruha">Ще те посетя тази седмица.</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth" author="Paruha">Ще те посетя този уийкенд.</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth" author="Paruha">Ще те посетя през уийкенда.</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="Paruha">Ще те посетя по обед.</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth" author="Paruha">Ще те посетя след два часа.</attrib>
+			<attrib type="phon" author="Paruha">Shte te postYA sled dva chAsa.</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth" author="Paruha">Ще те посетя в десет и половина.</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth" author="Paruha">Ще те посетя след десет и половина.</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth" author="Paruha">Ще те посетя преди десет и половина.</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth" author="Paruha">Ще те посетя между десет и половина и единайсет часа.</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth" author="Paruha">Ще ти бъда на посещение между десет и половина и единайсет часа.</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="Paruha">Ще те посетя през пролетта.</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="Paruha">Ще те посетя през лятото.</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth" author="Paruha">Ще те посетя през есента.</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="Paruha">Ще те посетя през зимата.</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth" author="Paruha">Ще те посетя на петнайсти декември.</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth" author="Paruha">За колко време можеш да останеш с мен?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth" author="Paruha">Мога да остана два часа.</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth" author="Paruha">Ще те посетя за два часа.</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth" author="Paruha">Закъсняваш много.</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth" author="Paruha">Точно навреме идваш.</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth" author="Paruha">Подранил си.</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="Paruha">Кой сезон е?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth" author="Paruha">Нямам време.</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth" author="Paruha">Изчакай минутка.</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth" author="Paruha">Ще бъда там след пет минути</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth" author="Paruha">Транспорт</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth" author="Paruha">Имаш ли кола?</attrib>
+			<attrib type="phon" author="Paruha">Imash li kolA?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="Paruha">Имам кола.</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth" author="Paruha">Нямам кола.</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth" author="Paruha">С твоята или с моята кола?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth" author="Paruha">Имаш ли шофьорска книжка?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth" author="Paruha">Нямам шофьорска книжка.</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth" author="Paruha">Кога ще си тръгваме?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth" author="Paruha">Къде отиваме?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth" author="Paruha">Къде отиваш? (sg.) Къде отивате?(pl.)</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth" author="Paruha">Откъде идваш? (sg.) Откъде идвате? (pl.)</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth" author="Paruha">Трябва ли да сменям автобуса?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth" author="Paruha">Къде са автобусите?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="Paruha">Къде е автобусната спирка?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth" author="Paruha">Ще ми кажеш ли кога трябва да слезна?  (infml) Ще ми кажете ли кога трябва да слезна?(fml)</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth" author="Paruha">Автобусът ходи ли до..?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="Paruha">Къде е летището?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth" author="Paruha">Кога излита самолетът?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth" author="Paruha">Кога каца самолетът?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="Paruha">Колко е дълъг полетът?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="Paruha">Кога трябва да се регистрирам?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="Paruha">Може ли да видя паспорта Ви?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="Paruha">Ето паспорта ми.</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="Paruha">Може ли да взема това със себе си?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth" author="Paruha">Откъде да си взема багажа?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="Paruha">Не мога да си намеря багажа.</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="Paruha">Ще ми помогнеш ли с багажа? (infml) Ще ми помогнете ли с багажа?(fml)</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="Paruha">Мисля, че това е мястото ми.</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="Paruha">Заето ли е мястото?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Paruha">Къде е гарата?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="Paruha">Трябва ли да се прекачвам?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="Paruha">Влакът спира ли в ... ?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="Paruha">Влакът води ли до ....?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="Paruha">За колко време спира влакът тук?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="Paruha">Коя гара е това?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Paruha">Кога е следващият влак?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Paruha">Кога е последният влак?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Paruha">Откъде мога да си взема такси?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="Paruha">Има ли паркинг наблизо?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="Paruha">Мога ли да паркирам тук?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="Paruha">За колко време мога да паркирам тук?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="Paruha">Къде мога да паркирам?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="Paruha">Колата ми се развали.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="Paruha">Колата не иска да запали.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="Paruha">Къде е най-близката газостанция?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="Paruha">Къде е най-близкият гараж?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="Paruha">Спуках гума.</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="Paruha">Свърши ми горивото.</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="Paruha">Може ли да видя шофьорската Ви книжка?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="Paruha">Ето шофьорската ми книжка.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="Paruha">Колко има до следващото село?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="Paruha">За колко време се стига с кола?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="Paruha">За колко време се стига пеш?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="Paruha">Искам да наема кола за една седмица / за три дни.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Paruha">(Метеорологично) Време</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="Paruha">Какво ще е времето утре?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="Paruha">Какво е времето по принцип?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="Paruha">Утре ще вали.</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Paruha">Вали.</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="Paruha">Вали сняг.</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="Paruha">Слънчево е.</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="Paruha">Облачно е.</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="Paruha">Навън е топло.</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="Paruha">Навън е студено.</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="Paruha">Времето е ужасно!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Paruha">Какъв прекрасен ден!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="Paruha">Приятен ден, нали?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="Paruha">Винаги ли е толкова горещо?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="Paruha">Винаги ли е толкова студено?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="Paruha">Винаги ли вали толкова?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="Paruha">Винаги ли е толкова облачно?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="745" lastmodified="1244453312">Мокър съм. (m) / Мокра съм. (f)</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Paruha">Работа</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Paruha">Къде работиш?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Paruha">Какво работиш?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="745" lastmodified="1244453312">Учител съм. (m) / Учителка съм. (f)</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Paruha">Ученик/Студент съм.(m) Ученичка/Студентка съм. (f)</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="Paruha">Работя в частна фирма.</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Paruha">Работя в ресторант.</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Paruha">Работя в супермаркет.</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Paruha">Работя в магазин.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Paruha">Лекар съм. (m) Лекарка съм. (f)</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Paruha">Психолог съм (m) Психоложка съм. (f)</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Paruha">Програмист съм.</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Paruha">Инженер съм.</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Paruha">Механик съм.</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Paruha">Писател(ка) съм.</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Paruha">Шофьор(ка) съм.</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="745" lastmodified="1244453289">Актьор/Актриса съм.</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="Paruha">Социален работник съм.</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Paruha">Политик съм</attrib>
+		</entry>
+	</entries>
+</ulr>

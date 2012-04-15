@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="ro">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Alex (D39)">Ursul şi călătorii</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Alex (D39)">O lecţie despre urşi şi prieteni</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Alex (D39)">Doi călători erau pe drum împreună, când un urs apăru, dintr-o dată, în peisaj. Înainte să-i vadă, unul din ei a fugit spre un copac de lângă drum, şi s-a urcat pe crengi şi s-a sacuns acolo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Alex (D39)">Celălalt nu era aşa de ager ca tovarăşul său; şi, cum nu a putut să scape, s-a aruncat la pământ şi s-a prefăcut că e mort.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Alex (D39)">Ursul a venit şi l-a mirosit, dar el a stat nemişcat şi şi-a ţinut răsuflarea: pentru că se spune că un urs nu se atinge de un trup mort. Ursul l-a luat drep mortăciune/hoit/cadavru şi a plecat</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Alex (D39)">Când calea era liberă, călătorul din copac s-a dat jos şi l-a întrebat pe celălalt ce i-a spus ursul când şi-a pus gura/botul la urechea sa.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Alex (D39)">Celălalt i-a răspuns: ,,Mi-a spus să nu mai călatoresc iarăşi cu un prieten care te părăseşte la primul semn de pericol.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Alex (D39)">Necazul pune la încercare sinceritatea prieteniei.</attrib>
+		</entry>
+	</entries>
+</ulr>

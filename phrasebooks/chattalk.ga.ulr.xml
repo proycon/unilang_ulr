@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="ga">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">A theacht isteach</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈhaɾ̥t̪ˠ ɪˈʃtʲah]</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Haigh / Halló</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[haj] / [haˈlˠo]</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Halló, achan duine</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[haˈlˠo aha ˈn̪ˠɪɲɪ]</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Maidin mhaith</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[mʷɔdʲɪn ˈw͂ajç]</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Oíche mhaith</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[iːçɪ ˈw͂ajç]</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Toiseacht ar an chaint</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈt̪ˠɔʃaɾ̥t̪ˠ ɛɼ ə ˈχaɲtʲ]</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">An bhfuil scéal ar bith agat?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[wɪl ˈʃciˑalˠ ə ˈbɪ ɔgˠɔd̪ˠ]</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cad é an chraic?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠəˈdʲeːn χɾac]</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cad é atá i gceist agaibh? (you=plural)</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠəˈdʲeː t̪ˠæː ɪ ɟɛʃtʲ ɔgˠɔd̪ˠ]</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cad é mar atá tú?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠəˈdʲeː mʷɔɾ əˈt̪ˠæː t̪ˠu]</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cad é mar atá sibh?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠəˈdʲeː mʷɔɾ əˈt̪ˠæː ʃɪβ]</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Ceastracha pearsanta</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈcast̪ˠɾəhə ˈpaɾsˠənt̪ˠə]</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cá as tú, a {username}</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[kˠast̪ˠu, ə...]</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">An bhfuil tú nuaidh anseo?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[wɪlˠ t̪ˠu ˈn̪ˠuˑəj ənˈʃɔ]</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cad é na teangthacha atá agat?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠəˈdʲeː nˠə ˈtʲaŋkəhə ət̪ˠæ ɔˈgˠɔd̪ˠ]</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cá háit i(n)/sa(n) {country} a bhfuil tú in do chónaí?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[kˠa ˈhæːtʲ ɪ(n)/sˠə(n)... wɪlˠ t̪ˠu d̪ˠɔ ˈχɔ͂ːnˠi]</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cá haois tú?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[kˠa ˈhɨːʃ t̪ˠu]</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Cad é na teangthacha atá tú a dh’fhoghlaim?</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠəˈdʲeː nˠə ˈtʲaŋkəhə t̪ˠæː t̪ˠu ə ˈɣoːlˠəm]</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Labhairt fá dtaobh duit féin</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈl̪ˠoːrtʲ ɸʷa d̪ˠu d̪ˠɪdʲ heːn]</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Is as (an) {country} domh.</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[sˠɪsˠ ə... d̪ˠu͂]</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Tá {language} agam.</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[t̪ˠæː ... ɔgˠɔmʷ]</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Is í an {language} mo theangaidh dhúchais; tá {language} ar mo thoil agam; tá mo chuid {language} measartha; tá giota beag {language} agam</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ʃi n... mɔ ˈhaŋˠi ˈɣuːχɪʃ; t̪ˠæː ˈ... ɛɾ mɔ ˈhɔl ɔgˠɔmʷ; t̪ˠæː mɔ χʌdʲ ˈ... ˈmasˠərhə; t̪ˠæː ˈɟɔt̪ˠə bagˠ... ɔˈgˠɔmʷ]</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Tá brón orm, níl ... agam</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[t̪ˠæː ˈbɾoːnˠ ɔɾəmʷ, ˈɲial ˈ... ɔˈgˠɔmʷ]</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Tá mé ag foghlaim... ; Is mian liom ... a dh’fhoghlaim</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[t̪ˠæː ma ɸoːlˠəm... ; smiˑənˠ lamʷ... ə ɣoːlˠəm]</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Críoch a chur le comhrá</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈcɼiːχ ə ˈχʌɾ lɛ ˈkˠɔ͂ːɾa]</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Bhí sé deas castáil ort.</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[βiː ʃa ˈdʲasˠ ˈkˠast̪ˠal ɔrt̪ˠ]</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Bhí sé deas bheith ag labhairt leat</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[βiː ʃa ˈdʲasˠ βɛ ˈl̪ˠoːrtʲ lat̪ˠ]</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Caithfidh mé imeacht</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈkˠahə ma ˈimaɾ̥t̪ˠ]</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Am dinneára</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[am ˈdʲɪɲaɾə]</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Tá mé ag gabháil a luí</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[t̪ˠæ ma gˠɔːl ə lˠiː]</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Caithfidh mé a ghabháil a luí</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈkˠahə ma ˈɣɔːl ə ˈlˠiː]</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Slán a dh’fhágáilt ag duine</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈslˠæːnˠ ə ˈɣæːgˠaλtʲ eɟɪ ˈd̪ˠɪɲɪ]</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Tchífidh mé anonn thú</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈtʲiːhə ma əˈn̪ˠɔn̪ˠ hu]</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Tchífidh mé amárach thú</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈtʲiːhə ma əˈmʷæːɾa hu]</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Tchífidh mé thú</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈtʲiːhə ma hu]</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Tchífidh mé thú</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈtʲiːhə ma hu]</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Oíche mhaith ag achan duine</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[iːçɪ ˈw͂ajç eɟɪ aha ˈn̪ˠɪɲɪ]</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Slán agaibh uilig</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈslˠæːnˠ ɔgˠəβ ɪˈlɪɟ]</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Beidh mé ar aist</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈbe ma ɛɾ ˈaʃtʲ]</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Pillfidh mé níos moille</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ˈpɪλhə ma ɲisˠ ˈmʷɪλɪ]</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Go rabh maith agat (to one person)</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠə ro ˈmʷajç ɔgˠɔd̪ˠ]</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Go rabh míle maith agat</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠə ro ˈmiːlɪ ˈmʷajç ɔgˠɔd̪ˠ]</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">Gabh mo leithscéal / Tá brón orm</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[gˠo mɔ ˈlaʃcalˠ / t̪ˠæ ˈbɾoːnˠ ɔɾəmʷ]</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="Quevenois (Lughaidh Ó hEacháin)">agoa (ag gáirí os ard)</attrib>
+			<attrib type="phon" author="Quevenois (Lughaidh Ó hEacháin)">[ə ˈgˠæːji ɔsˠ ˈaːrd̪ˠ]</attrib>
+		</entry>
+	</entries>
+</ulr>

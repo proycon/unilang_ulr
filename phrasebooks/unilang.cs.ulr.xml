@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="cs">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Nejpoužívanější výrazy</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Ano</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Ne</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Prosím</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Prosím</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Děkuji | Díky</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Není zač / Nemáte zač</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Promiňte (formal or plural) / Promiň (informal)</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Snad | Možná</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Ahoj / Nazdar</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Na shledanou!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Dobrý den!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Dobré ráno!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Dobrý večer!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Dobrou noc!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Vítejte (formal or plural) / Vítej (informal)</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Šťastnou cestu!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Rozumíme si navzájem</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Mluvíte ...? / Mluvíš ...? | Umíte ... ? / Umíš ... ?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Mluvím ... | Umím ...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Nemluvím ... | Neumím ...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Mluvím trochu ... | Umím trochu ...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">anglicky</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">francouzsky</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">německy</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">španělsky</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">portugalsky</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">arabsky</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">čínsky</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindsky</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">rusky</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">italsky</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">holandsky</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norsky</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">švédsky</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">dánsky</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">polsky</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urdsky</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">persky</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">japonsky</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indonézsky</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malajsky</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Rozumíte? / Rozumíš?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Rozumíte mi? / Rozumíš mi?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Rozumím</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Rozumím vám / Rozumím ti</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Nerozumím</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Nerozumím vám / Nerozumím ti</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Mohl byste to zopakovat, prosím? (male) / Mohla ... (female) / Moh bys ... (informal male) / Mohla bys ... (informal female)</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Mohl byste mluvit pomaleji, prosím? / Mohla ...</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Mohl byste to napsat, prosím? / Mohla ...</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Nevím, jak se to řekne.</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Neznám to správné slovo.</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Co jste říkal? / Co jste říkala?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Jak se to řekne ...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Jak se to píše? | Jak byste to napsal?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Jak se to vyslovuje?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Můžete mi to přeložit? (formal or plural) / Můžeš ... (informal)</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Řekl jsem to správně? (male) / Řekla ... (female)</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Základní konverzace</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Jak se máte? / Jak se máš?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Mám se skvěle!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Mám se dobře</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Mám se dobře</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Nemám se dobře</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Kolik vám je let? / Kolik ti je let?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Je mi ...</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Nevím</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Nelíbí se mi to</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Jsem připravený (male) / Jsem připravená (female)</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Pojďme!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Lituju / Sorry</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Obchod a finance</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Můžu platit hotově?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Můžu platit kreditní kartou?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Berete ... ?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Můžete vyměnit tyto cestovní šeky?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Můžete to směnit na ... ?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Můžete mi dát odhad ceny?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Tady je moje/má karta.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">Kolik si účtujete poplatek?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Chci směnit nějaké dolary / eura / libry.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Jaký je kurs?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Jaká je inflace?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Kde si můžu směnit peníze?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Kde si můžu udělat kopie?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Kde je nejbližší banka?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Kde to mám podepsat?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Máte katalog?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Mám schůzku s...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Kolik je vstupné?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Kolik to stojí na den?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Kolik to stojí na hodinu?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Kolik to stojí na týden?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Je to zadarmo?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Počítače a internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Máte počítač?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Hard disk je plný.</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Máte modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">Máte připojení na Internet?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Můžu poslat email?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Můžu si přečíst své emaily?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Můžu si něco vytisknout?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Můžu si něco oskenovat/naskenovat ?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Můj počítač se rozbil. | Můj počítač spadl.</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">Musíte to restartovat.</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">Můžu nainstalovat...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Jakou máte / máš emailovou adresu?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Moje emailová adresa je...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Máte / máš domovskou stránku?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Jaká je adresa?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Vzdělání</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Co studuješ?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Studuji ....</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">právo</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">lékařství | medicínu</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">ekonomii</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">jazyky</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">lingvistiku</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">matematiku</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">chemii</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">fyziku</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">informatiku</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">Na jaké univerzitě studuješ?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Studuju na ...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">Dnes mám školu. (formal) | Dneska mám školu. (informal)</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Dnes(ka) mám volno.</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Jsi na střední? (informal) | Studujete na střední škole?  (formal)</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Jsem na střední. / Chodím do ... . (informal) | Studuji na střední škole. (formal)</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Musím na hodinu.</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">První pomoc</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Zavolejte lékaře!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Zavolejte sanitku!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Zavolejte policii!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Nemůžu dýchat.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Nemůže se pohnout.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Nezastavil.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Najel do mě.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Jel moc rychle.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Pořezal se.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Nemůžu pohnout rukou.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Nemůžu pohnout nohou.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Byl jsem okraden. (male) | Byla jsem okradena. (female)</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Chyťte toho zloděje!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Ukradli mi pas.| Pas mi byl ukraden//odcizen.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Ukradli mi peníze. | Peníze mi byly ukradeny/odcizeny.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Ukradli mi auto.| Auto mi bylo ukradeno/odcizeno.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Hoří! | Hoří tu!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Kde je nejbližší nemocnice?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Kde je nejbližší policejní stanice? (formal) | Kde je tu lampárna? (informal - derogatory towards police)</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Pocity a názory</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Líbí se vám / ti to? | Jak se Ti/Vám to líbí ?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Líbí se mi to.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Jsem št'astný/á</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Zlobím se.</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Jsem zklamaný/á</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">Jsem spokojený/á.</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Jsem unavený/á</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Bojím se. | Mám strach.</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Je mi teplo. | Jsem v teple.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Je mi zima.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Jsem ospalý/á.</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Líbí se nám tady/tu. | Nám se tady/tu líbí. (emhasis on  We )</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">Je to zajímavé.</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">Zdá se nám to velice zajímavé.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">Je to (velmi) nudné.</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">Je to krásné.</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">Je (moc) pěkný.</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">Je (moc) krásná.</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">Je super!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">Je super!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">Je velmi laskavý/á.</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Podívej! / Koukej!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Poslouchej!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Skvěle!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">Báječně!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Jídlo a restaurace</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Mám hlad.</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Mám žízeň.</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">Dáme si něco k jídlu?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">Dáme si něco k pití?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Máte/Máš něco k jídlu?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Máte/Máš něco k pití?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Chcete/Chceš něco k jídlu?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Můžu vám/ti donést něco k jídlu?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Chcete/Chceš něco k pití? | Chcete/Chceš se napít?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Dal/a bych si ...., prosím.</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">šálek kávy</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">šálek čaje</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">sklenici piva (carefull czech glass is .5 liter 34 oz.)</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">sklenku vína</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">sklenku červeného vína</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">sklenku bílého vína</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">sklenici pomerančového džusu</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">sklenici jablečného džusu</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">Můžu vám/ti donést něco k pití?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">Co si dáte/dáš k pití? | Co budete pít?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">Co si dáte/dáš k jídlu? | Co budete jíst?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">Co doporučujete?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Mohu dostat jídelní lístek?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Mohu dostat vinný list?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Dal(a) bych si tohle, prosím.</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth">Dáte/Dáš si předkrm? (meal) | Dáte/Dáš si aperitiv? (drink)</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth">Dal/a bych si nějaký předkrm/aperitiv, prosím.</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Dal/a bych si nějakou rybu, prosím.</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Dal/a bych si hovězí, prosím.</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Dal/a bych si vepřové, prosím.</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Dal/a bych si salát, prosím.</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Dal/a bych si nějakou polévku, prosím.</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Dal/a bych si něco vegetariánského, prosím.</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Dáte/Dáš si zákusek | dezert?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth">Jako předkrm bych si dal(a) ....</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth">Jako hlavní chod bych si dal(a) ....</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">Jako zákusek | dezert bych si dal(a) ....</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">Mohu to dostat s hranolky/rýží/bramborem?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Mohu to dostat bez ....?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">Mohu dostat jen malou porci, prosím?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Jaké máte saláty?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">Už nic, děkuji.</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth">Je to s sebou.</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Jsem vegetarián/ka.</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth">Jsem vegan.</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Tohle jíst nemůžu.</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Obsahuje to .... ? | Je v tom ... ?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">sůl / (hodně) soli</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">cukr / (hodně) cukru</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">tuk / (hodně) tuku</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">maso</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">mořské produkty</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">rybu</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">mléčné výrobky</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Nepiju (alkohol).</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">Nemám vidličku.| Chybí mi vidlička.</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">Nemám nůž.| Chybí mi nůž.</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">Nemám lžíci.| Chybí mi lžíce.</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Chybí tady sklenice.</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Chybí tady talíř.</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">Tohle není čisté.</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">Je to (příliš) studené.</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">Je to (příliš) ostré/kořeněné.</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">To/tohle/toto jsem si neobjednal(a).</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Tady je nějaká chyba.</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">Bylo to vynikající.</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Rád bych zaplatil/a, prosím.</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Mohu dostat účet, prosím?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">Rádi bychom zaplatili zvlášť.</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Je vše zahrnuto (v ceně)?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Je v ceně zahrnuto spropitné?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">Vaříte/Vaříš rád(a)?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Kdo bude dnes vařit? / Kdo dnes vaří?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth">Mám dnes uvařit?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Co mám udělat?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">Dáte/Dáš si šálek kávy?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">Dáte/Dáš si šálek čaje?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Zdraví a nemoc</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Jsem nemocný/nemocná.</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">Mám chřipku.</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">Jsem nastydlý/nastydlá.</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">Mám alergii.</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">Jsem diabetik/diabetička. / Mám cukrovku.</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">Všechno mě bolí.</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">Necitím se dobře.</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth">Beru prášky.</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">Jsem těhotná.</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">Nemůžu jíst.</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">Nemůžu spát.</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth">Nechci nic (příliš) silného.</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth">Motá se mi hlava.</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth">Zvedá se mi žaludek.</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth">Mám zlomený zub.</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">Mám kašel.</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">Bolí mě hlava.</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">Bolí mě žaludek.</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">Bolí mě v prsou.</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth">Mám infekci.</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth">Něco mě píchlo. | Píchl(a/o) mě ...</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">Něco mě kouslo. (insects) | Pokousal/a/o mě ... (a bigger animal)</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth">Bolí vás/tě to?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">Bolí to?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">Bolí, když udělám tohle?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">Berete/Bereš nějaké léky?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth">Jakou máte/máš teplotu?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">Můžete/Můžeš chodit?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">Potřebuji invalidní vozík.</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">Jsem na vozíku.</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth">Kde je nejbližší lékárna?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth">Mohu to dostat bez předpisu?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth">Máte něco na hmyzí štípnutí?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth">Máte něco na spálení od sluníčka?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth">Mám lékařský předpis.</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth">Potřebuju něco na ...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth">Jak často to mám brát?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">Zájmy / Koníčky</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Jaké máte/máš koníčky?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Co děláte/děláš ve volném čase?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Čtete/Čteš rád/a?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">Čtu nerad/a.</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">Čtu rád/a.</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">Rád/a vařím.</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">Rád/a poslouchám hudbu.</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">Rád/a hraju na klavír.</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">Rád/a hraju na kytaru.</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">Rád/a zpívám.</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">Rád/a hraju šachy.</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">Rád/a chodím ven.</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">Rád/a cestuju.</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">Rád/a nakupuju.</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">Rád/a zahradničím.</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">Rád/a koukám televizi.</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">Rád/a surfuju po internetu.</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">Jaký druh hudby máte/máš rád/a?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">Mám rád/a vážnou hudbu.</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">Mám rád/a pop.</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">Mám rád/a operu.</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">Mám rád/a jazz.</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">Mám rád/a techno.</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">Mám rád/a hard rock.</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">Jaké jsou vaše/tvé oblíbené kapely?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">Co máte/máš raději | radši?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth">Mám raději | radši ...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">Představování</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Jmenuji se ... (formal) | Jmenuju se ... (informal/slang)</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Jak se jmenujete/jmenuješ?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Já jsem ...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Kdo jste/jsi?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth">Smím vás/tě představit ... (+dativ)?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth">Představím vás/tě ... (+dativ)</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">To je moje/má žena/manželka/choť.</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">To je můj muž | manžel.</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">To je moje/má přítelkyně.</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">To je můj přítel.</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">To je můj přítel/kamarád. (male) | To je moje/má přítelkyně (female)</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">To je můj syn.</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">To je moje/má dcera.</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">To je moje/má matka.</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">To je můj otec.</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">Těší mě.</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth">Plány a schůzky</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth">Máte/Máš dnes / zítra / dnes večer čas?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth">Už mám plány.</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth">Jdu do kina.</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth">Jdu do divadla.</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth">Jdu do muzea.</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth">Nechcete/Nechceš dnes večer se mnou někam jít?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth">Rád/a.</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth">Máte/Máš lístky?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth">Mám dva lístky na ...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth">Ta hudba se mi nelíbí.</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth">Ta hudba je moc nahlas.</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth">Je tu moc lidí.</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth">Půjdeme někam jinam?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth">Na jaký film půjdeme?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth">Co si myslíte/myslíš o tom filmu?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">Politika</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth">Zajímám se o politiku.</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth">Nezajímám se o politiku.</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth">Co si myslíte/myslíš o vládě?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth">Co si myslíte/myslíš o králi / královně?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth">Co si myslíte/myslíš o prezidentovi?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth">Co si myslíte/myslíš o premiérovi?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth">Co si myslíte/myslíš o svobodě projevu?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth">Co si myslíte/myslíš o armádě?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth">Co si myslíte/myslíš o demokracii?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth">Co si myslíte/myslíš o lidských právech?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth">Co si myslíte/myslíš o právech žen?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth">Co si myslíte/myslíš o právech gayů?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth">Jste/jsi členem/členkou (m/f) nějaké politické strany?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth">Kdy jsou volby?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth">Koho jste/jsi naposledy volil/a?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth">Koho budete/budeš volit?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth">Já jsem ...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth">komunista / komunistka</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth">kapitalista / kapitalistka</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth">demokrat / demokratka</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth">křesťanský demokrat / křesťanská demokratka</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth">republikán / republikánka</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth">levičák</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth">nacionalista / nacionalistka</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth">socialista / socialistka</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth">liberál / liberálka</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth">fašista / fašistka</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">Vztahy a rodina</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">Jste/Jsi ženatý? / Jste/Jsi vdaná? (m/f)</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">Jsem ženatý / vdaná.</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">Nejsem ženatý / vdaná.</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">Máš přítele?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">Máš přítelkyni?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">Mám přítele.</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">Mám přítelkyni.</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">Kolik mu / jí je?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth">Je mu / jí ... let.</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth">Co dělá?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">Máte/Máš děti?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">Nemám děti.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">Mám jedno dítě / jednu dceru / jednoho syna.</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">Mám dvě děti.</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">Mám tři / čtyři děti. / Mám pět / šest / sedm dětí.</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">Kolik máte/máš sourozenců?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">Žije ještě vaše/tvoje matka? | Je vaše/tvoje matka ještě naživu?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">Žije ještě váš/tvůj otec? | Je váš/tvůj otec ještě naživu?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">Žije ještě vaše/tvoje babička? | Je vaše/tvoje babička ještě naživu?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">Žije ještě váš/tvůj dědeček? | Je váš/tvůj dědeček ještě naživu?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">Náboženství</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth">Jste/Jsi věřící?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth">Nejsem věřící.</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth">Jsem ateista/ateistka.</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth">Jsem agnostik/agnostička.</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">Jsem muslim/ka.</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">Jsem žid/židovka.</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">Jsem buddhista/buddhistka.</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">Jsem hinduista/hinduistka.</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">Jsem katolík/katolička.</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">Jsem křesťan/křesťanka.</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">Kde tady najdu kostel?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">Kde tady najdu mešitu?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">Kde tady najdu synagogu?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">Kde tady najdu chrám?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Díky Bohu!</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Dá-li Bůh.</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">Proboha!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth">Bydlení, návštěvy a ubytování</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">Odkud pocházíte/pocházíš? | Ze které země pocházíte/pocházíš?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth">Já jsem z / ze (depends on following word)...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">(z) Francie</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">(ze) Spojeného království | Velké Británie</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">(ze) Španělska</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">(z) Německa</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">(ze) Spojených států | (z) USA</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">(z) Číny</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth">(z) Brazílie</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth">(z) Japonska</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth">(z) Ruska</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth">(z) Kanady</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth">(z) Austrálie</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth">Jaké jste/jsi národnosti?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">Jsem ...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">Brit/ka</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">Francouz/ka</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">Němec / Němka</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">Američan/ka</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">Číňan/ka</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">Japonec / Japonka</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">Rus/ka</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">Brazilec / Brazilka</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">Kanaďan/ka</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">Odkud jste/jsi? | Ve kterém městě bydlíte/bydlíš?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Bydlím v Londýně/Paříži/Berlíně</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth">Je to blízko ... (+genitive) ?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth">Je to daleko od ... (+genitive) ?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth">Bydlím blízko ...(+genitive)</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth">Bydlím daleko od (+genitive)</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth">Kde bydlíte/bydlíš?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth">Bydlím v Hotelu ...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth">Jak dlouho tu budete/budeš?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth">Kdy se vracíte/vracíš?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth">Kdy jste/jsi přijel/a?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth">Jste/jsi tady sám/sama?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth">Jsem tu sám/sama.</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth">Jsem tady se svojí rodinou.</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth">Žijete/žiješ tady?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth">Nejsem zdejší. / Nejsem odtud.</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth">Můžeme tady tábořit?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth">Máte volná místa?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth">Máte místo pro stan?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth">Kolik to stojí na jednu noc?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth">Chceme zůstat jeden týden.</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth">Kde jsou sprchy?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth">Kde jsou toatety?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth">Chtěl/a bych samostatný pokoj, prosím.</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth">Chtěl/a bych pokoj s ...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth">koupelnou</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth">(se) sprchou</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth">výhledem</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth">balkónem</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth">přistýlkou</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth">oddělenými postelemi</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth">Chtěli bychom dvoulůžkový pokoj, prosím.</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth">Je v ceně zahrnuta snídaně?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth">V kolik hodin se podává snídaně?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth">Nemáte levnější pokoje?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth">Máte pro mě nějaké vzkazy?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth">Mohu dostat svůj klíč, prosím?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth">Jaké je číslo mého pokoje?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth">Chtěl/a jsem pokoj s koupelnou / se sprchou.</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Sex</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Chceš se se mnou vyspat?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Máš kondom?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Bereš prášky?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Bez kondomu to dělat nebudu.</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Buď opatrný. | Buď něžný.</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Líbí se ti to?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">To se mi nelíbí.</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Jsi svobodný/svobodná?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Jsi gay?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Nejsi gay/lesbička?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Jsi lesbička?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Jsi bisexuál?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth">Nakupování</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth">Můžete mi pomoct?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth">Mohu vám pomoct?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth">Co si přejete? | Co byste si přál/a?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth">Co hledáte?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth">Jenom se dívám | koukám.</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth">To se mi líbí.</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth">Líbí se mi tyhle kalhoty.</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth">Líbí se mi tohle tričko.</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth">Líbí se mi tahle bunda.</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth">Líbí se mi tahle blůza.</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth">Líbí se mi tenhle oblek.</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth">Líbí se mi tyhle brýle.</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth">Líbí se mi tyhle boty.</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth">Hledám ... (+accusative)</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth">Můžu si to vyzkoušet?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth">Můžu to zkusit?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth">Kde je kabinka?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth">Je mi to dlouhé.</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth">Je mi to krátké.</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth">Je mi to těsné.</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth">Je mi to volné.</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth">To mi nepadne.</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth">Padne to docela dobře.</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth">Jakou máte velikost?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth">Mám velikost ...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth">Těmhle velikostem nerozumím.</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth">Nemáte větší?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth">Nemáte menší?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth">Líbí se mi ta barva.</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth">Nelíbí se mi ta barva.</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth">Nemáte tohle v červeném/modrém/žlutém/zeleném/fialovém/růžovém?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth">Nemáte levnější?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth">Z čeho je to vyrobené?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth">Můžete to opravit?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth">Památky</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Můžu fotografovat?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Tady fotografovat nemůžete.</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth">Jsou na jezeře výlety na lodičkách?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth">Jsou na řece výlety na lodičkách?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth">Jsou tu výlety s průvodcem?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Jak dlouho ten výlet trvá?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">Jsou tu nějaké dobré noční kluby?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth">Jsou tu nějaké místní slavnosti?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Rád/a bych navštívil/a katedrálu.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Rád/a bych navštívil/a kostel.</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth">Rád/a bych navštívil/a mešitu.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Rád/a bych navštívil/a chrám.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth">Máte dětskou slevu?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth">Máte skupinovou slevu?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth">Máte slevu pro důchodce?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth">Máte studentskou slevu?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth">Kdy máte otevřeno?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth">Kdy zavíráte?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth">Kdy otvíráte?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth">V kolik hodin začíná představení?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Kdy to bylo postaveno?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Kdo to postavil?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth">Jak vysoká je ta hora?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Jak se jmenuje to zvíře?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth">Jak se jmenuje ten pták?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Jak se jmenuje ta květina?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Jak se jmenuje ten strom?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Jak se jmenuje ta budova?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth">Jak se jmenuje ta hora?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Jak se jmenuje ta řeka?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">Kouření</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">Kouření škodí zdraví.</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">Nebude vám/ti vadit, když budu kouřit?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Máte/máš oheň?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Mohl/a bych dostat cigaretu?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Je tohle nekuřácké oddělení?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Mohu dostat popelník?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">Sporty</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth">Jsou tu nějaké nebezpečné vodní proudy?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth">Jsou tu nějaká zajímavá místa na vycházku?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth">Jsou tady lyžařské vleky?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth">Kde je tady nejbližší golfové hřiště?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth">Kde je plavecký bazén?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth">Můžu tu jít na ryby?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth">Můžu tu jít plavat?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth">Můžu si půjčit ... ?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth">baseballovou pálku</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth">kopací míč</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth">lyže</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth">tenisovou raketu</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth">loď</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth">ručník</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth">Můžu si zaplatit nějaké lekce?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth">Chci se jít podívat na fotbal.</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth">Hrajete/Hraješ ... ?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">americký fotbal</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">fotbal</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">tenis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">baseball</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">basketball | košíkovou</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">Čas</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Co je dnes za den?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth">Je ...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth">Co bylo včera za den?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">Včera byl (čtvrtek, pátek) / byla (středa, sobota, neděle) / bylo (pondělí, úterý).</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Co je zítra za den?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">Zítra je ...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">pondělí</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">úterý</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">středa</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">čtvrtek</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">pátek</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">sobota</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">neděle</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Co je za měsíc?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth">(Tenhle měsíc) je ...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth">Minulý měsíc byl ...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth">Příští měsíc bude ...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">leden</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">únor</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">březen</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">duben</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">květen</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">červen</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">červenec</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">srpen</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">září</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">říjen</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">listopad</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">prosinec</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Kolik je hodin?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Je osm hodin.</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth">Je půl deváté.</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth">Je čtvrt na devět.</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth">Je tři čtvrtě na devět.</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth">Je osm (hodin a) deset (minut).</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth">Je čtvrt na devět a pět minut. | Je za deset minut půl deváté.</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth">Je půl deváté a deset minut. | Je za pět minut tři čtvrtě na devět.</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth">Je za deset minut osm.</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth">Co je za datum?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth">Je 15. / patnáctého prosince 1982.</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth">Kdy můžu přijít?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth">Kdy mě přijdete/přijdeš navštívit? / Kdy přijdete/přijdeš na návštěvu?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth">Dnes dopoledne vás/tě přijdu navštívit.</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth">Přijdu vás/tě navštívit ráno/dopoledne.</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth">Dnes večer vás/tě přijdu navštívit.</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth">Přijdu vás/tě večer navštívit.</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth">Tenhle týden vás/tě přijdu navštívit .</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth">O víkendu vás/tě přijdu navštívit.</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth">Přijdu vás/tě navštívit o víkendu.</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth">Přijdu vás/tě navštívit v poledne.</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth">Přijdu vás/tě navštívit za dvě hodiny.</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth">Přijdu vás/tě navštívit v půl jedenácté.</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth">Přijdu vás/tě navštívit po půl jedenácté.</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth">Přijdu vás/tě navštívit před půl jedenáctou.</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth">Přijdu vás/tě navštívit mezi půl jedenáctou a jedenáctou.</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth">Přijdu vás/tě navštívit od půl jedenácté do jedenácté.</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth">Navštívím vás/tě na jaře.</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth">Navštívím vás/tě v létě.</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth">Navštívím vás/tě na podzim.</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">Navštívím vás/tě v zimě.</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth">Přijdu vás/tě navštívit patnáctého prosince.</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth">Jak dlouho u mě můžete/můžeš zůstat? / Jak dlouho se můžete/můžeš zdržet?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth">Můžu zůstat / se zdržet dvě hodiny.</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth">Přijdu vás/tě navštívit na dvě hodiny.</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Jdete/Jdeš pozdě.</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth">Jdete/Jdeš právě včas.</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth">Jdete/Jdeš příliš brzo.</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth">Jaké je roční období?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">Nemám čas.</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Prosím počkejte/počkej chvilku.</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth">Budu tam za pět minut.</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Doprava</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">Máte/Máš auto?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">Mám auto.</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">Nemám auto.</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth">Pojedeme vaším/tvým autem nebo mým?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth">Máte/Máš řidičák?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth">Nemám řidičák.</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth">Kdy odjíždíme?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth">Kam jedeme?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth">Kam jedete/jedeš?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth">Odkud jedete/jedeš?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth">Musím přestupovat?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth">Kde staví autobusy?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth">Kde je autobusová zastávka?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth">Mohl/a byste mi říct, kdy mám vystoupit?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth">Jede tenhle autobus do ... (+genitive)</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth">Kde je letiště?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth">Kdy odlétá letadlo?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth">Kdy přilétá letadlo?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth">Jak dlouho to letí?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth">V kolik hodin se musím nechat odbavit?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth">Mohu vidět váš pas, prosím?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth">Tady je můj pas.</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth">Můžu si to vzít s sebou?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth">Kde si můžu vyzvednout svoje zavazadla?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth">Nemůžu najít svá zavazadla.</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth">Mohl/a byste mi pomoct se zavazadly?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth">To je myslím moje sedadlo.</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth">Je tu obsazeno?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth">Kde je nádraží?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth">Musím přestupovat?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth">Staví ten vlak v ... (+local)?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth">Jede to do ... (+genitive)?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth">Jak dlouho tu ten vlak stojí?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth">Co je to za stanici?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth">Kdy jede příští vlak?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth">Kdy jede poslední vlak?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth">Kde seženu taxík?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth">Je tu někde parkoviště?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth">Smí se tu parkovat?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth">Jak dlouho tu můžu parkovat?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth">Kde můžu zaparkovat?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">Rozbilo se mi auto.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth">Nestartuje mi auto.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth">Kde je nejbližší benzínka?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth">Kde je nejbližší autoopravna?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth">Mám píchlou pneumatiku.</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth">Došel mi benzín.</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth">Váš řidičský průkaz, prosím.</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth">Tady je můj řidičský průkaz.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth">Jak je to daleko do nejbližší vesnice?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth">Jak dlouho to trvá autem?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth">Jak dlouho to trvá pěšky?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth">Chtěl/a bych si na týden / tři dny půjčit auto.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Počasí</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth">Jaké bude zítra počasí?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth">Jaké je tu normálně počasí?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">Zítra bude pršet.</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Prší.</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Sněží.</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">Svítí slunce.</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">Je zataženo.</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">Venku je teplo.</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">Venku je zima.</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Hrozné počasí!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Krásný den!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth">Hezký den, viďte/viď?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">Je tu vždycky takové horko?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">Je tu vždycky taková zima?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">Vždycky tu takhle prší?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">Vždycky je tu takhle zamračeno?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth">Zmokl/a jsem. | Jsme mokrý (male) /Jsem mokrá (female)</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Práce</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Kde pracujete/pracuješ?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Čím se živíte/živíš?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Jsem učitel/ka. | Učím.</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Studuji.</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth">Podnikám.</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Pracuju v restauraci.</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Pracuju v supermarketu.</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Pracuju v obchodě.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Jsem doktor/ka.</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">Jsem psycholog/psycholožka.</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">Jsem programátor/ka.</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Jsem inženýr/ka.</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Jsem mechanik.</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Jsem spisovatel/ka.</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Jsem řidič/ka.</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Jsem herec/herečka.</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">Jsem sociální pracovník/pracovnice.</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Jsem politik/politička.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="geography" version="1.9" baselang="et">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Loiks">Geograafiatund</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Loiks">Koolilastel on geograafiatund</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Loiks">Hommikul kireb kukk. Jaan ärkab. Päike juba paistab. Ta hõõrub une silmist. Jaan läheb vannituppa. Ta keerab kraani lahti ja peseb end. Jaan on jälle värske.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Loiks">Ta läheb trepist alla, et hommikust süüa. Ta ema ütleb: &quot;Tere hommikust!&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Loiks">Jaan vastab: &quot;Tere hommikust!&quot; Siis määrib ta võid leivale. Ta asetab sellele kaks juustuviilu. Võileib maitseb väga hästi.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Loiks">Jaan peab võtma oma koti. Nüüd võib ta koos Mariga kooli minna. Nad mõlemad käivad samas koolis.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Loiks">&quot;Tere. Kuidas läheb?&quot; küsib Mari.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Loiks">&quot;Väga hästi!&quot; ütleb Jaan naeratades. &quot;Ja kuidas sinul läheb?&quot; küsib Jaan.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Loiks">&quot;Keskmiselt. Ma olen väga väsinud.&quot; ütleb Mari. Koos astuvad nad klassiruumi.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Loiks">Õpetaja riputab seinale maailmakaardi. &quot;Milliseid maid te juba tunnete?&quot; küsib õpetaja.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Loiks">Mari tõstab oma sõrme õhku. &quot;See saabas. See on Itaalia! Minu vanaema elab seal,&quot; ütleb Mari.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Loiks">Õpetaja keerab pead ja küsib: &quot;Kas keegi teab mõnda teist maad?&quot;</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Loiks">&quot;See suur saar. See on Austraalia,&quot; hüüab Villem.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Loiks">&quot;Sellel maal elab palju kängurusid,&quot; ütleb õpetaja. Siis küsib õpetaja: &quot;Millisel maal asub see suur müür?&quot;</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Loiks">Kõik lapsed hüüavad kõva häälega üle klassi: &quot;Hiinas!&quot;</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Loiks">&quot;Õige. See on &quot;Hiina müür&quot; ja see on väga vana!&quot; Õpetaja vaatab klassi ja küsib: &quot;Millisel maal asuvad püramiidid?&quot;</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Loiks">&quot;Nad asuvad Mehhikos!&quot; ütleb Jaan.</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Loiks">Kogu klass naerab; &quot;Ei. Nad asuvad Egiptuses.&quot; ütleb Mari.</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Loiks">&quot;Mõlemal maal on püramiide, kuigi mina mõtlesin Egiptuse omi.&quot; Õpetaja jalutab läbi klassiruumi. Ta vaatab, kas kõik õpilased kirjutavad need teadmised üles oma vihikutesse. &quot;Ainult üks küsimus veel; millisel maal söövad inimesed palju baguette'e ja joovad palju veini?&quot;</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Loiks">&quot;Prantsusmaal!&quot; hüüab Jaak.</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Loiks">Õpetaja on rahul. Ta saadab õpilased välja. Neil on vahetund.</attrib>
+		</entry>
+	</entries>
+</ulr>

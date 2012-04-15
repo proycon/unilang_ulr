@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kubi">Der Bär und die Reisenden</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kubi">Eine Lektion über Bären und Freunde</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kubi">Zwei Reisende waren zusammen unterwegs, als plötzlich ein Bär auftauchte. Bevor er sie sah, rannte einer zu einem Baum am Straßenrand, kletterte die Äste hinauf und versteckte sich dort.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kubi">Der andere war nicht so geschickt wie sein Begleiter; und da er nicht entkommen konnte, warf er sich auf den Boden und tat, als wäre er tot.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kubi">Der Bär kam zu ihm und schnüffelte überall an ihm herum, aber blieb völlig still und hielt den Atem an: denn man sagt, daß Bären keine Toten anrühren. Der Bär hielt ihn für einen Kadaver und ging weg.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Kubi">Als die Luft rein war, kletterte der Reisende vom Baum herab und fragte den anderen, was der Bär ihm zugeflüstert habe, als er seinen Mund an sein Ohr hielt.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Kubi">Der andere antwortete: &quot;Er riet mir, nie wieder mit einem Freund zu reisen, der einem beim ersten Anzeichen von Gefahr im Stich läßt.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Kubi">Im Unglück zeigt sich der wahre Freund.</attrib>
+		</entry>
+	</entries>
+</ulr>

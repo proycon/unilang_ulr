@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="fo">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Ja</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Nei</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Ger so væl</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Takk</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Tað var so lítið</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Orsaka meg</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Kanska</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Halló | Hey</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Farvæl. Bei.</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Góðan dag.</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Góðan morgun.</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Gott kvøld.</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Góða nátt.</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Vælkomin.</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Góða ferð.</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">At skilja hvønnannan</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Dugir tú... ?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Eg dugi...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Eg dugi ikki...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Eg dugi eitt sindur av...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">Enskt</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">Franskt</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">Týskt</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">Spanskt</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">Portugisiskt</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">Arabiskt</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">Kinesiskt / Kinverskt</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">Hindiskt</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">Russiskt</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">Italskt / Italienskt</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">Niðurlendskt</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">Norskt</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">Svenskt</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">Danskt</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">Pólskt</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">Urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">Farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">Japanskt</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">Indonesiskt</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">Malaysiskt / Maleisiskt</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Skilir tú?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Skilir tú meg?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Eg skilji</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Eg skilji teg</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Eg skilji ikki</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Eg skilji ikki teg / Eg skilji teg ikki</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Kanst tú endurtaka hatta?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Kanst tú tosa spakuligari?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Kanst tú skriva hatta niður?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Eg dugi ikki at siga hatta</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Eg veit/kenni ikki rætta orðið</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Hvat segði tú?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Hvussu sigur tú hetta á... ?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Hvussu skrivar tú hatta?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Hvussu úttalar tú hatta?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Kanst tú umseta mær hetta?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Segði eg tað rætt?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Vanligar samtalur</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Hvussu gongur? Hvussu gongst?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Tað gongur gott. Tað gongst mær væl.</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Eg havi tað gott.</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Tað gongur.</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Eg havi tað ikki so gott.</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Hvussu gamal ert tú? (m) / Hvussu gomul ert tú? (f)</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Eg eri ... ára gamal/gomul</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Eg veit ikki</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Mær dámar ikki hatta.</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Eg eri klár/ur.</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Orsaka. / Tað harmar meg.</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Ring eftir einum lækni.</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Ring eftir einum ambulansa/sjúkrabili.</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Ring eftir løgregluni/politinum.</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Eg fái ikki andað.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Hann fær ikki flutt seg.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Hann steðgaði ikki.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Hann rann inn í meg.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Hann koyrdi ov skjótt.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Hann hevur skorið seg.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Eg fái ikki flutt armin.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Eg fái ikki flutt beinið.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Steðga tjóvinum!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Passið hjá mær er stolið.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Pengarnir hjá mær eru stolnir.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Bilurin hjá mær er stolin.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Eldur í!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Hvar er nærmasta sjúkrahús/hospital?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Hvar er nærmasta politistøð/løgreglustøð?</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Dámar tær hetta/tað?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Mær dámar tað.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Eg eri glað. (f) / Eg eri glaður (m)</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Eg eri óð/ill. (f) / Eg eri óður/illur (m)</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Eg eri skuffað. (f) / Eg eri skuffaður (m)</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Eg eri troytt/ur / móð/ur.</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Eg eri bangin.</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Eg eri heit/ur.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Eg eri køld/kaldur.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Eg vil sova.</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Okkum dámar tað her.</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">Tað er (øgiligani) áhugavert.</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">Vit halda tað vera áhugavert.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">Tað er (øgiligani) keðiligt.</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">Tað er vakurt.</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">Hann er (øgiligani) vakur.</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">Hon er (øgiligani) vøkur.</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">Hann er ein steik!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">Hon er ein steik!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">Hann/hon er øgiligani fitt/ur.</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Hygg!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Lurta!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Kul! Cool! Well!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">Frálíkt!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Matur og matstovur</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Eg eri svangur/svong.</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Eg eri tyst/ur.</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">Skulu vit fara at fáa okkum okkurt at eta?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">Skulu vit fara at fáa okkum okkurt at drekka?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Hevur tú okkurt at eta?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Hevur tú okkurt at drekka?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Vilt tú hava okkurt at eta?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Vilt tú hava okkurt at eta?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Vilt tú hava okkurt at drekka?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Kundi eg fingið ... ?</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">ein koppur av kaffi (acc. kopp)</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">ein koppur av te (acc. kopp)</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">eitt glas av øl</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">eitt glas av víni</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">eitt glas av reyðvíni</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">eitt glas av hvítvíni</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">eitt glas av appilsindjús</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">eitt glas av súrepladjús</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">Vilt tú hava okkurt at drekka?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">Hvat vilt tú hava at drekka?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">Hvat vilt tú hava at eta?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Kann eg síggja matskránna?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Kann eg síggja vínkortið?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Kundi eg fingið hetta?</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Kundi eg fingið fisk?</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Kundi eg fingið grís?</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Kundi eg fingið eina salat?</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Kundi eg fingið suppu?</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">Kundi eg fingið kips/rís/epli aftur við hesum?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Kundi eg fingið hetta uttan ...?</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Eg eri vegetarur.</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth">Eg eri vegetarur.</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Eg kann ikki eta hetta.</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(nógv) salt</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(nógv) sukur</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">(nógv) feitt</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">kjøt</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">sjómat</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">fisk</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">mjólkaúrdráttir</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Eg drekki ikki (alkohol)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">Eg havi ongan gaffil.</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">Eg havi ongan knív.</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">Eg havi onga skei.</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Eitt glas manglar.</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Ein talerkur manglar.</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">Hesin er ikki reinur.</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">Tað er ov kalt.</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">Tað er ov sterkt.</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">Hetta er ikki tað, ið eg bílegði.</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">Vilt tú hava ein kopp av kaffi?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">Vilt tú hava ein kopp av te?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Heilsa og sjúkur</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Eg eri sjúk/ur.</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">Eg havi influensu/na.</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">Eg eri forkølað/ur.</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">Eg eri ovurviðkvæmur/ovurviðkvom.</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">Eg havi sukursjúkuna.</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth">Eg taki tablettir.</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">Eg eri uppá vegin.</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">Eg fái ikki etið.</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">Eg fái ikki sovið.</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth">Ein tonn er brotnað.</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">Eg hosti.</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">Eg havi høvuðpínu.</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">Eg havi búkpínu.</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">Eg havi ilt í bringuni.</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth">Eg eri stungin.</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">Eg eri bitin.</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">Fært tú ilt, tá eg geri hetta?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">Tekur tú medisin?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">Fært tú gingið?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">Mær tørvar ein koyristól.</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">Eg siti í koyristóli.</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">At presentera hvønnannan</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Eg eiti ...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Hvussu eitur tú?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Eg eiti ...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Hvør ert tú?</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">Hetta er kona mín.</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">Hetta er maður mín.</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">Hetta er gentan hjá mær.</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">Hetta er drongurin/sjeikurin hjá mær.</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">Hetta er vinur mín.</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">Hetta er sonur mín.</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">Hetta er dóttir mín.</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">Hetta er mamma mín.</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">Hetta er pápi/faðir mín.</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">Politikkur</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">Forhold og familja</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">Ert tú forlovað/ur?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">Eg eri forlovað/ur.</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">Eg eri ikki forlovað/ur.</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">Hevur tú sjeik?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">Hevur tú damu?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">Eg havi sjeik.</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">Eg havi damu.</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">Hvussu gomul er hon? / Hvussu gamal er hann?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth">Hann/hon er ... ára gamal/gomul.</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">Hevur tú børn?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">Eg havi eingi børn.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">Eg havi eitt barn / ein son / eina dóttur.</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">Eg havi tvey børn.</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">Eg havi trý / fýra / fimm / seks / sjey børn</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">Hvussu nógv systkin hevur tú?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">Livir mamma tín enn?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">Livir pápi tín enn?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">Livir omma tín enn?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">Livir abbi tín enn?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">Átrunaður</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth">Eg eri ateistur.</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">Eg eri muslimur.</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">Eg eri jødi.</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">Eg eri buddistur.</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">Eg eri hinduari.</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">Eg eri katolikkur.</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">Eg eri kristin.</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Tøkk fái Gud.</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Um Gud vil.</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">Á, Gud.</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">breti</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">fransmaður</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">týskari</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">amerikanari</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">kinesari / kinverji</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">japanari</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">russari</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">brasilianari</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">kanadiari</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">Hvaðan ert tú? Hvørjum býi býrt tú í?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Eg búgvi í London/París/Berlin.</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Sex</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Vilt tú í song við mær?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Hevur tú eina hít?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Tekur tú p-pillarar?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Eg geri tað ikki uttan eina hít.</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Góði/góða, ver varin.</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Dámar tær hetta?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Hetta dámar mær ikki.</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Ert tú bøssi?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Ert tú lesbisk?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Ert tú biseksuel/ur?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">Ítróttur</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth">Spælir tú ... ?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">amerikanskan fótbólt</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">fótbólt</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">tennis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">baseball</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">kurvabólt</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">Tíð</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Hvør dagur er í dag?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth">Tað er ...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth">Hvør dagur var í gjár?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">Í gjár var ...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Hvør dagur er í morgin?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">Í morgin er ...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">mánadagur</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">týsdagur</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">mikudagur (Suðuroy: ónsdagur)</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">hósdagur (Suðuroy: tórsdagur)</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">fríggjadagur</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">leygardagur</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">sunnudagur</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Hvør mánaður er tað?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth">Tað er ... (mánaður).</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">januar</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">februar</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">mars</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">apríl</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">mai</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">juni</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">juli</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">august</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">september</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">oktober</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">november</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">desember</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Hvat er klokkan?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Klokkan er átta.</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth">(Hon er) hálvum níggju.</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth">(Hon er) kvart yvir átta. / (Hon er) eitt korter til níggju.</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth">(Hon er) kvart í níggju. / (Hon er) trý korter til níggju.</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth">(Hon er) tíggju minuttir í átta.</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth">(Tað er) 15. desember 1982.</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Samferðsla</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Veðrið</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Arbeiði</attrib>
+		</entry>
+	</entries>
+</ulr>

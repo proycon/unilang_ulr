@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="ja">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">こんにちは</attrib>
+			<attrib type="phon">kon nichi wa</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">こんにちは</attrib>
+			<attrib type="phon">konnchi wa</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">こんにちわ、みなさん</attrib>
+			<attrib type="phon">konnichiwa minasan</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">おはようございます</attrib>
+			<attrib type="phon">o-hayou gozai masu</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">こんにちは</attrib>
+			<attrib type="phon">kon nichi wa</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">こんばんは</attrib>
+			<attrib type="phon">kon ban wa</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">おやすみなさい。</attrib>
+			<attrib type="phon">o-yasumi nasai.</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">こんにちは</attrib>
+			<attrib type="phon">kon nichi wa</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">最近どうですか？</attrib>
+			<attrib type="phon">saikin doo desu ka?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">元気？</attrib>
+			<attrib type="phon">genki?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">何を話してるの？</attrib>
+			<attrib type="phon">nani o hanashite iru no?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">お元気ですか？</attrib>
+			<attrib type="phon">o-genki desu ka?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">お元気ですか？</attrib>
+			<attrib type="phon">o-genki desu ka?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">調子はどうですか？</attrib>
+			<attrib type="phon">choushi wa doo desu ka?</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">どちらからですか？</attrib>
+			<attrib type="phon">dochira kara desu ka?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">ここは初めてですか？</attrib>
+			<attrib type="phon">koko wa hajimete desu ka?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">何語を話しますか？</attrib>
+			<attrib type="phon">nani-go o hanashi masu ka?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">どちらの国にお住まいですか？</attrib>
+			<attrib type="phon">dochira no kuni ni osumai desu ka?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">おいくつですか？</attrib>
+			<attrib type="phon">o-ikutsu desu ka?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">何語を学んでいますか？</attrib>
+			<attrib type="phon">nani-go o manande imasu ka?</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">{country} からです。</attrib>
+			<attrib type="phon">{coundtry} kara desu</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">{language(s)} を話します。</attrib>
+			<attrib type="phon">{language(s)} o hanashi masu</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">{language(s)} はネイティブくらいに話せます。{language(s)} は流暢に話せます。{language(s)} は少し話せます。{language(s)} はちょっと話せます。</attrib>
+			<attrib type="phon">{language(s)} wa neitibu kurai ni hanase masu. {language(s)} wa ryuuchou ni hanase masu. {language(s)} wa sukoshi hanase masu. {language(s) wa chotto hanase masu.</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">ごめんなさい。{language} は話せません。</attrib>
+			<attrib type="phon">gomen nasai. {language} wa hanase masen.</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">私は {language(s)} を学んでいます。{language(s)} を学びたいです。</attrib>
+			<attrib type="phon">watashi wa {language(s)} o manande iamsu. {language(s)} o manabitai desu.</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">お会いできてうれしかったです。</attrib>
+			<attrib type="phon">o-ai dekite ureshikatta desu.</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">話せてうれしかったです。</attrib>
+			<attrib type="phon">hanasete ureshikatta desu.</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">行かなければなりません。</attrib>
+			<attrib type="phon">ikanakereba narimasen.</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">夕食をとる時間です。</attrib>
+			<attrib type="phon">yuushoku o toru jikan desu.</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">もう寝ます。</attrib>
+			<attrib type="phon">mou nemasu.</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">もう寝なくてはなりません。</attrib>
+			<attrib type="phon">mou nenakutewa narimasen.</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">またあとで。</attrib>
+			<attrib type="phon">mata atode</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">また明日。</attrib>
+			<attrib type="phon">mata ashita</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">じゃあね。</attrib>
+			<attrib type="phon">jaa ne</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">またこんど。</attrib>
+			<attrib type="phon">mata kondo</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">みなさん、おやすみなさい。</attrib>
+			<attrib type="phon">minasan, o-yasumi nasai.</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">みなさん、さようなら。</attrib>
+			<attrib type="phon">minasan, sayounara.</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">すぐもどります。</attrib>
+			<attrib type="phon">sugu modori masu</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">あとでまたきます。</attrib>
+			<attrib type="phon">atode mata kimasu.</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">ありがとう。</attrib>
+			<attrib type="phon">arigatou.</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">どうもありがとう。</attrib>
+			<attrib type="phon">doumo arigatou.</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">ごめんなさい。</attrib>
+			<attrib type="phon">gomen nasai.</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">爆笑</attrib>
+			<attrib type="phon">bakushou</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">ふふ</attrib>
+			<attrib type="phon">fufu</attrib>
+		</entry>
+	</entries>
+</ulr>

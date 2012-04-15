@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">The Crow and the Pitcher</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">A crow uses her brain to get a drink.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">A thirsty Crow found a Pitcher with some water in it, but so little was there that, try as she might, she could not reach it with her beak, and it seemed as though she would die of thirst within sight of the remedy.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">At last she hit upon a clever plan. She began dropping pebbles into the Pitcher, and with each pebble the water rose a little higher until at last it reached the brim, and the knowing bird was enabled to quench her thirst.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">Necessity is the mother of invention.</attrib>
+		</entry>
+	</entries>
+</ulr>

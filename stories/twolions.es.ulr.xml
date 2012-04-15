@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="twolions" version="1.9" baselang="es">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Shadad">Historia de dos leones</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Shadad">Dos leones escapan de un zoológico y tratar de sobrevivir en el Brasil</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Shadad">Se dice que hubo dos leones que se escaparon de un zoológico en Brasil. Durante la huida, cada uno escogió una camino diferente. Uno de ellos fue al bosque y el otro a la ciudad. Las autoridades buscaron a los leones por todas partes, pero nadie los encontró. Simplemente desaparecieron.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Shadad">Una semana después de que se fueron, el león que fue al bosque regresó solo. Estaba delgado, hambriento y débil. El director del zoológico estaba pensando en enviar al león de vuelta a África. Nadie quiere ver a un león andrajoso. Un diputado brasileño hizo al director mantener el león en el zoológico. Ustedes saben, los diputados brasileños en el poder hacen milagros.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Shadad">Ocho meses después, nadie recordaba al león que se fue a la ciudad, hasta que fue capturado. Fue devuelto al zoológico en buen estado.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Shadad">Cuando el león se encontró a su viejo amigo, dijo:</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Shadad">¡Vaya, hombre! ¿Cómo hiciste para vivir en la ciudad y, todavía, estar en buena forma? Yo he ido al bosque y no pude encontrar algo de comida. ¿Cómo te las arreglaste? ¡Díme cómo lo hiciste!</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Shadad">El otro león explicó:</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Shadad">- Me escondí en un agencia pública. Solía comer un funcionario al día. Nadie notaba su ausencia.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Shadad">- ¿Eh? ¿Entonces, por qué regresaste? ¿Acabaste con todos los funcionarios?</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Shadad">- No, no, no, no... en Brasil hay muchos funcionarios. Pero fui un estúpido. Me comí al director... al gerente de departamento... a otros empleados... y nadie notaba su ausencia. Fui atrapado después de que me comí al empleado responsable de servir café.</attrib>
+		</entry>
+	</entries>
+</ulr>

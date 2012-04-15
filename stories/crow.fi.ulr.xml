@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="fi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Liisi">Varis ja kannu</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Liisi">Varis käyttää järkeään saadakseen juotavaa</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Liisi">Janoinen varis löysi kannun jossa oli hiukan vettä, mutta sitä oli niin vähän, että vaikka varis kuinka yritti, se ei yltänyt siihen nokallaan, ja vaikutti siltä, että se kuolee janoon, vaikka apu oli aivan vieressä.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Liisi">Viimein variksen päähän pälkähti järkevä suunnitelma. Se alkoi heitellä pikkukiviä kannuun, ja jokaisen kiven myötä vesi nousi hieman korkeammalle, kunnes se vihdoin saavutti kannun reunan, ja viisas lintu saattoi sammuttaa janonsa.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Liisi">Hätä keinot keksii.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="ru">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Абавагада">Лев и Мышь</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Абавагада">Мышь помогает льву</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Абавагада">Лев, спавший в своём логове, был разбужен Мышкой, пробежавшей по его лицу. Разгневанный, он схватил её лапой и был готов убить её.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Абавагада">Мышка в ужасе стала жалостно умолять его пощадить её. &quot;Пожалуйста, отпусти меня&quot;, - пищала она, - &quot;и однажды я отплачу тебе за твою доброту&quot;.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Абавагада">Мысль, что такое незначительное существо когда-нибудь сможет сделать что-нибудь для него, так позабавила Льва, что он громко засмеялся, и, развеселённый, отпустил Мышку.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Абавагада">Но всё-таки у Мышки появился шанс отплатить.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Абавагада">Однажды Лев запутался в сети, которая была развёрнута для дичи какими-то охотниками, и Мышь услышала и узнала его гневный рык и ринулась к нему. Без дальнейших церемоний она принялась грызть верёвки зубами и вскоре добилась успеха в освобождении Льва.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Абавагада">&quot;Так-то!&quot;, - сказала Мышь, - &quot;ты посмеялся надо мной, когда я пообещала отплатить тебе: но теперь ты видишь, даже Мышь может помочь Льву&quot;.</attrib>
+		</entry>
+	</entries>
+</ulr>

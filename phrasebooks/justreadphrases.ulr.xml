@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="justreadphrases" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3"  groups=""  />
+		<editors  users="3"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="ar" stats="7" />
+		<language lang="bg" stats="194" />
+		<language lang="cs" stats="169" />
+		<language lang="da" stats="194" />
+		<language lang="de" stats="194" />
+		<language lang="el" stats="109" />
+		<language lang="en" stats="194" />
+		<language lang="eo" stats="83" />
+		<language lang="es" stats="194" />
+		<language lang="fi" stats="194" />
+		<language lang="fo" stats="126" />
+		<language lang="fr" stats="194" />
+		<language lang="ga" stats="106" />
+		<language lang="gl" stats="194" />
+		<language lang="he" stats="107" />
+		<language lang="hi" stats="8" />
+		<language lang="hr" stats="38" />
+		<language lang="hu" stats="194" />
+		<language lang="it" stats="194" />
+		<language lang="ja" stats="167" />
+		<language lang="kl" stats="6" />
+		<language lang="kn" stats="11" />
+		<language lang="la" stats="27" />
+		<language lang="lv" stats="194" />
+		<language lang="mi" stats="14" />
+		<language lang="nl" stats="194" />
+		<language lang="no" stats="46" />
+		<language lang="pl" stats="153" />
+		<language lang="pt" stats="192" />
+		<language lang="ro" stats="191" />
+		<language lang="ru" stats="60" />
+		<language lang="sl" stats="119" />
+		<language lang="sr" stats="150" />
+		<language lang="sv" stats="194" />
+		<language lang="tr" stats="165" />
+		<language lang="tt" stats="14" />
+		<language lang="zh" stats="46" />
+		<language lang="zh.Hans" stats="46" />
+		<language lang="sk" stats="22" />
+		<language lang="nonyn" stats="9" />
+		<language lang="cy" stats="3" />
+		<language lang="lt" stats="22" />
+	</languages>
+	<authors>
+		<author id="Paruha" langs="bg" lastmodified="0" />
+		<author id="Proycon" langs="en" lastmodified="0" />
+		<author id="Océan and Wesfrass" langs="es" lastmodified="0" />
+		<author id="Liisi and Sir McDuck" langs="fi" lastmodified="0" />
+		<author id="Emandir" langs="fr" lastmodified="0" />
+		<author id="Porto" langs="gl" lastmodified="0" />
+		<author id="Ori Paragon" langs="he" lastmodified="0" />
+		<author id="Gon-no-suke" langs="ja" lastmodified="0" />
+		<author id="rising phoenix (latin)" langs="la" lastmodified="0" />
+		<author id="proycon" langs="nl" lastmodified="0" />
+		<author id="Rafael Gerzvolf" langs="pt" lastmodified="0" />
+		<author id="donraulo" langs="ro" lastmodified="0" />
+		<author id="Sergei Buhtoyarov (Sergio)" langs="ru" lastmodified="0" />
+		<author id="Bugi" langs="sr" lastmodified="0" />
+		<author id="Kess" langs="sv" lastmodified="0" />
+		<author id="Sergio (Sergei Buhtoyarov)" langs="tt" lastmodified="0" />
+		<author id="1149" langs="en,sk" lastmodified="1226390622" />
+		<author id="13899" langs="pl" lastmodified="1228572933" />
+		<author id="113" langs="fr" lastmodified="1230804815" />
+		<author id="2788" langs="no,nonyn" lastmodified="1232825534" />
+		<author id="11262" langs="cy" lastmodified="1243703624" />
+		<author id="15018" langs="lt" lastmodified="1246097878" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title" />
+		<entry id="description" type="description" />
+		<entry id="1" type="phrase" />
+		<entry id="2" type="phrase" />
+		<entry id="3" type="phrase" />
+		<entry id="4" type="phrase" />
+		<entry id="5" type="phrase" />
+		<entry id="6" type="phrase" />
+		<entry id="7" type="phrase" />
+		<entry id="8" type="phrase" />
+		<entry id="9" type="phrase" />
+		<entry id="10" type="phrase" />
+		<entry id="11" type="phrase" />
+		<entry id="12" type="phrase" />
+		<entry id="13" type="phrase" />
+		<entry id="14" type="phrase" />
+		<entry id="15" type="phrase" />
+		<entry id="16" type="phrase" />
+		<entry id="17" type="phrase" />
+		<entry id="18" type="phrase" />
+		<entry id="19" type="phrase" />
+		<entry id="20" type="phrase" />
+		<entry id="21" type="phrase" />
+		<entry id="22" type="phrase" />
+		<entry id="23" type="phrase" />
+		<entry id="24" type="phrase" />
+		<entry id="25" type="phrase" />
+		<entry id="26" type="phrase" />
+		<entry id="27" type="phrase" />
+		<entry id="28" type="phrase" />
+		<entry id="29" type="phrase" />
+		<entry id="30" type="phrase" />
+		<entry id="31" type="phrase" />
+		<entry id="32" type="phrase" />
+		<entry id="33" type="phrase" />
+		<entry id="34" type="phrase" />
+		<entry id="35" type="phrase" />
+		<entry id="36" type="phrase" />
+		<entry id="37" type="phrase" />
+		<entry id="38" type="phrase" />
+		<entry id="39" type="phrase" />
+		<entry id="40" type="phrase" />
+		<entry id="41" type="phrase" />
+		<entry id="42" type="phrase" />
+		<entry id="43" type="phrase" />
+		<entry id="44" type="phrase" />
+		<entry id="45" type="phrase" />
+		<entry id="46" type="phrase" />
+		<entry id="47" type="phrase" />
+		<entry id="48" type="phrase" />
+		<entry id="49" type="phrase" />
+		<entry id="50" type="phrase" />
+		<entry id="51" type="phrase" />
+		<entry id="52" type="phrase" />
+		<entry id="53" type="phrase" />
+		<entry id="54" type="phrase" />
+		<entry id="55" type="phrase" />
+		<entry id="56" type="phrase" />
+		<entry id="57" type="phrase" />
+		<entry id="58" type="phrase" />
+		<entry id="59" type="phrase" />
+		<entry id="60" type="phrase" />
+		<entry id="61" type="phrase" />
+		<entry id="62" type="phrase" />
+		<entry id="63" type="phrase" />
+		<entry id="64" type="phrase" />
+		<entry id="65" type="phrase" />
+		<entry id="66" type="phrase" />
+		<entry id="67" type="phrase" />
+		<entry id="68" type="phrase" />
+		<entry id="69" type="phrase" />
+		<entry id="70" type="phrase" />
+		<entry id="71" type="phrase" />
+		<entry id="72" type="phrase" />
+		<entry id="73" type="phrase" />
+		<entry id="74" type="phrase" />
+		<entry id="75" type="phrase" />
+		<entry id="76" type="phrase" />
+		<entry id="77" type="phrase" />
+		<entry id="78" type="phrase" />
+		<entry id="79" type="phrase" />
+		<entry id="80" type="phrase" />
+		<entry id="81" type="phrase" />
+		<entry id="82" type="phrase" />
+		<entry id="83" type="phrase" />
+		<entry id="84" type="phrase" />
+		<entry id="85" type="phrase" />
+		<entry id="86" type="phrase" />
+		<entry id="87" type="phrase" />
+		<entry id="88" type="phrase" />
+		<entry id="89" type="phrase" />
+		<entry id="90" type="phrase" />
+		<entry id="91" type="phrase" />
+		<entry id="92" type="phrase" />
+		<entry id="93" type="phrase" />
+		<entry id="94" type="phrase" />
+		<entry id="95" type="phrase" />
+		<entry id="96" type="phrase" />
+		<entry id="97" type="phrase" />
+		<entry id="98" type="phrase" />
+		<entry id="99" type="phrase" />
+		<entry id="100" type="phrase" />
+		<entry id="101" type="phrase" />
+		<entry id="102" type="phrase" />
+		<entry id="103" type="phrase" />
+		<entry id="104" type="phrase" />
+		<entry id="105" type="phrase" />
+		<entry id="106" type="phrase" />
+		<entry id="107" type="phrase" />
+		<entry id="108" type="phrase" />
+		<entry id="109" type="phrase" />
+		<entry id="110" type="phrase" />
+		<entry id="111" type="phrase" />
+		<entry id="112" type="phrase" />
+		<entry id="113" type="phrase" />
+		<entry id="114" type="phrase" />
+		<entry id="115" type="phrase" />
+		<entry id="116" type="phrase" />
+		<entry id="117" type="phrase" />
+		<entry id="118" type="phrase" />
+		<entry id="119" type="phrase" />
+		<entry id="120" type="phrase" />
+		<entry id="121" type="phrase" />
+		<entry id="122" type="phrase" />
+		<entry id="123" type="phrase" />
+		<entry id="124" type="phrase" />
+		<entry id="125" type="phrase" />
+		<entry id="126" type="phrase" />
+		<entry id="127" type="phrase" />
+		<entry id="128" type="phrase" />
+		<entry id="129" type="phrase" />
+		<entry id="130" type="phrase" />
+		<entry id="131" type="phrase" />
+		<entry id="132" type="phrase" />
+		<entry id="133" type="phrase" />
+		<entry id="134" type="phrase" />
+		<entry id="135" type="phrase" />
+		<entry id="136" type="phrase" />
+		<entry id="137" type="phrase" />
+		<entry id="138" type="phrase" />
+		<entry id="139" type="phrase" />
+		<entry id="140" type="phrase" />
+		<entry id="141" type="phrase" />
+		<entry id="142" type="phrase" />
+		<entry id="143" type="phrase" />
+		<entry id="144" type="phrase" />
+		<entry id="145" type="phrase" />
+		<entry id="146" type="phrase" />
+		<entry id="147" type="phrase" />
+		<entry id="148" type="phrase" />
+		<entry id="149" type="phrase" />
+		<entry id="150" type="phrase" />
+		<entry id="151" type="phrase" />
+		<entry id="152" type="phrase" />
+		<entry id="153" type="phrase" />
+		<entry id="154" type="phrase" />
+		<entry id="155" type="phrase" />
+		<entry id="156" type="phrase" />
+		<entry id="157" type="phrase" />
+		<entry id="158" type="phrase" />
+		<entry id="159" type="phrase" />
+		<entry id="160" type="phrase" />
+		<entry id="161" type="phrase" />
+		<entry id="162" type="phrase" />
+		<entry id="163" type="phrase" />
+		<entry id="164" type="phrase" />
+		<entry id="165" type="phrase" />
+		<entry id="166" type="phrase" />
+		<entry id="167" type="phrase" />
+		<entry id="168" type="phrase" />
+		<entry id="169" type="phrase" />
+		<entry id="170" type="phrase" />
+		<entry id="171" type="phrase" />
+		<entry id="172" type="phrase" />
+		<entry id="173" type="phrase" />
+		<entry id="174" type="phrase" />
+		<entry id="175" type="phrase" />
+		<entry id="176" type="phrase" />
+		<entry id="177" type="phrase" />
+		<entry id="178" type="phrase" />
+		<entry id="179" type="phrase" />
+		<entry id="180" type="phrase" />
+		<entry id="181" type="phrase" />
+		<entry id="182" type="phrase" />
+		<entry id="183" type="phrase" />
+		<entry id="184" type="phrase" />
+		<entry id="185" type="phrase" />
+		<entry id="186" type="phrase" />
+		<entry id="187" type="phrase" />
+		<entry id="188" type="phrase" />
+		<entry id="189" type="phrase" />
+		<entry id="190" type="phrase" />
+		<entry id="191" type="phrase" />
+		<entry id="192" type="phrase" />
+	</entries>
+</ulr>

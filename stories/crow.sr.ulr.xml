@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="sr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Абавагада">Врана и крчаг</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Абавагада">Врана која је мућнула главом да би успела да пије</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Абавагада">Жедна врана пронашла је крчаг са нешто воде у њему, али било је тако мало воде, да колико год се трудила, није успевала да је дохвати кљуном, и изгледало је као да ће угинути од жеђи пред самим леком.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Абавагада">Коначно је смислила бистар план. Почела је да убацује каменчиће у крчаг, и са сваким каменчићем вода је била за нијансу виша све док коначно није досегла ивицу, и умна птица је сада била у могућности да утоли жеђ.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Абавагада">Потреба је мајка изума.</attrib>
+		</entry>
+	</entries>
+</ulr>

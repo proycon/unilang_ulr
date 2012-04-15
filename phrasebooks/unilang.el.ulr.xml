@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="el">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Σίνης / maribi">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Σίνης / maribi">Αυτό είναι ένα γλωσσάριο μεσαίου μεγέθους που περιέχει χρήσιμες καθημερινές φράσεις</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Σίνης / maribi">Οι πιο συνηθισμένες εκφράσεις</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Σίνης / maribi">Ναι</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Σίνης / maribi">'Οχι</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Σίνης / maribi">Παρακαλώ</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Σίνης / maribi">Ορίστε</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Σίνης / maribi">Ευχαριστώ</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Σίνης / maribi">Παρακαλώ</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Σίνης / maribi">Με συγχωρείτε / Συγγνώμη</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Σίνης / maribi">Ίσως/Μπορεί/Ενδέχεται</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Σίνης / maribi">Γεια</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Σίνης / maribi">Γεια!/Αντίο!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Σίνης / maribi">Καλημέρα!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Σίνης / maribi">Καλημέρα!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Σίνης / maribi">Καλησπέρα!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Σίνης / maribi">Καληνύχτα!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Σίνης / maribi">Καλώς ήρθατε (polite or to many people) /Καλώς ήρθες (to one person)</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Σίνης / maribi">Καλό ταξίδι</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Σίνης / maribi">Καταλαβαίνοντας ο ένας τον άλλο</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Σίνης / maribi">Μιλάτε ..... ;</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Σίνης / maribi">Μιλάω .....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Σίνης / maribi">Δεν μιλώ .....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Σίνης / maribi">Μιλώ λίγο .....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Σίνης / maribi">Αγγλικά</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Σίνης / maribi">Γαλλικά</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Σίνης / maribi">Γερμανικά</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Σίνης / maribi">Ισπανικά</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Σίνης / maribi">Πορτογαλικά</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Σίνης / maribi">Αραβικά</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Σίνης / maribi">Κινέζικα</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Σίνης / maribi">Ινδικά, Χίντι</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Σίνης / maribi">Ρωσικά</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Σίνης / maribi">Ιταλικά</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Σίνης / maribi">Ολλανδικά</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Σίνης / maribi">Νορβηγικά</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Σίνης / maribi">Σουηδικά</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Σίνης / maribi">Δανέζικα</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Σίνης / maribi">Πολωνικά</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Σίνης / maribi">Ουρντού</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Σίνης / maribi">Περσικά/Φαρσί</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Σίνης / maribi">Ιαπωνικά</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Σίνης / maribi">Ινδονησιακά</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Σίνης / maribi">Μαλαϊκά</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Σίνης / maribi">Καταλαβαίνετε;</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Σίνης / maribi">Με καταλαβαίνετε;</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Σίνης / maribi">Καταλαβαίνω</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Σίνης / maribi">Σας καταλαβαίνω</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Σίνης / maribi">Δεν καταλαβαίνω</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Σίνης / maribi">Δεν σας καταλαβαίνω</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε παρακαλώ να το επαναλάβετε;</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε παρακαλώ να μιλάτε πιο αργά;</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε παρακαλώ να το γράψετε;</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Σίνης / maribi">Δεν γνωρίζω πώς να το πω αυτό</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Σίνης / maribi">Δεν γνωρίζω την σωστή λέξη</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Σίνης / maribi">Τι είπατε;</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Σίνης / maribi">Πώς το λέτε αυτό στα .....;</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Σίνης / maribi">Πώς το γράφετε αυτό;</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Σίνης / maribi">Πώς το προφέρετε αυτό;</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε να μου το μεταφράσετε;</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Σίνης / maribi">Το είπα σωστά αυτό;</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Σίνης / maribi">Βασικοί διάλογοι</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Σίνης / maribi">Πώς είσαι;</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι πολύ καλά!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Σίνης / maribi">Καλά είμαι.</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι εντάξει</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Σίνης / maribi">Δεν είμαι τόσο καλά</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Σίνης / maribi">Πόσο χρονών είσαι/είστε;</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι...χρονών</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Σίνης / maribi">Δεν ξέρω</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Σίνης / maribi">Δε μ' αρέσει αυτό</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι έτοιμος/έτοιμη</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Σίνης / maribi">Πάμε!/Φύγαμε!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Σίνης / maribi">Λυπάμαι/Συγγνώμη</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Σίνης / maribi">Εργασιακά και οικονομικά</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να πληρώσω σε μετρητά;</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να πληρώσω μέσω πιστωτικής κάρτας;</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Σίνης / maribi">Δέχεστε...;</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε να αλλάξετε αυτές τις ταξιδιωτικές επιταγές;</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Σίνης / maribi">Μπόρείτε να αλλάξετε αυτά σε...</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε να μου πείτε πόσο περίπου θα κοστίσει;</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Σίνης / maribi">Ορίστε η κάρτα μου.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="Σίνης / maribi">Πόσο είναι η προμήθεια;</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Σίνης / maribi">Θέλω να αλλάξω μερικά δολλάρια/ευρώ/λίρες.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Σίνης / maribi">Ποια είναι η ισοτιμία;</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="Σίνης / maribi">ποιός είναι ο πληθωρισμός;</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Σίνης / maribi">πού μπορώ να αλλάξω τα χρήματά μου;</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Σίνης / maribi">πού μπορώ να βγάλω φωτοαντίγραφα;</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Σίνης / maribi">πού είναι η κοντινότερη τράπεζα;</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Σίνης / maribi">που πρέπει να υπογράψω;</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Σίνης / maribi">έχετε ένα κατάλογο</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Σίνης / maribi">έχω ένα ραντεβού με....</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Σίνης / maribi">πόσο κάνει η είσοδος</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Σίνης / maribi">πόσο κοστίζει ανά μέρα</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Σίνης / maribi">πόσο κοστίζει ανά ώρα;</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Σίνης / maribi">πόσο κοστίζει ανά εβδομάδα;</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Σίνης / maribi">Είναι δωρεάν;</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Σίνης / maribi">Ηλεκτρονικοί Υπολογιστές και Διαδίκτυο</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Σίνης / maribi">Έχετε ηλεκτρονικό υπολογιστή;</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Σίνης / maribi">Ο σκληρός δίσκος είναι πλήρης</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Σίνης / maribi">Έχετε μόντεμ;</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Σίνης / maribi">Έχετε σύνδεση στο διαδίκτυο;</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να στείλω email;</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να διαβάσω το email μου;</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να εκτυπώσω κάτι;</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να σαρώσω κάτι;</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Σίνης / maribi">το κομπιούτερ μου κατέρρευσε</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Σίνης / maribi">πρέπει να κάνεις επανεκκίνηση</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να εγκαταστήσω...;</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Σίνης / maribi">Ποιο είναι το ηλεκτρονικό σας ταχυδρομείο;</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Σίνης / maribi">Η ηλεκτρονική μου διεύθυνση είναι...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Σίνης / maribi">Έχετε προσωπική ιστοσελίδα;</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Σίνης / maribi">Ποια είναι η διεύθυνση;</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Σίνης / maribi">Εκπαίδευση</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Σίνης / maribi">Τί σπουδάζετε;</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Σίνης / maribi">Σπουδάζω...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Σίνης / maribi">Νομικά</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Σίνης / maribi">Ιατρική</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Σίνης / maribi">Οικονομικά</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Σίνης / maribi">Γλώσσες</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Σίνης / maribi">Γλωσσολογία</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Σίνης / maribi">Μαθηματικά</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Σίνης / maribi">Χημεία</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Σίνης / maribi">Φυσική</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Σίνης / maribi">Πληροφορική</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Σίνης / maribi">Σε ποιο πανεπιστήμιο σπουδάζετε;</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Σίνης / maribi">Σπουδάζω στο...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Σίνης / maribi">Έχω μάθημα σήμερα</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι ελεύθερος σήμερα</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Σίνης / maribi">Πηγαίνεις στο λύκειο;</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Σίνης / maribi">Πάω στο λύκειο</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Σίνης / maribi">Πρέπει να πάω στο μάθημα τώρα</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Σίνης / maribi">Επείγοντα</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Σίνης / maribi">Φωνάξτε ένα γιατρό!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Σίνης / maribi">Φωνάξτε ένα ασθενοφόρο!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Σίνης / maribi">Φωνάξτε την αστυνομία!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Σίνης / maribi">Δεν μπορεί ν' αναπνεύσει.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Σίνης / maribi">Δεν μπορεί να κουνηθεί.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Σίνης / maribi">Δεν σταμάτησε.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Σίνης / maribi">έπεσε επάνω μου</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Σίνης / maribi">Οδηγούσε πολύ γρήγορα.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Σίνης / maribi">Κόπηκε κατά λάθος</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Σίνης / maribi">Δεν μπορώ να κουνήσω το χέρι μου.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Σίνης / maribi">Δεν μπορώ να κουνήσω το πόδι μου.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Σίνης / maribi">Με λήστεψαν.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Σίνης / maribi">Σταματήστε τον κλέφτη!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Σίνης / maribi">Μου έκλεψαν το διαβατήριο.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Σίνης / maribi">Μου έκλεψαν χρήματα</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Σίνης / maribi">Έκλεψαν το αυτοκίνητό μου</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Σίνης / maribi">Φωτιά!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Σίνης / maribi">Ποιο είναι το κοντινότερο νοσοκομείο;</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Σίνης / maribi">Πού υπάρχει αστυνομικό τμήμα;</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Σίνης / maribi">Αισθήματα και Γνώμες</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Σίνης / maribi">Σ' αρέσει / σας αρέσει; (sing. / pl.)</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Σίνης / maribi">Μ' αρέσει</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι χαρούμενος</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι θυμωμένος</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Σίνης / maribi">Απογοητεύτηκα</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Σίνης / maribi">Χαίρομαι</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι κουρασμένος</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Σίνης / maribi">Φοβάμαι</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Σίνης / maribi">είμαι θετικός/ζεστός</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Σίνης / maribi">είμαι αρνητικός/κρύος</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Σίνης / maribi">Νυστάζω</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Σίνης / maribi">Μας αρέσει εδώ</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Σίνης / maribi">Είναι (πολύ) ενδιαφέρον</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Σίνης / maribi">Είναι πολύ ενδιαφέρον κατά τη γνώμη μας</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Σίνης / maribi">Είναι (πολύ) βαρετό</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Σίνης / maribi">Είναι ωραίο</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Σίνης / maribi">Είναι (πολύ) όμορφος</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Σίνης / maribi">Είναι (πολύ) όμορφη</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="Σίνης / maribi">Είναι καυτός!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="Σίνης / maribi">Είναι καυτή!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Σίνης / maribi">Είναι πολύ ευγενικός/ευγενική</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Σίνης / maribi">Κοίτα!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Σίνης / maribi">Άκου!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Σίνης / maribi">Ωραία!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Σίνης / maribi">Τέλεια!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Σίνης / maribi">Φαγητό και Εστιατόρια</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Σίνης / maribi">Πεινάω</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Σίνης / maribi">Διψώ</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="Σίνης / maribi">Πάμε να φάμε κάτι;</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="Σίνης / maribi">Παίρνουμε κάτι να πιούμε;</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Σίνης / maribi">έχεις/έχετε κάτι για φαγητό</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Σίνης / maribi">έχεις/έχετε κάτι να πιώ</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Σίνης / maribi">θέλεις/θέλετε κάτι να φάς/φάτε</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Σίνης / maribi">Να σας φέρω κάτι να φάτε;</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Σίνης / maribi">θέλεις/θέλετε κάτι να φάς/φάτε</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα...(να πιώ), παρακαλώ</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Σίνης / maribi">έναν καφέ</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Σίνης / maribi">ένα τσάι</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Σίνης / maribi">μια μπύρα</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Σίνης / maribi">ένα ποτήρι κρασί</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Σίνης / maribi">ένα ποτήρι κόκκινο κρασί</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Σίνης / maribi">ένα ποτήρι λευκό κρασί</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Σίνης / maribi">ένα ποτήρι χυμό πορτοκάλι</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Σίνης / maribi">ένα ποτήρι χυμό μήλου</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Σίνης / maribi">να σου/σας φέρω κάτι να πίεις/πιείτε</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Σίνης / maribi">τι θα ήθελες/θέλατε να πιείς/πιείτε</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Σίνης / maribi">τι θα ήθελες/θέλατε να πιείς/πιείτε</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Σίνης / maribi">τι θα πρότεινες/προτείνατε</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Σίνης / maribi">μπορώ να δώ το μενού παρακαλώ</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Σίνης / maribi">μπορώ να δώ τη λίστα με τα κρασιά</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Σίνης / maribi">θα προτιμούσα αυτό παρακαλώ</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Σίνης / maribi">θέλεις/θέλετε ένα ορεκτικό</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Σίνης / maribi">θα ήθελα ένα ορεκτικό παρακαλώ</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Σίνης / maribi">θα ήθελα ψάρι παρακαλώ</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα μοσχάρι, παρακαλώ</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα χοιρινό, παρακαλώ</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Σίνης / maribi">θα ήθελα μια σαλάτα παρακαλώ</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα λίγη σούπα, παρακαλώ</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα κάτι για χορτοφάγους, παρακαλώ</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Σίνης / maribi">θέλεις/θέλετε ένα επιδόρπιο</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Σίνης / maribi">για ορεκτικό θα ήθελα....</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Σίνης / maribi">για κύριο πιάτο θα ήθελα......</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Σίνης / maribi">για επιδόρπιο θα ήθελα....</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να πάρω αυτό χωρίς...;</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Σίνης / maribi">μπορώ να πάρω μια μικρή μερίδα παρακαλώ;</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Σίνης / maribi">τι σαλάτες έχετε;</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Σίνης / maribi">τίποτε άλλο, ευχαριστώ</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="Σίνης / maribi">Είναι για το σπίτι</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Σίνης / maribi">είμαι χορτοφάγος</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="Σίνης / maribi">είμαι χορτοφάγος (ακραίος)</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Σίνης / maribi">δεν μπορώ να το φάω αυτό</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Σίνης / maribi">αυτό περιέχει...;</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Σίνης / maribi">πολύ αλάτι</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Σίνης / maribi">πολύ ζάχαρη</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Σίνης / maribi">πολύ λίπος</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Σίνης / maribi">κάθε κρέας</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Σίνης / maribi">κάθε θαλασσινό</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Σίνης / maribi">κάθε ψάρι</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Σίνης / maribi">κάθε γαλακτοκομικό</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Σίνης / maribi">δεν πίνω (αλκοόλ)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Σίνης / maribi">δεν έχω πιρούνι</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Σίνης / maribi">δεν έχω μαχαίρι</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Σίνης / maribi">δεν έχω κουτάλι</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Σίνης / maribi">λείπει ένα ποτήρι</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Σίνης / maribi">λείπει ένα πιάτο</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Σίνης / maribi">αυτό δεν είναι καθαρό</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Σίνης / maribi">είναι πολύ κρύο</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Σίνης / maribi">είναι πολύ πικάντικο</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Σίνης / maribi">αυτό δεν είναι ότι παρήγγειλα</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Σίνης / maribi">υπάρχει κάποιο λάθος εδώ</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Σίνης / maribi">ήταν υπέροχο</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Σίνης / maribi">θα ήθελα να πληρώσω παρακαλώ</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Σίνης / maribi">να σας φέρω τον λογαριασμό;</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Σίνης / maribi">θα θέλαμε να πληρώσουμε χωριστά</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Σίνης / maribi">συμπεριλαμβάνονται όλα</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Σίνης / maribi">συμπεριλαμβάνεται το φιλοδώρημα</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Σίνης / maribi">σ'αρέσει να μαγειρεύεις;</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Σίνης / maribi">ποιός θα μαγειρέψει απόψε;</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Σίνης / maribi">να μαγειρέψω εγώ απόψε;</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Σίνης / maribi">τι να φτιάξω;</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Σίνης / maribi">θα ήθελες/θέλατε ένα φλυτζάνι καφέ</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Σίνης / maribi">θα ήθελες/θέλατε ένα φλυτζάνι τσάι;</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Σίνης / maribi">Υγεία &amp; Ασθένεια</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Σίνης / maribi">είμαι άρρωστος</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Σίνης / maribi">έχω γρίππη</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Σίνης / maribi">έχω κρύωμα</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Σίνης / maribi">έχω αλλεργίες</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Σίνης / maribi">είμαι διαβητικός</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Σίνης / maribi">πονάω</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Σίνης / maribi">δεν αισθάνομαι καλά</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Σίνης / maribi">παίρνω το χάπι</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Σίνης / maribi">είμαι έγγυος</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Σίνης / maribi">δεν μπορώ να φάω</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Σίνης / maribi">δεν μπορώ να κοιμηθώ</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="Σίνης / maribi">δεν θέλω κάτι τόσο δυνατό</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Σίνης / maribi">ζαλίζομαι</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="Σίνης / maribi">αισθάνομαι αηδιασμένος</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="Σίνης / maribi">έχω ένα σπασμένο δόντι</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Σίνης / maribi">έχω βήχα</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Σίνης / maribi">έχω πονοκέφαλο</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Σίνης / maribi">έχω στομαχόπονο</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="Σίνης / maribi">έχω ένα πόνο στο στήθος μου</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Σίνης / maribi">έχω μια μόλυνση</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="Σίνης / maribi">έχω τσιμπηθεί</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="Σίνης / maribi">με έχουν δαγκώσει</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Σίνης / maribi">πονάς;</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Σίνης / maribi">(αυτό) πονάει;</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Σίνης / maribi">πονάει όταν κάνω αυτό;</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="Σίνης / maribi">παίρνεις κάποιο φάρμακο;</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="Σίνης / maribi">τί θερμοκρασία έχεις;</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Σίνης / maribi">μπορείς να περπατήσεις</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Σίνης / maribi">χρειάζομαι αναπηρικό καροτσάκι</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="Σίνης / maribi">είμαι σε αναπηρικό καροτσάκι</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Σίνης / maribi">πού είναι το πιό κοντινό φαρμακείο</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Σίνης / maribi">μπορώ να το πάρω χωρίς συνταγή;</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Σίνης / maribi">έχετε κάτι για τσιμπήματα εντόμων;</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Σίνης / maribi">έχετε κάτι για ηλιακό έγκαυμα;</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Σίνης / maribi">έχω συνταγή από γιατρό</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Σίνης / maribi">χρειάζομαι κάτι για...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Σίνης / maribi">πόσο συχνά πρέπει να το παίρνω;</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Σίνης / maribi">Ευχάριστη ερασυτεχνική ενασχόληση, χόμπι</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Σίνης / maribi">ποιά είναι τα χόμπι σου;</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Σίνης / maribi">τί κάνεις τον ελεύθερο χρόνο σου;</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Σίνης / maribi">σ'αρέσει να διαβάζεις;</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Σίνης / maribi">δεν μου αρέσει να διαβάζω</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να διαβάζω</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να μαγειρεύω</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Σίνης / maribi">μ΄αρέσει να ακούω μουσική</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να παίζω πιάνο</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να παίζω κιθάρα</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να τραγουδώ</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να παίζω σκάκι</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να βγαίνω έξω</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να ταξιδεύω</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να πηγαίνω για ψώνια</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει η κηπουρική</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να παρακολουθώ τηλεόραση</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει να 'σερφάρω' στο διαδίκτυο</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Σίνης / maribi">τί είδος μουσικής σου αρέσει;</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει η κλασική</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει η ποπ</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει η όπερα</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει η τζάζ</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει η τέκνο</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Σίνης / maribi">μ'αρέσει το σκληρό ρόκ</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Σίνης / maribi">ποιά είναι τα αγαπημένα σου συγκροτήματα;</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Σίνης / maribi">τί προτιμάς;</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Σίνης / maribi">προτιμώ....</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Σίνης / maribi">Συστήνοντας</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Σίνης / maribi">το όνομά μου είναι...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Σίνης / maribi">πώς σε λένε;/ ποιό είναι το όνομά σου;</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Σίνης / maribi">είμαι....</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Σίνης / maribi">ποιός είσαι;</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Σίνης / maribi">μπορώ να σας συστήσω σε...</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Σίνης / maribi">θα σας συστήσω σε...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Σίνης / maribi">αυτή είναι η γυναίκα μου</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Σίνης / maribi">αυτός είναι ο άντρας μου</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Σίνης / maribi">αυτή είναι η φίλη μου/κοπέλα μου</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Σίνης / maribi">αυτός είναι ο φίλος μου/το αγόρι μου</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Σίνης / maribi">αυτός είναι ο φίλος μου/ φίλη μου</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Σίνης / maribi">αυτός είναι ο γιός μου</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Σίνης / maribi">αυτή είναι η κόρη μου</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Σίνης / maribi">αυτή είναι η μητέρα μου</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Σίνης / maribi">αυτός είναι ο πατέρας μου</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Σίνης / maribi">χαίρομαι που σας γνωρίζω</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Σίνης / maribi">Σχέδια &amp; Συναντήσεις</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="Σίνης / maribi">είσαι ελεύθερος σήμερα/ αύριο/ το βράδυ;</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Σίνης / maribi">έχω κανονίσει ήδη</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Σίνης / maribi">θα πάω σινεμά</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Σίνης / maribi">θα πάω θέατρο</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Σίνης / maribi">θα πάω στο μουσείο</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="Σίνης / maribi">θέλεις να βγείς μαζί μου έξω σήμερα;</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="Σίνης / maribi">θα το ήθελα</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Σίνης / maribi">έχεις εισητήρια;</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Σίνης / maribi">έχω δύο εισητήρια για...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Σίνης / maribi">δεν μου αρέσει η μουσική</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Σίνης / maribi">η μουσική είναι πού δυνατά</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="Σίνης / maribi">έχει πολύ κόσμο εδώ</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Σίνης / maribi">πάμε κάπου αλλού;</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="Σίνης / maribi">σε τί ταινία να πάμε;</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="Σίνης / maribi">πώς σου φάνηκε η ταινία;</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Σίνης / maribi">Πολιτική</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Σίνης / maribi">με ενδιαφέρουν τα πολιτικά</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Σίνης / maribi">δεν με ενδιαφέρουν τα πολιτικά</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για την κυβέρνηση;</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για τον βασιλιά/βασίλισσα;</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για τον πρόεδρο;</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για τον πρωρυπουργό;</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για την ελευθερία του λόγου;</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για τον στρατό;</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για την δημοκρατία;</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για τα ανθρώπινα δικαιώματα;</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="Σίνης / maribi">τι νομίζεις για τα δικαιώματα των γυναικών;</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="Σίνης / maribi">πότε είναι οι εκλογές;</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="Σίνης / maribi">ποιόν ψήφισες την τελευταία φορά;</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Σίνης / maribi">είμαι....</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Σίνης / maribi">κομμουνιστής</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Σίνης / maribi">καπιταλιστής</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Σίνης / maribi">δημοκράτης</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Σίνης / maribi">χριστιανοδημοκράτης</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Σίνης / maribi">ρεπουμπλικάνος</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Σίνης / maribi">εθνικιστής</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Σίνης / maribi">φασιστής</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="Σίνης / maribi">Σχέσεις &amp; Οικογένεια</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="Σίνης / maribi">είσαι παντρεμένος/η</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="Σίνης / maribi">είμαι παντρεμένος/η</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="Σίνης / maribi">δεν είμαι παντρεμένος/η</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Σίνης / maribi">έχεις φίλο;</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Σίνης / maribi">έχεις φίλη;</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Σίνης / maribi">έχω αγόρι / έχω φίλο</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Σίνης / maribi">έχω κοπέλα /έχω κορίτσι</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Σίνης / maribi">Πόσο χρονών είναι;</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Σίνης / maribi">Είναι ...χρονών</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="Σίνης / maribi">Τι δουλειά κάνει;</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Σίνης / maribi">έχεις παιδιά;</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Σίνης / maribi">δεν έχω παιδιά</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Σίνης / maribi">Έχω ένα παιδί / ένα γιό / μια κόρη</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Σίνης / maribi">Έχω δύο παιδιά</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Σίνης / maribi">Έχω τρία / τέσσερα / πέντε / έξι / επτά παιδιά</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Σίνης / maribi">Πόσα αδέλφια έχεις; | Πόσους αδελφούς και αδελφές έχεις;</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="Σίνης / maribi">Ζει η μητέρα σου;</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="Σίνης / maribi">Ζει ο πατέρας σου;</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="Σίνης / maribi">Ζει η γιαγιά σου;</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="Σίνης / maribi">Ζει ο παππούς σου;</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Σίνης / maribi">Πίστη / Θρησκεία</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Σίνης / maribi">Είσαι θρησκευόμενος;</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Σίνης / maribi">Δεν είμαι θρησκευόμενος</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι άθεος</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι αγνωστικιστής</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι μουσουλμάνος</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι εβραίος</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι βουδιστής</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι ινδουιστής</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι καθολικός</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι χριστιανός</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="Σίνης / maribi">Πού μπορώ να βρω μια εκκλησία;</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="Σίνης / maribi">Πού μπορώ να βρω ένα τζαμί;</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="Σίνης / maribi">Πού μπορώ να βρω μιά συναγωγή;</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="Σίνης / maribi">Πού μπορώ να βρω ένα ναό;</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="Σίνης / maribi">Αν είναι θέλημα θεού</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Σίνης / maribi">Θεέ μου!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="Σίνης / maribi">Κατοικία, Επισκέψεις και Φιλοξενία</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Σίνης / maribi">Από πού είσαι; | Από ποιά χώρα είσαι;</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι από...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Σίνης / maribi">(την) Γαλλία</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Σίνης / maribi">(το) Ηνωμένο Βασίλειο</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Σίνης / maribi">(την) Ισπανία</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Σίνης / maribi">(τη) Γερμανία</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Σίνης / maribi">(τις) Ηνωμένες Πολιτείες Αμερικής</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Σίνης / maribi">(την) Κίνα</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Σίνης / maribi">(τη) Βραζιλία</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Σίνης / maribi">(την) Ιαπωνία</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Σίνης / maribi">(τη) Ρωσσία</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Σίνης / maribi">(τον) Καναδά</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Σίνης / maribi">(την) Αυστραλία</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="Σίνης / maribi">ποιά είναι η εθνικότητά σου</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Σίνης / maribi">Βρετανός</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Σίνης / maribi">Γάλλος</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Σίνης / maribi">Γερμανός</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Σίνης / maribi">Αμερικάνος</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Σίνης / maribi">Κινέζος</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Σίνης / maribi">Γιαπωνέζος</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Σίνης / maribi">Ρώσσος</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Σίνης / maribi">Βραζιλιάνος</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Σίνης / maribi">Καναδός</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Σίνης / maribi">Από πού είσαι;| Σε ποιά πόλη ζεις;</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Σίνης / maribi">Ζω στο Λονδίνο/στο Παρίσι/στο Βερολίνο</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Σίνης / maribi">Είναι κοντά στο/στη....;</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Σίνης / maribi">Είναι μακριά από το/τη...;</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Σίνης / maribi">Ζω κοντά στο/στη...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Σίνης / maribi">Ζω μακριά από το/τη..</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="Σίνης / maribi">που μένεις;</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="Σίνης / maribi">μένω στο ξενοδοχείο...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="Σίνης / maribi">Για πόσο καιρό θα μείνεις εδώ;</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="Σίνης / maribi">Πότε επιστρέφεις;</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Σίνης / maribi">πότε έφτασες;</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="Σίνης / maribi">είσαι εδώ μόνος σου;</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Σίνης / maribi">είμαι εδώ μόνος</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="Σίνης / maribi">είμαι εδώ με την οικογένειά μου</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Σίνης / maribi">Ζεις εδώ;</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="Σίνης / maribi">Δεν είμαι από δω</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="Σίνης / maribi">Μπορούμε να κατασκηνώσουμε εδω;</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="Σίνης / maribi">Έχετε κάποιο ελεύθερο δωματιο;</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="Σίνης / maribi">Έχετε χώρο για μία σκηνή;</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="Σίνης / maribi">Πόσο κοστίζει η μία νύχτα;</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="Σίνης / maribi">Θέλουμε να μείνουμε μία βδομάδα</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι τα ντους;</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι οι τουαλέτες;</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="Σίνης / maribi">Θέλω ένα μονό δωμάτιο παρακαλώ</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="Σίνης / maribi">Θέλω ένα δωμάτιο με...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Σίνης / maribi">με μπάνιο</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Σίνης / maribi">με ντούς</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="Σίνης / maribi">με θέα</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Σίνης / maribi">με βεράντα</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="Σίνης / maribi">με επιπλέον κρεβάτι</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="Σίνης / maribi">χωριστά κρεβάτια</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="Σίνης / maribi">θέλουμε ένα διπλό δωμάτιο, παρακαλώ</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="Σίνης / maribi">το πρωινό συμπεριλαμβάνεται;</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="Σίνης / maribi">πότε σερβίρεται το πρωινό;</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχουν φθηνότερα δωμάτια;</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχει κάποιο μήνυμα για μένα;</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να έχω το κλειδί μου,παρακαλώ;</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="Σίνης / maribi">Ποιός είναι ο αριθμός του δωματίου μου;</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="Σίνης / maribi">Ζήτησα δωμάτιο με μπανιέρα/ντουζιέρα</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="Σίνης / maribi">Σεξ</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="Σίνης / maribi">θέλεις να κοιμηθείς μαζί μου;</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="Σίνης / maribi">έχεις προφυλακτικό;</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth" author="Σίνης / maribi">παίρνεις αντισυλληπτικό χάπι;</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="Σίνης / maribi">δεν το κάνω χωρίς προφυλακτικό</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="Σίνης / maribi">Σε παρακαλώ να είσαι προσεκτικός | Σε παρακαλώ να είσαι τρυφερός / ευγενικός</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="Σίνης / maribi">σ'αρέσει αυτό;</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Σίνης / maribi">Δε μ'αρέσει αυτό</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="Σίνης / maribi">Είσαι μόνος;</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="Σίνης / maribi">Είσαι gay / ομοφυλόφιλος;</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth" author="Σίνης / maribi">Είσαι straight / ετεροφυλόφιλος;</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="Σίνης / maribi">Είσαι λεσβία;</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="Σίνης / maribi">Είσαι bisexual / αμφιφυλόφιλος;</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="Σίνης / maribi">Ψώνια</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε να με βοηθήσετε;</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να σας βοηθήσω;</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" author="Σίνης / maribi">Τι θα θέλατε;</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Σίνης / maribi">Τι ψαχνετε;</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="Σίνης / maribi">Απλώς ψάχνω | απλώς ρίχνω μιά ματιά</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσει αυτό</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσει αυτό το παντελόνι</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσει αυτό το μπλουζάκι</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσει αυτο το jacket / μπουφάν</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσει αυτό το (γυναικείο) πουκάμισο</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσει αυτό το κοστούμι</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσουν αυτά τα γυαλία</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσουν αυτά τα παππούτσια</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Σίνης / maribi">Ψαχνω για...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να το δοκιμάσω;</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να το δοκιμάσω;</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι τα δοκιμαστήρια;</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Σίνης / maribi">Είναι πολύ μακρύ</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="Σίνης / maribi">Είναι πολύ κοντό</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="Σίνης / maribi">Είναι πολύ στενό</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="Σίνης / maribi">Είναι πολύ μεγάλο / χαλαρό</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="Σίνης / maribi">Δεν μου κάνει</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="Σίνης / maribi">Μου κάνει αρκετά καλά</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="Σίνης / maribi">Τι νούμερο φοράς;</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="Σίνης / maribi">Φορά νούμερο...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth" author="Σίνης / maribi">Δεν τα καταλαβαίνω αυτά τα νούμερα</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="Σίνης / maribi">Το έχετε σε μεγαλύτερο;</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="Σίνης / maribi">Το έχετε σε μικρότερο;</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="Σίνης / maribi">Μου αρέσει το χρώμα</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="Σίνης / maribi">Δε μου αρέσει το χρώμα</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="Σίνης / maribi">Το έχετε σε κόκκινο/μπλε/κίτρινο/πράσινο/μωβ/ροζ;</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="Σίνης / maribi">Έχετε κάποιο πιό φτηνό;</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="Σίνης / maribi">Από τι είναι φτιαγμένο;</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε να το επιδιορθώσετε;/Μπορείτε να το φτιάξετε;</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="Σίνης / maribi">Βλέποντας αξιοθέατα</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να πάρω φωτογραφίες;</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="Σίνης / maribi">Δεν μπορείτε να βγάλετε φωτογραφίες εδώ</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="Σίνης / maribi">Γίνονται βόλτες με καράβια στη λίμνη;</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="Σίνης / maribi">Γίνονται βόλτες με καράβια στο ποτάμι;</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="Σίνης / maribi">Γίνονται περιηγήσεις με ξεναγό;</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="Σίνης / maribi">Πόση ώρα διαρκεί η περιήγηση/η ξενάγηση;</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχει κανένα καλό club;</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχουν κάποια τοπικά φεστιβάλ;</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα να επισκεφτώ τον καθεδρικό</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα να επισκεφτώ την εκκλησία</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα να επισκεφτώ το τζαμί</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα να επισκεφτώ το ναό</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχει έκπτωση για τα παιδιά;</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχει έκπτωση για τα γκρουπ;</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχει έκπτωση για τους ηλικιωμένους;</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχει έκπτωση για τους φοιτητές;</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="Σίνης / maribi">Ποιές ώρες είστε ανοιχτά;</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="Σίνης / maribi">Τι ώρα κλείνετε;</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="Σίνης / maribi">Τι ώρα ανοίγετε;</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="Σίνης / maribi">Τι ώρα ξεκινάει το σόου;</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="Σίνης / maribi">Πότε χτίστηκε;</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="Σίνης / maribi">Ποιός το έχτισε αυτό;</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="Σίνης / maribi">Πόσο ψηλό είναι αυτό το βουνό;</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Σίνης / maribi">Πώς λέγεται αυτό το ζώο;</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Σίνης / maribi">Πώς λέγεται αυτό το πουλί / πτηνό;</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Σίνης / maribi">Πως λέγεται αυτό το λουλούδι;</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Σίνης / maribi">Πως λέγεται αυτό το δέντρο;</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Σίνης / maribi">Πως λέγεται αυτό το κτίριο;</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Σίνης / maribi">Πώς λέγεται αυτό το βουνό;</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Σίνης / maribi">Πως λέγεται αυτό το ποτάμι;</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="Σίνης / maribi">Κάπνισμα</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="Σίνης / maribi">Το κάπνισμα βλάπτει σοβαρά την υγεία</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="Σίνης / maribi">Σε πειράζει αν καπνίσω;</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="Σίνης / maribi">Έχεις φωτιά; / Έχεις αναπτήρα;</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να κάνω ένα τσιγάρο;</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="Σίνης / maribi">Είναι εδώ περιοχή μη καπνιζόντων;</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να έχω ένα τασάκι;</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Σίνης / maribi">Σπορ / Αθλήματα</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχουν επικύνδινα ρεύματα;</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχουν ενδιαφέρουσες διαδρομές για περπάτημα εδώ κοντά;</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι το κοντινότερο γήπεδο του γκολφ;</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Σίνης / maribi">Που έιναι η κοινόχρηστη πισίνα;</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να ψαρέψω εδώ;</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να κολυμπήσω εδώ;</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να νοικιάσω...;</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="Σίνης / maribi">ένα ρόπαλο του μπέισμπολ;</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="Σίνης / maribi">μια μπάλα ποδοσφαίρου</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="Σίνης / maribi">ένα ζευγάρι πέδιλα του σκι</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="Σίνης / maribi">μια ρακέτα</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Σίνης / maribi">ένα πλοίο</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="Σίνης / maribi">μια πετσέτα</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να κάνω μαθήματα;</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="Σίνης / maribi">Θέλω να δω ένα ματς ποδοσφαίρου</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="Σίνης / maribi">Παίζεις...;</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="Σίνης / maribi">ράγκμπι</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Σίνης / maribi">ποδόσφαιρο</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth" author="Σίνης / maribi">γκολφ</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth" author="Σίνης / maribi">τέννις</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="Σίνης / maribi">μπέιζμπολ</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth" author="Σίνης / maribi">μπάσκετ</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Σίνης / maribi">Χρόνος / Ώρα</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="Σίνης / maribi">Τι μέρα είναι σήμερα;</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="Σίνης / maribi">Είναι...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="Σίνης / maribi">Τι μέρα ήταν χτες;</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="Σίνης / maribi">Χτες ήταν...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="Σίνης / maribi">Τι μέρα είναι αύριο;</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Σίνης / maribi">Αύριο είναι...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Σίνης / maribi">Δευτέρα</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Σίνης / maribi">Τρίτη</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Σίνης / maribi">Τετάρτη</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Σίνης / maribi">Πέμπτη</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Σίνης / maribi">Παρασκευή</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Σίνης / maribi">Σάββατο</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Σίνης / maribi">Κυριακή</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="Σίνης / maribi">Τι μήνα έχουμε; | Τι μήνας είναι;</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="Σίνης / maribi">Ο μήνας είναι...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Σίνης / maribi">Ο προηγούμενος μήνας ήταν...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="Σίνης / maribi">Ο επόμενος μήνας θα είναι...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Σίνης / maribi">Ιανουάριος</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Σίνης / maribi">Φεβρουάριος</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Σίνης / maribi">Μάρτιος</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Σίνης / maribi">Απρίλιος</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Σίνης / maribi">Μάιος</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Σίνης / maribi">Ιούνιος</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Σίνης / maribi">Ιούλιος</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Σίνης / maribi">Αύγουστος</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Σίνης / maribi">Σεπτέμβριος</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Σίνης / maribi">Οκτώβριος</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Σίνης / maribi">Νοέμβριος</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Σίνης / maribi">Δεκέμβριος</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="Σίνης / maribi">τί ώρα είναι;</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="Σίνης / maribi">είναι οκτώ η ώρα</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="Σίνης / maribi">Είναι οκτώ και μισή | είναι οκτώμιση</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="Σίνης / maribi">Είναι οκτώ και τέταρτο</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="Σίνης / maribi">Είναι εννιά παρά τέταρτο</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="Σίνης / maribi">Είναι οκτώ παρά δέκα</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="Σίνης / maribi">Είναι οκτώ και είκοσι</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="Σίνης / maribi">Είναι οκτώ παρά είκοσι</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="Σίνης / maribi">Είναι οκτώ παρά δέκα</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth" author="Σίνης / maribi">Τι ημερομηνία έχουμε;</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth" author="Σίνης / maribi">Είναι 15 (δεκαπέντε) Δεκεμβρίου 1982 (χίλια εννιακόσια ογδόντα δύο)</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Σίνης / maribi">Πότε μπορώ να έρθω;</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="Σίνης / maribi">Πότε θα με επισκεφτείς; | Πότε θα έρθεις;</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ σήμερα το πρωί | Θα έρθω σήμερα το πρωί</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ το πρωί | Θα έρθω  το πρωί</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ σήμερα το απόγευμα | Θα έρθω σήμερα το απόγευμα</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ το απόγευμα | Θα έρθω το απόγευμα</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ αυτήν τη βδομάδα</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ αυτό το σαββατοκύριακο</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ μέσα στο σαββατοκύριακο</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ το μεσημέρι</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ σε δύο ώρες</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ στις δέκα και μισή</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ μετά τις δέκα και μισή</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ πριν τις δέκα και μισή</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ  μεταξύ δέκα και μισή και έντεκα η ώρα</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ την άνοιξη</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ το καλοκαίρι</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ το φθινόπωρο</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ το χειμώνα</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ στισ δεκαπέντε (15) του Δεκέμβρη</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth" author="Σίνης / maribi">Για πόσο καιρό (για πόση ώρα)μπορείς να μείνεις μαζί μου;</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να μείνω για δύο ώρες</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth" author="Σίνης / maribi">Θα σε επισκεφτώ για δύο ώρες</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth" author="Σίνης / maribi">Άργησες</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth" author="Σίνης / maribi">Ήρθες πάνω στην ώρα</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth" author="Σίνης / maribi">Ήρθες πολύ νωρίς</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="Σίνης / maribi">Ποιά εποχή είναι;</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth" author="Σίνης / maribi">Δεν έχω χρόνο</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth" author="Σίνης / maribi">Περίμενε ένα λεπτό σε παρακαλώ</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth" author="Σίνης / maribi">Μεταφορά</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth" author="Σίνης / maribi">έχεις αυτοκίνητο;(αμάξι)</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="Σίνης / maribi">Έχω αυτοκίνητο (αμάξι)</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth" author="Σίνης / maribi">Δεν έχω αυτοκίνητο (αμάξι)</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth" author="Σίνης / maribi">Να πάρουμε το δικό σου ή το δικό μου αμάξι;</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth" author="Σίνης / maribi">Έχεις δίπλωμα οδήγησης;</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth" author="Σίνης / maribi">Δεν έχω δίπλωμα οδήγησης</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth" author="Σίνης / maribi">Πότε φεύγουμε;</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth" author="Σίνης / maribi">Πού πάμε;</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth" author="Σίνης / maribi">Πού πας;</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth" author="Σίνης / maribi">Από πού έρχεσαι;</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth" author="Σίνης / maribi">Πρέπει να αλλάξω λεωφορεία;</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι τα λεωφορεία;</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι η στάση του λεωφορείου;</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε να που πείτε πότε να κατέβω;</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth" author="Σίνης / maribi">Αυτό το λεωφορείο πηγαίνει στο...;</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι το αεροδρόμιο;</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth" author="Σίνης / maribi">Πότε φεύγει το αεροπλάνο;</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth" author="Σίνης / maribi">Πότε φτάνει το αεροπλάνο;</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="Σίνης / maribi">Πόση ώρα διαρκεί η πτήση;</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="Σίνης / maribi">Τι ώρα πρέπει να κάνω το τσεκ ιν;</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να δω το διαβατήριο σας,παρακαλώ;</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="Σίνης / maribi">Ορίστε το διαβατήριο μου</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να το πάρω αυτό μαζί μου;</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να πάρω τις αποσκευές μου;</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="Σίνης / maribi">Δεν μπορώ να βρω τις αποσκευες μου</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="Σίνης / maribi">Μπορείτε να με βοηθήσετε με τις αποσκευές μου;</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="Σίνης / maribi">Νομίζω πως αυτή είναι η θέση μου</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="Σίνης / maribi">Είναι αυτή η θέση πιασμένη;</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Σίνης / maribi">Που είναι ο σιδηροδρομικός σταθμος;</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="Σίνης / maribi">Πρέπει να αλλάξω τρένα;</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="Σίνης / maribi">Κάνει στάση αυτό το τρένο στο...;</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="Σίνης / maribi">Πηγαίνει αυτό το τρένο στο...;</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="Σίνης / maribi">Για πόση ώρα κάνει στάση αυτό το τρένο εδώ;</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="Σίνης / maribi">Ποιός σταθμός είναι αυτός;</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Σίνης / maribi">Πότε φεύγει το επόμενο τρένο;</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Σίνης / maribi">Πότε φεύγει το τελευταίο τρένο;</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Σίνης / maribi">Που μπορώ να βρω ένα ταξι;</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="Σίνης / maribi">Υπάρχει κάποιο πάρκινγκ εδώ κοντά;</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ να παρκάρω εδώ;</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="Σίνης / maribi">Για πόση ώρα μπορώ να παρκάρω εδώ;</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="Σίνης / maribi">Πού μπορώ να παρκάρω;</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="Σίνης / maribi">Το αυτοκίνητό μου χαλασε</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="Σίνης / maribi">Το αυτοκίνητό μου δεν ξεκινάει / δεν παίρνει μπρος</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι το κοντινότερο βενζινάδικο;</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="Σίνης / maribi">Πού είναι το κοντινότερο γκαράζ;</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="Σίνης / maribi">Μου έσκασε το λάστιχο</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="Σίνης / maribi">μου τελείωσε η βενζίνη</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="Σίνης / maribi">Μπορώ το δίπλωμα οδήγησης σας παρακαλω;</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="Σίνης / maribi">Ορίστε το δίπλωμα οδήγησης</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="Σίνης / maribi">Πόσο μακριά είναι το επόμενο χωριο;</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="Σίνης / maribi">Πόση ώρα είναι με το αυτοκίνητο;</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="Σίνης / maribi">Πόση ώρα είναι με τα πόδια;</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="Σίνης / maribi">Θα ήθελα να νοικιάσω ένα αμάξι για μια βδομάδα / για τρεις μέρες</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Σίνης / maribi">Καιρός</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="Σίνης / maribi">Πως θα είναι ο καιρός αύριο;</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="Σίνης / maribi">Πως είναι ο καιρός συνήθως;</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="Σίνης / maribi">Θα βρέξει αύριο</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Σίνης / maribi">Βρέχει</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="Σίνης / maribi">Χιονίζει</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="Σίνης / maribi">Έχει ήλιο / Έχει λιακάδα</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="Σίνης / maribi">Έχει συννεφιά</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="Σίνης / maribi">Κάνει ζέστη έξω</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="Σίνης / maribi">Κάνει κρύο έξω</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="Σίνης / maribi">Τι απαίσιος καιρος!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Σίνης / maribi">Τι ωραία μέρα!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="Σίνης / maribi">Ωραίος καιρός,ε;</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="Σίνης / maribi">Κάνει πάντα τόση ζέστη;</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="Σίνης / maribi">Κάνει πάντα τόσο κρύο;</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="Σίνης / maribi">Βρέχει πάντα τόσο πολύ;</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="Σίνης / maribi">Έχει πάντα τόση συννεφιά;</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι βρεγμένος / Βρεγμένη</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Σίνης / maribi">Εργασία/Δουλειά</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Σίνης / maribi">Πού δουλεύετε;</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Σίνης / maribi">Τι δουλειά κάνετε;</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι δάσκαλος-δασκάλα</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι φοιτητής-τρια/σπουδαστής-ρια.</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι ελεύθερος επαγγελματίας</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Σίνης / maribi">Δουλεύω σε ένα εστιατόριο.</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Σίνης / maribi">Δουλεύω σε ένα σούπερ μάρκετ</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Σίνης / maribi">Δουλεύω σε ένα κατάστημα/μαγαζί.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι γιατρός</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι ψυχολόγος</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι προγραμματιστής</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι μηχανικός</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι μηχανικός</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι συγγραφέας</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι οδηγός</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι ηθοποιός</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι κοινωνικός λειτουργός</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Σίνης / maribi">Είμαι πολιτικός</attrib>
+		</entry>
+	</entries>
+</ulr>

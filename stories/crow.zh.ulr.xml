@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="zh">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">乌鸦与水瓶</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">乌鸦运用智慧解渴</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">一只口渴的乌鸦发现了一个装了一点儿水的瓶子， 他尽力地尝试了，可是水太少， 所以他的喙子够不到水， 眼看他可能就要渴死了， 即使水就在他眼前。</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">最后他想到了一个法子。 他开始把小圆石丢进瓶子里， 而每丢进一块小石子，水位就升高一点， 直到上升到瓶口， 这只聪明的鸟儿就这样解了自己的渴。</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">危机是创造之母。</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="fo">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Chat Talk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Coming in:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Hey</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Halló, allir samlir</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Góðan morgun</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Góðan dag</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Gott kvøld</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Góða nátt</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Hey, hey</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Starting a conversation:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Hvat nýtt?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Lavast?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Hvat tosa tit um? | Hvat er evnið?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Hvør ert tú?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Hvørji eru tit?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Hvussu gongur?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Personal questions:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Hvaðan ert tú, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Ert tú nýggj/ur her?/Er hetta tín fyrstu ferð?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Hvørji mál dugir tú?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Hvar í {countryname} býrt tú?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Hvussu gamal ert tú?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Hvørji mál ert tú í ferð við at læra?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Talking about yourself:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Eg eri úr {countryname}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Eg dugi {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Mítt móðurmál er {language(s)}, eg dugi flótandi {language(s)}, nakað av {language(s)} og eitt sindur av {language(s)}.</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Eg dugi tíanverri ikki {language}.</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Eg læri | Eg vil læra {language}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Finishing a conversation:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Deiligt at hava hitt teg.</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Deiligt at hava tosa við teg.</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Eg má fara.</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Døgurðatíð</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Eg fari til songar</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Má fara at sova.</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Parting:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Síggjast</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Síggjast í morgin</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Síggjast skjótt</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Síggjast næstu ferð</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Góða nátt, allir samlir</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Bei allir</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Verði skjót | ur aftur</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Komi aftur seinni.</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Xtras:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Takk</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Túsund takk</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Orsaka | Umskylda | Eg umberi</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">LOL</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

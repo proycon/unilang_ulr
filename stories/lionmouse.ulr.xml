@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="lionmouse" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="ab" stats="8" />
+		<language lang="af" stats="8" />
+		<language lang="bg" stats="8" />
+		<language lang="ca" stats="8" />
+		<language lang="cs" stats="8" />
+		<language lang="de" stats="8" />
+		<language lang="el" stats="8" />
+		<language lang="en" stats="8" />
+		<language lang="es" stats="8" />
+		<language lang="et" stats="8" />
+		<language lang="fi" stats="8" />
+		<language lang="fr" stats="8" />
+		<language lang="gd" stats="8" />
+		<language lang="gl" stats="8" />
+		<language lang="he" stats="8" />
+		<language lang="it" stats="8" />
+		<language lang="lv" stats="8" />
+		<language lang="nl" stats="8" />
+		<language lang="no" stats="8" />
+		<language lang="pl" stats="8" />
+		<language lang="pt" stats="8" />
+		<language lang="ro" stats="8" />
+		<language lang="ru" stats="8" />
+		<language lang="sr" stats="8" />
+		<language lang="sv" stats="8" />
+		<language lang="tr" stats="8" />
+		<language lang="zh" stats="8" />
+		<language lang="zh.Hans" stats="8" />
+		<language lang="hu" stats="8" />
+	</languages>
+	<authors>
+		<author id="ಅಬವಗದ" langs="ab" lastmodified="0" />
+		<author id="Ron" langs="af,nl" lastmodified="0" />
+		<author id="Paruha" langs="bg" lastmodified="0" />
+		<author id="Original: Abavagada / Català: Núria Harket" langs="ca" lastmodified="0" />
+		<author id="Majka" langs="cs" lastmodified="0" />
+		<author id="Nietoperz" langs="de" lastmodified="0" />
+		<author id="Σίνης" langs="el" lastmodified="0" />
+		<author id="Abavagada" langs="en,et,pt" lastmodified="0" />
+		<author id="Samimi" langs="es" lastmodified="0" />
+		<author id="Liisi" langs="fi" lastmodified="0" />
+		<author id="Emandir" langs="fr" lastmodified="0" />
+		<author id="Richard Raw" langs="gd" lastmodified="0" />
+		<author id="Porto" langs="gl" lastmodified="0" />
+		<author id="מיכל פ" langs="he" lastmodified="0" />
+		<author id="Dianaaa" langs="it" lastmodified="0" />
+		<author id="hekate" langs="lv" lastmodified="0" />
+		<author id="Caroline Ødegaard - rettet av Seán Scully" langs="no" lastmodified="0" />
+		<author id="Zaduma" langs="pl" lastmodified="0" />
+		<author id="aldaesme" langs="ro" lastmodified="0" />
+		<author id="Абавагада" langs="ru" lastmodified="0" />
+		<author id="абавагада" langs="sr" lastmodified="0" />
+		<author id="Kess" langs="sv" lastmodified="0" />
+		<author id="Yasemin Gedik" langs="tr" lastmodified="0" />
+		<author id="杨大猫" langs="zh.Hans" lastmodified="0" />
+		<author id="1828" langs="hu" lastmodified="1230590462" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">lionmouse.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+		<entry id="5" type="paragraph" />
+		<entry id="6" type="paragraph" />
+	</entries>
+</ulr>

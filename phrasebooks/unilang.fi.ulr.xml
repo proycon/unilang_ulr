@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="fi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Sir McDuck">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Sir McDuck">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Sir McDuck">Käytetyimmät ilmaisut</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Sir McDuck">Kyllä</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Sir McDuck">Ei</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Sir McDuck">Ole hyvä</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Sir McDuck">Ole hyvä</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Sir McDuck">Kiitos</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Sir McDuck">Ei se mitään | Olet tervetullut</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Sir McDuck">Anteeksi</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Sir McDuck">Ehkä | Mahdollisesti</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Sir McDuck">Moi | Hei | Terve</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Sir McDuck">Näkemiin | Hei hei</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Sir McDuck">Hyvää päivää</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Sir McDuck">Hyvää huomenta</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Sir McDuck">Hyvää iltaa</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Sir McDuck">Hyvää yötä</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Sir McDuck">Tervetuloa!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Sir McDuck">Hyvää matkaa!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Sir McDuck">Toistensa ymmärtäminen</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Sir McDuck">Puhutko...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Sir McDuck">Puhun...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Sir McDuck">En puhu...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Sir McDuck">Puhun vähän....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Sir McDuck">englantia</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Sir McDuck">ranskaa</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Sir McDuck">saksaa</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Sir McDuck">espanjaa</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Sir McDuck">portugalia</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Sir McDuck">arabiaa</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Sir McDuck">kiinaa</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Sir McDuck">hindiä</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Sir McDuck">venäjää</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Sir McDuck">italiaa</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Sir McDuck">hollantia</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Sir McDuck">norjaa</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Sir McDuck">ruotsia</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Sir McDuck">tanskaa</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Sir McDuck">puolaa</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Sir McDuck">urdua</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Sir McDuck">farsia</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Sir McDuck">japania</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Sir McDuck">indonesiaa</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Sir McDuck">malaijia</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Sir McDuck">Ymmärrätkö?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Sir McDuck">Ymmärrätkö minua?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Sir McDuck">Ymmärrän</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Sir McDuck">Ymmärrän sinua</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Sir McDuck">En ymmärrä</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Sir McDuck">En ymmärrä sinua</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Sir McDuck">Voisitko toistaa tuon?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Sir McDuck">Voisitko puhua hitaammin?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Sir McDuck">Voisitko kirjoittaa sen ylös?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Sir McDuck">En tiedä kuinka sanoa se</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Sir McDuck">En tiedä oikeaa sanaa</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Sir McDuck">Mitä sinä sanoit?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Sir McDuck">Kuinka sanot tuon...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Sir McDuck">Kuinka se kirjoitetaan?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Sir McDuck">Kuinka se lausutaan?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Sir McDuck">Voitko kääntää tämän minulle?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Sir McDuck">Sanoinko tuon oikein?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Sir McDuck">Peruskeskustelu</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Sir McDuck">Kuinka voit?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Sir McDuck">Voin erinomaisesti!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Sir McDuck">Voin hyvin</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Sir McDuck">Voin ihan hyvin</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Sir McDuck">En voi oikein hyvin</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Sir McDuck">Kuinka vanha olet?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Sir McDuck">Olen ... vuotta vanha</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Sir McDuck">En tiedä</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Sir McDuck">En pidä siitä</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Sir McDuck">Olen valmis</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Sir McDuck">Mennään!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Sir McDuck">Olen pahoillani</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Sir McDuck">Kaupankäynti ja raha-asiat</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Sir McDuck">Voinko maksaa käteisellä?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Sir McDuck">Voinko maksaa luottokortilla?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Sir McDuck">Hyväksytkö...? | Hyväksyttekö...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="Sir McDuck">Voitko vaihtaa nämä matkashekit?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Sir McDuck">Voitko vaihtaa tämän...?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="Sir McDuck">Voitko antaa arvion hinnasta?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Sir McDuck">Tässä on korttini</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="Sir McDuck">Kuinka paljon veloitat provisiota? | Kuinka paljon veloitatte provisiota?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Sir McDuck">Haluan vaihtaa dollareita / euroja / puntia</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Sir McDuck">Mikä on vaihtokurssi?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="Sir McDuck">Mikä on inflaatiokurssi?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Sir McDuck">Missä voin vaihtaa rahojani?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Sir McDuck">Missä voin tehdä kuvakopioita?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Sir McDuck">Missä on lähin pankki?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Sir McDuck">Mihin minun pitäisi allekirjoittaa?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla luetteloa?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Sir McDuck">Minulla on tapaaminen ... kanssa</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Sir McDuck">Kuinka paljon on ilmoittautumismaksu?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Sir McDuck">Kuinka paljon se maksaa päivältä?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Sir McDuck">Kuinka paljon se maksaa tunnilta?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Sir McDuck">Kuinka paljon se maksaa viikolta?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Sir McDuck">Onko se ilmaista?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Sir McDuck">Tietokoneet ja Internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla tietokone?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Sir McDuck">Kovalevy on täynnä</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla modeemia?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla internet-yhteyttä?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Sir McDuck">Voinko lähettää sähköpostia?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Sir McDuck">Voinko lukea sähköpostini?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Sir McDuck">Voinko tulostaa jotakin?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Sir McDuck">Voinko skannata jotakin?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Sir McDuck">Tietokoneeni kaatui</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Sir McDuck">Sinun täytyy uudelleenkäynnistää se.</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Sir McDuck">Voinko asentaa...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Sir McDuck">Mikä on sähköpostiosoitteesi?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Sir McDuck">Sähköpostiosoitteeni on...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla kotisivua?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Sir McDuck">Mikä on osoite?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Sir McDuck">Koulutus</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Sir McDuck">Mitä opiskelet?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Sir McDuck">Opiskelen...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Sir McDuck">lakia</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Sir McDuck">lääketiedettä</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Sir McDuck">taloustiedettä | ekonomiaa</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Sir McDuck">kieliä</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Sir McDuck">kielitiedettä</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Sir McDuck">matematiikkaa</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Sir McDuck">kemiaa</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Sir McDuck">fysiikkaa</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Sir McDuck">informatiikkaa</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Sir McDuck">Missä yliopistossa opiskelet?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Sir McDuck">Opiskelen...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Sir McDuck">Minulla on kurssi tänään</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Sir McDuck">Olen vapaa tänään</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Sir McDuck">Oletko oppikoulussa?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Sir McDuck">Olen oppikoulussa</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Sir McDuck">Minun täytyy nyt mennä kurssille</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Sir McDuck">Hätätapaukset</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Sir McDuck">Soita lääkärille!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Sir McDuck">Soita ambulanssi!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Sir McDuck">Soita poliisille!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Sir McDuck">Hän ei voi hengittää</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Sir McDuck">Hän ei voi liikkua</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Sir McDuck">Hän ei pysähtynyt</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Sir McDuck">Hän ajoi päälleni</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Sir McDuck">Hän ajoi liian kovaa</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Sir McDuck">Hän viilsi itseänsä</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Sir McDuck">En voi liikuttaa kättäni</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Sir McDuck">En voi liikuttaa jalkaani</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Sir McDuck">Minut on ryöstetty</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Sir McDuck">Pysäytä tuo varas!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Sir McDuck">Passini on varastettu</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Sir McDuck">Rahani on varastettu</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Sir McDuck">Autoni on varastettu</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Sir McDuck">Tuolla palaa!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Sir McDuck">Missä on lähin sairaala?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Sir McDuck">Missä on lähin poliisiasema?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Sir McDuck">Tunteet ja mielipiteet</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Sir McDuck">Pidätkö siitä?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Sir McDuck">Pidän siitä.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Sir McDuck">Olen iloinen</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Sir McDuck">Olen vihainen</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Sir McDuck">Olen pettynyt</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Sir McDuck">Olen tyytyväinen</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Sir McDuck">Olen väsynyt</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Sir McDuck">Olen peloissani</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Sir McDuck">Minulla on lämmin</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Sir McDuck">Minulla on kylmä</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Sir McDuck">Minua nukuttaa</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Sir McDuck">Meistä täällä on mukavaa</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Sir McDuck">Se on (erittäin) mielenkiintoinen</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Sir McDuck">Pidämme sitä erittäin mielenkiintoisena</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Sir McDuck">Se on (erittäin) tylsä</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Sir McDuck">Se on kaunis</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Sir McDuck">Hän on (erittäin) komea</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Sir McDuck">Hän on (erittäin) kaunis</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="Sir McDuck">Hän on kuuma!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="Sir McDuck">Hän on kuuma!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Sir McDuck">Hän on erittäin kiltti</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Sir McDuck">Katso!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Sir McDuck">Kuuntele!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Sir McDuck">Siistiä!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Sir McDuck">Uskomatonta!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Sir McDuck">Ruoka ja ravintola</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Sir McDuck">Minulla on jano</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Sir McDuck">Minua janottaa</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="Sir McDuck">Menisimmekö syömään?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="Sir McDuck">Menisimmekö juomaan?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Sir McDuck">Otatko jotain syötävää?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Sir McDuck">Otatko jotain juotavaa?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Sir McDuck">Haluatko syödä jotain?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Sir McDuck">Voinko hankkia sinulle jotain syötävää?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Sir McDuck">Haluatko jotain juotavaa?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Sir McDuck">Haluaisin ... juotavaksi, kiitos.</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Sir McDuck">kupin kahvia</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Sir McDuck">kupin teetä</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Sir McDuck">lasin olutta</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Sir McDuck">lasin viiniä</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Sir McDuck">lasin punaviiniä</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Sir McDuck">lasin valkoviiniä</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Sir McDuck">lasin appelsiinimehua</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Sir McDuck">lasin omenamehua</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Sir McDuck">Saanko hankkia sinulle jotain juotavaa?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Sir McDuck">Mitä haluaisit juoda?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Sir McDuck">Mitä haluaisit syödä?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Sir McDuck">Mitä suosittelet?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Sir McDuck">Saisinko nähdä ruokalistan, kiitos?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Sir McDuck">Saisinko nähdä viinilistan, kiitos?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Sir McDuck">Haluaisin tämän, kiitos</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Sir McDuck">Haluaistko alkupalan?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Sir McDuck">Haluaisin alkupalan, kiitos</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Sir McDuck">Haluaisin kalaa, kiitos</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Sir McDuck">Haluaisin naudanlihaa, kiitos</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Sir McDuck">Haluaisin sianlihaa, kiitos</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Sir McDuck">Haluaisin salaatin, kiitos</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Sir McDuck">Haluaisin keittoa, kiitos</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Sir McDuck">Haluaisin jotain kasvisruokaa, kiitos</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Sir McDuck">Haluaisitko jälkiruokaa?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Sir McDuck">Alkupalaksi haluaisin...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Sir McDuck">Pääruuaksi haluaisin...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Sir McDuck">Jälkiruuaksi haluaisin...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Sir McDuck">Saisinko tämän ranskalaisten/riisin/perunoiden kanssa, kiitos?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Sir McDuck">Saisinko tämän ilman...?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Sir McDuck">Saisinko vain pienen annoksen, kiitos?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Sir McDuck">Mitä salaatteja teillä on?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Sir McDuck">Ei enempää, kiitos</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="Sir McDuck">Se on mukaan otettavaksi</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Sir McDuck">Olen vegetaristi</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="Sir McDuck">Olen vegaani</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Sir McDuck">En voi syödä tuota</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Sir McDuck">Sisältääkö tämä...?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Sir McDuck">(paljon) suolaa</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Sir McDuck">(paljon) sokeria</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Sir McDuck">(paljon) rasvaa</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Sir McDuck">lihaa</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Sir McDuck">mereneläviä</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Sir McDuck">kalaa</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Sir McDuck">meijerituotteita</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Sir McDuck">En juo (alkoholia)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Sir McDuck">Minulla ei ole haarukkaa</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Sir McDuck">Minulla ei ole veistä</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Sir McDuck">Minulla ei ole lusikkaa</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Sir McDuck">Lasi puuttuu</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Sir McDuck">Lautanen puuttuu</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Sir McDuck">Tämä ei ole puhdas</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Sir McDuck">Se on liian kylmää</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Sir McDuck">Se on liian mausteista</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Sir McDuck">Tämä ei ole sitä mitä tilasin</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Sir McDuck">Täällä on virhe</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Sir McDuck">Se oli maukasta</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Sir McDuck">Haluaisin maksaa, kiitos</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Sir McDuck">Saisinko laskun, kiitos?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Sir McDuck">Haluaisimme maksaa erikseen</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Sir McDuck">Onko kaikki sisälletty?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Sir McDuck">Onko juomaraha sisälletty?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Sir McDuck">Pidätkö ruuan laittamisesta?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Sir McDuck">Kuka laittaa ruokaa tänään?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Sir McDuck">Laittaisinko minä tänään ruokaa?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Sir McDuck">Mitä minä tekisin?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Sir McDuck">Haluaisitko kupin kahvia?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Sir McDuck">Haluaisitko kupin teetä?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Sir McDuck">Terveys ja sairaus</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Sir McDuck">Olen sairas</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Sir McDuck">Minulla on flunssa</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Sir McDuck">Minulla on kuumetta</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Sir McDuck">Minulla on allergioita</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Sir McDuck">Olen diabeetikko</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Sir McDuck">Minua koskee</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Sir McDuck">En voi hyvin</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Sir McDuck">Käytän ehkäisypillereitä</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Sir McDuck">Olen raskaana</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Sir McDuck">En voi syödä</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Sir McDuck">En voi nukkua</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="Sir McDuck">En halua mitään liian vahvaa</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Sir McDuck">Minua huimaa</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="Sir McDuck">Minua oksettaa</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="Sir McDuck">Minulla on murtunut hammas</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Sir McDuck">Minulla on yskä</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Sir McDuck">Minulla on päänsärkyä</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Sir McDuck">Minulla on mahakipua</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="Sir McDuck">Minulla koskee rintaan</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Sir McDuck">Minulla on tartunta</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="Sir McDuck">Minua on pistetty | Ampiainen on pistänyt minua</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="Sir McDuck">Minua on puraistu</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Sir McDuck">Koskeeko sinua?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Sir McDuck">Sattuuko se?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Sir McDuck">Sattuuko, kun teen näin?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="Sir McDuck">Otatko lääkkeitä?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="Sir McDuck">Mikä on ruumiinlämpösi?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Sir McDuck">Voitko kävellä?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Sir McDuck">Tarvitsen pyörätuolin</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="Sir McDuck">Olen pyörätuolissa</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Sir McDuck">Missä on lähin apteekki?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Sir McDuck">Saanko sen ilman reseptiä?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla / teillä mitään hyönteisten puremiin?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla / teillä mitään auringonpolttamiin?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Sir McDuck">Minulla on lääkemääräys lääkäriltä</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Sir McDuck">Tarvitsen jotain...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Sir McDuck">Kuinka usein minun pitäisi ottaa se?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Sir McDuck">Harrastukset</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Sir McDuck">Mitä harrastuksia sinulla on?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Sir McDuck">Mitä teet vapaa-ajallasi?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Sir McDuck">Pidätkö lukemisesta?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Sir McDuck">En pidä lukemisesta</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Sir McDuck">Pidän lukemisesta</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Sir McDuck">Pidän ruuan laittamisesta</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Sir McDuck">Pidän musiikin kuuntelemisesta</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Sir McDuck">Pidän pianon soittamisesta</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Sir McDuck">Pidän kitaran soittamisesta</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Sir McDuck">Pidän laulamisesta</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Sir McDuck">Pidän shakin pelaamisesta</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Sir McDuck">Pidän juhlimisesta</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Sir McDuck">Pidän matkustamisesta</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Sir McDuck">Pidän ostoksien tekemisestä</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Sir McDuck">Pidän puutarhan hoitamisesta</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Sir McDuck">Pidän TV:n katselemisesta</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Sir McDuck">Pidän Internetissä surffaamisesta</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Sir McDuck">Minkälaisesta musiikista pidät?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Sir McDuck">Pidän klassisesta musiikista</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Sir McDuck">Pidän popista</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Sir McDuck">Pidän oopperasta</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Sir McDuck">Pidän jazzista</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Sir McDuck">Pidän teknosta</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Sir McDuck">Pidän hard rockista</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Sir McDuck">Mitkä ovat lempiyhtyeitäsi?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Sir McDuck">Mistä pidät eniten?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Sir McDuck">Pidän eniten...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Sir McDuck">Toistensa esitteleminen</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Sir McDuck">Minun nimeni on...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Sir McDuck">Mikä on sinun nimesi?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Sir McDuck">Minä olen...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Sir McDuck">Kuka sinä olet?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Sir McDuck">Saanko esitellä sinut...?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Sir McDuck">Esittelen sinut...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Sir McDuck">Tämä on vaimoni</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Sir McDuck">Tämä on mieheni</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Sir McDuck">Tämä on tyttöystäväni</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Sir McDuck">Tämä on poikaystäväni</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Sir McDuck">Tämä on ystäväni</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Sir McDuck">Tämä on poikani</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Sir McDuck">Tämä on tyttäreni</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Sir McDuck">Tämä on äitini</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Sir McDuck">Tämä on isäni</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Sir McDuck">Mukava tavata sinut</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Sir McDuck">Suunnitelmat ja tapaamiset</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="Sir McDuck">Oletko vapaa tänään / huomenna / tänä iltana?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Sir McDuck">Minulla on jo suunnitelmia</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Sir McDuck">Menen elokuviin</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Sir McDuck">Menen teatteriin</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Sir McDuck">Menen museoon</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="Sir McDuck">Haluatko mennä kanssani ulos tänään?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="Sir McDuck">Mielelläni</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla lippuja?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Sir McDuck">Minulla on kaksi lippua...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Sir McDuck">En pidä (tästä) musiikista</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Sir McDuck">Musiikki on liian kovalla</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="Sir McDuck">Täällä on liian paljon tungosta</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Sir McDuck">Menisimmekö jonnekin muualle?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="Sir McDuck">Mitä elokuvaa menisimme katsomaan?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="Sir McDuck">Mitä pidit elokuvasta?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Sir McDuck">Politiikka</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Sir McDuck">Olen kiinnostunut politiikasta</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Sir McDuck">En ole kiinnostunut politiikasta</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet hallituksesta?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet kuninkaasta / kuningattaresta?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet presidentistä?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet pääministeristä?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet sananvapaudesta?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet militariasta?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet demokratiasta?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet ihmisoikeuksista?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet naisten oikeuksista?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="Sir McDuck">Mitä mieltä olet homoseksuaalien oikeuksista?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="Sir McDuck">Oletko poliittisen puolueen jäsen?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="Sir McDuck">Milloin vaalit ovat?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="Sir McDuck">Ketä äänestit viime kerralla?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="Sir McDuck">Ketä aiot äänestää?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Sir McDuck">Olen...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Sir McDuck">kommunisti</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Sir McDuck">kapitalisti</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Sir McDuck">demokraatti</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Sir McDuck">kristillisdemokraatti</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Sir McDuck">republikaani</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="Sir McDuck">vasemmistolainen</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Sir McDuck">nationalisti</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="Sir McDuck">sosialisti</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="Sir McDuck">liberaali</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Sir McDuck">fasisti</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="Sir McDuck">Sukulaisuus ja perhe</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="Sir McDuck">Oletko naimisissa?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="Sir McDuck">Olen naimisissa</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="Sir McDuck">En ole naimisissa</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla poikaystävä?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla tyttöystävä?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Sir McDuck">Minulla on poikaystävä</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Sir McDuck">Minulla on tyttöystävä</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Sir McDuck">Kuinka vanha hän on?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Sir McDuck">Hän on ... vuotta vanha</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="Sir McDuck">Mitä hän tekee elääkseen / työkseen?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla lapsia?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Sir McDuck">Minulla ei ole lapsia.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Sir McDuck">Minulla on yksi lapsi / yksi poika / yksi tytär</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Sir McDuck">Minulla on kaksi lasta</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Sir McDuck">Minulla on kolme / neljä / viisi / kuusi / seitsemän lasta</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Sir McDuck">Kuinka monta sisarusta sinulla on?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="Sir McDuck">Onko äitisi yhä elossa?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="Sir McDuck">Onko isäsi yhä elossa?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="Sir McDuck">Onko isoäitisi yhä elossa?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="Sir McDuck">Onko isoisäsi yhä elossa?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Sir McDuck">Uskonto</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Sir McDuck">Oletko uskovainen?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Sir McDuck">En ole uskovainen</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Sir McDuck">Olen ateisti</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="Sir McDuck">Olen agnostikko</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Sir McDuck">Olen muslimi</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Sir McDuck">Olen juutalainen</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Sir McDuck">Olen buddhalainen</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="Sir McDuck">Olen hindu</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Sir McDuck">Olen katolilainen</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Sir McDuck">Olen kristitty</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="Sir McDuck">Mistä löydän kirkon?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="Sir McDuck">Mistä löydän moskeijan?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="Sir McDuck">Mistä löydän synagogan?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="Sir McDuck">Mistä löydän temppelin?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="Sir McDuck">Jumalalle kiitos</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="Sir McDuck">Jos Jumala haluaa sitä</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Sir McDuck">Herra Jumala | Hyvä Jumala!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="Sir McDuck">Asuinpaikka, vieraileminen ja majoitus</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Sir McDuck">Mistä olet kotoisin? | Mistä maasta olet kotoisin?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Sir McDuck">Olen kotoisin...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Sir McDuck">Ranskasta</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Sir McDuck">Iso-Britanniasta</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Sir McDuck">Espanjasta</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Sir McDuck">Saksasta</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Sir McDuck">Yhdysvalloista</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Sir McDuck">Kiinasta</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Sir McDuck">Brasiliasta</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Sir McDuck">Japanista</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Sir McDuck">Venäjältä</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Sir McDuck">Kanadasta</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Sir McDuck">Australiasta</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="Sir McDuck">Mikä on kansalaisuutesi?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Sir McDuck">Olen...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Sir McDuck">britannialainen | britti</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Sir McDuck">ranskalainen</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Sir McDuck">saksalainen</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Sir McDuck">amerikkalainen</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Sir McDuck">kiinalainen</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Sir McDuck">japanilainen</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Sir McDuck">venäläinen</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Sir McDuck">brasilialainen</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Sir McDuck">kanadalainen</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Sir McDuck">Mistä olet kotoisin? | Missä kaupungissa asut?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Sir McDuck">Asun Lontoossa / Pariisissa / Berliinissä</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Sir McDuck">Onko se lähellä...?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Sir McDuck">Onko se kaukana...?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Sir McDuck">Asun lähellä...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Sir McDuck">Asun kaukana...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="Sir McDuck">Missä asustat?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="Sir McDuck">Asustan Hotelli...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="Sir McDuck">Kuinka kauan olet siellä?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="Sir McDuck">Milloin menet takaisin?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Sir McDuck">Milloin saavuit?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="Sir McDuck">Oletko täällä yksin?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Sir McDuck">Olen täällä yksin</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="Sir McDuck">Olen täällä perheeni kanssa</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Sir McDuck">Asutko täällä?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="Sir McDuck">En ole täältä</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="Sir McDuck">Voimmeko leiriytyä täällä</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="Sir McDuck">Onko teillä tilaa?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="Sir McDuck">Onko teillä tilaa teltalle?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="Sir McDuck">Kuinka paljon se on yöltä?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="Sir McDuck">Haluamme viipyä yhden viikon</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="Sir McDuck">Missä ovat suihkut?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="Sir McDuck">Missä ovat vessat?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="Sir McDuck">Haluan yhden hengen huoneen, kiitos</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="Sir McDuck">Haluan huoneen, jossa on...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Sir McDuck">kylpyamme</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Sir McDuck">suihku</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="Sir McDuck">näköala</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Sir McDuck">parveke</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="Sir McDuck">lisävuode</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="Sir McDuck">erilliset sängyt</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="Sir McDuck">Haluamme kahden hengen huoneen, kiitos</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="Sir McDuck">Sisältyykö hintaan aamiainen?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="Sir McDuck">Milloin aamiainen tarjoillaan?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="Sir McDuck">Onko halvempia huoneita?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="Sir McDuck">Onko minulle viestejä?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="Sir McDuck">Saisinko avaimeni, kiitos</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="Sir McDuck">Mikä on huoneeni numero?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="Sir McDuck">Pyysin huonetta, jossa on kylpyamme / suihku</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="Sir McDuck">Seksi</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="Sir McDuck">Haluatko maata kanssani?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla kondomia?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth" author="Sir McDuck">Käytätkö ehkäisypillereitä?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="Sir McDuck">En tee sitä ilman kondomia</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="Sir McDuck">Ole varovainen | Ole hellävarainen</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="Sir McDuck">Pidätkö tästä?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Sir McDuck">En pidä tästä</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="Sir McDuck">Oletko naimaton?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="Sir McDuck">Oletko homo?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth" author="Sir McDuck">Oletko hetero?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="Sir McDuck">Oletko lesbo?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="Sir McDuck">Oletko biseksuaali?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="Sir McDuck">Ostoksilla käyminen</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="Sir McDuck">Voitko auttaa minua?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="Sir McDuck">Voinko auttaa sinua?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" author="Sir McDuck">Mitä haluaisit?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Sir McDuck">Mitä etsit?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="Sir McDuck">Olen vain selailemassa | Katselen vain ympärilleni</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="Sir McDuck">Pidän tästä</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="Sir McDuck">Pidän näistä housuista</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="Sir McDuck">Pidän tästä t-paidasta</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="Sir McDuck">Pidän tästä jakusta</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="Sir McDuck">Pidän tästä puserosta</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="Sir McDuck">Pidän tästä puvusta</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="Sir McDuck">Pidän näistä laseista</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="Sir McDuck">Pidän näistä kengistä</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Sir McDuck">Etsin...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="Sir McDuck">Voinko sovittaa sitä?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="Sir McDuck">Voinko kokeilla sitä?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Sir McDuck">Missä on sovitushuone?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Sir McDuck">Se on liian pitkä</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="Sir McDuck">Se on liian lyhyt</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="Sir McDuck">Se on liian kireä</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="Sir McDuck">Se on liian löysä</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="Sir McDuck">Se ei sovi</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="Sir McDuck">Se sopii aika hyvin</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="Sir McDuck">Mikä on sinun kokosi?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="Sir McDuck">Minun kokoni on...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth" author="Sir McDuck">En ymmärrä näitä kokoja</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="Sir McDuck">Onko teillä isompaa?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="Sir McDuck">Onko teillä pienempää?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="Sir McDuck">Pidän tästä väristä</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="Sir McDuck">En pidä väristä</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="Sir McDuck">Onko teillä tätä punaisena / sinisenä / keltaisena / vihreänä / violettinä / vaaleanpunaisena?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="Sir McDuck">Onko teillä halvempaa?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="Sir McDuck">Mistä tämä on tehty?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="Sir McDuck">Voitko korjata tämän?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="Sir McDuck">Nähtävyyksien katseleminen</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="Sir McDuck">Voinko ottaa kuvia?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="Sir McDuck">Et voi ottaa kuvia täällä</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="Sir McDuck">Onko järvellä laivamatkoja?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="Sir McDuck">Onko joella laivamatkoja?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="Sir McDuck">Onko opastettuja kierroksia?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="Sir McDuck">Kuinka kauan kierros kestää?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="Sir McDuck">Onko hyviä yökerhoja?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="Sir McDuck">Onko paikallisia festivaaleja?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="Sir McDuck">Haluaisin vierailla katedraalissa / tuomiokirkossa.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="Sir McDuck">Haluaisin vierailla kirkossa.</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="Sir McDuck">Haluaisin vierailla moskeijassa.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="Sir McDuck">Haluaisin vierailla temppelissä.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="Sir McDuck">Onko lapsialennusta?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="Sir McDuck">Onko ryhmäalennusta?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="Sir McDuck">Onko vanhusalennusta?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="Sir McDuck">Onko opiskelija-alennusta?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="Sir McDuck">Mihin aikaan olette avoinna?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="Sir McDuck">Mihin aikaan suljette?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="Sir McDuck">Mihin aikaan avaatte?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="Sir McDuck">Mihin aikaan esitys alkaa?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="Sir McDuck">Milloin se rakennettiin?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="Sir McDuck">Ketkä rakensivat tämän?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="Sir McDuck">Kuinka korkea tuo vuori on?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Sir McDuck">Mikä on tuon eläimen nimi?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Sir McDuck">Mikä on tuon linnun nimi?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Sir McDuck">Mikä on tuon kukan nimi?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Sir McDuck">Mikä on tuon puun nimi?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Sir McDuck">Mikä on tuon rakennuksen nimi?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Sir McDuck">Mikä on tuon vuoren nimi?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Sir McDuck">Mikä on tuon joen nimi?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="Sir McDuck">Tupakoiminen</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="Sir McDuck">Tupakoiminen on pahaksi terveydellesi</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="Sir McDuck">Pahastutko jos poltan savukkeen?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla tulta?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="Sir McDuck">Saisinko savukkeen?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="Sir McDuck">Onko tämä tupakoimattomien puoli?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="Sir McDuck">Saisinko tuhkakupin?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Sir McDuck">Urheilu</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="Sir McDuck">Onko vaarallisia virtauksia?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="Sir McDuck">Onko lähellä mielenkiintoisia kävelyteitä?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth" author="Sir McDuck">Onko hiihtohissejä?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Sir McDuck">Missä on lähin golfkurssi?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Sir McDuck">Missä on julkinen uima-allas?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="Sir McDuck">Voinko mennä kalastamaan täällä?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="Sir McDuck">Voinko mennä uimaan täällä?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="Sir McDuck">Voinko lainata...?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="Sir McDuck">pesäpallomailaa</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="Sir McDuck">jalkapalloa</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="Sir McDuck">suksiparia</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="Sir McDuck">tennismailaa</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Sir McDuck">venettä</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="Sir McDuck">pyyhettä</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="Sir McDuck">Voinko ottaa oppitunteja?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="Sir McDuck">Haluan nähdä jalkapallo-ottelun</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="Sir McDuck">Pelaatko...?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="Sir McDuck">amerikkalaista jalkapalloa</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Sir McDuck">jalkapalloa</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth" author="Sir McDuck">golfia</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth" author="Sir McDuck">tennistä</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="Sir McDuck">pesäpalloa</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth" author="Sir McDuck">koripalloa</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Sir McDuck">Aika</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="Sir McDuck">Mikä päivä tänään on?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="Sir McDuck">On...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="Sir McDuck">Mikä päivä eilen oli?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="Sir McDuck">Eilen oli...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="Sir McDuck">Mikä päivä on huomenna?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Sir McDuck">Huomenna on...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Sir McDuck">maanantai</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Sir McDuck">tiistai</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Sir McDuck">keskiviikko</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Sir McDuck">torstai</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Sir McDuck">perjantai</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Sir McDuck">lauantai</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Sir McDuck">sunnuntai</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="Sir McDuck">Mikä kuukausi on?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="Sir McDuck">Tämä kuukausi on...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Sir McDuck">Viime kuukausi oli...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="Sir McDuck">Ensi kuukausi on...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Sir McDuck">tammikuu</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Sir McDuck">helmikuu</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Sir McDuck">maaliskuu</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Sir McDuck">huhtikuu</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Sir McDuck">toukokuu</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Sir McDuck">kesäkuu</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Sir McDuck">heinäkuu</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Sir McDuck">elokuu</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Sir McDuck">syyskuu</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Sir McDuck">lokakuu</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Sir McDuck">marraskuu</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Sir McDuck">joulukuu</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="Sir McDuck">Kuinka paljon kello on?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="Sir McDuck">Kello on kahdeksan</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="Sir McDuck">Kello on puoli yhdeksän | Kello on kahdeksan kolmekymmentä</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="Sir McDuck">Kello on vartin yli kahdeksan | Kello on kahdeksan viisitoista</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="Sir McDuck">Kello on varttia vaille yhdeksän | Kello on kahdeksan neljäkymmentäviisi</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="Sir McDuck">Kello on kymmenen yli kahdeksan | Kello on kymmenen</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="Sir McDuck">Kello on kaksikymmentä yli kahdeksan | Kello on kahdeksan kaksikymmentä</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="Sir McDuck">Kello on kahtakymmentä vaille kahdeksan | Kello on seitsemän neljäkymmentä</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="Sir McDuck">Kello on kymmentä vaille kahdeksan | Kello on seitsemän viisikymmentä</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth" author="Sir McDuck">Mikä päivämäärä tänään on?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth" author="Sir McDuck">Tänään on viidestoista joulukuuta vuonna 1982</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Sir McDuck">Milloin voin tulla?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="Sir McDuck">Milloin vierailet luonani?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi tänä aamuna</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi aamulla</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi tänä iltana</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi illalla</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi tällä viikolla</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi tänä viikonloppuna</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi viiikonloppuna</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi keskipäivällä</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi kahden tunnun kuluttua</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi puoli yhdeltätoista</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi puoli yhdentoista jälkeen</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi ennen puolta yhtätoista</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi puoli yhdentoista ja yhdentoista välillä</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi puoli yhdestätoista yhteentoista saakka</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi keväällä</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi kesällä</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi syksyllä</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi talvella</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi viidestoista päivä joulukuuta</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth" author="Sir McDuck">Kuinka kauan voit viipyä luonani?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth" author="Sir McDuck">Voin viipyä kaksi tuntia</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth" author="Sir McDuck">Vierailen luonasi kaksi tuntia</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth" author="Sir McDuck">Olet liian myöhässä</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth" author="Sir McDuck">Olet juuri ajallaan</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth" author="Sir McDuck">Olet liian ajoissa</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="Sir McDuck">Mikä vuodenaika on nyt?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth" author="Sir McDuck">Minulla ei ole aikaa</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth" author="Sir McDuck">Odota minuutti, ole hyvä</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth" author="Sir McDuck">Olen siellä viidessä minuutissa</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth" author="Sir McDuck">Matkustaminen</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla autoa?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="Sir McDuck">Minulla on auto</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth" author="Sir McDuck">Minulla ei ole autoa</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth" author="Sir McDuck">Mennäänkö minun vai sinun autolla?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth" author="Sir McDuck">Onko sinulla ajokortti?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth" author="Sir McDuck">Minulla ei ole ajokorttia</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth" author="Sir McDuck">Milloin lähdemme?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth" author="Sir McDuck">Mihin olemme menossa?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth" author="Sir McDuck">Mihin olet menossa?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth" author="Sir McDuck">Mistä olet tulossa?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth" author="Sir McDuck">Täytyykö minun vaihtaa bussia?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth" author="Sir McDuck">Missä bussit ovat?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="Sir McDuck">Missä on bussipysäkki?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth" author="Sir McDuck">Voitko kertoa minulle, milloin täytyy jäädä pois?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth" author="Sir McDuck">Meneekö tämä bussi ...?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="Sir McDuck">Missä on lentokenttä?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth" author="Sir McDuck">Milloin lentokone lähtee?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth" author="Sir McDuck">Milloin lentokone saapuu?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="Sir McDuck">Kuinka pitkä lentomatka on?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="Sir McDuck">Mihin aikaan minun pitää olla lähtöselvityksessä?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="Sir McDuck">Saisinko nähdä passinne?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="Sir McDuck">Tässä on passini</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="Sir McDuck">Voinko ottaa tämän mukaani?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth" author="Sir McDuck">Mistä voin hakea matkatavarani?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="Sir McDuck">En löydä matkatavaroitani</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="Sir McDuck">Voitko auttaa minua matkatavaroitteni kanssa?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="Sir McDuck">Tämä taitaa olla paikkani</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="Sir McDuck">Onko tämä paikka varattu?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Sir McDuck">Missä on rautatieasema?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="Sir McDuck">Pitääkö minun vaihtaa junaa?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="Sir McDuck">Pysähtyykö tämä juna ...?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="Sir McDuck">Meneekö tämä juna ...?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="Sir McDuck">Kauanko aikaa juna seisoo täällä?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="Sir McDuck">Mikä asema tämä on?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Sir McDuck">Milloin seuraava juna lähtee?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Sir McDuck">Milloin viimeinen juna lähtee?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Sir McDuck">Mistä voin saada taksin?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="Sir McDuck">Onko lähistöllä pysäköintialuetta?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="Sir McDuck">Voinko pysäköidä tähän?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="Sir McDuck">Kuinka kauaksi aikaa voin pysäköidä tähän?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="Sir McDuck">Mihin voin pysäköidä?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="Sir McDuck">Autoni on mennyt rikki</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="Sir McDuck">Autoni ei käynnisty</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="Sir McDuck">Missä on lähin huoltoasema?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="Sir McDuck">Missä on lähin autokorjaamo?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="Sir McDuck">Autostani on puhjennut rengas</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="Sir McDuck">Minulta on bensa lopussa</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="Sir McDuck">Saisinko nähdä ajokorttinne?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="Sir McDuck">Tässä on ajokorttini</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="Sir McDuck">Kuinka pitkä matka on seuraavaan kylään?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="Sir McDuck">Kuinka kauan sinne kestää autolla?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="Sir McDuck">Kuinka kauan sinne kestää jalan?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="Sir McDuck">Haluaisin vuokrata auton viikoksi / kolmeksi päiväksi</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Sir McDuck">Sää</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="Sir McDuck">Millainen sää huomenna on?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="Sir McDuck">Millainen sää on yleensä?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="Sir McDuck">Huomenna sataa</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Sir McDuck">Sataa</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="Sir McDuck">Sataa lunta</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="Sir McDuck">On aurinkoinen ilma</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="Sir McDuck">On pilvinen ilma</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="Sir McDuck">Ulkona on lämmin</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="Sir McDuck">Ulkona on kylmä</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="Sir McDuck">Onpa kamala sää!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Sir McDuck">Miten ihana päivä!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="Sir McDuck">Hieno päivä, eikö totta?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="Sir McDuck">Onko aina näin kuuma?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="Sir McDuck">Onko aina näin kylmä?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="Sir McDuck">Onko aina näin sateista?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="Sir McDuck">Onko aina näin pilvistä?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="Sir McDuck">Olen märkä</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Sir McDuck">Työ</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Sir McDuck">Missä olet töissä?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Sir McDuck">Mitä teet työksesi?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Sir McDuck">Olen opettaja</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Sir McDuck">Olen opiskelija</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="Sir McDuck">Olen yksityisyrittäjä</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Sir McDuck">Olen töissä ravintolassa</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Sir McDuck">Olen töissä ruokakaupassa</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Sir McDuck">Olen töissä kaupassa</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Sir McDuck">Olen lääkäri</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Sir McDuck">Olen psykologi</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Sir McDuck">Olen ohjelmoija</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Sir McDuck">Olen insinööri</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Sir McDuck">Olen mekaanikko</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Sir McDuck">Olen kirjailija</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Sir McDuck">Olen autonkuljettaja</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="Sir McDuck">Olen näyttelijä/näyttelijätär</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="Sir McDuck">Olen sosiaalityöntekijä</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Sir McDuck">Olen poliitikko</attrib>
+		</entry>
+	</entries>
+</ulr>

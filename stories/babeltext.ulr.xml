@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="babeltext" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="13070"  groups=""  />
+		<editors  users="13070"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="en" stats="11" />
+		<language lang="fr" stats="11" />
+		<language lang="el" stats="11" />
+		<language lang="pt" stats="3" />
+		<language lang="pt-BR" stats="3" />
+		<language lang="de" stats="11" />
+		<language lang="nl" stats="11" />
+		<language lang="sv" stats="9" />
+		<language lang="da" stats="9" />
+		<language lang="ur" stats="11" />
+		<language lang="es" stats="11" />
+	</languages>
+	<authors>
+		<author id="13070" langs="en,fr" lastmodified="1235961007" />
+		<author id="113" langs="fr" lastmodified="1230805996" />
+		<author id="14985" langs="el" lastmodified="1234620616" />
+		<author id="15181" langs="el" lastmodified="1235918200" />
+		<author id="15270" langs="pt-BR" lastmodified="1236554455" />
+		<author id="11491" langs="de" lastmodified="1238132900" />
+		<author id="4430" langs="nl" lastmodified="1249644391" />
+		<author id="6594" langs="sv" lastmodified="1257553212" />
+		<author id="18594" langs="el" lastmodified="1261583788" />
+		<author id="19015" langs="da" lastmodified="1264870042" />
+		<author id="15183" langs="ur" lastmodified="1235886723" />
+		<author id="12790" langs="en,es" lastmodified="1274068143" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title" />
+		<entry id="description" type="description" />
+		<entry id="e1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+		<entry id="5" type="paragraph" />
+		<entry id="6" type="paragraph" />
+		<entry id="7" type="paragraph" />
+		<entry id="8" type="paragraph" />
+		<entry id="9" type="paragraph" />
+	</entries>
+</ulr>

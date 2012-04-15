@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="csb">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma"></attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Zaduma">Jo</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Zaduma">Nié</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Zaduma">Proszã</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Zaduma">Proszã</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Zaduma">Dzãkùjã, Dzãka, Dzãczi</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Zaduma">Baro proszã</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Zaduma">Przeprôszajã, Przeprôszóm, Wëbaczë</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Zaduma">Mòże</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Zaduma">Witce!, Witéj!, Witéjże!</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Zaduma">Do ùzdrzeniô!, Do ùzdrzonka!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Zaduma">Dzéń dobri!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Zaduma">Dobri wieczórk!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Zaduma">Dobri noce</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Zaduma">Witôjtaż! (plur.), Witôj! (sing.)</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Zaduma">Snôżi wanodżi!</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Zaduma">Gôdósz Gôdajã pò ... ?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Zaduma">Gôdajã pò...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Zaduma">Nié gôdajã pò...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Zaduma">Gôdajã kąsk pò...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Zaduma">anielskù</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Zaduma">frańcëskù</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Zaduma">miemieckù</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Zaduma">szpańskù</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Zaduma">portugalskù</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Zaduma">ruskù</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Zaduma">italskù</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Zaduma">holandskù</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Zaduma">norweskù</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Zaduma">szwédzkù</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Zaduma">dëńskù</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Zaduma">pòlskù</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Zaduma">Rozmiôsz?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Zaduma">Rozmiôsz mje?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Zaduma">Rozmjejã</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Zaduma">Rozmjejã ce</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Zaduma">Nje rozmjejã</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Zaduma">Nje rozmjejã ce / Nje rozmjejã cëż gôdôsz -> I don't understand what are you saying</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Zaduma">Czë mòżesz pòwtórzëc?  / Pòwtórzë!</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Zaduma">Czë mòżesz gadôc pòmału?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Zaduma">Nje wiém jak to rzec</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Zaduma">(Nje znajã...)</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Zaduma">Co jes rzek?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Zaduma">Jak to rzec po...</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Zaduma">Jak to napjisac?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Zaduma">Jak to wëmówic?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Zaduma">Czë jô pòwjedzôł (-a) to dobrze?</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Zaduma">Dobrze</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Zaduma">Nje za dobrze</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Zaduma">Jak stôri jes të?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Zaduma">Jô móm ... lat</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Zaduma">Nje wiém</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Zaduma">Jô tegò nie lëdajã</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Zaduma">Jem gòtów (gòtowô)</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Zaduma">Przeprôszajã, Przeprôszóm</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Zaduma">(Dze...)</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Zaduma">(Dze...)</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Zaduma">(Dze je...)</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Zaduma">(Dze...)</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Zaduma">(Kóli...)</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Zaduma">(Kóli...)</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Zaduma">(Kóli...)</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Zaduma">(Kóli...)</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Zaduma">Co sztudérëjôsz?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Zaduma">Jô sztudérëjo...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Zaduma">prawò</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Zaduma">medicënã</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Zaduma">ekònomijã</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Zaduma">jãzëki</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Zaduma">lingwistikã</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Zaduma">matematikã</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Zaduma">chemijã</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Zaduma">fizykã</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Zaduma">infòrmatikã</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Zaduma">Jô sztudérëjô na...</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Zaduma">Jem dzys wòlny (wòlna)</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Zaduma">Të jes w òglowém liceum?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Zaduma">Jô jem w òglowém liceum</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Zaduma">Òn nié mòże òddëchac.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Zaduma">Òn nié mòże sã rëszac.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Zaduma">Òn sã nié zatrzimôł.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Zaduma">Palë sã</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Zaduma">(Dze je...)</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Zaduma">(Dze je...)</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Zaduma">To mie sã widzy</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Zaduma">Jem szczestlëwi</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Zaduma">Jem złi</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Zaduma">Jem zmãczony</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Zaduma">Bòjã sã</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Zaduma">Gòrąco mie</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Zaduma">Zëmno mie</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Zaduma">To nama (2 people), nóm (more than 2 people) sã baro widzy</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Zaduma">Òna je (baro) snôżô</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Zaduma">Jô jem głodni</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Zaduma">kawã</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Zaduma">arbatã</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Zaduma">piwò</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Zaduma">wino</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Zaduma">czerzwioné wino</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Zaduma">biôłé wino</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Zaduma">apfelzynòwi sok</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Zaduma">jabkòwi sok</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Zaduma">(żgrzéc)</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Zaduma">(jesc)</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Zaduma">Pòproszã rëbã</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Zaduma">Pòproszã salôtã</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Zaduma">Pòproszã zupã</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Zaduma">(...z bùlwë)</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Zaduma">jaczi miãso</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Zaduma">rëbë</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Zaduma">(Nje żgrzéjô...)</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Zaduma">Zdrowié &amp; Chòroba</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Zaduma">Jô jem chòri</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Zaduma">(Jô jem...)</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Zaduma">(Dze je...)</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Zaduma">Nié lubiã czëtac</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Zaduma">Lubiã czëtac</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Zaduma">Lubiã grac na...</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Zaduma">Lubiã grac na...</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Zaduma">Lubiã spiéwac</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Zaduma">Lubiã grac w...</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Zaduma">Lubiã pòdróżowac</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Zaduma">Lubiã òbzerac zdrzélnik</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Zaduma">Lubiã jinternet</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Zaduma">Lubiã jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Zaduma">Lubiã techno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Zaduma">Lubiã hard rock</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Zaduma">Wòlã...</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Zaduma">Nazéwóm sã... / Jô sã zwiã…/ Móm na miono…</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Zaduma">Jak sã nazéwôsz? / Jakùż sã zwiész?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Zaduma">Jô jem...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Zaduma">Òna je moja białka</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Zaduma">Òn je mój drëch (masc.), Òna je moja drëchna (fem.)</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Zaduma">Òn je mój syn</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Zaduma">Òna je moja córka</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Zaduma">Òna je moja nënka</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Zaduma">Òn je mój tatk (òjc)</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Zaduma">Pòlitika</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Zaduma">Jô jem...</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Zaduma">Jak stôri je? Jak stôra je?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Zaduma">Je ... lat stôri / Je ... lat stôra</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Zaduma">Móm le ... / jednégò sëna / ...</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Zaduma">Religijô</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Zaduma">Skądka(ż) tё jes?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Zaduma">Jô jem z...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Zaduma">Frańcëskô</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Zaduma">Wiôlgô Britanijô</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Zaduma">Szpańskô</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Zaduma">Miemieckô</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Zaduma">Rëskô</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Zaduma">Dze mieszkôsz?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Zaduma">Mieszkóm w Londonë / Parizù / Berlinë</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Zaduma">Czë to kòl do...?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Zaduma">Czë to dôlek òd...?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Zaduma">Mieszkóm kòl...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Zaduma">Mieszkóm dôlek òd...</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Zaduma">Jô jem tu sóm</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Zaduma">Mieszkósz tu?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="Zaduma">(tent -> telc)</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="Zaduma">Wiele to przińdze za noc?</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Zaduma">(kąpnica)</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Zaduma">(prisznic)</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Zaduma">Jô tegò nie lëdajã</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Zaduma">(szëkac)</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Zaduma">Szëkôm...</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Zaduma">Dze je...</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Zaduma">(dłudżi)</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="Zaduma">(krótczi)</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Zaduma">Jak sã nazéwô...</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Zaduma">Jak sã nazéwô nen ptôch?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Zaduma">Jak sã nazéwô nen kwiôt?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Zaduma">Jak sã nazéwô ... drzéwò?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Zaduma">Jak sã nazéwô...</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Zaduma">Jak sã nazéwô...</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Zaduma">Jak sã nazéwô... rzéka?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Zaduma">Dze je...</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Zaduma">Dze je...</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Zaduma">bôt</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Zaduma">Czas</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Zaduma">Witro bądze...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Zaduma">pòniedzôłk</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Zaduma">wtórk</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Zaduma">strzoda</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Zaduma">czwiôrtk</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Zaduma">piątk</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Zaduma">sobòta</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Zaduma">niedzela</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Zaduma">Ùszłi miesąc bëł...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Zaduma">Stëcznik</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Zaduma">Gromicznik</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Zaduma">Strumiannik</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Zaduma">Łżëkwiôt</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Zaduma">Môj</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Zaduma">Czerwińc</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Zaduma">Lëpińc</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Zaduma">Zélnik</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Zaduma">Séwnik</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Zaduma">Rujan</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Zaduma">Lëstopadnik</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Zaduma">Gòdnik</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="Zaduma">Jakô (terô) je gòdzëna? / Jaczi mómë czas?</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Zaduma">(Czej...)</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="Zaduma">(Czej...)</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="Zaduma">(reno)</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="Zaduma">(òb wieczórk - in the evening)</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="Zaduma">(pòzymk)</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="Zaduma">(lato)</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="Zaduma">(zëma)</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="Zaduma">Móm auto</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="Zaduma">Dze je autobùsów przestónk?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="Zaduma">Dze je latawiskò?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Zaduma">Dze je banowô stacëjô?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Zaduma">(bana)</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Zaduma">(bana)</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Zaduma">(bana)</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="Zaduma">Dze je...</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="Zaduma">Dze je...</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Zaduma">Wiodro</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Zaduma">Padô deszcz</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="Zaduma">Padô sniég</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="Zaduma">Dzysô je lëché wiodro</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Zaduma">Dzysô je baro fejn dzeń</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Zaduma">Robòta</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Zaduma">Gdzeż të robisz?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Zaduma">Jaką môsz robòtã?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Zaduma">Jô jem szkólny (male) / szkólna (female)</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Zaduma">Jô jem sztudérą (male) / sztudérką (female)</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Zaduma">Robiã w gòscyńcu</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Zaduma">Robiã w ...</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Zaduma">Robiã w krómë</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Zaduma">Jô jem</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Zaduma">Jô jem</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Zaduma">Jô jem</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Zaduma">Jô jem inżeniéra</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Zaduma">Jô jem...</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Zaduma">Jô jem...</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Zaduma">Jô jem...</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="Zaduma">Jô jem...</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="Zaduma">Jô jem...</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Zaduma">Jô jem...</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="sv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Curiosus">Kråkan och Kannan</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Curiosus">En kråka använder sin hjärna för att få en drink.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Curiosus">En törstig kråka fann en kanna med lite vatten i, men så lite var det, att hur hon än försökte, kunde hon inte nå det med sin näbb och det verkade som om hon skulle dö av törst med botemedlet inom synhåll.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Curiosus">Till slut hittade hon på en listig plan. Hon började att kasta småsten i kannan, och med varje sten steg vattnet lite högre tills det slutligen nådde kanten, och den visa fågeln kunde släcka sin törst.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Curiosus">Nöden är uppfinningarnas moder.</attrib>
+		</entry>
+	</entries>
+</ulr>

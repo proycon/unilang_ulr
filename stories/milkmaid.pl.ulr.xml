@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="pl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma">Mleczarka i jej Wiadro</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma">Marzenia mleczarki o przyszłości</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Zaduma">Córka rolnika poszła wydoić krowy, i wracała do mleczarni niosąc wiadro z mlekiem na głowie. Idąc, zabawiała się w ten sposób:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Zaduma">&quot;Mleko z tego wiadra dostarczy mi śmietany, którą przerobię na masło i zaniosę na targ na sprzedaż. Za te pieniądze kupię kilka jajek, a te, kiedy się wyklują, dadzą kurczęta, i niebawem będę mieć całkiem spore podwórze kurczaków. Potem sprzedam kilka moich ptaków, a z pieniedzy, jakie mi przyniesie sprzedaż, kupię sobie nową sukienkę, którą założę, kiedy pójdę na jarmark; i młodzieńcy będą mnie podziwiali, i będą sie do mnie zalecać, ale ja pogardliwie potrząsnę głową i nie bedę im miała nic do powiedzenia.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Zaduma">Zapominając o wiadrze i dostosowując gest to słów, potrząsła głową. Spadło wiadro, mleko się rozlało, i wszystkie jej piękne zamki na piasku znikły w jednej chwili!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Zaduma">Nie licz kurczaków, zanim sie nie wyklują!</attrib>
+		</entry>
+	</entries>
+</ulr>

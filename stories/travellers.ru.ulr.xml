@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="ru">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kathy">Медведь и путешественники</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kathy">Урок о медведях и друзьях</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kathy">Два Путешественника шли вместе по дороге. Вдруг появился Медведь Прежде, чем он их увидел, один из Путешественников подбежал к дереву у дороги, взобрался по веткам и спрятался там.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kathy">Второй не был столь проворным, как его друг, и, поскольку не мог убежать, бросился на землю и притворился мёртвым.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kathy">Медведь подошёл и обнюхал всё вокруг, но Второй Путешественник лежал совершенно тихо и не дышал, ведь говорят, медведь не тронет мёртвое тело. Медведь принял его за мертвеца и ушёл.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Kathy">Когда Медведь исчез из виду, Первый Путешественник спустился с дерева и спросил Второго, что прошептал ему Медведь, когда поднёс свою пасть к его уху.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Kathy">Второй путешественник ответил: &quot;Он сказал мне никогда больше не путешествовать с другом, который бросает тебя при первой опасности&quot;.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Kathy">Искренность дружбы проверяется в беде.</attrib>
+		</entry>
+	</entries>
+</ulr>

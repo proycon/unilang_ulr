@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="bg">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Paruha">Мечката и пътниците</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Paruha">Урок за мечки и приятели</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Paruha">Двама пътници били на път, когато изведнъж се появила мечка. Преди тя да ги огледа, единият побягнал към дърво встрани от пътя, покатерил се на клоните му и се скрил там.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Paruha">Другият не бил толкова пъргав като приятеля си; и тъй като не можел да избяга, легнал на земята и се престорил на мъртъв.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Paruha">Мечката го приближила и душила около него, но той стоял напълно неподвижен и сдържал дъха си: защото казват, че мечките не докосвали мъртви тела.. Мечката го помислила за труп и отминала.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Paruha">Когато било чисто, пътникът от дървото слязал и попитал другия какво му е прошепнала мечката, когато си приближила устата към ухото му.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Paruha">Другият отговорил: &quot;Тя ми каза никога повече да не пътувам с приятел, който те напуска при първия знак за опасност&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Paruha">Лошият късмет проверява искреността на приятелството.</attrib>
+		</entry>
+	</entries>
+</ulr>

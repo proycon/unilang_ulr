@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="slavelion" version="1.9" baselang="fi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Liisi">Orja ja leijona</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Liisi">Leijona voi olla ihmisen paras ystävä</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Liisi">Orja pakeni isäntänsä luota, joka oli kohdellut häntä hyvin julmasti, ja välttääkseen kiinnijäämisen hän lähti autiomaahan. Kun mies kuljeskeli etsiessään ruokaa ja yösijaa, hän saapui luolalle, astui sisään ja huomasi sen olevan tyhjillään.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Liisi">Mutta tosiasiassa se olikin leijonan luola, ja melkein heti, onnettoman karkulaisen kauhuksi, itse leijona ilmestyi paikalle. Mies luuli jo loppunsa tulleen, mutta hänen suureksi hämmästyksekseen leijona, sen sijaan että olisi loikannut hänen kimppuunsa ja ahmaissut hänet kitaansa, tuli nöyränä hänen luokseen ja nosti samalla ulvoen käpäläänsä. Huomattuaan käpälän olevan hyvin turvonnut ja tulehtunut, mies tutki sen ja löysi suuren piikin, joka oli painunut leijonan päkiään. Niinpä hän poisti sen, sitoi haavan niin hyvin kuin kykeni, ja ajan mittaan se parani kokonaan.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Liisi">Leijona oli äärettömän kiitollinen; hän piti miestä ystävänään, ja he jakoivat saman luolan jonkin aikaa. Mutta lopulta tuli päivä, jolloin orja alkoi kaivata muiden ihmisten seuraa, ja niinpä hän jätti hyvästit leijonalle ja palasi kaupunkiin.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Liisi">Siellä hänet ennen pitkää tunnistettiin ja kannettiin kahleissa entisen isäntänsä luo, joka päätti tehdä hänestä varoittavan esimerkin ja määräsi hänet heitettäväksi petoeläimille, kun seuraavan kerran teatterissa pidettäisiin esitys. Tuona kohtalokkaana päivänä areenalle päästettiin petoeläimet, joiden joukossa oli myös valtavan suuri ja hurjannäköinen leijona, ja sitten onneton orjamme heitettiin niiden joukkoon.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Liisi">Kuinka yleisö hämmästyikään, kun vilkaistuaan mieheen leijona loikkasi tämän luokse ja kävi makuulle tämän jalkojen juureen osoittaen kaikin tavoin kiintymystä ja iloa. Se oli hänen vanha ystävänsä luolasta! Yleisö alkoi vaatia, että orjan henki olisi säästettävä, ja kaupunginjohtaja, joka oli ihmeissään, että petoeläin saattoi olla noin kiitollinen ja uskollinen, julisti molemmat päästettäväksi vapauteen.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="zh">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">狮与鼠</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">老鼠帮助狮子</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">一只狮子在他的洞里睡觉， 一只老鼠跑到他的脸上吵醒了他。 他生气了，用爪子抓住老鼠， 就快要杀了他。</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">吓坏了的老鼠哀求狮子饶了他的命。 “请放了我，”他哭着说， “有一天我会报答你的仁慈。”</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">想到这么微不足道的生物 还可能为他做点儿什么， 让狮子觉得很有意思，于是大声地笑， 并高兴地让他走了。</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">可是老鼠的机会终究来临了。</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">有一天，狮子被困住了， 在一张有些猎人为了设以捕猎用的网子里， 而老鼠听见、认出了他的怒吼声，跑到了那里去。 他毫不费力地用牙齿咬断绳索， 不出一会儿就成功释放了狮子。</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">“在那里！”老鼠说， “当我发誓要报答你的时候，你嘲笑了我： 可你现在知道了吧，即使是只老鼠也能帮助狮子。”</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="gl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="Zaduma">Chegando</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="Zaduma">Olá!</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="Zaduma">Olá a todos!</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="Zaduma">Bos días!</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="Zaduma">Boas tardes!</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="Zaduma">Boas noites!</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="Zaduma">Boas noites!</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="Zaduma">¿qué tal alí?</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="Zaduma">Comezando a conversa</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="Zaduma">¿Qué hai de novo?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="Zaduma">¿Qué tal?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="Zaduma">¿De qué falades? ¿Cál é o tema?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="Zaduma">¿Cómo te encontras?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="Zaduma">¿Cómo os encontrades?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="Zaduma">¿Cómo van as cousas?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="Zaduma">Preguntas persoais</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="Zaduma">¿De onde es, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="Zaduma">¿Eres novo aquí? ¿É a túa primeira vez aquí?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="Zaduma">¿Qué linguas falas?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="Zaduma">¿Ónde en [país} vives?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="Zaduma">¿Cántos anos tes?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="Zaduma">¿Qué linguas estás a aprender?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="Zaduma">Falando sobre ti</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="Zaduma">Son de {country}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="Zaduma">Falo {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="Zaduma">Falo {lingua(s)} coma nativo, {lingua(s)}  fluídamente, {lingua(s)}  dun xeito intermedio e un pouco de {lingua(s)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="Zaduma">Síntoo, non falo {lingua}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="Zaduma">Estou aprendendo/ Eu quero aprender {lingua(s)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="Zaduma">Rematando a conversa</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="Zaduma">Encantado de coñecerte</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="Zaduma">Encantado de falar con vos</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="Zaduma">Teño que marchar</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="Zaduma">É a hora de cear</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="Zaduma">Vóume á cama</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="Zaduma">Vou durmir</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="Zaduma">Partindo</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="Zaduma">Ata máis ver | Ata logo | Deica logo</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="Zaduma">Ata mañá!</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="Zaduma">Ata pronto!</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="Zaduma">Ata a próxima</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="Zaduma">Boas noites a todos</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="Zaduma">Adeus a todos</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="Zaduma">Volvo logo</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="Zaduma">Volvo máis tarde</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="Zaduma">Engadidos</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Zaduma">Gracias</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="Zaduma">Graciñas</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Zaduma">Desculpa</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="Zaduma">XD</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="Zaduma">hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

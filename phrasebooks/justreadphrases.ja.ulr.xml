@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="ja">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Gon-no-suke">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Gon-no-suke">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Gon-no-suke">愛している</attrib>
+			<attrib type="phon" author="Gon-no-suke">ai shite iru</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Gon-no-suke">嵐が上陸する</attrib>
+			<attrib type="phon" author="Gon-no-suke">arashi ga jouriku suru</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Gon-no-suke">この人達が大きい音を聞く</attrib>
+			<attrib type="phon" author="Gon-no-suke">kono hito-tachi ga ookii oto wo kiku</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Gon-no-suke">赤信号になった</attrib>
+			<attrib type="phon" author="Gon-no-suke">akashingou ni natta</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Gon-no-suke">彼女が小鳥を見る</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo ga kotori wo miru</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Gon-no-suke">私達が古い建物を見つける</attrib>
+			<attrib type="phon" author="Gon-no-suke">watashi-tachi ga furui tatemono wo mitsukeru</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Gon-no-suke">鍵を探す</attrib>
+			<attrib type="phon" author="Gon-no-suke">kagi wo sagasu</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Gon-no-suke">あなたの頭を触る</attrib>
+			<attrib type="phon" author="Gon-no-suke">anata no atama wo sawaru</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Gon-no-suke">彼が新しく白い車をほしがっている</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare ga atarashiku shiroi kuruma wo hoshigatte iru</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Gon-no-suke">彼女が壊れた窓を開ける</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo ga kowareta mado wo akeru</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Gon-no-suke">強い女が重くて黒いドアを閉める</attrib>
+			<attrib type="phon" author="Gon-no-suke">tsuyoi onna ga omokute kuroi doa wo shimeru</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Gon-no-suke">彼が恐ろしい問題を解決する</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare ga osoroshii mondai wo kaiketsu suru</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Gon-no-suke">怒っている犯罪者が多くの価値があるお金を失う</attrib>
+			<attrib type="phon" author="Gon-no-suke">okotte iru hanzaisha ga ooku no kachi ga aru okane wo ushinau</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Gon-no-suke">彼らが美味しい料理を味わう</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare-ra ga oishii ryouri wo ajiwau</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Gon-no-suke">警察官の意見はている</attrib>
+			<attrib type="phon" author="Gon-no-suke">keisatsukan no iken wa chigatte iru</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Gon-no-suke">同僚が冷たいコーヒーと暖かいお茶を飲む</attrib>
+			<attrib type="phon" author="Gon-no-suke">douryou ga tsumetai kouhii to atatakai ocha wo nomu</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Gon-no-suke">裕福な会社が青野菜を売っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">yuufuku-na kaisha ga aoyasai wo utte iru</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Gon-no-suke">彼らが10冊の新しい本を買う</attrib>
+			<attrib type="phon" author="Gon-no-suke">karera ga jussatsu no atarashii hon wo kau</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Gon-no-suke">彼は右耳が痛がっている</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa migimimi ga itagatte iru</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="Gon-no-suke">あの背が高い人を知っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">ano segatakai hito wi shitte iru</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth" author="Gon-no-suke">華奢な女性が太った上司に着いて行く</attrib>
+			<attrib type="phon" author="Gon-no-suke">kyasha-na josei ga futotta joushi ni tsuite iku</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth" author="Gon-no-suke">速いコンピュータが色を変える</attrib>
+			<attrib type="phon" author="Gon-no-suke">hayai konpyu-ta ga iro wo kaeru</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="Gon-no-suke">彼らは間違った道具を選んだ</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare-ra wa machigatta dougu wo eranda</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" author="Gon-no-suke">内は親切なお隣を招く</attrib>
+			<attrib type="phon" author="Gon-no-suke">uchi wa shinsetu-na o-tonari wo maneku</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="Gon-no-suke">つまらない学生に例を言った</attrib>
+			<attrib type="phon" author="Gon-no-suke">tsumaranai gakusei ni rei wo itta</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth" author="Gon-no-suke">彼女のご主人が夜を楽しんでいる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo no go-shujin ga yoru wo tanoshinde iru</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="Gon-no-suke">彼女は毎日の新聞を読んでいる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo wa mainichi no shinbun wo yonde iru</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="Gon-no-suke">貧乏な人が汚れた服を入っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">binbou-na hito ga yogoreta fuku wo haitte iru</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="Gon-no-suke">強い動物が弱い魚に会う</attrib>
+			<attrib type="phon" author="Gon-no-suke">tsuyoi doubutsu ga yowai sakana ni au</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Gon-no-suke">200ユーローを払う</attrib>
+			<attrib type="phon" author="Gon-no-suke">nihyaku yu-ro- wo harau</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Gon-no-suke">彼女は美しい言葉が好きだ</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo wa utsukushii kotoba ga suki da</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth" author="Gon-no-suke">嵐が上陸する</attrib>
+			<attrib type="phon" author="Gon-no-suke">arashi ga jouriku suru</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth" author="Gon-no-suke">男達が低い事務所を建てる</attrib>
+			<attrib type="phon" author="Gon-no-suke">otoko-tachi ga hikui jimusho wo tateru</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Gon-no-suke">彼は目が青い</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa me ga aoi</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="Gon-no-suke">今日は雪が降っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">kyou wa yuki ga futte iru</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="Gon-no-suke">彼が偉くなる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare ga eraku naru</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="Gon-no-suke">国際空港にいる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kokusaikuukou ni iru</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Gon-no-suke">彼女は手が綺麗だ</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo ha te ga kirei da</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Gon-no-suke">若い男の子だ</attrib>
+			<attrib type="phon" author="Gon-no-suke">wakai otoko no ko da</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="Gon-no-suke">彼女が医者だ</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo ga isha da</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="Gon-no-suke">ハッピーのままにいる</attrib>
+			<attrib type="phon" author="Gon-no-suke">happi- no mama ni iru</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth" author="Gon-no-suke">雨で濡れる</attrib>
+			<attrib type="phon" author="Gon-no-suke">ame de nureru</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="Gon-no-suke">馬が恐がっている</attrib>
+			<attrib type="phon" author="Gon-no-suke">uma ga kowagatte iru</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="Gon-no-suke">白い犬が驚いた</attrib>
+			<attrib type="phon" author="Gon-no-suke">shiroi inu ga odoroita</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth" author="Gon-no-suke">現社会がとても進んでいる</attrib>
+			<attrib type="phon" author="Gon-no-suke">genshakai ga totemo susude iru</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="Gon-no-suke">衝突の原因は不明だ</attrib>
+			<attrib type="phon" author="Gon-no-suke">shoutotsu no gennin ga fumei da</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="Gon-no-suke">プレセントを挙げた</attrib>
+			<attrib type="phon" author="Gon-no-suke">puresento wo ageta</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="Gon-no-suke">彼に難問された</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare ni nanmon sareta</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="Gon-no-suke">母からメッセージを受け取る</attrib>
+			<attrib type="phon" author="Gon-no-suke">haha kara messe-ji wo uketoru</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="Gon-no-suke">父に手紙を書く</attrib>
+			<attrib type="phon" author="Gon-no-suke">chichi ni tegami wo kaku</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="Gon-no-suke">彼らが小さい町に住んでいる</attrib>
+			<attrib type="phon" author="Gon-no-suke">karera ga chiisai machi ni sunde iru</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="Gon-no-suke">犬がテレビの後ろに座っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">inu ga terebi no ushiro ni suwatte iru</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="Gon-no-suke">猫が床に寝転んでいる</attrib>
+			<attrib type="phon" author="Gon-no-suke">neko ga yuka ni nekoronde iru</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="Gon-no-suke">子供がそとに遊ぶ</attrib>
+			<attrib type="phon" author="Gon-no-suke">kodomo ga soto ni asobu</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="Gon-no-suke">彼女が大学に着いて話す</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo ga daigaku ni tsuite hanasu</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="Gon-no-suke">彼らが静かに部屋を出る</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare-ra ga shizuka-ni heya wo deru</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="Gon-no-suke">彼は先生に答える</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa sensei ni kotaeru</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="Gon-no-suke">マイホームの前に歩く</attrib>
+			<attrib type="phon" author="Gon-no-suke">maiho-mu no mae ni aruku</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="Gon-no-suke">彼女が自分のベッドで寝る</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo ga jibun no beddo de neru</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="Gon-no-suke">飛行機が山の上を飛ぶ</attrib>
+			<attrib type="phon" author="Gon-no-suke">hikouki ga yama no ue wo tobu</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth" author="Gon-no-suke">僕らが大きい庭を走る</attrib>
+			<attrib type="phon" author="Gon-no-suke">boku-ra ga ookii niwa wo hashiru</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" author="Gon-no-suke">本はテーブルの上にある</attrib>
+			<attrib type="phon" author="Gon-no-suke">hon wa teburu no ue ni aru</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth" author="Gon-no-suke">君と一緒に店に入る</attrib>
+			<attrib type="phon" author="Gon-no-suke">kimi to issho-ni mise ni hairu</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth" author="Gon-no-suke">電車で街に行く</attrib>
+			<attrib type="phon" author="Gon-no-suke">densha de machi ni iku</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth" author="Gon-no-suke">木が速く生長する</attrib>
+			<attrib type="phon" author="Gon-no-suke">ki ga hayaku seichou suru</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" author="Gon-no-suke">彼は小さい工場で働いている</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare ha chiisai koujou de hataraite iru</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth" author="Gon-no-suke">馬鹿な大統領が鼻に転ぶ</attrib>
+			<attrib type="phon" author="Gon-no-suke">baka-na daitouryou ga hana ni korobu</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" author="Gon-no-suke">我々が確実に神様を信じている</attrib>
+			<attrib type="phon" author="Gon-no-suke">wareware ga kakujitsu-ni kamisama wo shinjite iru</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth" author="Gon-no-suke">値段に関して文句を言った</attrib>
+			<attrib type="phon" author="Gon-no-suke">nedan ni kanshite monku wo itta</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth" author="Gon-no-suke">彼女が高いボールを僕に投げる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo ga takai boru wo boku ni  nageru</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth" author="Gon-no-suke">病んだおじいさんが病院の近く死ぬ</attrib>
+			<attrib type="phon" author="Gon-no-suke">yanda o-jii-san ga byouin no chikaku shinu</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth" author="Gon-no-suke">このページの文が分かる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kono peji no bun ga wakaru</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth" author="Gon-no-suke">おばあさんは子供に面白い話をする</attrib>
+			<attrib type="phon" author="Gon-no-suke">o-baa-san ha kodomo ni omoshiroi hanashi wo suru</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" author="Gon-no-suke">彼が一生懸命に勉強することを願っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare ga isshoukenmei ni benkyou suru koto wo negatte iru</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth" author="Gon-no-suke">彼は左手にナイフを持っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa hidarite ni naifu wo motte iru</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth" author="Gon-no-suke">僕らの目的地がそのふたつの湖の間にある</attrib>
+			<attrib type="phon" author="Gon-no-suke">boku-ra no mokutekichi ga sono futatsu no mizuumi no aida ni aru</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth" author="Gon-no-suke">彼が女友達に単純な料理をしてあげる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare ga onnatomodachi ni tanjun-na ryouri wo shite ageru</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth" author="Gon-no-suke">夜の女の子が美しい</attrib>
+			<attrib type="phon" author="Gon-no-suke">yoru no onna no ko ga utsukushii</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="Gon-no-suke">獰猛な野獣が檻をでていった</attrib>
+			<attrib type="phon" author="Gon-no-suke">doumou na yajuu ga ori wo dete itta</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="Gon-no-suke">我々の法律をそちらのに比較する</attrib>
+			<attrib type="phon" author="Gon-no-suke">wareware no houritsu wo sochira to hikaku suru</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth" author="Gon-no-suke">東にある我々の首都に運転する</attrib>
+			<attrib type="phon" author="Gon-no-suke">higashi ni aru wareware no shuto ni unten suru</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth" author="Gon-no-suke">死者が土深く埋めてあう</attrib>
+			<attrib type="phon" author="Gon-no-suke">shisha ga tsuchi fukaku umete aru</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="Gon-no-suke">牧師さん・イマンさん・ラビーさんは明るい雲の下に立っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">bokushi-san/iman-san/rabi-san wa akarui kumo no shita ni tatte iru</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth" author="Gon-no-suke">頭の上の雛はその親の近く飛んでいる</attrib>
+			<attrib type="phon" author="Gon-no-suke">atama no ue no hina ha sono oya no chikaku tonde iru</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth" author="Gon-no-suke">損害を受けた学校に逃げ込む</attrib>
+			<attrib type="phon" author="Gon-no-suke">songai wo uketa gakkou ni nigekomu</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth" author="Gon-no-suke">この水は遠いところから来る</attrib>
+			<attrib type="phon" author="Gon-no-suke">kono mizu wa tooi tokoro kara kuru</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="Gon-no-suke">人生について良く考えた</attrib>
+			<attrib type="phon" author="Gon-no-suke">jinsei ni tsuite yoku kangaeta</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth" author="Gon-no-suke">友達がどこから来た？</attrib>
+			<attrib type="phon" author="Gon-no-suke">tomodachi ga doko kara kita?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth" author="Gon-no-suke">どれぐらい覚えている？</attrib>
+			<attrib type="phon" author="Gon-no-suke">dore gurai oboete iru?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth" author="Gon-no-suke">何人に手伝ってもらう？</attrib>
+			<attrib type="phon" author="Gon-no-suke">nannin ni tetsudatte morau?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth" author="Gon-no-suke">なぜそのものを盗む？</attrib>
+			<attrib type="phon" author="Gon-no-suke">naze sono mono wo nusumu?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="Gon-no-suke">歳がいくつですか</attrib>
+			<attrib type="phon" author="Gon-no-suke">toshi ga ikutsu desu ka</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth" author="Gon-no-suke">この商品をどのように作成しますか</attrib>
+			<attrib type="phon" author="Gon-no-suke">kono shouhin wo dono you ni sakusei shimasu ka</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth" author="Gon-no-suke">世界中で最も賢い人はだれ？</attrib>
+			<attrib type="phon" author="Gon-no-suke">sekaijuu de mottomo kashikoi hito wa dare?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth" author="Gon-no-suke">海中で何を発見しますか</attrib>
+			<attrib type="phon" author="Gon-no-suke">kaichuu de nani wo hakken shimasu ka</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth" author="Gon-no-suke">どのサンドがいい？</attrib>
+			<attrib type="phon" author="Gon-no-suke">dono sando ga ii?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth" author="Gon-no-suke">どこから来ましたか</attrib>
+			<attrib type="phon" author="Gon-no-suke">doko kara kimashita ka</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" author="Gon-no-suke">どこへ行くんだ</attrib>
+			<attrib type="phon" author="Gon-no-suke">doko e iku n da</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth" author="Gon-no-suke">あの店が存在しますか</attrib>
+			<attrib type="phon" author="Gon-no-suke">ano mise ga sonzai shimasu ka</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth" author="Gon-no-suke">この調査の意図は何ですか</attrib>
+			<attrib type="phon" author="Gon-no-suke">kono chousa no ito wa nan desu ka</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth" author="Gon-no-suke">どのバスが出発の準備ができましたか</attrib>
+			<attrib type="phon" author="Gon-no-suke">dono basu ga shuppatsu no junbi ga dekimashita ka</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth" author="Gon-no-suke">何かを食べたいだけです</attrib>
+			<attrib type="phon" author="Gon-no-suke">nanika wo tabetai dake desu</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth" author="Gon-no-suke">夢を全く見ない</attrib>
+			<attrib type="phon" author="Gon-no-suke">yume wo mattaku minai</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth" author="Gon-no-suke">彼はいつも早く着く</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare ha itsumo hayaku tsuku</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth" author="Gon-no-suke">彼はたまに正しい</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa tama-ni tadashii</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="Gon-no-suke">僕らは何も勝たない</attrib>
+			<attrib type="phon" author="Gon-no-suke">boku-ra ha nanimo katanai</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth" author="Gon-no-suke">我々は大体敵と戦う</attrib>
+			<attrib type="phon" author="Gon-no-suke">wareware wa daitai teki to tatakau</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth" author="Gon-no-suke">彼らはよくこのゲームを負ける</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare-ra wa yoku kono gemu wo makeru</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth" author="Gon-no-suke">もう明日だと望む</attrib>
+			<attrib type="phon" author="Gon-no-suke">mou ashita da to nozomu</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth" author="Gon-no-suke">宇宙には大勢の星がある</attrib>
+			<attrib type="phon" author="Gon-no-suke">uchuu ni wa oosei no hoshi ga aru</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth" author="Gon-no-suke">かれはしょっちゅう全裸を見せる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa shocchuu zenra wo miseru</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth" author="Gon-no-suke">僕らはめったにアイデアを隠さない</attrib>
+			<attrib type="phon" author="Gon-no-suke">bokura wa metta-ni aidea wo kakusanai</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth" author="Gon-no-suke">こいつは何かの冗談に笑っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">koitsu ha nanika no joudan ni waratte iru</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" author="Gon-no-suke">どこにも見ている</attrib>
+			<attrib type="phon" author="Gon-no-suke">doko nimo mite iru</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth" author="Gon-no-suke">かれは誰も恐れない</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa dore mo osorenai</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth" author="Gon-no-suke">彼は路上で誰かと踊っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo wa rojou de dareka to odotte iru</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth" author="Gon-no-suke">何でも好きな者を取ってください</attrib>
+			<attrib type="phon" author="Gon-no-suke">nani demo suki-na mono wo totte kudasai</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth" author="Gon-no-suke">家内は毎晩俺とセックスする</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanai wa maiban ore to sekkusu suru</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth" author="Gon-no-suke">2輪の花を差し上げる</attrib>
+			<attrib type="phon" author="Gon-no-suke">nirin no hana wo sashiageru</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth" author="Gon-no-suke">両親が聴きながら彼は歌っていた</attrib>
+			<attrib type="phon" author="Gon-no-suke">ryoushin ga kikinagara kare ga utatte ita</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth" author="Gon-no-suke">映画をいったから食べた</attrib>
+			<attrib type="phon" author="Gon-no-suke">eiga wo itte kara tabeta</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth" author="Gon-no-suke">彼らはホテルを見えるまえに、僕らが見た</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare-ra wa hoteru wo mireru mae ni, boku-ra ga mita</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth" author="Gon-no-suke">借り主が戻ってくるまでにこの部屋を掃除していい</attrib>
+			<attrib type="phon" author="Gon-no-suke">karinushi ga modotte kuru made ni kono heya wo souji shite ii</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth" author="Gon-no-suke">来月には投票をしなければならないので、政治に興味を持つようにする</attrib>
+			<attrib type="phon" author="Gon-no-suke">raigetsu niha touhyou wo shinakereba naranai node, seiji ni kyoumi wo motsu you ni suru</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth" author="Gon-no-suke">このコップが空いているが、そのコップが一杯だ</attrib>
+			<attrib type="phon" author="Gon-no-suke">kono koppu ga aite iru ga sono koppu ga ippai da</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth" author="Gon-no-suke">みんなに注目されるように彼らは叫んだ</attrib>
+			<attrib type="phon" author="Gon-no-suke">minna ni chuumoku sareru you ni kare-re wa sakenda</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth" author="Gon-no-suke">兄・弟にはそれを禁止されたも、俺が許可する、</attrib>
+			<attrib type="phon" author="Gon-no-suke">ani/otouto ni wa sore wo kinshi sarete mo, ore ga kyouka suru</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth" author="Gon-no-suke">疲れているんで、起きない</attrib>
+			<attrib type="phon" author="Gon-no-suke">tsukarete iru n de, okinai</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth" author="Gon-no-suke">金髪のやつ以外、邪悪な囚人全員を殺したい</attrib>
+			<attrib type="phon" author="Gon-no-suke">kinpatsu no yatsu igai, jaaku-na shuujin zenin wo koroshitai</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth" author="Gon-no-suke">殺人者は有罪判決を受けるはずだったが、その代わり開放された</attrib>
+			<attrib type="phon" author="Gon-no-suke">satsujinsha wa yuuzaihanketsu wo uker hazu dattaga, sono kawari kaihou sareta</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth" author="Gon-no-suke">久しぶりです</attrib>
+			<attrib type="phon" author="Gon-no-suke">hisashiburi desu</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth" author="Gon-no-suke">今朝から彼女に何も聞いていない</attrib>
+			<attrib type="phon" author="Gon-no-suke">kesa kara kanojo ni nani mo kiite inai</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth" author="Gon-no-suke">危険を問わず、教会・モスク・神殿の向こうの暗い建物を入った</attrib>
+			<attrib type="phon" author="Gon-no-suke">kiken wo towazu, kyoukai/mosuku/shinden no mukou no kurai tatemono wo haitta</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth" author="Gon-no-suke">父によって昔は酒が禁止されてあった。</attrib>
+			<attrib type="phon" author="Gon-no-suke">chichi ni yotte mukashi wa sake ga kinshi sarete atta</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth" author="Gon-no-suke">魅力的な歴史をもっているので、このあたりが好きだ</attrib>
+			<attrib type="phon" author="Gon-no-suke">miryokuteki-na rekishi wo motte iru no de, kono atari ga suki da</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth" author="Gon-no-suke">損害を受けた学校に逃げ込む</attrib>
+			<attrib type="phon" author="Gon-no-suke">songai wo uketa gakkou ni nigekomu</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth" author="Gon-no-suke">この水は遠いところから来る</attrib>
+			<attrib type="phon" author="Gon-no-suke">kono miza wa tooi tokoro kara kuru</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth" author="Gon-no-suke">休日の間に休んでいた</attrib>
+			<attrib type="phon" author="Gon-no-suke">kyuujitsu no aida ni yasunde ita</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth" author="Gon-no-suke">姉・妹が来るのを待っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">ane/imouto ga kuru no wo matte iru</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth" author="Gon-no-suke">彼は自分が正しいのを証明する</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa jibun ga tadashii no wo shoumei suru</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth" author="Gon-no-suke">僕らは不可能と思う</attrib>
+			<attrib type="phon" author="Gon-no-suke">boku-ra wa fukanou to omou</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth" author="Gon-no-suke">彼女は微笑んで、彼にキッスされる</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo wa hohoende, kare ni kissu wo sareru</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth" author="Gon-no-suke">私達はまだ彼の解決策に同意できない</attrib>
+			<attrib type="phon" author="Gon-no-suke">watashi-tachi wa mada kare no kaiketsusaku ni doui dekinai</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" author="Gon-no-suke">君の考えていることが知っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">kimi no kangaete iru koto wo shitte iru</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth" author="Gon-no-suke">女性はパンの作り方を知っている</attrib>
+			<attrib type="phon" author="Gon-no-suke">josei wa pan no tsukurikata wo shitte iru</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth" author="Gon-no-suke">幾つかの単語が見える</attrib>
+			<attrib type="phon" author="Gon-no-suke">ikutsuka no tango ga mieru</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth" author="Gon-no-suke">俺はお前よりでっかい</attrib>
+			<attrib type="phon" author="Gon-no-suke">ore wa omae yori dekkai</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth" author="Gon-no-suke">彼は君ほど小さい</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa kim hodo chiisai</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth" author="Gon-no-suke">彼は学校を嫌ってきた</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa gakkou wo kiratte kita</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth" author="Gon-no-suke">彼女はこの難しい学課の勉強を終えた</attrib>
+			<attrib type="phon" author="Gon-no-suke">kanojo wa kono muzukashii gakka no benkyou wo oeta</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth" author="Gon-no-suke">彼らは政府を考えることを止めた</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare-ra wa seifu wo kangaeru koto wo yameta</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth" author="Gon-no-suke">我々は仕事を続く</attrib>
+			<attrib type="phon" author="Gon-no-suke">wareware wa shigoto wo tuzuku</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth" author="Gon-no-suke">彼らは船の放棄準備をする</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare-ra wa fune no houki junbi wo suru</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth" author="Gon-no-suke">見た事を忘れなければならない</attrib>
+			<attrib type="phon" author="Gon-no-suke">mita koto wo wasurenakereba naranai</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth" author="Gon-no-suke">その変な説明で納得なら、馬鹿な男だわ</attrib>
+			<attrib type="phon" author="Gon-no-suke">sono hen-na setsumei de nattoku nara, baka-na otoko da wa</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth" author="Gon-no-suke">雨が降らなければお国に旅行する</attrib>
+			<attrib type="phon" author="Gon-no-suke">ame ga furanakereba o-kuni ni ryokou suru</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth" author="Gon-no-suke">盲目の女の子は臭覚が凄かった</attrib>
+			<attrib type="phon" author="Gon-no-suke">moumoku no onna no ko wa shuukaku ga sugokatta</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth" author="Gon-no-suke">昨日は悩みが遥かななところにいた</attrib>
+			<attrib type="phon" author="Gon-no-suke">kinou wa nayami ga haruka-na tokoro ni ita</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth" author="Gon-no-suke">三年間も彼と会っていない</attrib>
+			<attrib type="phon" author="Gon-no-suke">sannenkan mo kare to atte inai</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth" author="Gon-no-suke">彼は五時間訪問すると予想する</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare wa gojikan homon suru to yosou suru</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth" author="Gon-no-suke">彼らの決断を無視することにした</attrib>
+			<attrib type="phon" author="Gon-no-suke">kare-ra no ketsudan wo mushi suru koto ni shita</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth" author="Gon-no-suke">私の決定をもう1回繰り返します</attrib>
+			<attrib type="phon" author="Gon-no-suke">watashi no kettei wo mou ikkai kurikaeshimasu</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth" author="Gon-no-suke">生徒に10までの数え方を教えてやる</attrib>
+			<attrib type="phon" author="Gon-no-suke">seito ni 10 made no kazoekata wo oshiete yaru</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth" author="Gon-no-suke">この文章を英訳してくれる？</attrib>
+			<attrib type="phon" author="Gon-no-suke">kono bunshou wo eiyaku site kureru?</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth" author="Gon-no-suke">先生がそんなことを言うもんじゃないって言った。</attrib>
+			<attrib type="phon" author="Gon-no-suke">sensei ga sonnna koto o iu monja nai tte itta.</attrib>
+		</entry>
+	</entries>
+</ulr>

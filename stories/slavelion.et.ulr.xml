@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="slavelion" version="1.9" baselang="et">
+	<entries>
+		<entry id="description">
+			<attrib type="orth" author="14587" lastmodified="1231928515">Lõvi võib olla inimese parim sõber.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="14587" lastmodified="1231928515">Siin tunti ta kohe ära ja  ta viidi aheldatuna tagasi oma endise perenehe juurde, kes otsustas teha temast eeskuju teiste jaoks ja käskis mehe visata kiskjate ette järgmisel avalikul etendusel teatris. Saatuslikul päeval lasti kiskjad areenile, teiste seas ka üks hiigelsuur ja raevukas lõvi. Ja siis visati Ori nende keskele.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="14587" lastmodified="1231928515">Suur oli pealtvaatajate üllatus, kui Lõvi peale ühte pilku tema ees tagasi põrkas ja tema jalge ette kiindunult ja vaimustunult lamama jäi. See oli tema vana sõber koopast! Pealtvaatajad nõudsid, et Orja elu säästetaks: ja linna valitseja, imetledes säärast kiskjapoolset tänu ja truudust, otsustas, et mõlemad tuleb vabastada.</attrib>
+		</entry>
+	</entries>
+</ulr>

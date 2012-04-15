@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="uk">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" author="14244" lastmodified="1229891312">Я щасливий</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="14244" lastmodified="1229891312">Я не щасливий</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="14244" lastmodified="1229891312">Я був щасливий</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="14244" lastmodified="1229891312">Вонп також щаслива</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" author="16336" lastmodified="1246576792">Я залишаюсь щасливим</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="16336" lastmodified="1246576792">Тобі ані весело, ані сумно</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="14244" lastmodified="1229891312">Це велике дерево</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="14244" lastmodified="1229891312">Це велике дерево</attrib>
+		</entry>
+		<entry id="e15000">
+			<attrib type="orth" author="14244" lastmodified="1229891474">Порядок слів</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" author="14244" lastmodified="1229891474">Я не пишу сьогодні цього листа</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" author="14244" lastmodified="1229891474">Я вчора писав лист</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" author="14244" lastmodified="1229891474">Я не писав вчора листу</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" author="14244" lastmodified="1229891474">Я не писав вчора листу</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" author="14244" lastmodified="1229891474">Я писав лист кожного місяця</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" author="14244" lastmodified="1229891565">Завтра я напишу лист</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" author="14244" lastmodified="1229891565">Я не напишу завтра листа</attrib>
+		</entry>
+		<entry id="e111000">
+			<attrib type="orth" author="16336" lastmodified="1246576845">Якщо не буде дощу, піду на вечірку</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" author="16336" lastmodified="1246576845">Хоча й іде дощ, я піду на вечірку</attrib>
+		</entry>
+	</entries>
+</ulr>

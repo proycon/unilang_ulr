@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="uk">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="4430" lastmodified="1246267048">Короткий розмовник</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="4430" lastmodified="1246267048">Це розмовник, в якому знаходяться різні корисні вирази для щоденних ситуацій.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Найзвичайніші звороти</attrib>
+			<attrib type="phon">najzvychajnishi zvoroty</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Так</attrib>
+			<attrib type="phon">tak</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Ні</attrib>
+			<attrib type="phon">ni</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Будь ласка, Прошу</attrib>
+			<attrib type="phon">bud' laska, proshu</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Ось ви (ти) де</attrib>
+			<attrib type="phon">os' vy (ty) de</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Дякую</attrib>
+			<attrib type="phon">d'akuju</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="4430" lastmodified="1246267048">Будь ласка, Нема за що</attrib>
+			<attrib type="phon" author="4430" lastmodified="1246267048">bud' laska, nema za shcho</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Пробачте, Перепрошую</attrib>
+			<attrib type="phon">probachte, pereproshuju</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Може, Можливо</attrib>
+			<attrib type="phon">mozhe, mozhlyvo</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Привіт Вітаю</attrib>
+			<attrib type="phon">pryvit, vitaju</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">До побачення! На все добре</attrib>
+			<attrib type="phon">do pobachenn'a , na vse dobre</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Добридень!, Доброго дня!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Доброго ранку!</attrib>
+			<attrib type="phon">Dobroho ranku!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Добрий вечір!</attrib>
+			<attrib type="phon">Dobry vechir</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Добраніч!</attrib>
+			<attrib type="phon">Dobranich</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Ласкаво просимо!</attrib>
+			<attrib type="phon">Laskavo prosimo!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Щасливої дороги!</attrib>
+			<attrib type="phon">Shchaclivoyi dorogy!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="4430" lastmodified="1246267116">Розуміти один одного</attrib>
+			<attrib type="phon" author="4430" lastmodified="1246267116">Rozmyty odin odnoho</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Ви розмовляєте....?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Я розмовляю....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Я не розмовляю....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Я трохи розмовляю....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="4430" lastmodified="1246267161">англійскою</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="4430" lastmodified="1246267161">французською</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="4430" lastmodified="1246267161">німецькою</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="4430" lastmodified="1246267161">іспанською</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="4430" lastmodified="1246267161">португальською</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="4430" lastmodified="1246267161">арабською</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="4430" lastmodified="1246267161">китайською</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="4430" lastmodified="1246267161">хінді</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="4430" lastmodified="1246267161">російською</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="4430" lastmodified="1246267161">італійською</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="4430" lastmodified="1246267161">голландською</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="4430" lastmodified="1246267161">норвежською</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="4430" lastmodified="1246267220">шведською</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="4430" lastmodified="1246267220">датською</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="4430" lastmodified="1246267220">польською</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="4430" lastmodified="1246267220">урду</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="4430" lastmodified="1246267220">фарсі</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="4430" lastmodified="1246267220">японською</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="4430" lastmodified="1246267220">індонезійською</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="4430" lastmodified="1246267220">малайською</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Ви розумієте?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Ви розумієте мене?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Я розумію</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Я вас (тебе) розумію</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Я не розумію</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Я вас (тебе) не розумію</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Повторіть, будь ласка</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="4430" lastmodified="1246267376">Говоріть повільніше, будь ласка</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Напишіть, будь ласка</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Я не знаю, як це сказати</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Я не знаю правильного слова</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Що ви казали?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Як це сказати по-...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Як це написати?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="4430" lastmodified="1246267376">Як ви це вимовляєте?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Перекладіть це мені, будь ласка</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Чи я це правильно сказав/сказала?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Основна розмова</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Як справи?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Дуже добре</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Добре</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Непогано</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="4430" lastmodified="1246267417">Не зовсім добре</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Скільки вам / тобі років?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Мені ... роки / років</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Я не знаю</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Я цього не люблю</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Я готовий / готова</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Пішли!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Вибачте</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Бізнес і фінанси</attrib>
+			<attrib type="phon">Biznyes y financy</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Можна платити готівкою?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Можна платити кридитною карткою?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Чи ви приймаєте...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="4430" lastmodified="1246267494">Чи ви можете розміняти ці акредитиви?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Чи ви можете це розміняти в ...?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Ось моя картка</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Я хочу розміняти долари / евро / фунти</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Який курс обміну?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Який рівень інфляції?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Де можна розміняти гроші?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Де можна зробити ксерокопії?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Де найбліжчий банк?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Де треба підписати?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Чи є у вас каталог?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">В мене зустріч з...</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Скільки це коштує в день?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Скільки це коштує за годину?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Скільки це коштує за тиждень?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="4430" lastmodified="1246268894">Це безкоштовно?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Комп'ютер та інтернет</attrib>
+			<attrib type="phon" author="4430" lastmodified="1246268894">Compjuter ta internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">У Вас (В тебе) є ком'ютер?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Жорсткий диск повний</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">У Вас (В тебе) є модем?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="4430" lastmodified="1246268894">Чи маєте  (маєш) доступ до інтернету?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="4430" lastmodified="1246268894">Чи можна відправити електронну пошту?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="4430" lastmodified="1246268894">Чи можна прочитати електронну пошту?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="4430" lastmodified="1246268894">Чи можна щось роздрукувати?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="4430" lastmodified="1246268894">Мій комп'ютер зламався</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="4430" lastmodified="1246268894">Вам (тобі) треба перезавантажити комп'ютер</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="4430" lastmodified="1246269479">Чи можна поставити...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="4430" lastmodified="1246269479">Яка у вас (тебе) адреса електронної пошти?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="4430" lastmodified="1246269479">Моя адреса електронної пошти...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="4430" lastmodified="1246269479">Чи ви маєте домашню сторінку?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="4430" lastmodified="1246269479">Яка адреса?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Освіта</attrib>
+			<attrib type="phon">Osvita</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Що ви вивчаєте</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Я вивчаю</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">право</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">медицину</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">економіку</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">мови</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">лінгвістику</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">математику</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">хімію</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">фізику</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">інформатику</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">В якому університеті Ви навчаєтесь (ти навчаєшся)?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Я навчаюсь...</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Визвіть лікаря!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Визвіть швидку допомогу</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Подзвоні в міліцію!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Він не дихає.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Він не може рухатися</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Емоції &amp; Погляди</attrib>
+			<attrib type="phon">Emoshyi &amp; pogljady</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Чи вам подобається?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Мені подобається</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Я щасливий / щаслива</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Я роздратований / роздратована</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Я розчарований / розчарована</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">Я задоволений / задоволена</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Я втомився / втомилася</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Я боюся</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Мені тепло</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Мені холодно</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Я хочу спати</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Нам тут подобається</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">Це (дуже) цікаво</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">Ми думаємо, що це дуже цікаво</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">Це (дуже) нужно</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">Це гарно</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">Він (дуже) вродливий</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">Вона (дуже) вродлива</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">Він дуже добрий / Вона дуже добра</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Подивіться!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Послухайте!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Класно!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Їжа &amp; Ресторан</attrib>
+			<attrib type="phon">Yizha &amp; Restoran</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Я хворий / хвора</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Мене звати .....</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Як теве звати?</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">Це моя дружина</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">Це мій чоловік</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth">Краєвид</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Я би хотів відвідати церкву.</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Коли це було збудоване?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Хто збудував це?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Як називається ця тварина?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Як називається ця квітка?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Як називається це дерево?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Як називається ця будівля?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Як називається ця річка?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">Паління</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">Паління шкідливе для вашого(твого) здоров'я</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">Понеділок</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">Вівторок</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">Середа</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">Четвер</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">П'ятниця</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">Субота</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">Недыля</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth">Минулого місяця було...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth">Насиупної неділі буде...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">СІчень</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">Лютий</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">Березень</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">Квітень</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">Травень</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">Червень</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">Липень</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">Серпень</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">Вересень</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">Жовтень</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">Грудень</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Ви (ти) запізнилися (запізнився)</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">В мене немає часу</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Будь ласка зачекай вилинку</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">У вас (в тебе) є машина?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">В мене є машина</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">В мене немає машини</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">Моя машина зламалася</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth">Де найближчий гараж?</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth">В мене закінчилося пальне</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Погода</attrib>
+			<attrib type="phon">Pogoda</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Зараз йде дощ</attrib>
+			<attrib type="phon">Zaraz dje doshch</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Зараз йде сніг</attrib>
+			<attrib type="phon">Zaraz dje snyg</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">Досить сонячно</attrib>
+			<attrib type="phon">Docyt conyachno</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Яка жахлива погода!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Який чудовий день!</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">Тут завжди хмарно?</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Робота</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Де ви працюєте?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Чим ви займаєтеся?</attrib>
+			<attrib type="phon">Chim vy zaymaetesya?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Я - вчитель</attrib>
+			<attrib type="phon">Ya - vchytel</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Я- студент</attrib>
+			<attrib type="phon">Ya - student</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Я працюю в ресторані</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Я працюю в супермаркеті</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Я працюю в майстерні</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Я - лікар</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">Я - психолог</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">Я - програміст</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Я - інженер</attrib>
+			<attrib type="phon">Ya - inzhener</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Я - механік</attrib>
+			<attrib type="phon">Ya - mekhanik</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Я - письменник</attrib>
+			<attrib type="phon">Ya - pycjmennyk</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Я - водій</attrib>
+			<attrib type="phon">Ya - vodiy</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Я - актор/акторка</attrib>
+			<attrib type="phon">Ya - aktor/aktora</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">Я - соціальний працівник</attrib>
+			<attrib type="phon">Ya - coshialniy prashibnyk</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Я - політик</attrib>
+			<attrib type="phon">Ya - polityk</attrib>
+		</entry>
+	</entries>
+</ulr>

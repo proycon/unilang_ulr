@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="ru">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" lastmodified="1217790006">Я рад</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" lastmodified="1217790006">Я не рад</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" lastmodified="1217790006">Я был рад</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217790006">Онa тоже рада</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" lastmodified="1217790006">Мы оба рады</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" lastmodified="1217790006">мне становится радостно</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">я радуюсь</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" lastmodified="1217790006">Я остаюсь рад</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" lastmodified="1217790006">Ты или богатый или бедный</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" lastmodified="1217790006">Ты ни радостный ни грустный</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Тебе ни радостно ни грустно</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217790006">Это ― большое дерево</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217790006">То ― большое дерево</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217790006">То ― большое дерево</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217790006">В моем саду есть большое дерево</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" lastmodified="1217790006">Я с осторожностью даю деньги моего отца опасному человеку на заранее обговоренной площади напротив церкви</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" lastmodified="1217790006">Я пишу письмо сегодня</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" lastmodified="1217790006">Я не пишу письмо сегодня</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" lastmodified="1217790006">Я не пишу письмо сегодня</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217790006">Я написал письмо вчера</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" lastmodified="1217790006">Я не писал вчера письмо</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" lastmodified="1217790006">Я не написал письмо вчера</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" lastmodified="1217790006">Я писал письма каждый месяц</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" lastmodified="1217790006">Я писал письмо каждый месяц</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" lastmodified="1217790006">Я напишу письмо завтра</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" lastmodified="1217790006">Я не напишу письмо завтра</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" lastmodified="1217790006">Я написал бы письмо</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" lastmodified="1217790006">Я бы написал письмо если бы у меня был карандаш</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" lastmodified="1217790006">я написал письмо</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" lastmodified="1217790006">Я написал письмо</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" lastmodified="1217790006">Я пишу письмо</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" lastmodified="1217790006">Я писал письмо</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" lastmodified="1217790006">Я могу написать письмо</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" lastmodified="1217790006">Я могу написать письмо</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я могу писать письма</attrib>
+		</entry>
+		<entry id="e37000">
+			<attrib type="orth" lastmodified="1217790006">Я мог написать письмо</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" lastmodified="1217790006">Я возможно написал письмо</attrib>
+		</entry>
+		<entry id="e39000">
+			<attrib type="orth" lastmodified="1217790006">Я мог бы написать письмо</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217790006">Я должен/мне нужно написать письмо</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" lastmodified="1217790006">Мне нужно было написать письмо</attrib>
+		</entry>
+		<entry id="e42000">
+			<attrib type="orth" lastmodified="1217790006">Должно быть я написал письмо</attrib>
+		</entry>
+		<entry id="e43000">
+			<attrib type="orth" lastmodified="1217790006">Должно быть я пишу письмо</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" lastmodified="1217790006">Я могу писать письмо</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="orth" lastmodified="1217790006">Я мог написать письмо</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" lastmodified="1217790006">Мне надо написать письмо</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" lastmodified="1217790006">Мне надо было написать письмо</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" lastmodified="1217790006">Письмо написано мной</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" lastmodified="1217790006">Письмо было бы написано мной</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" lastmodified="1217790006">Письмо написано мной</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" lastmodified="1217790006">Письмо будет написано мной</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" lastmodified="1217790006">Письмо было бы написано мной</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" lastmodified="1217790006">Письмо (уже) было бы написано мной</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" lastmodified="1217790006">Напиши письмо!</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" lastmodified="1217790006">Напишите письмо!</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" lastmodified="1217790006">Не пиши письмо!</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" lastmodified="1217790006">Не пишите письмо!</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" lastmodified="1217790006">Напишем письмо!</attrib>
+		</entry>
+		<entry id="e61000">
+			<attrib type="orth" lastmodified="1217790006">Пусть письмо будет написано!</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" lastmodified="1217790006">Я сомневаюсь что он пишет письмо</attrib>
+		</entry>
+		<entry id="e64000">
+			<attrib type="orth" lastmodified="1217790006">Я сомневаюсь что он написал письмо вчера</attrib>
+		</entry>
+		<entry id="e65000">
+			<attrib type="orth" lastmodified="1217790006">Я сомневаюсь что он писал письмо каждый день</attrib>
+		</entry>
+		<entry id="e66000">
+			<attrib type="orth" lastmodified="1217790006">Я сомневаюсь что он написал письмо</attrib>
+		</entry>
+		<entry id="e67000">
+			<attrib type="orth" lastmodified="1217790006">Я сомневаюсь что он напишет письмо</attrib>
+		</entry>
+		<entry id="e68000">
+			<attrib type="orth" lastmodified="1217790006">Я сомневаюсь что он написал бы письмо</attrib>
+		</entry>
+		<entry id="e69000">
+			<attrib type="orth" lastmodified="1217790006">я уверен, что он напишет письмо</attrib>
+		</entry>
+		<entry id="e70000">
+			<attrib type="orth" lastmodified="1217790006">Я надеюсь, что он напишет письмо</attrib>
+		</entry>
+		<entry id="e71000">
+			<attrib type="orth" lastmodified="1217790006">Я рад, что он напишет письмо</attrib>
+		</entry>
+		<entry id="e73000">
+			<attrib type="orth" lastmodified="1217790006">Человек, сейчас пишущий письмо, позже пойдёт на почту</attrib>
+		</entry>
+		<entry id="e74000">
+			<attrib type="orth" lastmodified="1217790006">Человек, написавший вчера письмо, ушёл на почту</attrib>
+		</entry>
+		<entry id="e75000">
+			<attrib type="orth" lastmodified="1217790006">Человек,  пишущий письмо завтра, пойдёт на почту</attrib>
+		</entry>
+		<entry id="e76000">
+			<attrib type="orth" lastmodified="1217790006">Человек,  пишущий бы письмо завтра, пошёл бы на почту</attrib>
+		</entry>
+		<entry id="e77000">
+			<attrib type="orth" lastmodified="1217790006">Рискуя своей жизнью он спас меня</attrib>
+		</entry>
+		<entry id="e78000">
+			<attrib type="orth" lastmodified="1217790006">Рискнув своей жизнью он спас меня</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" lastmodified="1217790006">Он понимающий человек</attrib>
+		</entry>
+		<entry id="e80000">
+			<attrib type="orth" lastmodified="1217790006">Сказанное сообщение было шокирующим</attrib>
+		</entry>
+		<entry id="e82000">
+			<attrib type="orth" lastmodified="1217790006">Чтение было успокоительно</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Чтение успокаивало</attrib>
+		</entry>
+		<entry id="e84000">
+			<attrib type="orth" lastmodified="1217790006">Я начинаю читать свою книгу</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я начанаю чтение моей книги</attrib>
+		</entry>
+		<entry id="e85000">
+			<attrib type="orth" lastmodified="1217790006">Я читаю свою книгу дальше</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я продолжаю чтение своей книги</attrib>
+		</entry>
+		<entry id="e86000">
+			<attrib type="orth" lastmodified="1217790006">Я прекращаю читать свою книгу</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я прекращаю чтение своей книги</attrib>
+		</entry>
+		<entry id="e87000">
+			<attrib type="orth" lastmodified="1217790006">Я закончил чтение своей книги</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217790006">Мне нравится писать письмa</attrib>
+		</entry>
+		<entry id="e90000">
+			<attrib type="orth" lastmodified="1217790006">Я решил прочитать свою книгу</attrib>
+		</entry>
+		<entry id="e91000">
+			<attrib type="orth" lastmodified="1217790006">я пытаюсь выразить своё мнение</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я решил что я прочитаю свою книгу</attrib>
+		</entry>
+		<entry id="e92000">
+			<attrib type="orth" lastmodified="1217790006">Я не могу решить нужно ли ему прочитать мою книгу</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" lastmodified="1217790006">что это?</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" lastmodified="1217790006">кто это?</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217790006">Где он?</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" lastmodified="1217790006">Куда пойдём?</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" lastmodified="1217790006">Когда пойдём?</attrib>
+		</entry>
+		<entry id="e99000">
+			<attrib type="orth" lastmodified="1217790006">Как пойдём?</attrib>
+		</entry>
+		<entry id="e100000">
+			<attrib type="orth" lastmodified="1217790006">Сколько воды у тебя?</attrib>
+		</entry>
+		<entry id="e101000">
+			<attrib type="orth" lastmodified="1217790006">Сколько у тебя друзей?</attrib>
+		</entry>
+		<entry id="e102000">
+			<attrib type="orth" lastmodified="1217790006">Какой цвет тебе нравится?</attrib>
+		</entry>
+		<entry id="e104000">
+			<attrib type="orth" lastmodified="1217790006">Я не понимаю того что вижу</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217790006">Я не знаю где живу</attrib>
+		</entry>
+		<entry id="e106000">
+			<attrib type="orth" lastmodified="1217790006">Я не знаю когда я прийду</attrib>
+		</entry>
+		<entry id="e107000">
+			<attrib type="orth" lastmodified="1217790006">Я не знаю как я переживу эту беду</attrib>
+		</entry>
+		<entry id="e109000">
+			<attrib type="orth" lastmodified="1217790006">Если бы я был богат, то купил бы новую машину.</attrib>
+		</entry>
+		<entry id="e110000">
+			<attrib type="orth" lastmodified="1217790006">Когда я буду богатым, то куплю новую машину.</attrib>
+		</entry>
+		<entry id="e111000">
+			<attrib type="orth" lastmodified="1217790006">Я пойду на вечиринку, когда не будет дождя.</attrib>
+		</entry>
+		<entry id="e112000">
+			<attrib type="orth" lastmodified="1217790006">Я пойду на вечеринку, если не будет дождя.</attrib>
+		</entry>
+		<entry id="e113000">
+			<attrib type="orth" lastmodified="1217790006">Я пойду на вечеринку, даже если идёт дождь</attrib>
+		</entry>
+		<entry id="e114000">
+			<attrib type="orth" lastmodified="1217790006">Идёт дождь, и тем не менее я пойду на вечеринку</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" lastmodified="1217790006">Я иду на вечернику, хотя идёт дождь</attrib>
+		</entry>
+		<entry id="e117000">
+			<attrib type="orth" lastmodified="1217790006">Я иду на вечернику, потому что идёт дождь</attrib>
+		</entry>
+		<entry id="e118000">
+			<attrib type="orth" lastmodified="1217790006">Я иду на вечернику, так как идёт дождь</attrib>
+		</entry>
+		<entry id="e119000">
+			<attrib type="orth" lastmodified="1217790006">Я иду на вечеринку, так что могу пить пиво</attrib>
+		</entry>
+		<entry id="e120000">
+			<attrib type="orth" lastmodified="1217790006">Я иду на вечеринку, так что можешь мне сказать пока</attrib>
+		</entry>
+		<entry id="e121000">
+			<attrib type="orth" lastmodified="1217790006">Я иду на вечеринку (что бы) потанцевать со своими друзьями.</attrib>
+		</entry>
+		<entry id="e123000">
+			<attrib type="orth" lastmodified="1217790006">Я пойду на вечеринку, но идёт дождь</attrib>
+		</entry>
+		<entry id="e124000">
+			<attrib type="orth" lastmodified="1217790006">Я пойду на вечеринку, более того, я буду есть там</attrib>
+		</entry>
+		<entry id="e126000">
+			<attrib type="orth" lastmodified="1217790006">Я пью чай перед тем как читаю свою книгу</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я пью чай перед прочитением своей книги</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" lastmodified="1217790006">Я пью чай после тем, как читаю свою книгу</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я пью чай после прочитением своей книги</attrib>
+		</entry>
+		<entry id="e128000">
+			<attrib type="orth" lastmodified="1217790006">Я пью чай в то время как я читаю свою книгу</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я пью чай во время чтения своей книги</attrib>
+		</entry>
+		<entry id="e129000">
+			<attrib type="orth" lastmodified="1217790006">Я буду пить чай, как только прочитаю свою книгу</attrib>
+		</entry>
+		<entry id="e130000">
+			<attrib type="orth" lastmodified="1217790006">Я пью чай, с тех пор как я прочёл свою книгу</attrib>
+		</entry>
+		<entry id="e131000">
+			<attrib type="orth" lastmodified="1217790006">я пью чай, затем заканчиваю свою книгу.</attrib>
+		</entry>
+		<entry id="e132000">
+			<attrib type="orth" lastmodified="1217790006">я буду есть пока не устану</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217790006">Я мужчина, который покупает яблоко.</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217790006">Я женщина, которая покупает яблоко.</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу мужчину, который покупает яблоко.</attrib>
+		</entry>
+		<entry id="e137000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу мужчину, которого она тоже видит</attrib>
+		</entry>
+		<entry id="e138000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу мужчину, которому я дал подарок</attrib>
+		</entry>
+		<entry id="e139000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу мужчину, от которого я получил новоcти</attrib>
+		</entry>
+		<entry id="e140000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу женщину, с которой у меня была встреча.</attrib>
+		</entry>
+		<entry id="e141000">
+			<attrib type="orth" lastmodified="1217790006">Вижу яблоко, которое пахнет приятно</attrib>
+		</entry>
+		<entry id="e142000">
+			<attrib type="orth" lastmodified="1217790006">Яблоко, которoе я вижу, пахнет приятно</attrib>
+		</entry>
+		<entry id="e143000">
+			<attrib type="orth" lastmodified="1217790006">Яблоко, на которое я смотрел, пахнет приятно</attrib>
+		</entry>
+		<entry id="e144000">
+			<attrib type="orth" lastmodified="1217790006">Яблоко, которое покупает мужчина, пахнет приятно</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="2">f</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="3">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Я большой как ты</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я такой же большой так и ты</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="2">Я большая как ты</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="3">Я такая же большая как и ты</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="orth" lastmodified="1217790006">Я умнее тебя</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Я умнее чем ты</attrib>
+		</entry>
+		<entry id="e148000">
+			<attrib type="orth" lastmodified="1217790006">Я менее умный чем ты</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="orth" lastmodified="1217790006">Я самые умный</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" lastmodified="1217790006">Я пою как ты</attrib>
+		</entry>
+		<entry id="e151000">
+			<attrib type="orth" lastmodified="1217790006">Я пою как ты плачешь</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" lastmodified="1217790006">Я тебе даю подарок</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217790006">Это собака моей друга</attrib>
+		</entry>
+		<entry id="e156000">
+			<attrib type="orth" lastmodified="1217790006">Птица в своей клетке</attrib>
+		</entry>
+		<entry id="e157000">
+			<attrib type="orth" lastmodified="1217790006">Птица летает в своей клетке</attrib>
+		</entry>
+		<entry id="e158000">
+			<attrib type="orth" lastmodified="1217790006">Птица летит в свою клетку</attrib>
+		</entry>
+		<entry id="e159000">
+			<attrib type="orth" lastmodified="1217790006">Лёчик летит на своём самолёте</attrib>
+		</entry>
+		<entry id="e160000">
+			<attrib type="orth" lastmodified="1217790006">Птица сидит на своей клетке</attrib>
+		</entry>
+		<entry id="e161000">
+			<attrib type="orth" lastmodified="1217790006">Птица сидит на верхушке своей клетки</attrib>
+		</entry>
+		<entry id="e162000">
+			<attrib type="orth" lastmodified="1217790006">Птица перелетает над своей клеткой</attrib>
+		</entry>
+		<entry id="e163000">
+			<attrib type="orth" lastmodified="1217790006">Птица пролетает под своей клеткой</attrib>
+		</entry>
+		<entry id="e164000">
+			<attrib type="orth" lastmodified="1217790006">Птица летает над своей клеткой</attrib>
+		</entry>
+		<entry id="e165000">
+			<attrib type="orth" lastmodified="1217790006">Птица летает под своей клеткой</attrib>
+		</entry>
+		<entry id="e166000">
+			<attrib type="orth" lastmodified="1217790006">Птица летает вокруг своей клетки</attrib>
+		</entry>
+		<entry id="e167000">
+			<attrib type="orth" lastmodified="1217790006">Птица летит через свою клетку</attrib>
+		</entry>
+		<entry id="e168000">
+			<attrib type="orth" lastmodified="1217790006">Птица летит из своей клетки</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Птица вылетает из своей клетки</attrib>
+		</entry>
+		<entry id="e169000">
+			<attrib type="orth" lastmodified="1217790006">Птица летит на свою клетку</attrib>
+		</entry>
+		<entry id="e170000">
+			<attrib type="orth" lastmodified="1217790006">Птица летит к своей клетке</attrib>
+		</entry>
+		<entry id="e171000">
+			<attrib type="orth" lastmodified="1217790006">Птица летит (проч) от своей клетки</attrib>
+		</entry>
+		<entry id="e172000">
+			<attrib type="orth" lastmodified="1217790006">Птица пролетает мимо своей клетки</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Птица пролетает свою клетку</attrib>
+		</entry>
+		<entry id="e173000">
+			<attrib type="orth" lastmodified="1217790006">Птица летит наравне с самолётом</attrib>
+		</entry>
+		<entry id="e174000">
+			<attrib type="orth" lastmodified="1217790006">Птица летает рядом со своей клеткой</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Птица летает у своей клетки</attrib>
+		</entry>
+		<entry id="e175000">
+			<attrib type="orth" lastmodified="1217790006">Птица летает далеко от своей клетки</attrib>
+		</entry>
+		<entry id="e177000">
+			<attrib type="orth" lastmodified="1217790006">Я пью вино перед ужином</attrib>
+		</entry>
+		<entry id="e178000">
+			<attrib type="orth" lastmodified="1217790006">Я пью вино после ужинa</attrib>
+		</entry>
+		<entry id="e179000">
+			<attrib type="orth" lastmodified="1217790006">Я пью вино за ужином</attrib>
+		</entry>
+		<entry id="e180000">
+			<attrib type="orth" lastmodified="1217790006">Я пью вино с (самого) ужина</attrib>
+		</entry>
+		<entry id="e181000">
+			<attrib type="orth" lastmodified="1217790006">Я пил вино пять дней назад</attrib>
+		</entry>
+		<entry id="e182000">
+			<attrib type="orth" lastmodified="1217790006">Я буду пить вино через 5 минут</attrib>
+		</entry>
+		<entry id="e183000">
+			<attrib type="orth" lastmodified="1217790006">Я могу закончить свою вино за/в 5 минут</attrib>
+		</entry>
+		<entry id="e184000">
+			<attrib type="orth" lastmodified="1217790006">Я встречу тебя в понедельник в январе</attrib>
+		</entry>
+		<entry id="e186000">
+			<attrib type="orth" lastmodified="1217790006">Моя мать говорит со мной об уборке моей комнаты</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Моя мать говорит со мной насчёт уборки моей комнаты</attrib>
+		</entry>
+		<entry id="e187000">
+			<attrib type="orth" lastmodified="1217790006">Касательно моей комнаты, она ешё неприбрана</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Что касаеться моей комнату, она ещё не прибрана</attrib>
+		</entry>
+		<entry id="e189000">
+			<attrib type="orth" lastmodified="1217790006">Согласно моей матери, Мне нужно убрать свою комнату</attrib>
+		</entry>
+		<entry id="e190000">
+			<attrib type="orth" lastmodified="1217790006">Несмотря на предупреждение моей матери я не убрался в своей комнате</attrib>
+		</entry>
+		<entry id="e191000">
+			<attrib type="orth" lastmodified="1217790006">Напротив от своей сестры я не убрал свою комнату</attrib>
+		</entry>
+		<entry id="e192000">
+			<attrib type="orth" lastmodified="1217790006">Я не прибрал свою комнату кроме стола</attrib>
+		</entry>
+		<entry id="e193000">
+			<attrib type="orth" lastmodified="1217790006">Вместе с матерью мы прибрали мою комнату</attrib>
+		</entry>
+		<entry id="e194000">
+			<attrib type="orth" lastmodified="1217790006">Я прибрал свою комнату без матери</attrib>
+		</entry>
+		<entry id="e195000">
+			<attrib type="orth" lastmodified="1217790006">Я подмел свою комнату веником</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу всех</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу кого-то</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" lastmodified="1217790006">Я никого не вижу</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217790006">Никто меня не видит</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" lastmodified="1217790006">Я никого не вижу кроме тебя</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу только тебя</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу всех мужчин</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" lastmodified="1217790006">Я не вижу мужчин</attrib>
+		</entry>
+		<entry id="e205000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу каждый мужчин</attrib>
+		</entry>
+		<entry id="e206000">
+			<attrib type="orth" lastmodified="1217790006">Вижу всё</attrib>
+		</entry>
+		<entry id="e207000">
+			<attrib type="orth" lastmodified="1217790006">Вижу чего-то</attrib>
+		</entry>
+		<entry id="e208000">
+			<attrib type="orth" lastmodified="1217790006">Я ничего не вижу</attrib>
+		</entry>
+		<entry id="e209000">
+			<attrib type="orth" lastmodified="1217790006">Я не вижу ничего более</attrib>
+		</entry>
+		<entry id="e210000">
+			<attrib type="orth" lastmodified="1217790006">Я больше ничего не вижу</attrib>
+		</entry>
+		<entry id="e211000">
+			<attrib type="orth" lastmodified="1217790006">Ничто меня не может увидеть</attrib>
+		</entry>
+		<entry id="e212000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу все книги</attrib>
+		</entry>
+		<entry id="e213000">
+			<attrib type="orth" lastmodified="1217790006">Я не вижу книги</attrib>
+		</entry>
+		<entry id="e214000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу каждую книгу</attrib>
+		</entry>
+		<entry id="e215000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу несколько книг</attrib>
+		</entry>
+		<entry id="e216000">
+			<attrib type="orth" lastmodified="1217790006">Вижу книгу</attrib>
+		</entry>
+		<entry id="e217000">
+			<attrib type="orth" lastmodified="1217790006">Я не вижу книгу вообще</attrib>
+		</entry>
+		<entry id="e218000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу всю книги</attrib>
+		</entry>
+		<entry id="e219000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу саму книгу</attrib>
+		</entry>
+		<entry id="e220000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу туже книгу</attrib>
+		</entry>
+		<entry id="e221000">
+			<attrib type="orth" lastmodified="1217790006">Я вижу такую книгу</attrib>
+		</entry>
+		<entry id="e222000">
+			<attrib type="orth" lastmodified="1217790006">Ты можешь выбрать какую-нибудь книгу</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ты можешь выбрать любую книгу</attrib>
+		</entry>
+		<entry id="e223000">
+			<attrib type="orth" lastmodified="1217790006">Никто не меня видит</attrib>
+		</entry>
+		<entry id="e224000">
+			<attrib type="orth" lastmodified="1217790006">Я искал везде.</attrib>
+		</entry>
+		<entry id="e225000">
+			<attrib type="orth" lastmodified="1217790006">Я не искал нигде</attrib>
+		</entry>
+		<entry id="e226000">
+			<attrib type="orth" lastmodified="1217790006">Я искал где-то</attrib>
+		</entry>
+		<entry id="e227000">
+			<attrib type="orth" lastmodified="1217790006">Мы встретимся когда-нибудь</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Мы встретимся когда-то</attrib>
+		</entry>
+		<entry id="e228000">
+			<attrib type="orth" lastmodified="1217790006">Мы иногда будем встречаться</attrib>
+		</entry>
+		<entry id="e229000">
+			<attrib type="orth" lastmodified="1217790006">Мы никогда не встретимся</attrib>
+		</entry>
+		<entry id="e230000">
+			<attrib type="orth" lastmodified="1217790006">Мы всегда будем встречаться</attrib>
+		</entry>
+		<entry id="e231000">
+			<attrib type="orth" lastmodified="1217790006">Мы часто будем встречаться</attrib>
+		</entry>
+		<entry id="e232000">
+			<attrib type="orth" lastmodified="1217790006">Мы обычно будем встречаться</attrib>
+		</entry>
+		<entry id="e233000">
+			<attrib type="orth" lastmodified="1217790006">Мы редко будем встречаться</attrib>
+		</entry>
+		<entry id="e235000">
+			<attrib type="orth" lastmodified="1217790006">У меня много воды</attrib>
+		</entry>
+		<entry id="e236000">
+			<attrib type="orth" lastmodified="1217790006">У меня достоточно воды</attrib>
+		</entry>
+		<entry id="e237000">
+			<attrib type="orth" lastmodified="1217790006">У меня слишком много воды</attrib>
+		</entry>
+		<entry id="e238000">
+			<attrib type="orth" lastmodified="1217790006">У меня литр воды</attrib>
+		</entry>
+		<entry id="e239000">
+			<attrib type="orth" lastmodified="1217790006">У меня пять ботылок воды</attrib>
+		</entry>
+		<entry id="e240000">
+			<attrib type="orth" lastmodified="1217790006">У меня больше воды</attrib>
+		</entry>
+		<entry id="e241000">
+			<attrib type="orth" lastmodified="1217790006">У меня меньше воды</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" lastmodified="1217790006">У меня только вода</attrib>
+		</entry>
+		<entry id="e243000">
+			<attrib type="orth" lastmodified="1217790006">У меня также вода</attrib>
+		</entry>
+		<entry id="e244000">
+			<attrib type="orth" lastmodified="1217790006">У меня уже вода</attrib>
+		</entry>
+		<entry id="e245000">
+			<attrib type="orth" lastmodified="1217790006">У меня ещё есть вода</attrib>
+		</entry>
+	</entries>
+</ulr>

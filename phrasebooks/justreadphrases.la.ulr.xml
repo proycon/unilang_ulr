@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="la">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="rising phoenix (latin)">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="rising phoenix (latin)">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="rising phoenix (latin)">Te amo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="rising phoenix (latin)">Tempestas ad litorem pervenit.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="rising phoenix (latin)">Laternam rubram accipio.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="rising phoenix (latin)">Avem parvam videt.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="rising phoenix (latin)">Aedificium veterum invenimus.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="rising phoenix (latin)">Claves meas peto.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="rising phoenix (latin)">Capitem tuum tango.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="rising phoenix (latin)">Carrum (=carriage) novum album vult.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="rising phoenix (latin)">Fenestram deletam aperit.</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="rising phoenix (latin)">Puella fortis portam gravem nigram claudet.</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="rising phoenix (latin)">Decem libros novos emunt.</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="rising phoenix (latin)">Novi hanc personam magnam.</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth" author="rising phoenix (latin)">Computator celeris colorem suum mutat.</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="rising phoenix (latin)">Homo pauper vestem impurum fert.</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="rising phoenix (latin)">Linguam pulchram amat.</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="rising phoenix (latin)">Medica est.</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="rising phoenix (latin)">Beatus (male)/beata (female) maneo.</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="rising phoenix (latin)">Equus territus est.</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="rising phoenix (latin)">Canis albus miratus erat.</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="rising phoenix (latin)">Causa collisionis non nota est.</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="rising phoenix (latin)">Tibi donum do.</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="rising phoenix (latin)">Quaestionem difficilem me quaret.</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="rising phoenix (latin)">Nuntium a matre mea accipio.</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="rising phoenix (latin)">Epistulum patri meo scribo.</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="rising phoenix (latin)">In urbam parvam vivent.</attrib>
+		</entry>
+	</entries>
+</ulr>

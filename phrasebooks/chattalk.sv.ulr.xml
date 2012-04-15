@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="sv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kess">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kess">Den här parlören lär ut ett par fraser som är användbara i chatt-sammanhang.</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="Kess">Träda in</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="Kess">Hej</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="Kess">Hejsan, alla</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="Kess">God morgon</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="Kess">God eftermiddag</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="Kess">God kväll</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="Kess">God natt</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="Kess">Hallå där</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="Kess">Starta en konversation</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="Kess">Vad är nytt?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="Kess">Vad händer?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="Kess">Vad är ämet? | Vad pratar ni om?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="Kess">Hur mår du?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="Kess">Hur mår ni?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="Kess">Hur är saker och ting?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="Kess">Personliga frågor</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="Kess">Var kommer du ifrån, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="Kess">Är du ny här? | Är det här din första gång här?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="Kess">Vilka språk talar du?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="Kess">Var i {country} bor  du?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="Kess">Hur gammal är du?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="Kess">Vilka språk håller du på att lära dig?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="Kess">Prata om sig själv</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="Kess">Jag är från {country}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="Kess">Jag talar {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="Kess">Jag talar {language(s)} som en infödd, {language(s)} flytande, {language(s)} hyfsat och {language(s)} lite grand</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="Kess">Tyvärr, jag talar inte {language}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="Kess">Jag lär mig | vill lära mig {language(s)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="Kess">Avsluta konversation</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="Kess">Trevligt att ha råkats</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="Kess">Trevligt att pratas vid</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="Kess">Jag måste gå</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="Kess">Dags för mat</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="Kess">Jag skall lägga mig</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="Kess">Måste sova</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="Kess">Lämna</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="Kess">Vi ses</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="Kess">Vi ses i morgon</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="Kess">Vi ses snart</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="Kess">Vi ses nästa gång</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="Kess">God natt, alla</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="Kess">Hej då alla</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="Kess">Snart tillbaka</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="Kess">Kommer tillbaka</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="Kess">Extra</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Kess">Tack</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="Kess">Tack så mycket</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Kess">Ursäkta | Förlåt</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="Kess">Skrattar högt</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="Kess">Ha ha</attrib>
+		</entry>
+	</entries>
+</ulr>

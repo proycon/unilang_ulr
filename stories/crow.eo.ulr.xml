@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="eo">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="esperio">La Korvino kaj la Kruĉo</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="esperio">Korvino cerbumas kiel akiri trinkaĵon.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="esperio">Soifa Korvino trovis la Kruĉon enhavantan iom da akvo, sed estis tie nur tiel malmulte, ke kiel ajn ŝi klopodus, ŝi neniel povis atingi ĝin per sia beko, kaj eĉ ŝajnus ke ŝi mortos pro la soifo vidflanke de la rimedo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="esperio">Finfine, ŝi trafis pripensi la ruzan planon. Ŝi komencis enĵetadi ŝtonetojn en la Kruĉon, kaj kun ĉiu ŝtoneto, la akvo plialtiĝis iomete pli alten ĝis ĝi finfine atingis la randon, kaj la lerta birdo povis kvietigi sian soifon.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="esperio">Neceso estas patrino de la invento.</attrib>
+		</entry>
+	</entries>
+</ulr>

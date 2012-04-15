@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="el">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">σ' αγαπώ</attrib>
+			<attrib type="phon">/saγa'po/</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">η καταιγίδα φτάνει την παραλία</attrib>
+			<attrib type="phon">/i katε'jiða 'ftani timbara'lia/</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">αυτοί οι άνθρωποι ακούνε ένα δυνατό θόρυβο</attrib>
+			<attrib type="phon">/a'fti i 'anθropi a'kunε 'εna ðina'to 'θorivo/</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">βλέπει ένα μικρό πουλί</attrib>
+			<attrib type="phon">/vlε'pi 'εna mi'kro pu'li/</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth">βρίσκουμε ένα παλιό κτήριο</attrib>
+			<attrib type="phon">/'vriskumε 'εna pa'ljo 'ktirio/</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">ψάχνω τα κλειδιά μου</attrib>
+			<attrib type="phon">/'psaxno ta kli'ðja mu/</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">ακουμπώ το κεφάλι σου</attrib>
+			<attrib type="phon">/aku'mbo to kε'fali su/</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">θέλει ένα καινούριο άσπρο αυτοκίνητο</attrib>
+			<attrib type="phon">/'θεli 'εna cε'nurjo 'aspro afto'cinito/</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth">ανοίγει το σπασμένο παράθυρο</attrib>
+			<attrib type="phon">/a'niji to spa'zmεno pa'raθiro/</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth">το δυνατό κορίτσι κλείνει τη βαριά μαύρη πόρτα</attrib>
+			<attrib type="phon">/to ðina'to ko'ritsi 'klini ti var'ja 'mavri 'porta/</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth">λύνει το τρομερό πρόβλημα</attrib>
+			<attrib type="phon">/'lini to tromε'ro 'provlima/</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth">ο εξοργισμένος εγκληματίας χάνει ένα σωρό πολύτιμα χρήματα</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth">δοκιμάζουν το νόστιμο φαγητό</attrib>
+			<attrib type="phon">/ðoci'mazun to 'nostimo faji'to/</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth">ο αστυνόμος έχει διαφορετική γνώμη</attrib>
+			<attrib type="phon">/o asti'nomos 'eçi ðjaforeti'ci 'γnomi/</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth">οι συνάδελφοι πίνουν κρύο καφέ και ζεστό τσάι</attrib>
+			<attrib type="phon">/i si'naðεlfi 'pinun 'krio ka'fe cε zε'sto 'tsai/</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth">η πλούσια εταιρία πουλάει πράσινα λαχανικά</attrib>
+			<attrib type="phon">/i 'plusia εtεr'ia pu'lai 'prasina laxani'ka/</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth">αγοράζουν δέκα καινούρια βιβλία</attrib>
+			<attrib type="phon">/aγo'razun 'ðεka cε'nurja vi'vlia/</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth">πονάει το δεξί του αυτί</attrib>
+			<attrib type="phon">/po'nai to ðε'ksi tu a'fti/</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">το ξέρω αυτό το ψηλό το άτομο</attrib>
+			<attrib type="phon">/to 'ksεro a'fto to psi'lo to 'atomo/</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth">η αδύνατη δεσποινίς/κυρία ακολουθάει το παχύ αφεντικό της</attrib>
+			<attrib type="phon">/i a'ðinati ðespi'nis/ki'ria akolu'θi to pa'çi afendi'ko tis/</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth">Ο γρήγορος υπολογιστής αλλάζει το χρώμα του.</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth">επιλέγουν το λάθος εργαλείο</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth">η οικογένειά μου προσκαλεί τους γείτονες που είναι φιλικοί</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth">Εκφράζουμε τις ευχαριστίες μας στους βαρετούς μαθητές</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth">Ο σύζυγός της ευχαριστιέται το βραδάκι</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth">(Αυτή) διαβάζει την καθημερινή της εφημερίδα</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth">Ο φτωχός άνθρωπος φορά βρόμικα ρούχα</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth">Το δυνατό ζώο συναντά ένα αδύναμο ψάρι.</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth">Πληρώνω 200 ευρώ/δολλάρια.</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth">της αρέσει η όμορφη γλώσσα</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth">Η καταιγίδα φτάνει μέχρι την παραλία.</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">Εχει μπλε μάτια.</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth">Χιονίζει σήμερα.</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth">Θα γίνει μια σημαντική προσωπικότητα.</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth">είμαι στο διεθνές αεροδρόμιο</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth">αυτή έχει καθαρά χέρια</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">αυτός είναι ένα νεαρό αγόρι</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth">αυτή είναι γιατρός</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth">είμαι ευτυχισμένος</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth">βράχηκα από τη βροχή</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">το άλογο φοβάται</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth">ο άσπρος σκύλος ήταν έκπληκτος</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth">η σύγχρονη κοινωνία είναι πολύ προηγμένη</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth">η αιτία της σύγκρουσης είναι άγνωστη</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth">σου δίνω ένα δώρο</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth">αυτός με ρώτησε κάτι δύσκολο</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth">λαμβάνω ένα μήνυμα από τη μητέρα μου</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth">γράφω ένα γράμμα στον πατέρα μου</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth">αυτοί ζούν σε μια μικρή πόλη</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth">ο σκύλος κάθεται πίσω από την τηλεόραση</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth">η γάτα ξαπλώνει στο πάτωμα</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth">τα παιδιά παίζουν έξω</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth">Αυτή μιλά για το πανεπιστήμιό της</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth">Αυτοί φεύγουν από το δωμάτιο ήσυχα</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth">Αυτός απαντάει στο δάσκαλο</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth">Περπατώ μπροστά από το σπίτι μου</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth">Αυτή κοιμάται στο δικό της κρεββάτι</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth">το αεροσκάφος πετά πάνω από τα βουνά</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth">τρέχουμε μέσα στο μεγάλο κήπο</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth">το βιβλίο είναι πάνω στο τραπέζι</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth">μπαίνω στο μαγαζί μαζί σου</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth">πηγαίνω στην πόλη με τρένο</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth">το δέντρο μεγαλώνει ταχύτατα</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth">εργάζεται σε ένα μικρό εργοστάσιο</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth">βεβαίως πιστεύουμε στο Θεό</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth">παραπονιέμαι για την τιμή</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth">καταλαβαίνω τις προτάσεις αυτής της σελίδας</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth">η γιαγιά λέει στο παιδί μια ενδιαφέρουσα ιστορία</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth">ελπίζουμε ότι αυτός μελετάει πολύ</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth">αυτός κρατά ένα μαχαίρι στο αριστερό του χέρι</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth">Το κορίτσι φαίνεται όμορφο το βράδυ</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth">το άγριο ζώο βγήκε από το κλουβί του</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth">Συγκρίνω τους νόμους μας με τους δικούς σας</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth">σκέφτηκα για τη ζωή πολύ</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth">πότε έρχεται ο φίλος σου;</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth">πόσα θυμάσαι:</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth">Πόσοι άνθρωποι θα σε βοηθήσουν;</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth">γιατί έκλεψες αυτά τα πράγματα;</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth">πόσο χρονών είσαι;</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth">πώς φτιάχνεις αυτό το προιόν;</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth">ποιός είναι ο πιό έξυπνος άνθρωπος στον κόσμο;</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth">τί ανακάλυψες στη θάλασσα;</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth">ποιό σάντουιτς προτιμάς;</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth">από πού είσαι;</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth">πού πηγαίνεις;</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth">Υπάρχει αυτό το μαγαζί;</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth">ποιός είναι ο λόγος για αυτή την έρευνα;</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth">Ποια λεωφορεία είναι έτοιμα προς αναχώρηση;</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth">Ποτέ δεν ονειρεύομαι</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth">Αυτός πάντα έρχεται νωρίς</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth">Δεν κερδίζουμε τίποτα</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth">συνήθως πολεμάμε τους εχθρούς μας</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth">Υπάρχουν πολλά αστέρια στο διάστημα</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth">Σπανίως κρύβουμε τις ιδέες μας</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth">Κοιτάζω παντού</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth">(Αυτός) Δε φοβάται κανέναν</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth">(αυτή) Χορεύει με κάποιον στο δρόμο</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth">ο δολοφόνος θα έπρεπε να καταδικαστεί αντιθέτως αφέθηκε ελεύθερος</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth">Πάει πολύς καιρός από τότε που συναντηθήκαμε</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth">Πιστεύουμε ότι  είναι αδύνατον</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth">Ξέρω τι σκέφτεσαι</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth">είμαι μεγαλύτερος από εσένα</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth">Συνεχίζουμε τη δουλεία μας</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth">ετοιμάζονται να εγκαταλείψουν το πλοίο</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth">Πρέπει να ξεχάσω αυτό που είδα</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth">Επαναλαμβάνω το συμπέρασμα μου (ξανά)</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth">Μπορείς να μεταφράσεις αυτό το κείμενο στα αγγλικά;</attrib>
+		</entry>
+	</entries>
+</ulr>

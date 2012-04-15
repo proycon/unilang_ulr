@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="tt">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Kiŋ taralğan cөmlәlәr  / Киң таралган җөмләләр</attrib>
+			<attrib type="phon">kıŋ taral'ghan Ʒømlæ'lær</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Әye  / Әйе</attrib>
+			<attrib type="phon">æı 'jɛ</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Yuq / Cuq / Юк</attrib>
+			<attrib type="phon">juq   / Ʒuq</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Zinhar өçen / Зинһар өчен</attrib>
+			<attrib type="phon">zın'har  ø'ʃʃɛn</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Rәxim  itegez / İsәn bulığız / Рәхим итегез / Исән булыгыз</attrib>
+			<attrib type="phon">ræx'ım  ıtә'gz       / ı'sæm  bulә'ghәz</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Rәxmәt / Рәхмәт</attrib>
+			<attrib type="phon">ræx'mæt</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Rәxim  itegez/ Huş kilәsez / Рәхим итегез / Хуш киләсез</attrib>
+			<attrib type="phon">ræx'ım  ıtә'gz    /  'huʃ kı'læsz</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Ğafu itegez / Гафу итегез</attrib>
+			<attrib type="phon">gha'fu ıtә'gz</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">bәlki / бәлки</attrib>
+			<attrib type="phon">'bælkı</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Sәlаm / Сәлам</attrib>
+			<attrib type="phon">sæ'læm</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Xuşığız / Xәerle yul / Хушыгыз / Хәерле юл</attrib>
+			<attrib type="phon">'xuʃәghәz   /  xæjr'le 'Ʒul</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Xәerle kөn  / Хәерле көн</attrib>
+			<attrib type="phon">xæjr'le 'køn</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Xәerle irtә / Хәеrle irtә /  Хәерле иртә</attrib>
+			<attrib type="phon">xæjr'le ır'tæ</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Хәеrle kiç / Хәерле кич</attrib>
+			<attrib type="phon">xæjr'le kıʃʃ</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Tınıç yoqı - Тыныч йокы</attrib>
+			<attrib type="phon">xæjr'le 'tøn</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Rәxim  itegez / Huş kilәsez / Рәхим итегез / Хуш киләсез</attrib>
+			<attrib type="phon">ræx'ım  ıtә'gz    /  'huʃ kı'læsz</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Sәyәxәtegez uŋışlı bulsın!</attrib>
+			<attrib type="phon">sæjæxætә'gz  uŋәʃ'lә uz'sәn</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Ber-bereŋne aŋlau / Бер-береңне аңлау</attrib>
+			<attrib type="phon">'brbrŋ'nɛ  aŋ'nau</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Sez ... sөylәşәsezme  / Сез ... сөйләшәсезме?</attrib>
+			<attrib type="phon">sz ... søj læ'ʃæszmɛ</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Min ... sөylәşәm / Мин ... сөйләшәм</attrib>
+			<attrib type="phon">min ... søj læ'ʃæm</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Min ... sөylәşmim / Мин ... сөйләшмим</attrib>
+			<attrib type="phon">'min ... søj læ'ʃmım</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Min beraz...sөylәşәm / Мин бераз...сөйләшәм</attrib>
+			<attrib type="phon">'min b'raz ... søj læ'ʃæm</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">inglizçä / инглизчә</attrib>
+			<attrib type="phon">ıŋg'lızʃʃæ</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">frantsuzça / французча</attrib>
+			<attrib type="phon">fran'tsuz ʃʃa</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">nimesçә / нимесчә</attrib>
+			<attrib type="phon">'nıms ʃʃæ</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">ispança / испанча</attrib>
+			<attrib type="phon">ıs'pan ʃʃa</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">portugalça / португалча</attrib>
+			<attrib type="phon">partu'gal ʃʃa</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">ğәrәpçә / гарәпчә</attrib>
+			<attrib type="phon">gha'ræp ʃʃæ</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">qıtayça / кытайча</attrib>
+			<attrib type="phon">qı'taı ʃʃa</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">hindusça / hиндусча</attrib>
+			<attrib type="phon">hın'dus ʃʃa</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">urısça / урысча</attrib>
+			<attrib type="phon">u'rıs ʃʃa</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">italyança / итальянча</attrib>
+			<attrib type="phon">ıtal'jan ʃʃa</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">gollandça / голландча</attrib>
+			<attrib type="phon">gall'and ʃʃa</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norvejça / норвежча</attrib>
+			<attrib type="phon">nar'veƷ ʃʃa</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">şvedça / шведча</attrib>
+			<attrib type="phon">ʃ'ved ʃʃa</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">datçança / датчанча</attrib>
+			<attrib type="phon">'dani jæ ʃʃæ</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">polyakça / полякча</attrib>
+			<attrib type="phon">pa'ljak ʃʃa</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urduça / urdu telendä / урдуча / урду телендә</attrib>
+			<attrib type="phon">ur'du  ʃʃa</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">farsıça / фарсыча</attrib>
+			<attrib type="phon">far'sı ʃʃa</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">yaponça / японча</attrib>
+			<attrib type="phon">ja'pon ʃʃa</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indoneziyәçә / индонезиячә</attrib>
+			<attrib type="phon">ındo'nɛzıjæ ʃʃæ</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malayça / малайча</attrib>
+			<attrib type="phon">ma'laj ʃʃa</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Sez aŋlıysızmı ?/ Сез аңлыйсызмы?</attrib>
+			<attrib type="phon">'sz oŋ'nәj sz 'mә</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Sez mine aŋlıysızmı/Сез мине аңлыйсызмы?</attrib>
+			<attrib type="phon">'sz  mı'nɛ  oŋ'nәj  sz  'mә</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Min aŋlıym / Мин аңлыйм</attrib>
+			<attrib type="phon">'mın oŋ'nәjm</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Min Sezne aŋlıym / Мин Сезне аңлыйм</attrib>
+			<attrib type="phon">'mın sz'nɛ oŋ'nәjm</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Min aŋlamıym / Мин аңламыйм</attrib>
+			<attrib type="phon">'mın 'oŋna'mәjm</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Min Sezne aŋlamıym / Мин Сезне аңламыйм</attrib>
+			<attrib type="phon">'mın sz'nɛ  'oŋna'mәjm</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Tağın ber qat qabatlamassız mikәn?/Тагын бер кат кабатламассыз микөн?</attrib>
+			<attrib type="phon">ta'ghın br 'qot qo'botla'massәz mı'kæn</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Beraz әkrenrәk sөyli almassız mikәn?/Бераз әкренрөк сөйли алмассыз микөн?</attrib>
+			<attrib type="phon">b'raz ækr n'ræk søy'lı ol'massız mı'kæn</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Yazıp birmәssez mikәn?/Язып бирмәссез микән?</attrib>
+			<attrib type="phon">jo'zәp bır'mæssz mı'kæn</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Min monı niçek әytergә belmim / Мин моны ничек әйтергә белмим</attrib>
+			<attrib type="phon">'mın m'nә 'nıʃʃk  æjtr'gæ bl'mım</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Min tөgәl süzne belmim/Мин төгәл сүзне белмим</attrib>
+			<attrib type="phon">'mın tø'gæl  sүz'nɛ  bl'mım</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">(Sez) Nәrsә әyttegez?/(Сез) Нәрсә әйттегез?</attrib>
+			<attrib type="phon">(sz) 'nærsæ  æjt'tɛgɛz</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Monı niçek ... telendә әytergә/ Моны ничек  ... телендә  әйтергә?</attrib>
+			<attrib type="phon">m'nә ... 'nıʃʃk  æjtr'gæ</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Monı niçek yazırga/ Моны ничек язырга?</attrib>
+			<attrib type="phon">m'nә 'nıʃʃk jozr'gha</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Monıŋ awazların niçek әytergә/ Моның авазларын ничек әйтергә?</attrib>
+			<attrib type="phon">m'nәŋ ou'azla'rәn 'nıʃʃk æjtr'gæ</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Sez monı minem өçen tәrcemә itә alasızmı?/Сез моны минем өчен тәрҗемә итә аласызмы?</attrib>
+			<attrib type="phon">sz m'nә mı'nɛm øʃ'ʃɛn tærƷ'mæ ı'tæ o'laszmә</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Min monı dөres әyttemme / Мин моны дөрес әйттемме?</attrib>
+			<attrib type="phon">mın  m'nә  dø'rɛs  æjt'tɛmmɛ</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Tөp sөylәm cөmlәlәr / Төп сөйләм җөмләләр</attrib>
+			<attrib type="phon">'tøp  søj'læm  Ʒømlæ'lær</attrib>
+		</entry>
+	</entries>
+</ulr>

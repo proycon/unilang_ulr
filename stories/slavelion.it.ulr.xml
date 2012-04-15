@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="slavelion" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="lu:ka">Lo Schiavo e il Leone</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="lu:ka">Un leone può essere il migliore amico dell'uomo</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="lu:ka">Uno Schiavo scappò dal suo padrone, dal quale era stato trattato molto crudelmente, per evitare la cattura si addentrò nel deserto. Mentre vagava in cerca di cibo e di un rifugio, si imbatté in una caverna, nella quale entrò e scoprì che era disabitata.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="lu:ka">In realtà, tuttavia, era la tana di un Leone, e quasi subito, con orrore del disgraziato fuggitivo, il Leone apparve. L'uomo si diede per spacciato: ma, con suo totale stupore, il Leone, invece di saltargli addosso e divorarlo, andò mansuetamente verso di lui, mentre si lamentava e sollevava la zampa. Vedendo che era molto gonfia e infiammata, l'uomo la esaminò e trovò una grande spina infilata nella zampa Di conseguenza, la tolse e fasciò la ferita come meglio poté:</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="lu:ka">La gratitudine del Leone era sconfinata; guardava all'uomo come suo amico, e per un po' di tempo condivisero insieme la caverna. Tuttavia, venne un giorno in cui lo Schiavo iniziò ad avere nostalgia della società umana, disse addio al Leone e tornò alla città.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="lu:ka">Qui fu presto riconosciuto e condotto in catene dal suo vecchio padrone, il quale decise di farne un esempio, ed ordinò che fosse gettato alle bestie al successivo spettacolo nell'arena. Nel giorno fatale le bestie furono liberate nell'arena, e tra le altre un Leone dall'aspetto enorme, feroce e massiccio; poi lo sfortunato Schiavo fu gettato tra di esse.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="lu:ka">Lo stupore degli spettatori fu quando il Leone, dopo uno sguardo, lo raggiunse e si sdraiò ai suoi piedi con espressioni di affetto e gioia! Era il suo vecchio amico della caverna! Gli spettatori gridarono a gran voce che la vita dello Schiavo fosse risparmiata: ed il governatore della città, meravigliato da tanta gratitudine e fedeltà in una bestia, ordinò che entrambi avessero la libertà.</attrib>
+		</entry>
+	</entries>
+</ulr>

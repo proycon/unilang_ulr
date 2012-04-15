@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="eo">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Anthony Ehrhardt">La urso kaj la vojaĝantoj</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Anthony Ehrhardt">Leciono pri ursojn</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Anthony Ehrhardt">Du Vojaĝantoj  estis sur la vojo kune, kiam  urso subite aperis ĉe la scenejo. Ĝis li observis ilin, unu  kuris al arbo ĉe la flanko de la vojo, kaj grimpis en la filioj kaj kaŝis tie.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Anthony Ehrhardt">La alia ne estis sekve facilmova ol li kunulo; kaj,  laŭeble ne eviti, lin ĵetis sin sur la tereno kaj  ŝajnigis sin mortinta.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Anthony Ehrhardt">La Urso aperis kaj ekflaris ĉirkaŭronde lin, sed li estis perfekte senmova  kaj tenadis lin enspiron: ĉar oni diras ke  urso  ne tuŝos mortan korpon. La Urso supozis lin estis kadavro, kaj li ekiris.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Anthony Ehrhardt">Kiam la loko estis sekura, la Vojaĝanto en la arbo  malsupreniris, kaj li demandis la alian kiu la urso flustris al li kiam li metis lin buŝon  lin orelon.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Anthony Ehrhardt">La alia respondis, &quot;Li diris al mi, ke neniam vojaĝi  kun amiko kiu forlasas vi  ĉe la unua  postesigno de danĝero.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Anthony Ehrhardt">Malbonokazo elprovas la sincerecon de amikeco.</attrib>
+		</entry>
+	</entries>
+</ulr>

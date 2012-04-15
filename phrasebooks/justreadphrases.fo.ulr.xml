@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="fo">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">Eg elski teg</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">Hesi fólkini hoyra eitt hart ljóð</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">Eg fái eina reyða lampu</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">Hon sær ein lítlan fugl</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth">Vit finna ein gamlan bygning</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">Eg leiti eftir mínum lyklum</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">Eg nerti við høvd títt</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">Han vil hava ein nýggjan, hvítan bil</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth">Hon letur brotna vindeygað upp</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth">Sterka gentan letur tungu, svørtu hurðina aftur</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth">Hann loysir ræðuliga trupulleikan</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth">Óði brotsmaðurin missir eina rúgvu av virðismiklum peningi</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth">Tey smakka tann deiliga matin</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth">Samstarvsfelagarnir drekka kalt kaffi og heitt te</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth">Tey keypa tíggju nýggjar bøkur</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth">Han hevur ilt í høgra oyra</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">Eg kenni handan langa persónin</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth">Tey velja skeiva amboðið</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth">Vit takka teimum keðiligu lesandi</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth">Maður hennara nýtur kvøldið</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth">Fátæki maðurin er í skitnum klæðum</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth">Eg gjaldi 200 evrur / dollarar</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth">Henni dámar tað vakra málið</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth">Menninir byggja eina lága skrivstovu</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">Hann hevur blá eygu</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth">Tað kavar í dag</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth">Hann verður ein týdningarmikil persónur</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth">Hon hevur reinar hendur</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">Hann er ein ungur drongur</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth">Hon er lækni</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth">Eg verði verandi glaður</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth">Eg verði vát/ur av regninum</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">Hesturin er bangin</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth">Hvíti hundurin var bilsin</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth">Samanstoytsorsøkin er ókend.</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth">Eg gevi tær eina gávu</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth">Hann spyr meg ein torføran spurning</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth">Eg fekk eini boð frá mammu</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth">Eg skrivi pápa mínum eitt bræv</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth">Tey búgva í eini lítlari bygd / einum lítlum býi</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth">Hundurin situr aftanfyri sjónvarpið</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth">Kettan liggur á gólvinum</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth">Børnini spæla uttanfyri</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth">Hon tosar um fróðskaparsetrið hjá henni</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth">Tey fara friðarligani úr rúminum</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth">Hann svarar læraranum</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth">Hon svevur í egnari song</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth">Flogfarið flýgur yvir fjøllini</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth">Vit renna ígjøgnum stóra urtagarðin</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth">Bókin er á borðinum.</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth">Træið veksur skjótt</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth">Hann arbeiðir í einum lítlum virki</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth">Býtti forsetin datt fram eftir rommum.</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth">Vit trúgva heilt vist uppá Gud</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth">Eg klagi um prísin</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth">Hon tveitir dýra bóltin eftir mær</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth">Sjúki abbin doyði nær við sjúkrahúsið</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth">Eg skilji setningarnar á hesi síðuni</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth">Omman fortelur barninum eina áhugaverda søgu</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth">Hann hevur ein knív í vinstru hond</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth">Gentan er vøkur um kvøldarnar</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth">Eg samanlíkni okkara og tykkara lógir</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth">Deyð fólk eru jarðað langt undir jørð</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth">Presturin/Imamurin/Rabbinarin standa undir klára skýgginum</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth">Eg hugsi nógv um lívið</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth">Nær kemur vinurin hjá tær?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth">Hvussu nógv minnist tú?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth">Hvussu nógv fólk fara at hjálpa tær?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth">Hví stjól tú hesi tingini?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth">Hvussu gamal/gomul ert tú?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth">Hvussu gjørdi tú hendan úrdráttin?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth">Hvat er gløggasta menniskjað í heiminum?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth">Hvat slag av tvíflís dámar tær best?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth">Hvaðan ert tú?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth">Hvagar fert tú?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth">Er hasin handilin til? / Finst hasin handilin?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth">Eg vil bara hava okkurt at eta</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth">Eg droymi ongantíð</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth">Hann hevur rætt viðhvørt</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth">Tey tapa ofta í hesum spælinum</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth">Nógvar stjørnur eru í rúmdini</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth">Hann vísir ofta sín nakna kropp</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth">Hann flennir eftir onkrum krønikum</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth">Eg leiti allastaðni</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth">Hann ræðist ikki nakran</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth">Konan hjá mær elskast við mær hvørt kvøld</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth">Eg bjóði tær tvær ókeypis blómur</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth">Hann sang, meðan foreldrini lurtaðu</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth">Vit sóu gistingarhúsið, áðrenn tey sóu tað</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth">Eg royni at hava áhuga í politikki, tí eg skal á val næsta mánað</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth">Hetta glasið er tómt, men hitt glasið er fult</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth">Eg eri troytt/ur, tí fari eg ikki upp</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth">Eg vil drepa teir óndu fangarnar, uttan tann við tí blonda hárinum</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth">Drápsmaðurin skuldi verið dømdur, men ístaðin varð hann latin leysur</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth">Tað er langt síðani, at vit sóust seinast.</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth">Eg havi ikki hoyrt frá henni síðani í morgun</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth">Hóast vandan fór hann inn í myrki húsini yvirav kirkjuni/moskuni/templinum</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth">Rúsdrekka var ólógligt sambært pápa mínum</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth">Mær dámar hetta økið vegna hugtakandi søgu tess</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth">Eg flýggi inn í skadda skúlan</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth">Eg bíði, til systir mín kemur</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth">Hann prógvar, at hann hevur rætt</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth">Vit halda ikki, at tað er møguligt</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth">Hon brosar, og hann mussar hana</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth">Vit eru enn ikki einig við loysnini hjá honum</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth">Eg veit, hvat tú heldur/hugsar</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth">Kvinnan veit, hvussu breyð verður bakað</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth">Eg síggi fleiri orð</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth">Eg eri størri enn tú</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth">Hann er líka lítil sum tú</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth">Tey fyrireika seg til at fara av skipinum</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth">Eg má gloyma, tað eg sá</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth">Um tú góðtekur hasa býtti frágreiðingina, so ert tú ein býttur maður</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth">Eg fari at ferðast í tínum landi, men ikki um tað regnar</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth">Blinda gentan kundi lukta øgiliga væl</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth">Eg havi ikki sæð hann í trý ár</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth">Eg rokni við, at hann fer at vitja meg í fimm tímar</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth">Eg læri næmingarnar at telja upp til 10</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth">Kundi tú umsett henda tekstin til enskt?</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth">Mín átrúnaður er enn tann sama sum síðst</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth">Fylgjurnar mugu viðgangast alt fyri eitt</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth">Floksfelagarnir spældu saman, men eg sat einsamallur/einsamøll í einum horni</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth">Lærarin segði, at eg ikki skal siga slík ting</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth">Mamma helt altíð, at hon mátti geva mær meira gætur</attrib>
+		</entry>
+	</entries>
+</ulr>

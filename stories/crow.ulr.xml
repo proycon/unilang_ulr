@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="crow" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="af" stats="5" />
+		<language lang="ar" stats="5" />
+		<language lang="bg" stats="5" />
+		<language lang="de" stats="5" />
+		<language lang="el" stats="5" />
+		<language lang="en" stats="5" />
+		<language lang="eo" stats="5" />
+		<language lang="es" stats="5" />
+		<language lang="fi" stats="5" />
+		<language lang="fr" stats="5" />
+		<language lang="ga" stats="5" />
+		<language lang="gd" stats="5" />
+		<language lang="gl" stats="5" />
+		<language lang="hr" stats="5" />
+		<language lang="hu" stats="5" />
+		<language lang="id" stats="5" />
+		<language lang="it" stats="5" />
+		<language lang="kn" stats="5" />
+		<language lang="mi" stats="5" />
+		<language lang="nl" stats="5" />
+		<language lang="no" stats="5" />
+		<language lang="pl" stats="5" />
+		<language lang="ro" stats="5" />
+		<language lang="ru" stats="5" />
+		<language lang="sr" stats="5" />
+		<language lang="sv" stats="5" />
+		<language lang="tr" stats="5" />
+		<language lang="zh" stats="5" />
+		<language lang="zh.Hans" stats="5" />
+		<language lang="et" stats="4" />
+		<language lang="uk" stats="5" />
+	</languages>
+	<authors>
+		<author id="Tigaine" langs="af" lastmodified="0" />
+		<author id="ابفاحادا" langs="ar" lastmodified="0" />
+		<author id="Paruha" langs="bg" lastmodified="0" />
+		<author id="Kubi" langs="de" lastmodified="0" />
+		<author id="Σίνης" langs="el" lastmodified="0" />
+		<author id="Abavagada" langs="en,es,hr,tr" lastmodified="0" />
+		<author id="esperio" langs="eo" lastmodified="0" />
+		<author id="Liisi" langs="fi" lastmodified="0" />
+		<author id="mrphdes" langs="fr" lastmodified="0" />
+		<author id="jbflanman" langs="ga" lastmodified="0" />
+		<author id="Richard Raw" langs="gd" lastmodified="0" />
+		<author id="Porto" langs="gl" lastmodified="0" />
+		<author id="Abavagada (translated by Viktor Borbély)" langs="hu" lastmodified="0" />
+		<author id="edsmedia" langs="id" lastmodified="0" />
+		<author id="martyno" langs="it" lastmodified="0" />
+		<author id="ಅಬವಗಡ" langs="kn" lastmodified="0" />
+		<author id="Pierrick18" langs="mi" lastmodified="0" />
+		<author id="Proycon" langs="nl" lastmodified="0" />
+		<author id="keme" langs="no" lastmodified="0" />
+		<author id="Zaduma" langs="pl" lastmodified="0" />
+		<author id="aldaesme" langs="ro" lastmodified="0" />
+		<author id="Juliette Esper" langs="ru" lastmodified="0" />
+		<author id="Абавагада" langs="sr" lastmodified="0" />
+		<author id="Curiosus" langs="sv" lastmodified="0" />
+		<author id="杨大猫" langs="zh.Hans" lastmodified="0" />
+		<author id="14587" langs="et" lastmodified="1231926383" />
+		<author id="4430" langs="uk" lastmodified="1246263931" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">crow.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+	</entries>
+</ulr>

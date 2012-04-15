@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">The Bear and the Travellers</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">A lesson about bears and friends</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">Two Travellers were on the road together, when a Bear suddenly appeared on the scene. Before he observed them, one made for a tree at the side of the road, and climbed up into the branches and hid there.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">The other was not so nimble as his companion; and, as he could not escape, he threw himself on the ground and pretended to be dead.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">The Bear came up and sniffed all round him, but he kept perfectly still and held his breath: for they say that a bear will not touch a dead body. The Bear took him for a corpse, and went away.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">When the coast was clear, the Traveller in the tree came down, and asked the other what it was the Bear had whispered to him when he put his mouth to his ear.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Abavagada">The other replied, &quot;He told me never again to travel with a friend who deserts you at the first sign of danger.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Abavagada">Misfortune tests the sincerity of friendship.</attrib>
+		</entry>
+	</entries>
+</ulr>

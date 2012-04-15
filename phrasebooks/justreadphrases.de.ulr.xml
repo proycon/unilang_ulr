@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">Ich liebe dich</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">Der Sturm erreicht den Strand</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">Diese Leute hören ein lautes Geräusch</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">Ich bekomme die rote Leuchte/ Lampe</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">Sie sieht einen kleinen Vogel</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth">Wir finden ein altes Gebäude</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">Ich suche meine Schlüssel</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">Ich berühre deinen Kopf</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">Er will ein neues weißes Auto</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth">Sie öffnet das zerbrochene Fenster</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth">Das starke Mädchen schließt die schwere schwarze Tür</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth">Er löst das schreckliche Problem</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth">Der böse Verbrecher verliert viel wertvolles Geld</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth">Sie probieren das leckere Essen</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth">Der Polizist hat eine andere Meinung</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth">Die Kollegen trinken kalten Kaffee und heißen Tee</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth">Die reiche Firma verkauft grünes Gemüse</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth">Sie kaufen zehn neue Bücher</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth">Sein rechtes Ohr tut weh</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">Ich kenne diese große Person</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth">Die schlanke Dame folgt ihrem fetten Chef</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth">Der schnelle Computer ändert seine Farbe</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth">Sie wählen das falsche Werkzeug</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth">Meine Familie lädt die freundlichen Nachbarn ein</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth">Wir danken den langweiligen Studenten</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth">Ihrem Ehemann gefällt der Abend</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth">Sie liest ihre tägliche Zeitung</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth">Der arme Mann trägt schmutzige Kleidung</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth">Das starke Tier trifft einen schwachen Fisch</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth">Ich bezahle zweihundert Euro/Dollar</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth">Sie mag die schöne Sprache</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth">Der Sturm erreicht den Strand</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth">Die Männer bauen ein flaches Büro</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">Er hat blaue Augen</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth">Es schneit heute</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth">Er wird ein wichtiger Mensch werden</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth">Ich bin auf dem internationalen Flughafen</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth">Sie hat saubere Hände</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">Er ist ein junger Junge</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth">Sie ist Ärztin</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth">Ich bleibe glücklich</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth">Ich werde nass vom Regen</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">Das Pferd hat Angst</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth">Der weiße Hund war überrascht</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth">Die moderne Gesellschaft ist sehr fortschrittlich</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth">Die Ursache des Zusammenstoßes ist unbekannt</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth">Ich gebe dir ein Geschenk</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth">Er stellt mir eine schwierige Frage</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth">Ich erhalte eine Nachricht von meiner  Mutter</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth">Ich schreibe einen Brief an meinen Vater</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth">Sie wohnen in einer kleinen Stadt</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth">Der Hund sitzt hinter dem Fernseher</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth">Die Katze liegt auf dem Boden</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth">Die Kinder spielen draußen</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth">Sie spricht über ihre Universität</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth">Sie verlassen leise das Zimmer</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth">Er antworted dem Lehrer (der Lehrerin).</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth">Ich gehe vor meinem Haus</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth">Sie schläft in ihrem eigenen Bett.</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth">Das Flugzeug fliegt über die Berge.</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth">Wir rennen durch den grossen Garten.</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth">Das Buch ist auf dem Tisch.</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth">Ich gehe mit dir (Ihnen) in das Geschäft</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth">Ich fahre mit dem Zug in die Stadt</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth">Der Baum wächst schnell.</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth">Er arbeitet in einer kleinen Fabrik.</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth">Der dumme Präsident fällt auf die Nase</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth">Ganz bestimmt glauben wir an Gott</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth">Ich beschwere mich über den Preis.</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth">Sie wirft den teuren Ball zu mir.</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth">Der kranke Großvater stirbt nahe des Krankenhauses.</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth">Ich verstehe die Sätze auf dieser Seite.</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth">Die Großmutter erzählt dem Kind eine interessante Geschichte.</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth">Wir hoffen, daß er eifrig studiert / Wir hoffen, dass er eifrig studiert</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth">Er hält ein Messer in seiner linken Hand</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth">Unser Ziel liegt zwischen den beiden Seen</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth">Er kocht ein einfaches Essen für seine Freundin</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth">Das Mädchen sieht schön aus am Abend</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth">Das wilde Tier kam aus seinem Käfig heraus</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth">Ich vergleiche unsere Gesetze mit euren Gesetzen.</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth">Ich fahre in die Richtung unserer Hauptstadt im Osten</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth">Tote Menschen werden tief unter der Erde begraben</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth">Der Priester/ Imam/ Rabbiner steht unter einer hellen Wolke</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth">Das kleine Vög(e)lein fliegt über meinem Kopf nahe seiner Eltern</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth">Ich flüchte in die beschädigte Schule.</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth">Das Wasser kommt von einem weit entfernten Ort</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth">Ich habe viel über das Leben nachgedacht.</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth">Wann kommt dein Freund?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth">An wieviel erinnerst du dich?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth">Wie viele Leute werden dir helfen?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth">Warum stiehlst du diese Dinge?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth">Wie alt bist du?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth">Wie stellst du dieses Produkt her?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth">Wer ist der intelligenteste Mensch auf Erden?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth">Was entdeckst du im Meer?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth">Welches Butterbrot ist dir lieber?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth">Wo kommst du her?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth">Wo gehst du hin?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth">Existiert dieser Laden? / Gibt es diesen Laden?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth">Was ist der Grund für diese Untersuchung?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth">Welche Busse sind abfahrbereit?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth">Ich will nur etwas essen.</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth">Ich träume nie.</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth">Sie kommt immer früh an.</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth">Machmal hat er recht.</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth">Wir gewinnen nichts</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth">Meistens kämpfen wir gegen unsere Feinde</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth">Sie verlieren in diesem Spiel oft</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth">Ich wünschte, es wäre schon morgen.</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth">Es gibt viele Sterne im Weltall</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth">Er zeigt oft seinen nackten Körper</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth">Wir verstecken selten unsere Ideen</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth">Er lacht über irgendeinen Witz</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth">I suche überall</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth">Er fürchtet niemanden.</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth">Sie tanzt mit jemandem auf der Straße.</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth">Du darfst dir aussuchen was du willst.</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth">Meine Frau hat jede Nacht Sex mit mir</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth">Ich biete dir zwei kostenlose Blumen an</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth">Er sang während seine Eltern zuhörten.</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth">Wir aßen nachdem wir im Kino waren</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth">Wir sahen das Hotel bevor sie es sahen</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth">Du kannst / Sie können dieses Zimmer reinigen bis der Eigentümer wiederkehrt</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth">Ich interessiere mich für Politik, weil ich nächsten Monat wählen gehen muss</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth">Dieses Glas ist leer, aber das andere Glas ist voll.</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth">Sie schreien damit jeder sie bemerkt</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth">Ich gestatte dir das, auch wenn mein Bruder es verbietet</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth">Ich bin müde, weshalb ich noch nicht aufstehe</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth">Ich will die bösartigen Gefangenen töten, außer den mit den blonden Haaren</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth">Der Mörder hätte eigentlich verurteilt werden sollen, anstelle dessen wurde er aber entlassen</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth">Es ist lange her seit wir uns das letzte Mal getroffen haben</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth">Ich habe bis heute Morgen nichts mehr von ihr gehört</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth">Trotz der Gefahr ist er in das dunkle Haus gegenüber der Kirche/Moschee/ dem Tempel gegangen</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth">Alkohol war meinem Vater nach früher verboten</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth">Ich liebe dieses Gebiet wegen seiner faszinierenden Geschichte</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth">Ich flüchte in die beschädigte Schule</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth">Dieses Wasser kommt von einem entfernten Ort</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth">Ich ruhte mich während der Ferien aus</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth">Ich warte auf das Kommen meiner Schwester</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth">Er beweist, daß er Recht hat. / Er beweist, dass er Recht hat.</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth">Wir glauben, daß das nicht möglich ist / Wir glauben, dass das nicht möglich ist</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth">Sie lacht und er küßt sie / Sie lacht und er küsst sie</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth">Wir sind nicht mit seiner Lösung einverstanden</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth">Ich weiß, was du denkst.</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth">Die Frau weiß , wie man Brot backt</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth">Ich sehe mehrere Wörter</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth">Ich bin größer als du</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth">Er ist genauso klein wie du</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth">Er fängt an seine Schule zu hassen</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth">Sie beendigt ihr Studium im Hauptfach</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth">Sie hören auf über die Regierung nachzudenken</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth">Wir fahren mit unserer Arbeit fort</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth">Sie bereiten sich darauf vor , das Schiff zu verlassen</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth">Ich muß vergessen , was ich gesehen habe / Ich muss vergessen , was ich gesehen habe</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth">Du bist ein dummer Mann , wenn du diese seltsame Erklärung akzeptierst</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth">Ich werde zu deinem Land reisen, außer wenn es regnet</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth">Das blinde Mädchen kann sehr gut riechen</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth">Gestern waren alle meine Probleme weit weg</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth">Seit 3 Jahren hab ich ihn nicht mehr gesehen</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth">Ich erwarte, daß er mich für 5 Stunden besuchen kommt / Ich erwarte, dass er mich für 5 Stunden besuchen kommt</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth">Ich entschließe mich dazu, ihre Entscheidung zu ignorieren</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth">Ich werde meine Schlußfolgerung nochmals wiederholen / Ich werde meine Schlussfolgerung nochmals wiederholen</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth">Ich bringe den Schülern bei, wie man bis 10 zählt</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth">Kannst du diesen Text ins Englische übersetzen ?</attrib>
+		</entry>
+		<entry id="165">
+			<attrib type="orth">Du hattest den Schaden selbst repariert als du beim letzten Mal einen Unfall hattest</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth">Ich fühle mich außerstande die Bedeutung zu erkennen.</attrib>
+		</entry>
+		<entry id="167">
+			<attrib type="orth">Bringst du mir meinen Koffer oder muß ich ihn selber tragen? / Bringst du mir meinen Koffer oder muss ich ihn selber tragen?</attrib>
+		</entry>
+		<entry id="168">
+			<attrib type="orth">Ich hatte bisher nicht die Möglichkeit, diese Lektion zu lernen.</attrib>
+		</entry>
+		<entry id="169">
+			<attrib type="orth">Das ist wahrscheinlich ein sehr üblicher Fehler</attrib>
+		</entry>
+		<entry id="170">
+			<attrib type="orth">Glücklicherweise bin ich für gewöhnlich gesund; allerdings habe ich mir unglücklicherweise meinen Fuß verletzt.</attrib>
+		</entry>
+		<entry id="171">
+			<attrib type="orth">Das Wetter ist schön, die Sonne hat sogar den ganzen Tag geschienen.</attrib>
+		</entry>
+		<entry id="172">
+			<attrib type="orth">Weißt du, ob er den Wein für die Party / Feier besorgen kann?</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth">Meine Religion ist noch immer die gleiche wie zuvor.</attrib>
+		</entry>
+		<entry id="174">
+			<attrib type="orth">Eine Armee ist sinnlos, wenn es keinen Krieg gibt , sondern Frieden.</attrib>
+		</entry>
+		<entry id="175">
+			<attrib type="orth">Der internationale Soldat erschießt einen unschuldigen Passagier</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth">Vielleicht ist es unwahrscheinlich, daß es jemals passieren wird. / Vielleicht ist es unwahrscheinlich, dass es jemals passieren wird.</attrib>
+		</entry>
+		<entry id="177">
+			<attrib type="orth">Ich glaube, daß die Zeit gekommen ist, wegzugehen / Ich glaube, dass die Zeit gekommen ist, wegzugehen</attrib>
+		</entry>
+		<entry id="178">
+			<attrib type="orth">Mein Alter wird als ein Geheimnis betrachtet</attrib>
+		</entry>
+		<entry id="179">
+			<attrib type="orth">In dieser Lektion wird von uns erwartet, daß wir ein Wörterbuch und einen Taschenrechner benutzen / In dieser Lektion wird von uns erwartet, dass wir ein Wörterbuch und einen Taschenrechner benutzen</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth">Ich habe Angst, das fertig zu machen, was ich begonnen habe</attrib>
+		</entry>
+		<entry id="181">
+			<attrib type="orth">Ich habe keine Chance (Möglichkeit) meine Zeichnungen mit deinen zu vergleichen.</attrib>
+		</entry>
+		<entry id="182">
+			<attrib type="orth">Der elektrische Apparat erzeugt eine große Menge an Energie</attrib>
+		</entry>
+		<entry id="183">
+			<attrib type="orth">Ich schlage vor nicht nördlich , sondern südlich zu gehen.</attrib>
+		</entry>
+		<entry id="184">
+			<attrib type="orth">Ich fühle mich schlecht. Ehrlich gesagt fühle ich mich schlechter als letzte Woche.</attrib>
+		</entry>
+		<entry id="185">
+			<attrib type="orth">In der Tat sind Babys bisher nicht in der Lage zu sprechen.</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth">Die Folgen müssen unverzüglich erkannt werden</attrib>
+		</entry>
+		<entry id="187">
+			<attrib type="orth">Ich wusste sehr gut, ob ich handeln sollte oder nicht.</attrib>
+		</entry>
+		<entry id="188">
+			<attrib type="orth">Er traf direkt durch das Holz .</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth">Meine Klassenkameraden spielten zusammen, aber ich saß allein in einer Ecke</attrib>
+		</entry>
+		<entry id="190">
+			<attrib type="orth">Das Kind wollte nett zu ihnen sein, aber nichtsdestotrotz mochten sie es nicht.</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth">Mein(e) Lehrer(in) sagte, ich solle so etwas nicht sagen.</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth">Meine Mutter meinte immer, ich bräuchte mehr Aufmerksamkeit</attrib>
+		</entry>
+	</entries>
+</ulr>

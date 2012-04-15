@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="lv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="hekate">Lauva un Pele</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="hekate">Pele palīdz lauvam.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="hekate">Guļošs lauva pamodās savā migā, jo viņa sejai pārskrēja Pele. Viņš to sakaitināts sagrāba savā ķetnā un grasījās to nogalināt.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="hekate">Pele, pārbijusies, žēlabaini lūdza viņu saudzēt tās dzīvību. &quot;Lūdzu, ļauj man iet,&quot; tā brēca, &quot;un kādu dienu es tev atmaksāšu tavu laipnību.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="hekate">Doma, ka tik nenozīmīgs radjums kādreiz būtu spējīgs viņa labā kaut ko darīt, uzjautrināja Lauvu tik ļoti, ka viņš skaļi smējās, un labā garastāvoklī palaida to iet.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="hekate">Bet Peles iespēja tik un tā pienāca.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="hekate">Kādu dienu Lauva sapinās tīklā, ko daži mednieki bija izlikuši zvēriem, un Pele dzirdēja un pazina viņa dusmu rēcienus, un atskrēja uz notikuma vietu. Tā nekavējoties sāka grauzt virves ar saviem zobiem, un pabeidza ātri, palaižot Lauvu brīvībā.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="hekate">&quot;Re!&quot; teica Pele, &quot;tu par mani smējies, kad es apsolīju, ka es tev atmaksāšu: bet tagad tu redzi, pat Pele var palīdzēt Lauvam.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

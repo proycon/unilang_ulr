@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="bg">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Paruha">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Paruha">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="Paruha">Влизане:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="Paruha">Здравей</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="Paruha">Здравейте всички</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="Paruha">Добро утро</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="Paruha">Добър ден</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="Paruha">Добър вечер</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="Paruha">Лека нощ</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="Paruha">Хей там</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="Paruha">Започване на разговор:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="Paruha">Какво ново?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="Paruha">Какво става?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="Paruha">За какво си говорите? | Каква е темата?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="Paruha">Как си?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="Paruha">Как сте?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="Paruha">Как вървят нещата?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="Paruha">Лични въпроси:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="Paruha">Откъде си, (прякор)?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="Paruha">Нов ли си тук? | За първи път ли си тук?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="Paruha">Кои езици говориш?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="Paruha">Къде в (държава) живееш?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="Paruha">На колко си години?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="Paruha">Кои езици учиш?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="Paruha">Говорене за себе си:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="Paruha">Аз съм от (държава)</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="Paruha">Аз говоря (език/езици)</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="Paruha">Родният ми език е (език/езици), говоря (език/езици) свободно, (език/езици) горе-долу и малко (език/езици)</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="Paruha">Съжалявам, не говоря (език)</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="Paruha">Аз уча | Аз искам да науча (език/езици)</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="Paruha">Завършване на разговор:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="Paruha">Приятно ми беше да се запознаем</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="Paruha">Приятно ми беше да си говоря с теб</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="Paruha">Трябва да си ходя</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="Paruha">Време е за вечеря</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="Paruha">Аз ще си лягам</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="Paruha">Трябва да си лягам</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="Paruha">Разделяне:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="Paruha">Ще се видим по-късно</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="Paruha">Ще се видим утре</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="Paruha">Ще се видим скоро</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="Paruha">Ще се видим следващия път</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="Paruha">Лека нощ на всички</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="Paruha">Чао на всички</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="Paruha">Връщам се след малко</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="Paruha">Ще се върна по-късно</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="Paruha">Допълнителни:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Paruha">Благодаря</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="Paruha">Много благодаря</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Paruha">Извинявай</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="Paruha">хаха</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="Paruha">Хехе</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="th">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Pokpong Wongkaeo">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Pokpong Wongkaeo">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Pokpong Wongkaeo">ประโยคที่ใช้บ่อย</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Pokpong Wongkaeo">ใช่</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไม่ใช่</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Pokpong Wongkaeo">ได้โปรด</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่ครับ/นี่ค่ะ</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอบคุณ</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไม่เป็นไร</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอโทษ</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Pokpong Wongkaeo">อาจจะ</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Pokpong Wongkaeo">สวัสดี</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Pokpong Wongkaeo">ลาก่อน</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Pokpong Wongkaeo">สวัสดี</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Pokpong Wongkaeo">สวัสดี</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Pokpong Wongkaeo">สวัสดี</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Pokpong Wongkaeo">ราตรีสวัสดิ์</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Pokpong Wongkaeo">ยินดีต้อนรับ</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอให้เดินทางโดยสวัสดิภาพ</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Pokpong Wongkaeo">ทำความรู้จัก</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณพูดภาษา....หรือเปล่า?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)พูดภาษา.....ได้</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)พูดภาษา....ไม่ได้</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)พูดภาษา....ได้นิดหน่อย</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาอังกฤษ</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาฝรั่งเศส</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาเยอรมัน</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาสเปน</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาโปรตุเกส</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาอาหรับ</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาจีน</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาฮินดี</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษารัสเซีย</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาอิตาเลียน</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาดัชต์</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษานอรเวย์</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาสวีดิช/ภาษาสวีเดน</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาเดนิช/ภาษาเดนมาร์ก</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาโปลิช/ภาษาโปแลนด์</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาอูรดู</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาฟาร์ซี</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาญี่ปุ่น</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาอินโด/ภาษาอินโดนีเซีย</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษามาเลย์/ภาษามลายู</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเข้าใจมั้ย?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเข้าใจ(ผม/ฉัน)มั้ย?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เข้าใจ</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เข้าใจคุณ</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่เข้าใจ</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่เข้าใจคุณ</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณช่วยพูดอีกทีได้มั้ย?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณช่วยพูดช้าลงหน่อยได้มั้ย?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Pokpong Wongkaeo">ช่วยเขียนให้หน่อยได้มั้ย?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่รู้ว่าจะพูดยังไง</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่รู้คำที่ถูกต้อง</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณพูดอะไรนะ?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Pokpong Wongkaeo">จะพูดเป็นภาษา....ได้ว่ายังไง?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเขียนยังไง?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณออกเสียงว่ายังไง?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Pokpong Wongkaeo">ช่วยแปลให้หน่อยได้มั้ย?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)พูดอย่างงี้ถูกมั้ย?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Pokpong Wongkaeo">บทสนทนาง่ายๆ</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Pokpong Wongkaeo">สบายดีมั้ย?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Pokpong Wongkaeo">สบายดีมากเลย</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Pokpong Wongkaeo">สบายดี</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Pokpong Wongkaeo">ก็สบายดี</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไม่ค่อยสบายเท่าไหร่</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณอายุเท่าไหร่?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อายุ....ปี</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่รู้</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่ชอบเลย</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)พร้อมแล้ว</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Pokpong Wongkaeo">เอาเลย</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ขอโทษ</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Pokpong Wongkaeo">เงินๆ ทองๆ</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จ่ายเงินสดได้มั้ย?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ใช้บัตรเครดิตได้มั้ย?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณรับ....มั้ย?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณแลกเช็คเดินทางมั้ย?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Pokpong Wongkaeo">ช่วยแลกนี่เป็น....ได้มั้ย?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="Pokpong Wongkaeo">ช่วยประมาณได้มั้ย?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่บัตรของ(ผม/ฉัน)</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดค่าบริการเท่าไหร่?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ต้องการแลกเงิน[ดอลลาร์/ยูโร/ปอนด์]</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Pokpong Wongkaeo">อัตราแลกเปลี่ยนเท่าไหร่?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="Pokpong Wongkaeo">อัตราเงินเฟ้อเท่าไหร่?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะแลกเงินได้ที่ไหน?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะถ่ายเอกสารได้ที่ไหน?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Pokpong Wongkaeo">ธนาคารที่ใกล้ที่สุดอยู๋ที่ไหน?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ต้องเซ็นตรงไหน?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีรายการสินค้ามั้ย?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีนัดกับ....</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Pokpong Wongkaeo">ค่าเข้าเท่าไหร่?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Pokpong Wongkaeo">วันละเท่าไหร่?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Pokpong Wongkaeo">ชั่วโมงละเท่าไหร่?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Pokpong Wongkaeo">อาทิตย์ละเท่าไหร่?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฟรีรึเปล่า?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Pokpong Wongkaeo">คอมพิวเตอร์และอินเทอร์เน็ต</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีคอมพิวเตอร์มั้ย?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฮาร์ดดิสก์เต็ม</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีโมเด็มมั้ย?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีอินเทอร์เน็ตมั้ย?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ส่งอีเมลได้มั้ย?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เช็คอีเมลได้มั้ย?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะปริ๊นท์ได้มั้ย?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะสแกนได้มั้ย?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Pokpong Wongkaeo">คอมพิวเตอร์ของ(ผม/ฉัน)แฮง</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณต้องรีบูท</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ลง....ได้มั้ย?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Pokpong Wongkaeo">อีเมลคุณอะไร?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Pokpong Wongkaeo">อีเมล(ผม/ฉัน) ....</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีโฮมเพจส่วนตัวมั้ย?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Pokpong Wongkaeo">ที่อยู่อะไร?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Pokpong Wongkaeo">การศึกษา</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเรียนอะไร?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เรียน....</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Pokpong Wongkaeo">กฏหมาย</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Pokpong Wongkaeo">แพทย์</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Pokpong Wongkaeo">เศรษฐศาสตร์</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษา</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภาษาศาสตร์</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Pokpong Wongkaeo">คณิตศาสตร์</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Pokpong Wongkaeo">เคมี</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฟิสิกส์</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Pokpong Wongkaeo">คอมพิวเตอร์</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเรียนที่มหาวิทยาลัยอะไร?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เรียนที่....</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีเรียนวันนี้</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ว่างวันนี้</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณอยู่โรงเรียนมัธยมเหรอ?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อยู่โรงเรียนมัธยม</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ต้องไปเรียนแล้ว</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฉุกเฉิน</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Pokpong Wongkaeo">เรียกหมอเร็ว!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Pokpong Wongkaeo">เรียกรถพยาบาลเร็ว!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Pokpong Wongkaeo">เรียกตำรวจเร็ว!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาหายใจไม่ออก</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาขยับตัวไม่ได้</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาไม่หยุด</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาวิ่งชน(ผม/ฉัน)</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาขับรถเร็วเกินไป</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาถูกของมีคม</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ขยับแขนไม่ได้</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ขยับขาไม่ได้</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ถูกขโมยของ</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Pokpong Wongkaeo">จับขโมยนั่นเร็ว!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Pokpong Wongkaeo">หนังสือเดินทาง(ผม/ฉัน)ถูกขโมย</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Pokpong Wongkaeo">เงิน(ผม/ฉัน)ถูกขโมย</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Pokpong Wongkaeo">รถ(ผม/ฉัน)ถูกขโมย</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไฟไหม้!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Pokpong Wongkaeo">โรงพยาบาลที่ไกล้ที่สุดอยู่ที่ไหน?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Pokpong Wongkaeo">สถานีตำรวจที่ไกล้ที่สุดอยู่ที่ไหน?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Pokpong Wongkaeo">แสดงความคิดเห็น</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Pokpong Wongkaeo">ชอบมั้ย?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบ</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีความสุข</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)โกรธ</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ผิดหวัง</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ดีใจ</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เหนื่อย</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)กลัว</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อบอุ่น</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)หนาว</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ง่วง</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Pokpong Wongkaeo">เราชอบที่นี่</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Pokpong Wongkaeo">มันน่าสนใจ(มาก)</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Pokpong Wongkaeo">เราคิดว่ามันน่าสนใจมาก</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Pokpong Wongkaeo">มันน่าเบื่อ(มาก)</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Pokpong Wongkaeo">มันสวย</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาหล่อ(มาก)</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Pokpong Wongkaeo">เธอสวย(มาก)</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาเซ็กซี่จัง!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาเซ็กซี่จัง!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาใจดีมาก</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Pokpong Wongkaeo">ดูนั่นสิ!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฟังสิ!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Pokpong Wongkaeo">เยี่ยมเลย!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Pokpong Wongkaeo">เจ๋งเลย!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Pokpong Wongkaeo">อาหารและร้านอาหาร</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Pokpong Wongkaeo">หิวจัง</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Pokpong Wongkaeo">หิวน้ำจัง</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="Pokpong Wongkaeo">หาอะไรกินกันมั้ย?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="Pokpong Wongkaeo">หาอะไรดื่มกันมั้ย?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีอะไรกินมั้ย?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีอะไรดื่มมั้ย?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากกินอะไรมั้ย?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Pokpong Wongkaeo">เอาอะไรให้กินมั้ย?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากดื่มอะไรมั้ย?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อยากได้.........(ครับ/ค่ะ)</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Pokpong Wongkaeo">กาแฟ</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Pokpong Wongkaeo">ชา</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Pokpong Wongkaeo">เบียร์</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไวน์</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไวน์แดง</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไวน์ขาว</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Pokpong Wongkaeo">น้ำส้ม</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Pokpong Wongkaeo">น้ำแอ็ปเปิ้ล</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Pokpong Wongkaeo">เอาอะไรให้ดื่มมั้ย?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Pokpong Wongkaeo">จะดื่มอะไรดี?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Pokpong Wongkaeo">จะทานอะไรดี?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Pokpong Wongkaeo">จะแนะนำอะไรมั้ย?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอเมนูด้วย(ครับ/ค่ะ)</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอดูรายชื่อไวน์ด้วย(ครับ/ค่ะ)</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Pokpong Wongkaeo">เอาอันนี้(ครับ/ค่ะ)</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Pokpong Wongkaeo">เครื่องดื่มเรียกน้ำย่อยอะไรดี(ครับ/คะ)?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Pokpong Wongkaeo">เครื่องดื่มเรียกน้ำย่อย(ครับ/ค่ะ)</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Pokpong Wongkaeo">ปลา</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Pokpong Wongkaeo">เนื้อ</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Pokpong Wongkaeo">หมู</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Pokpong Wongkaeo">สลัด</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Pokpong Wongkaeo">ซุป</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Pokpong Wongkaeo">อะไรก็ได้ที่เป็นมังสวิรัติ</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Pokpong Wongkaeo">ของหวานล่ะ?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Pokpong Wongkaeo">สำหรับเครื่องดื่มเรียกน้ำย่อย (ผม/ฉัน)ขอ.....</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Pokpong Wongkaeo">จานหลักขอเป็น.....</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Pokpong Wongkaeo">ของหวานขอเป็น.....</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขออันนี้กับ (มันทอด/ข้าว/มันอบ)</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขออันนี้แต่ไม่ใส่.....</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอจานเล็กๆ ได้มั้ย?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีสลัดอะไรบ้าง</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไม่เอาแล้ว(ครับ/ค่ะ) ขอบคุณ(ครับ/ค่ะ)</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="Pokpong Wongkaeo">เอากลับบ้าน</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นมังสวิรัติ</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นมังสวิรัติ</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)กินนั่นไม่ได้</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Pokpong Wongkaeo">อันนี้ใส่.....รึเปล่า?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Pokpong Wongkaeo">เกลือ (เยอะๆ)</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Pokpong Wongkaeo">น้ำตาล (เยอะๆ)</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Pokpong Wongkaeo">มัน (เยอะๆ)</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Pokpong Wongkaeo">เนื้อสัตว์</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Pokpong Wongkaeo">อาหารทะเล</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Pokpong Wongkaeo">ปลา</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Pokpong Wongkaeo">นมเนย</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่ดื่ม</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่มีส้อม</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่มีมีด</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่มีช้อน</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Pokpong Wongkaeo">แก้วหายไป</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Pokpong Wongkaeo">จานหายไป</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่ไม่สะอาด</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่เย็นไป</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่เผ็ดไป</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่ไม่ใช่ที่สั่งไว้</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Pokpong Wongkaeo">ผิดแล้วหละ</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Pokpong Wongkaeo">อร่อย</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Pokpong Wongkaeo">เก็บเงินด้วย(ครับ/ค่ะ)</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอดูบิลด้วย(ครับ/ค่ะ)</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Pokpong Wongkaeo">แยกกันจ่าย</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Pokpong Wongkaeo">รวมทุกอย่างแล้วใช่มั้ย?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Pokpong Wongkaeo">รวมทิปแล้วใช่มั้ย?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Pokpong Wongkaeo">ชอบทำอาหารมั้ย?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Pokpong Wongkaeo">จะทำอาหารคืนนี้มั้ย?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)น่าทำอาหารคืนนี้มั้ย?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Pokpong Wongkaeo">จะทำอะไรดี</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Pokpong Wongkaeo">กาแฟซักแก้วมั้ย?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Pokpong Wongkaeo">ชาซักถ้วยมั้ย?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Pokpong Wongkaeo">สุขภาพและโรคภัย</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่สบาย</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นไข้</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นหวัด</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)แพ้</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นเบาหวาน</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เจ็บ</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)รู้สึกไม่ค่อยสบาย</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)กินยาคุมอยู่</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฉันท้อง</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)กินไม่ได้</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)นอนไม่หลับ</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่อยากได้อะไรที่แรงๆ</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)คลื่นใส้</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)คลื่นไส้</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ฟันหัก</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไอ</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ปวดหัว</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)แวดท้อง</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เจ็บหน้าอก</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ติดเชื้อ</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ถูกแมลงต่อย</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ถูกกัด</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Pokpong Wongkaeo">เจ็บมั้ย?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Pokpong Wongkaeo">เจ็บมั้ย?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Pokpong Wongkaeo">ทำอย่างงี้เจ็บมั้ย?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="Pokpong Wongkaeo">กินยามั้ย?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="Pokpong Wongkaeo">อุณหภูมิเท่าไหร่</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Pokpong Wongkaeo">เดินได้มั้ย</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากได้รถเข็น</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)นั่งรถเข็นอยู่</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Pokpong Wongkaeo">ร้านขายยาที่ไกล้ที่สุดอยู่ที่ไหน?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Pokpong Wongkaeo">ซื้อโดยไม่ต้องมีใบสั่งยาได้มั้ย?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Pokpong Wongkaeo">มียาแก้แมลงกัดมั้ย?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Pokpong Wongkaeo">มียาแก้ผิวไหม้มั้ย?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีใบสั่งยา</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ต้องการยาแก้.....</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Pokpong Wongkaeo">ต้องทำยังไงกับยานี้?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Pokpong Wongkaeo">งานอดิเรก</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Pokpong Wongkaeo">งานอดิเรกของคุณคืออะไร?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณทำอะไรเวลาว่าง?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Pokpong Wongkaeo">ชอบอ่านหนังสือมั้ย?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่ชอบอ่านหนังสือ</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบอ่านหนังสือ</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบทำกับข้าว</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบฟังเพลง</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเล่นเปียโน</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเล่นกีต้าร์</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบร้องเพลง</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเล่นหมากรุก</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบไปเที่ยว</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเดินทาง</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบไปซื้อของ</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบทำสวน</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบดูทีวี</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเล่นเน็ต</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณชอบเพลงแนวไหน?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเพลงคลาสสิก</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเพลงป๊อป</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบโอเปร่า</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเพลงแจ๊ส</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบเพลงเทคโน</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบฮาร์ดร็อก</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณชอบวงอะไรที่สุด?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณชอบอะไร?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชอบ.....</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Pokpong Wongkaeo">แนะนำตัว</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ชื่อ.....</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณชื่ออะไร?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Pokpong Wongkaeo">ผม.....</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเป็นใคร?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ขอแนะนำ.....ให้คุณรู้จัก</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะแนะนำ.....ให้คุณรู้จัก</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่ภรรยาของผม</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่สามีของฉัน</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่แฟนของผม</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่แฟนของฉัน</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่เพื่อนของฉัน</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่ลูกชายของ(ผม/ฉัน)</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่ลูกสาวของ(ผม/ฉัน)</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่แม่ของ(ผม/ฉัน)</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่พ่อของ(ผม/ฉัน)</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Pokpong Wongkaeo">ยินดีที่ได้พบคุณ</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Pokpong Wongkaeo">นัดพบ</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="Pokpong Wongkaeo">วันนี้ / พรุ่งนี้ / เย็นนี้  คุณว่างมั้ย?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีแผนแล้ว</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะไปดูหนัง</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะไปดูละคร</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะไปพิพิธภัณฑ์</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณอยากไปกับ(ผม/ฉัน)คืนนี้มั้ย?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากสิ</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีตั๋วเหรอ?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีตั๋ว 2 ใบสำหรับ.....</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่ชอบดนตรี</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Pokpong Wongkaeo">เพลงดังเกินไป</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="Pokpong Wongkaeo">คนเยอะเกินไป</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Pokpong Wongkaeo">เราไปที่อื่นกันมั้ย?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="Pokpong Wongkaeo">ดูหนังอะไรดี</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับหนังเรื่องนี้</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Pokpong Wongkaeo">การเมือง</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)สนใจการเมือง</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่สนใจการเมือง</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับรัฐบาล</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับราชวงศ์</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับประธานาธิบดี</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับนายก?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับเสรีภาพในการพูด?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับทหาร?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับประชาธิปไตย?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับสิทธิมนุษยชน?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับสิทธิสตรี?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณคิดยังไงกับสิทธิชาวรักร่วมเพศ?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเป็นสมาชิกพรรคการเมืองรึเปล่า?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="Pokpong Wongkaeo">เลือกตั้งเมื่อไหร่?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="Pokpong Wongkaeo">คราวที่แล้วคุณเลือกใคร?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="Pokpong Wongkaeo">คราวหน้าคุณจะเลือกใคร?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Pokpong Wongkaeo">ผมเป็น.....</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Pokpong Wongkaeo">คอมมิวนิสต์</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Pokpong Wongkaeo">ทุนนิยม</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Pokpong Wongkaeo">ประชาธิปัตย์</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Pokpong Wongkaeo">ประชาธิปัตย์สายคริสเตียน</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Pokpong Wongkaeo">สาธารณรัฐนิยม</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="Pokpong Wongkaeo">ซ้ายจัด</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Pokpong Wongkaeo">ชาตินิยม</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="Pokpong Wongkaeo">สังคมนิยม</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="Pokpong Wongkaeo">เสรีนิยม</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฟาสซิสต์</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="Pokpong Wongkaeo">ความสัมพันธ์และครอบครัว</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณแต่งงานรึยัง?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)แต่งงานแล้ว</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ยังไม่แต่งงาน</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีแฟนมั้ย?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีแฟนมั้ย?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีแฟนแล้ว</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีแฟนแล้ว</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาอายุเท่าไหร่?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาอายุ....ปี</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="Pokpong Wongkaeo">เขาทำงานอะไร?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีลูกมั้ย?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่มีลูก</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มี  ลูก 1 คน / ลูกชาย 1 คน / ลูกสาว 1 คน</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีลูก 2 คน</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มีลูก 3 / 4 / 5 / 6 / 7 คน</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีพี่น้องกี่คน?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="Pokpong Wongkaeo">แม่คุณยังมีชีวิตอยู่มั้ย?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="Pokpong Wongkaeo">พ่อคุณยังมีชีวิตอยู่มั้ย?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณยาย / คุณย่า  ยังมีชีวิตอยู๋มั้ย?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณตา / คุณปู่  ยังมีชีวิตอยู่มั้ย?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Pokpong Wongkaeo">ศาสนา</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเคร่งศาสนามั้ย?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่เคร่งศาสนา</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่นับถือศาสนา</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่เชื่อในพระเจ้า</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นมุสลิม</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นยิว</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นพุทธ</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นฮินดู</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นคาธอลิก</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นคริสเตียน</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะหาโบสถ์ได้ที่ไหน?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะหามัสยิดได้ที่ไหน?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะหาโบสถ์ยิวได้ที่ไหน?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)จะหาวัดได้ที่ไหน?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอบคุณพระเจ้า</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="Pokpong Wongkaeo">ถ้าพระเจ้าต้องการ</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Pokpong Wongkaeo">โอ้พระเจ้า!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="Pokpong Wongkaeo">ที่อยู่อาศัย</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมาจากไหน? / คุณมาจากประเทศอะไร?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)มาจาก.....</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฝรั่งเศส</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Pokpong Wongkaeo">อังกฤษ</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Pokpong Wongkaeo">สเปน</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Pokpong Wongkaeo">เยอรมนี</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Pokpong Wongkaeo">อเมริกา</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Pokpong Wongkaeo">จีน</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Pokpong Wongkaeo">บราซิล</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Pokpong Wongkaeo">ญี่ปุ่น</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Pokpong Wongkaeo">รัสเซีย</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Pokpong Wongkaeo">แคนาดา</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Pokpong Wongkaeo">ออสเตรเลีย</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเป็นคนสัญชาติอะไร?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)เป็นคน....</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">อังกฤษ</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฝรั่งเศส</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">เยอรมัน</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">อเมริกัน</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">จีน</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">ญี่ปุ่น</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">รัสเซีย</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">บราซิล</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Pokpong Wongkaeo">แคนาดา</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมาจากไหน? / คุณมาจากเมืองอะไร?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อยู่ที่  ลอนดอน / ปารีส / เบอร์ลิน</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Pokpong Wongkaeo">นั่นไกล้ๆ กับ.....รึเปล่า?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Pokpong Wongkaeo">นั่นไกลจาก.....รึเปล่า?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อาศัยอยู่ใกล้กับ.....</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อาศัยอยู่ไกลกับ.....</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณพักที่ไหน?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)พักอยู่ที่โรงแรม.....</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณจะอยู่ที่นี่นานเท่าไหร่?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณจะกลับเมื่อไหร่?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมาถึงเมื่อไหร่?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณอยู่ที่นี่คนเดียวเหรอ?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อยู่ที่นี่คนเดียว</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)อยู่ที่นี่กับครอบครัว</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเป็นคนที่นี่รึเปล่า?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ไม่ได้เป็นคนที่นี่</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="Pokpong Wongkaeo">เราตั้งแคมป์ตรงนี้ได้มั้ย?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีที่ว่างมั้ย?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีที่กางเต๊นท์มั้ย?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="Pokpong Wongkaeo">คืนละเท่าไหร่?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="Pokpong Wongkaeo">เราอยากอยู่ 1 สัปดาห์</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="Pokpong Wongkaeo">ห้องอาบน้ำอยู่ที่ไหน?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="Pokpong Wongkaeo">ห้องน้ำอยู่ที่ไหน?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากได้ห้องเตียงเดี่ยว</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากได้ห้องที่มี.....</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Pokpong Wongkaeo">อ่างอาบน้ำ</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฝักบัว</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="Pokpong Wongkaeo">วิวสวยๆ</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Pokpong Wongkaeo">นอกชาน</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="Pokpong Wongkaeo">เตียงเสริม</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="Pokpong Wongkaeo">เตียงแยกกัน</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากได้ห้องเตียงคู่</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีอาหารเช้าด้วยมั้ย?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="Pokpong Wongkaeo">อาหารเช้าเสิร์ฟกี่โมง?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีห้องที่ถูกกว่านี้มั้ย?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีข้อความถึง(ผม/ฉัน)มั้ย?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอกุญแจด้วย</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="Pokpong Wongkaeo">ห้องของ(ผม/ฉัน)เบอร์อะไร?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ผม/ฉัน)ต้องการห้องที่มีห้องน้ำในตัว</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="Pokpong Wongkaeo">เซ็กส์</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณอยากนอนกับ(ฉัน/ผม)มั้ย?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณมีถุงยางมั้ย?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณกินยาคุมรึเปล่า?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ไม่เอาถ้าคุณไม่ใช้ถุงยาง</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="Pokpong Wongkaeo">ระวังหน่อยนะ | เบาๆ หน่อยนะ</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="Pokpong Wongkaeo">ชอบมั้ย?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ไม่ชอบ</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเป็นโสดรึเปล่า?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเป็นเกย์รึเปล่า?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณไม่ได้เป็นเกย์ใช่มั้ย?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเป็นเลสเบี้ยนรึเปล่า?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเป็นไบรึเปล่า?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="Pokpong Wongkaeo">ช็อปปิ้ง</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณช่วยอะไรหน่อยได้มั้ย?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ช่วยคุณได้มั้ย?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณอยากได้อะไร?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณกำลังหาอะไรอยู่?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)แค่เดินดู</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบอันนี้</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบกางเกงนี่</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบเสื้อนี่</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบแจ็กเก็ตนี่</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบเสื้อนี่</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบชุดนี่</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบแว่นนี่</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบรองเท้านี่</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)กำลังหา.....</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="Pokpong Wongkaeo">ลองได้มั้ย?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="Pokpong Wongkaeo">ลองได้มั้ย?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Pokpong Wongkaeo">ห้องลองอยู่ไหน?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Pokpong Wongkaeo">ยาวเกินไป</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="Pokpong Wongkaeo">คับเกินไป</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="Pokpong Wongkaeo">หลวมเกินไป</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="Pokpong Wongkaeo">มันไม่พอดี</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="Pokpong Wongkaeo">พอดีเลย</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณใส่ไซส์อะไร?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ใส่ไซส์.....</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ไม่เข้าใจไซส์นี่</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีใหญ่กว่านี้มั้ย?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีเล็กกว่านี้มั้ย?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ชอบสี</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="Pokpong Wongkaeo">(ฉัน/ผม)ไม่ชอบสี</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีสี แดง/น้ำเงิน/เหลือง/เขียว/ม่วง/ชมพู มั้ย?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีถูกกว่านี้มั้ย?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="Pokpong Wongkaeo">นี่ทำจากอะไร?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณซ่อมนี่ได้มั้ย?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="Pokpong Wongkaeo">ทัวร์</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="Pokpong Wongkaeo">ถ่ายรูปได้มั้ย?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณถ่ายรูปตรงนี้ไม่ได้</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีนำเที่ยวนั่งเรือในทะเลสาบมั้ย?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีเรือจ้างในแม่น้ำมั้ย?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีมัคคุเมศก์มั้ย?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="Pokpong Wongkaeo">ทัวร์ใช้เวลาเท่าไหร่?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีไนท์คลับดีๆ บ้างมั้ย?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีงานประจำเมืองบ้างรึเปล่า?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากไปโบสถ์</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากไปโบสถ์</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากไปมัสยิด</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากไปวัด</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="Pokpong Wongkaeo">ลดราคาให้เด็กรึเปล่า?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีราคาแบบกลุ่มมั้ย?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="Pokpong Wongkaeo">ลดราคาให้ผู้สูงอายุมั้ย์</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="Pokpong Wongkaeo">ลดราคาให้เด็กนักเรียนมั้ย?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="Pokpong Wongkaeo">เปิดปิดกี่โมง?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="Pokpong Wongkaeo">ปิดกี่โมง?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="Pokpong Wongkaeo">เปิดกี่โมง?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="Pokpong Wongkaeo">การแสดงเริ่มกี่โมง?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="Pokpong Wongkaeo">ที่นี่สร้างเมื่อไหร่?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="Pokpong Wongkaeo">ใครสร้างที่นี่?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภูเขานั้นสูงเท่าไหร่?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Pokpong Wongkaeo">ตัวนั้นเรียกว่าอะไร?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Pokpong Wongkaeo">นกนั่นเรียกว่าอะไร?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Pokpong Wongkaeo">ดอกไม้นั่นเรียกว่าอะไร?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Pokpong Wongkaeo">ต้นไม้นั่นเรียกว่าอะไร?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Pokpong Wongkaeo">ตึกนั่นชื่ออะไร?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Pokpong Wongkaeo">ภูเขานั่นชื่ออะไร?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไม่น้ำนั่นชื่ออะไร?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="Pokpong Wongkaeo">สูบบุหรี่</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="Pokpong Wongkaeo">การสูบบุหรี่ไม่ดีต่อสุขภาพนะ</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="Pokpong Wongkaeo">สูบบุหรี่ได้มั้ย?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีไฟมั้ย?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอบุหรี่ตัวนึงได้มั้ย?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="Pokpong Wongkaeo">ที่นี่ห้ามสูบบุหรี่หรือเปล่า?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="Pokpong Wongkaeo">ขอที่เขี่ยบุหรี่หน่อย</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Pokpong Wongkaeo">กีฬา</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีกระแสน้ำที่อันตรายไหม</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="Pokpong Wongkaeo">มีทางเดินน่าสนใจแถว ๆ นี้ไหม</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Pokpong Wongkaeo">สนามกอล์ฟที่ใกล้ที่สุดอยู่ที่ไหน</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Pokpong Wongkaeo">สระว่ายน้ำอยู่ที่ไหน</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="Pokpong Wongkaeo">ที่นี่ตกปลาได้ไหม</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="Pokpong Wongkaeo">ที่นี่ว่ายน้ำได้ไหม</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="Pokpong Wongkaeo">สมารถเช่า...ได้ไหม</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไม้(ตี)เบสบอล</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="Pokpong Wongkaeo">ลูกฟุตบอล</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="Pokpong Wongkaeo">สกีคู่หนึ่ง</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="Pokpong Wongkaeo">ไม้(ตี)เทนนิส</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Pokpong Wongkaeo">เรือ</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="Pokpong Wongkaeo">ผ้าเช็ดตัว</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="Pokpong Wongkaeo">ฉันหัด...ได้ไหม (insert sport name)</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="Pokpong Wongkaeo">อยากดูแข่งขันฟุตบอล</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="Pokpong Wongkaeo">คุณเล่น...ไหม</attrib>
+		</entry>
+	</entries>
+</ulr>

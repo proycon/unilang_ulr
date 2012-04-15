@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="bg">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Paruha">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Paruha">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Paruha">Обичам те</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Paruha">Бурята достига брега</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Paruha">Тези хора чуват силен звук</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Paruha">Вземам червената лампа</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Paruha">Тя вижда  птичка</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Paruha">Ние намираме стара сграда</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Paruha">Търся си ключовете</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Paruha">Докосвам главата ти</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Paruha">Той иска нова бяла кола</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Paruha">Тя отваря счупения прозорец</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Paruha">Силното момиче затваря тежката черна врата</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Paruha">Той решава ужасната задача</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Paruha">Ядосаният крадец губи много ценни пари</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Paruha">Те опитват вкусната храна</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Paruha">Полицаят е на друго мнение</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Paruha">Колегите пият студено кафе и топъл чай</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Paruha">Богатата компания/фирма продава пресни зеленчуци</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Paruha">Те купуват десет нови книги</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Paruha">Дясното му ухо го боли</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="Paruha">Познавам този висок човек</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth" author="Paruha">Слабата жена последва дебелия си шеф.</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth" author="Paruha">Бързият компютър си променя цвета</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="Paruha">Те избират грешния инструмент</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" author="Paruha">Моето семейство кани приятелски настроените съседи.</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="Paruha">Ние благодарим на скучните ученици.</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth" author="Paruha">Нейният съпруг се наслаждава на вечерта</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="Paruha">Тя чете нейния дневен вестник</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="Paruha">Бедният човек носи мръсни дрехи</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="Paruha">Силното животно се бие със слаба риба</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Paruha">Аз плащам 200 евро/долара</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Paruha">Тя харесва красивия език</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth" author="Paruha">Бурята достига брега</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth" author="Paruha">Мъжете строят нисък офис</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Paruha">Той има сини очи</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="Paruha">Днес вали сняг</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="Paruha">Той ще стане важна персона.</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="Paruha">Аз съм на международното летище</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Paruha">Тя е с чисти ръце</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Paruha">Той е младо момче</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="Paruha">Тя е лекар</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="Paruha">Аз оставам весел</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth" author="Paruha">Намокрям се от дъжда</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="Paruha">Конят е уплашен</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="Paruha">Бялото куче беше изненадано</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth" author="Paruha">Модерното общество е много напреднало</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="Paruha">Причината за сблъсъка е неизвестна</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="Paruha">Давам ти подарък</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="Paruha">Той ми задава труден въпрос</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="Paruha">Получавам съобщение от майка ми</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="Paruha">Пиша писмо до баща ми</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="Paruha">Те живеят в малък град</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="Paruha">Кучето стои пред телевизора</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="Paruha">Котката лежи на пода</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="Paruha">Децата играят отвън</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="Paruha">Тя говори за университета си</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="Paruha">Те напускат стаята тихомълком</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="Paruha">Той отговаря на учителя</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="Paruha">Вървя пред моята къща</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="Paruha">Тя спи в собственото си легло</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="Paruha">Самолетът лети над планините</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth" author="Paruha">Ние бягаме през голямата градина</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" author="Paruha">Книгата е на масата</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth" author="Paruha">Аз влизам в магазина с теб</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth" author="Paruha">Аз отивам до града с влак</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth" author="Paruha">Дървото расте бързо</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" author="Paruha">Той работи в малка фабрика</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth" author="Paruha">Глупавият президент си пада на носа</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" author="Paruha">Ние несъмнено вярваме в Бог</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth" author="Paruha">Аз се оплаквам от цената</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth" author="Paruha">Той хвърля скъпа топка по мен</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth" author="Paruha">Болният дядо умира близо до болницата</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth" author="Paruha">Аз разбирам изреченията на тази страница</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth" author="Paruha">Бабата разказва интересна приказка на детето</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" author="Paruha">Ние се надяваме, че той учи усилено</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth" author="Paruha">Той държи нож в лявата си ръка</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth" author="Paruha">Ние се намираме между двете езера</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth" author="Paruha">Той готви за неговата приятелка</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth" author="Paruha">Момичето изглежда красиво вечерта</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="Paruha">Дивото животно излезе от клетката си</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="Paruha">Аз сравнявам нашите закони с вашите</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth" author="Paruha">Аз шофирам към нашата столица на изток</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth" author="Paruha">Мъртвите хора се заравят дълбоко под почвата</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="Paruha">Свещеникът/Имамът/Равинът сa щастливи въпреки лошите обстоятелства</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth" author="Paruha">Малкото птиче над главата ми лети близо до родителите си</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth" author="Paruha">Избягах в повредената сграда на училището</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth" author="Paruha">Тази вода идва от далеч.</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="Paruha">Аз мислех за живота много</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth" author="Paruha">Кога ще дойде приятелят(male)/приятелката(Female) ти?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth" author="Paruha">Колко си спомняш?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth" author="Paruha">Колко души ще ти помогнат?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth" author="Paruha">Защо крадеш тези неща?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="Paruha">На колко си години?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth" author="Paruha">Как създавате(pl.) този продукт?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth" author="Paruha">Кой е най-интелигентният човек в света?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth" author="Paruha">Какво откриваш в морето?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth" author="Paruha">Какъв сандвич предпочиташ?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth" author="Paruha">Откъде си?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" author="Paruha">Накъде отиваш?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth" author="Paruha">Този магазин съществува ли?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth" author="Paruha">Каква е причината за това разузнаване?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth" author="Paruha">Кои автобуси са готови за тръгване?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth" author="Paruha">Аз само искам да хапна нещо</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth" author="Paruha">Аз никога не сънувам</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth" author="Paruha">Той винаги пристига рано</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth" author="Paruha">Той понякога е прав</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="Paruha">Ние нищо не печелим</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth" author="Paruha">Ние обикновено се борим срещу враговете ни</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth" author="Paruha">Те често губят в тази игра</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth" author="Paruha">Иска ми се вече да сме утре</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth" author="Paruha">Има много звезди в космоса</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth" author="Paruha">Той често показва голото си тяло</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth" author="Paruha">Ние рядко крием идеите си</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth" author="Paruha">Той се смее на някакъв виц</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" author="Paruha">Аз гледам навсякъде</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth" author="Paruha">Той не се страхува от никого</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth" author="Paruha">Той танцува с някого на улицата</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth" author="Paruha">Можеш да си избереш каквото си поискаш</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth" author="Paruha">С жена ми правим секс всяка нощ</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth" author="Paruha">Предлагам ви две безплатни цветя</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth" author="Paruha">Той пя докато родителите му слушака</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth" author="Paruha">Ние ядохме след като ходихме на кино</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth" author="Paruha">Ние видяхме хотела преди тях</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth" author="Paruha">Ти (2nd person sg) можеш да почистиш тази стая докато собственикът се върне</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth" author="Paruha">Опитвам се да се интересувам от политика, защото ще трябва да гласувам следващия месец</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth" author="Paruha">Тази чаша е празна, но другата чаша е пълна</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth" author="Paruha">Те крещят така, че всички ги забелязват</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth" author="Paruha">Разрешавам ти(2nd person sg) да правиш това, въпреки че брат ми го забранява</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth" author="Paruha">Изморен съм, следователно няма да ставам</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth" author="Paruha">Искам да убия лошите затворници с изключение на този с русата коса</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth" author="Paruha">Убиецът трябваше да бъде осъден, но вместо това той беше освободен</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth" author="Paruha">Не сме се срещали отдавна</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth" author="Paruha">Не съм я чувал от сутринта</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth" author="Paruha">Въпреки опастността, той влезе в тъмната къща срещу църквата/джамията/храма</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth" author="Paruha">Алкохолът е бил забранен преди според баща ми</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth" author="Paruha">Този район ми харесва заради пленителната си история</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth" author="Paruha">Избягах в повредената сграда на училището</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth" author="Paruha">Тази вода итва отдалеч</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth" author="Paruha">Почивах си през ваканцията</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth" author="Paruha">Чакам сестра ми да дойде</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth" author="Paruha">Той доказва, че е прав</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth" author="Paruha">Ние вярваме, че е невъзможно</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth" author="Paruha">Тя се усмихва и той я целува</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth" author="Paruha">Ние все пак не сме съгласни с неговото решение</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" author="Paruha">Знам какво си мислиш</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth" author="Paruha">Жената знае как да пече хляб</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth" author="Paruha">Аз мога да видя няколко думи</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth" author="Paruha">Аз съм по-голям от теб</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth" author="Paruha">Той е малък колкото теб</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth" author="Paruha">Той започва да мрази училището си</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth" author="Paruha">Тя завършва учението си по този труден предмет</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth" author="Paruha">Те спират да мислят за правителството</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth" author="Paruha">Ние продължаваме работата си</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth" author="Paruha">Те се приготвят да изоставят кораба</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth" author="Paruha">Трябва да забравя това, което видях</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth" author="Paruha">Ти си глупав, ако приемеш това станно обяснение.</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth" author="Paruha">Ще пътувам до твоята държава, освен ако вали</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth" author="Paruha">Сляпото момиче помирисва много добре</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth" author="Paruha">Вчера всичките ми проблеми бяха далеч</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth" author="Paruha">Не съм го виждал от три години</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth" author="Paruha">Очаквам го да ме посети за пет часа</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth" author="Paruha">Реших да пренебрегна тяхното решение</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth" author="Paruha">Повтарям заключението си отново</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth" author="Paruha">Аз уча учениците как да броят до десет</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth" author="Paruha">Можеш(2nd person sg) ли да преведеш този текст на Английски?</attrib>
+		</entry>
+		<entry id="165">
+			<attrib type="orth" author="Paruha">Ти поправи повредата сам, когато беше учатва в инцидента предният път</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth" author="Paruha">За мен е невъзможно да разбера значението</attrib>
+		</entry>
+		<entry id="167">
+			<attrib type="orth" author="Paruha">Ще ми донесеш ли куфара или ще трябва да си го нося сам?</attrib>
+		</entry>
+		<entry id="168">
+			<attrib type="orth" author="Paruha">Все още не мога да науча този урок</attrib>
+		</entry>
+		<entry id="169">
+			<attrib type="orth" author="Paruha">Това вероятно е много честа грешка</attrib>
+		</entry>
+		<entry id="170">
+			<attrib type="orth" author="Paruha">За щастие по принцип съм здрав, но за съжаление си нараних крака</attrib>
+		</entry>
+		<entry id="171">
+			<attrib type="orth" author="Paruha">Времето е хубаво, освен това слънцето грееше цял ден</attrib>
+		</entry>
+		<entry id="172">
+			<attrib type="orth" author="Paruha">Знаеш(2nd person sg) ли дали той ще може да уреди виното за партито?</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth" author="Paruha">Моята религия е все още същата като преди</attrib>
+		</entry>
+		<entry id="174">
+			<attrib type="orth" author="Paruha">Армията е излишна, ако няма война, а има мир</attrib>
+		</entry>
+		<entry id="175">
+			<attrib type="orth" author="Paruha">Международният войник застрелва невинен минувач</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth" author="Paruha">Може би не е вероятно това някога да се случи</attrib>
+		</entry>
+		<entry id="177">
+			<attrib type="orth" author="Paruha">Изглежда, е време да се махаме (изнасяме, изчезваме)</attrib>
+		</entry>
+		<entry id="178">
+			<attrib type="orth" author="Paruha">Моята възраст се смята за тайна</attrib>
+		</entry>
+		<entry id="179">
+			<attrib type="orth" author="Paruha">Очаква се да използваме речник у калкулатор по време на този курс</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth" author="Paruha">Страхувам се да завърша това, което започнах</attrib>
+		</entry>
+		<entry id="181">
+			<attrib type="orth" author="Paruha">Не мога да сравнявам твоето рисуване с моето</attrib>
+		</entry>
+		<entry id="182">
+			<attrib type="orth" author="Paruha">Електрическият уред създава много енергия</attrib>
+		</entry>
+		<entry id="183">
+			<attrib type="orth" author="Paruha">Предлагам да не отиваме на север, а на юг</attrib>
+		</entry>
+		<entry id="184">
+			<attrib type="orth" author="Paruha">Чувствам се зле. Всъщност се чувствам по-зле от миналата седмица.</attrib>
+		</entry>
+		<entry id="185">
+			<attrib type="orth" author="Paruha">Бебетата наистина все още не могат да говорят</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth" author="Paruha">Последствията трябва веднага да бъдат съзнати.</attrib>
+		</entry>
+		<entry id="187">
+			<attrib type="orth" author="Paruha">Знам много добре дали да действам или не</attrib>
+		</entry>
+		<entry id="188">
+			<attrib type="orth" author="Paruha">Той мина през гората.</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth" author="Paruha">Съучениците ми играеха заедно, но аз седях сам в един ъгъл</attrib>
+		</entry>
+		<entry id="190">
+			<attrib type="orth" author="Paruha">Детето искаше да е любезно към тях, но въпреки това те не го харесаха</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth" author="Paruha">Учителят(male) каза, че не трябва да говоря такива неща</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth" author="Paruha">Майка винаги е мислила, че аз имам нужда от допълнително внимание</attrib>
+		</entry>
+	</entries>
+</ulr>

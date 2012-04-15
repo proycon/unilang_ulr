@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="slavelion" version="1.9" baselang="es">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Sapthan">El esclavo y el león</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Sapthan">Un león puede ser el mejor amigo del hombre</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Sapthan">Un esclavo escapó de su amo, por quien había sido tratado muy cruelmente, y, para evitar la captura, se adentró en el desierto. Vagando en busca de alimento y resguardo, llegó a una cueva, en la que entró y halló desocupada.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Sapthan">En realidad, era una cueva de León, y casi inmediatamente, para horror del infeliz fugitivo, el León mismo apareció. El hombre se dió por perdido; pero, para su total asombro, el León, en vez de saltar sobre el y devorarlo, avanzó mansamente hacia él, gimiendo y levantando su pata al mismo tiempo. Notando que ésta estaba muy inflamada e hinchada, el hombre la examinó y encontró una gran espina clavada en la base de la pata. Quitó la espina y vendó la herida tan bien como pudo; y con el tiempo ésta sanó por completo</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Sapthan">La gratitud del león no tenía límite; veía al hombre como su amigo, y compartieron la cueva por un tiempo. Llegó un día, sin embargo, en que el esclavo comenzó a añorar la compañía de otros hombres, y se despidió del león y regresó a la ciudad.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Sapthan">Ahí fué prontamente reconocido y llevado en cadenas a su antiguo amo, quien resolvió utilizarlo como ejemplo, y ordenó que fuera tirado a las bestias en el siguiente espectáculo público en el circo. En el día fatal las bestias fueron soltadas en la arena, y entre ellas un león enorme y de aspecto feroz; y entonces el infeliz esclavo fué arrojado entre ellas.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Sapthan">¡Cual sería el asombro de los espectadores, cuando el león luego de verlo corrió hacia él y se echó a sus pies con expresión de afecto y alegría! ¡Era su viejo amigo de la cueva! El público clamó por la vida del esclavo; y el gobernador de la ciudad, maravillado ante tal muestra de gratitud y lealtad en una bestia, decretó que ambos recibirían su libertad.</attrib>
+		</entry>
+	</entries>
+</ulr>

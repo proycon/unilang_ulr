@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="paul1" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="af" stats="17" />
+		<language lang="bg" stats="17" />
+		<language lang="de" stats="17" />
+		<language lang="el" stats="17" />
+		<language lang="en" stats="17" />
+		<language lang="eo" stats="17" />
+		<language lang="es" stats="17" />
+		<language lang="et" stats="17" />
+		<language lang="fi" stats="17" />
+		<language lang="fr" stats="17" />
+		<language lang="ga" stats="17" />
+		<language lang="gd" stats="17" />
+		<language lang="gl" stats="17" />
+		<language lang="hr" stats="17" />
+		<language lang="it" stats="17" />
+		<language lang="ja" stats="17" />
+		<language lang="nl" stats="17" />
+		<language lang="pl" stats="17" />
+		<language lang="pt" stats="17" />
+		<language lang="ro" stats="17" />
+		<language lang="ru" stats="17" />
+		<language lang="sr" stats="16" />
+		<language lang="sv" stats="17" />
+		<language lang="tr" stats="17" />
+	</languages>
+	<authors>
+		<author id="Louisa" langs="af" lastmodified="0" />
+		<author id="magi_w" langs="bg" lastmodified="0" />
+		<author id="Kubi" langs="de" lastmodified="0" />
+		<author id="Yiannisscheidt" langs="el" lastmodified="0" />
+		<author id="Abavagada" langs="en,eo" lastmodified="0" />
+		<author id="Ella" langs="es" lastmodified="0" />
+		<author id="Loiks" langs="et" lastmodified="0" />
+		<author id="Liisi" langs="fi" lastmodified="0" />
+		<author id="Emandir" langs="fr" lastmodified="0" />
+		<author id="jbflanman &amp; Quevenois" langs="ga" lastmodified="0" />
+		<author id="Richard Raw" langs="gd" lastmodified="0" />
+		<author id="Eva Moreda" langs="gl" lastmodified="0" />
+		<author id="eltigre" langs="hr" lastmodified="0" />
+		<author id="martyno" langs="it" lastmodified="0" />
+		<author id="hiro" langs="ja" lastmodified="0" />
+		<author id="Ron" langs="nl" lastmodified="0" />
+		<author id="arti" langs="pl" lastmodified="0" />
+		<author id="Hefestos" langs="pt" lastmodified="0" />
+		<author id="aldaesme" langs="ro" lastmodified="0" />
+		<author id="Lada" langs="ru" lastmodified="0" />
+		<author id="Bugi" langs="sr" lastmodified="0" />
+		<author id="Curiosus" langs="sv" lastmodified="0" />
+		<author id="oncue" langs="tr" lastmodified="0" />
+		<author id="10414" langs="ga" lastmodified="1243713826" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">paul1.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+		<entry id="5" type="paragraph" />
+		<entry id="6" type="paragraph" />
+		<entry id="7" type="paragraph" />
+		<entry id="8" type="paragraph" />
+		<entry id="9" type="paragraph" />
+		<entry id="10" type="paragraph" />
+		<entry id="11" type="paragraph" />
+		<entry id="12" type="paragraph" />
+		<entry id="13" type="paragraph" />
+		<entry id="14" type="paragraph" />
+		<entry id="15" type="paragraph" />
+	</entries>
+</ulr>

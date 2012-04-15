@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="hu">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="egovki">Az Északi Szél és a Nap</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="egovki">A szél és a nap versenyeznek.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="egovki">Vitába keveredett az Északi Szél és a Nap, mindkettő azt állítván magáról, hogy erősebb, mint a másik. Végül megegyeztek, hogy kipróbálják erejüket egy vándoron, hogy lássák, melyikük veszi rá hamarabb, hogy levesse köpenyét.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="egovki">Először az Északi Szél tett próbát; nekigyűrkőzve minden erejével a támadásnak, dühödten forogva csapott le az emberre, és meglobogtatta köpenyét, mintha egyetlen nekifeszüléssel akarná elragadni róla: de minél erősebben fújt, annál jobban maga köré tekerte az ember a köpenyt.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="egovki">Most a Nap következett. Először csak lágyan melengette a vándort, aki hamarost kicsatolta magán a köpenyt, és úgy ment tovább, hogy az csak lazán borult a vállára: aztán teljes erejéből kezdett sütni, és az ember már pár lépés után boldogan dobta le magáról a köpenyt, és könnyebben öltözve fejezhette be útját.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="egovki">A rábeszélés jobb, mint az erőszakoskodás.</attrib>
+		</entry>
+	</entries>
+</ulr>

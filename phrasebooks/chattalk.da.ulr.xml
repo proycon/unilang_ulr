@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="da">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Hej</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Hej alle sammen</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Godmorgen</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Godeftermiddag</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Godaften</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Godnat</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Hej der</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">At starte en samtale</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Nogle nyheder?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Hvad så?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Hvad snakker du om? | Hvad er emnet?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Hvordan har du det?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Hvordan har I det?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Hvordan går alting?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Personlige spørgsmål</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Hvor er du fra, {brugernavn}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Er du ny her? | Er det din første gang her?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Hvilke sprog taler du?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="16000" lastmodified="1241547780">Hvor i {land} bor du?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Hvor gammel er du?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Hvilke sprog lærer du?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">At tale om sig selv</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="16000" lastmodified="1241547840">Jeg er fra {land}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Jeg taler [sprog]</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Undskyld, jeg taler ikke {sprog}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Jeg lærer | Jeg vil gerne lære {sprog}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Slutte en samtale</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Hyggeligt at have mødt dig</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Hyggeligt at snakke med dig</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Jeg må gå</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Tid til middag</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Jeg går i seng</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Jeg skal ind og sove</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Vi ses senere</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Vi ses i morgen</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Vi ses snart</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Vi ses næste gang</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Godnat allesammen</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Farvel allesammen!</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Er straks tilbage</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Er tilbage senere</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Ekstra</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Tak</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Mange tak</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Undskyld</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">Griner højt</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

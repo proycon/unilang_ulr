@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="bg">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="9000" lastmodified="1246389136">Доячката и нейното ведро</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="9000" lastmodified="1246389136">Една доячка мечтае за бъдещето си</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="9000" lastmodified="1246389136">Една фермерска дъщеря била отишла  да издои кравите и вече се връщала в мандрата, носейки ведрото с мляко на главата си. Както вървяла по пътя, започнала да размишлява така: </attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="9000" lastmodified="1246389136">"От млякото в това ведро ще получа сметана, която ще превърна в масло и ще отнеса за продан на пазара. С парите ще купя малко яйца и когато се излюпят, от тях ще получа пилета и след известно време ще имам един доста голям кокошарник. Тогава ще продам част от кокошките си и с парите, които ще спечеля от тях, ще си купя нова рокля, която ще нося на панаира; и всички момци ще й се възхищават и ще дойдат и ще ме обичат, но аз ще клатя глава и няма да имам какво да им кажа."</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="9000" lastmodified="1246389136">Тя напълно забравила за ведрото и, подражавйки на думите си, поклатила глава. И ето че ведрото паднало и млякото се разляло, и всичките й красиви въздушни замъци се разтворили във въздуха.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="9000" lastmodified="1246389136">Не брой пилците, преди да се излюпят.</attrib>
+		</entry>
+	</entries>
+</ulr>

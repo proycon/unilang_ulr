@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="hr">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Pojedinačne fraze</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Sretan sam / Sretna sam</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Nisam sretan / Nisam sretna</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Bio sam sretan / Bila sam sretna</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Ona je također sretna</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Oboje smo sretni</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="7754" lastmodified="1232576694" variant="1">Postanem sretan / Postanem sretna</attrib>
+			<attrib type="orth" author="7754" lastmodified="1232576694">Postajem sretan / Postajem sretna</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Ostanem sretan / Ostanem sretna</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Ili si bogat ili si siromašan</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Nisi ni sretan ni tužan</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Ovo je veliko stablo</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="7754" lastmodified="1232576694">Ono je veliko stablo</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" author="7754" lastmodified="1232576722">Ono je veliko stablo</attrib>
+		</entry>
+	</entries>
+</ulr>

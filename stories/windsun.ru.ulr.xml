@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="ru">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kathy">Северный Ветер и Солнце</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kathy">Соревнование ветра и солнца</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kathy">У Северного Ветра и Солнца возник спор. Каждый из них утверждал, что он сильнее другого. Наконец, они решили попробовать свои силы на путешественнике - проверить, кто быстрее снимет с него плащ.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kathy">Первым пробовал Северный Ветер. Собрав все силы для атаки, он в яростном вихре ринулся на человека и приподнял его плащ. Казалось, он сорвёт плащ с первой же попытки. Но чем сильнее он дул, тем больше человек запахивал плащ.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kathy">Затем пришла очередь Солнца. Сначала оно слегка улыбалось путешественнику, который скоро расстегнул свой плащ, так что плащ свободно висел у него на плечах. Затем Солнце засветило в полную силу, и человек, не пройдя и десятка шагов, рад был скинуть плащ совсем и продолжить прогулку более легко одетым.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Kathy">Убеждение лучше, чем сила.</attrib>
+		</entry>
+	</entries>
+</ulr>

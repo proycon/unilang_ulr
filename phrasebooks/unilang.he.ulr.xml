@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="he">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Michaela">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Michaela">This is a medium-sized phrasebook containing useful common phrases, translated into Hebrew along with transliteration (the common method; stressed vowels are marked with circumflex: ^ )</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Michaela">ביטויים נפוצים ביותר</attrib>
+			<attrib type="phon" author="Michaela">bituyîm nefotsîm beyotêr</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Michaela">כן</attrib>
+			<attrib type="phon" author="Michaela">ken</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Michaela">לא</attrib>
+			<attrib type="phon" author="Michaela">lo</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Michaela">בבקשה</attrib>
+			<attrib type="phon" author="Michaela">bevakashâ</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Michaela">בבקשה / הינה</attrib>
+			<attrib type="phon" author="Michaela">bevakashâ / hîne</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Michaela">תודה</attrib>
+			<attrib type="phon" author="Michaela">todâ</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Michaela">בבקשה / אין בעד מה</attrib>
+			<attrib type="phon" author="Michaela">bevakashâ / eyn beâd ma!</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Michaela">סליחה</attrib>
+			<attrib type="phon" author="Michaela">slikhâ</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Michaela">אולי</attrib>
+			<attrib type="phon" author="Michaela">ulây</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Michaela">שלום / היי</attrib>
+			<attrib type="phon" author="Michaela">shalôm / hay</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Michaela">להתראות</attrib>
+			<attrib type="phon" author="Michaela">lehitraôt</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Michaela">יום טוב / שלום</attrib>
+			<attrib type="phon" author="Michaela">yom tov / shalôm</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Michaela">בוקר טוב</attrib>
+			<attrib type="phon" author="Michaela">bôker tov</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Michaela">ערב טוב</attrib>
+			<attrib type="phon" author="Michaela">êrev tov</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Michaela">לילה טוב</attrib>
+			<attrib type="phon" author="Michaela">lâyla tov</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Michaela">ברוך הבא</attrib>
+			<attrib type="phon" author="Michaela">barûkh habâ</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Michaela">נסיעה טובה!</attrib>
+			<attrib type="phon" author="Michaela">nesiâ tovâ!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Michaela">להבין האחד את השני</attrib>
+			<attrib type="phon" author="Michaela">lehavîn haekhâd et hashenî</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Michaela">את/ה מדבר/ת....?</attrib>
+			<attrib type="phon" author="Michaela">atâ medabêr...? (to m) at medabêret..? (to f)</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Michaela">אני מדבר/ת......</attrib>
+			<attrib type="phon" author="Michaela">anî medabêr..(m) anî medabêret...(f)</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Michaela">אני לא מדבר/ת...</attrib>
+			<attrib type="phon" author="Michaela">anî lo medabêr...(m) anî lo medabêret...(f)</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Michaela">אני מדבר/ת קצת...</attrib>
+			<attrib type="phon" author="Michaela">anî medabêr (m) / medabêret (f) ktsat...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Michaela">אנגלית</attrib>
+			<attrib type="phon" author="Michaela">anglît</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Michaela">צרפתית</attrib>
+			<attrib type="phon" author="Michaela">tsarfatît</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Michaela">גרמנית</attrib>
+			<attrib type="phon" author="Michaela">germanît</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Michaela">ספרדית</attrib>
+			<attrib type="phon" author="Michaela">sfaradît</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Michaela">פורטוגלית / פורטוגזית</attrib>
+			<attrib type="phon" author="Michaela">portugâlit / portugêzit</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Michaela">ערבית</attrib>
+			<attrib type="phon" author="Michaela">aravît</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Michaela">סינית</attrib>
+			<attrib type="phon" author="Michaela">sînit</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Michaela">הינדי</attrib>
+			<attrib type="phon" author="Michaela">hîndi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Michaela">רוסית</attrib>
+			<attrib type="phon" author="Michaela">rusît</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Michaela">איטלקית</attrib>
+			<attrib type="phon" author="Michaela">italkît</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Michaela">הולנדית</attrib>
+			<attrib type="phon" author="Michaela">holândit</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Michaela">נורבגית</attrib>
+			<attrib type="phon" author="Michaela">norvêgit</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Michaela">שבדית</attrib>
+			<attrib type="phon" author="Michaela">shvêdit</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Michaela">דנית</attrib>
+			<attrib type="phon" author="Michaela">dênit</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Michaela">פולנית</attrib>
+			<attrib type="phon" author="Michaela">polanît</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Michaela">אורדו</attrib>
+			<attrib type="phon" author="Michaela">ûrdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Michaela">פרסית</attrib>
+			<attrib type="phon" author="Michaela">pârsit</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Michaela">יפנית</attrib>
+			<attrib type="phon" author="Michaela">yapânit</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Michaela">אינדונזית</attrib>
+			<attrib type="phon" author="Michaela">indonêzit</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Michaela">מאלאית</attrib>
+			<attrib type="phon" author="Michaela">malâit</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Michaela">את/ה מבינ/ה?</attrib>
+			<attrib type="phon" author="Michaela">atâ mevîn? (to m) at mevinâ? (to f)</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Michaela">את/ה מבינה/ה אותי?</attrib>
+			<attrib type="phon" author="Michaela">atâ mevîn (to m) otî? at mevinâ (to f) otî?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Michaela">אני מבינ/ה</attrib>
+			<attrib type="phon" author="Michaela">anî mevîn (m) anî mevinâ (f)</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Michaela">אני מבינ/ה אותך</attrib>
+			<attrib type="phon" author="Michaela">anî mevîn (m) /mevinâ (f) otkhâ(to m) otâkh (to f)</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Michaela">אני לא מבינ/ה</attrib>
+			<attrib type="phon" author="Michaela">anî lo mevîn (m) / mevinâ (f)</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Michaela">אני לא מבינ/ה אותך</attrib>
+			<attrib type="phon" author="Michaela">anî lo mevîn (m) / mevinâ (f) otkhâ(to m) / otâkh (to f)</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Michaela">את/ה יכול/ה לחזור על זה בבקשה?</attrib>
+			<attrib type="phon" author="Michaela">atâ yakhôl (to m) / at yekholâ (to f) lakhzôr al ze bevakashâ</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Michaela">את/ה יכול/ה בבקשה לדבר יותר לאט?</attrib>
+			<attrib type="phon" author="Michaela">atâ yakhôl (to m) / at yekholâ (to f) bevakashâ ledabêr yotêr leât?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Michaela">את/ה יכול/ה לכתוב את זה בבקשה?</attrib>
+			<attrib type="phon" author="Michaela">atâ yakhôl (m) / at yekholâ (f) likhtôv et ze bevakashâ?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Michaela">אני לא יודע/ת איך להגיד את זה</attrib>
+			<attrib type="phon" author="Michaela">anî lo yodêa (m) / yodâat (f) eykh lehagîd et ze</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Michaela">אני לא יודע/ת מה המילה המתאימה</attrib>
+			<attrib type="phon" author="Michaela">anî lo yodêa (m) / yodâat (f) ma hamilâ hamatimâ</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Michaela">מה אמרת?</attrib>
+			<attrib type="phon" author="Michaela">ma amârta? (to m) / ma amârt? (to f)</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Michaela">איך אומרים את זה ב...?</attrib>
+			<attrib type="phon" author="Michaela">eych omrîm et ze be...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Michaela">איך כותבים את זה?</attrib>
+			<attrib type="phon" author="Michaela">eych kotvîm et ze?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Michaela">איך מבטאים את זה?</attrib>
+			<attrib type="phon" author="Michaela">eych mevatîm et ze?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Michaela">אתה יכול לתרגם בשבילי?</attrib>
+			<attrib type="phon" author="Michaela">atâ yakhôl lrtagêm bishvilî</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Michaela">אמרתי את זה נכון?</attrib>
+			<attrib type="phon" author="Michaela">amrâti et ze nakhôn</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Michaela">שיחה בסיסית</attrib>
+			<attrib type="phon" author="Michaela">siha bsisit</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Michaela">מה שלומך?</attrib>
+			<attrib type="phon" author="Michaela">[M]ma shlomkha?,[F]ma shlomekh?</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Michaela">בן/בת כמה את/ה?</attrib>
+			<attrib type="phon" author="Michaela">[M]ben kama ata?,[F]bat kama at?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Michaela">אני בן/בת...</attrib>
+			<attrib type="phon" author="Michaela">[M]ani ben... [F]ani bat...</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Michaela">אני לא יודע/ת</attrib>
+			<attrib type="phon" author="Michaela">[M]ani lo yode'a,[F]ani lo yoda'at</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Michaela">אני מוכן/מוכנה</attrib>
+			<attrib type="phon" author="Michaela">[M]ani mukhan,[F]ani mukhana</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Michaela">אני מצטער/ת</attrib>
+			<attrib type="phon" author="Michaela">[M]ani mits'ta'er,[F]ani mits'ta'eret</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Michaela">כלכלה ועסקים</attrib>
+			<attrib type="phon" author="Michaela">kalkala ve'asakim</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Michaela">כגורגל</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Michaela">יום שני</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Michaela">יום שלישי</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Michaela">יום רביעי</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Michaela">יום חמישי</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Michaela">יום ששי</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Michaela">שבת</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Michaela">יום ראשון</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Michaela">ינואר</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Michaela">פברואר</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Michaela">מרץ</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Michaela">אפריל</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Michaela">מאי</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Michaela">יוני</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Michaela">יולי</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Michaela">אוגוסט</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Michaela">ספטמבר</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Michaela">אוקטובר</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Michaela">נובמבר</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Michaela">דצמבר</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Michaela">איפה אתה</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Michaela">אני מורה</attrib>
+			<attrib type="phon" author="Michaela">Ani moreh/morah</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Michaela">אני סטודנט\\סטודנטית</attrib>
+			<attrib type="phon" author="Michaela">Ani student/studentit</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Michaela">אני עובד\\עובדת במסעדה</attrib>
+			<attrib type="phon" author="Michaela">Ani oved/ovedet be mis-a-dah</attrib>
+		</entry>
+	</entries>
+</ulr>

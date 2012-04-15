@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="gl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Porto">O corvo e a xarra</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Porto">Un corvo usa o seu cerebro para botar un grolo.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Porto">Un corvo sedento atopou unha Xarra cunha pouca auga nela, pero tan pouca auga tiña que intentou como puido, non puido  alcanzala co seu pico, e pareceu que morrería de sede para achegarse ó remedio.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Porto">Ó final atopou un áxil plan. Comezou a botar guixarros na xarra e con cada guixarro a auga alcanzaba a subir un pouco máil alto ate que ó final alcanzou o tope, e o sabio paxaro foi capaz de saciar a súa sede.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Porto">A necesidade é a nai  da invención</attrib>
+		</entry>
+	</entries>
+</ulr>

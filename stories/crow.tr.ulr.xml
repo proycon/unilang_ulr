@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="tr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">Karga ve Sürahi</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">Karga su içmek için aklını kullanır.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">Susamış bir karga, içinde birazcık su olan bir sürahi bulmuş. ama su o kadar azmış ki ne kadar denese de gagasıyla ona ulaşamamış, ve susuzluktan ölecekmiş gibi görünüyormuş çaresinin yanıbaşında.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">Sonunda akıllıca bir plan bulmuş. Sürahinin içine çakıltaşları atmaya başlamış ve her bir çakıltaşı ile su azıcık yükselmiş sonunda sürahinin ağzına varıncaya dek ve akıllı kuş susuzluğunu yatıştırmayı başarmış.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">Gereksinim (İhtiyaç) buluşun (icadın) anasıdır.</attrib>
+		</entry>
+	</entries>
+</ulr>

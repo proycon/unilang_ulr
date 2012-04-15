@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="bg">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="9000" lastmodified="1246379079">Номинални фрази</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Аз съм щастлив</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Аз съм щастлива</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Не съм щастлив</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Не съм щастлива</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Бях щастлив</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Бях щастлива</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217790006">Тя също е щастлива.</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">И двамата сме щастливи.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">И двете сме щастливи.</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Ставам щастлив</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ставам щастлива</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Оставам щастлив</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Оставам щастлива</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Или си беден, или богат.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Или си бедна, или богата.</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Нито си щастлив, нито тъжен.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Нито си щастлива, нито тъжна.</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217790006">Това е голямо дърво.</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217790006">Онова е голямо дърво.</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217790006">Това е голямото дърво.</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217790006">В градината ми има голямо дърво.</attrib>
+		</entry>
+		<entry id="e15000">
+			<attrib type="orth" author="9000" lastmodified="1247511772">Словоред</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" lastmodified="1217790006">Внимателно давам на опасния мъж парите на баща си на уговореното място пред църквата.</attrib>
+		</entry>
+		<entry id="e17000">
+			<attrib type="orth" author="9000" lastmodified="1247511772">Вербални фрази - време/наклонение/аспект</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" lastmodified="1217790006">Пиша писмо днес.</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" lastmodified="1217790006">Не пиша писмото днес.</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" lastmodified="1217790006">Не пиша писмо днес.</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217790006">Написах писмо вчера.</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" lastmodified="1217790006">Не написах писмото вчера.</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" lastmodified="1217790006">Не написах писмото вчера.</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" lastmodified="1217790006">Писах писмо всеки месец.</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" lastmodified="1217790006">Пишех писмо всеки месец.</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" lastmodified="1217790006">Ще пиша писмо утре.</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" lastmodified="1217790006">Няма да пиша писмо утре.</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Бих написал писмо</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Бих написала писмо.</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Бих писал писмо, ако имах молив.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Бих писала писмо, ако имах молив.</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Писал съм писмо.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Писала съм писмо.</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="gender" lastmodified="1217790006">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Бях писал писмо. (m) Бях писала писмо.</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" lastmodified="1217790006">Пиша писмо.</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" lastmodified="1217790006">Пишех писмо.</attrib>
+		</entry>
+		<entry id="e34000">
+			<attrib type="orth" author="9000" lastmodified="1247512008">Вербални фрази - модалност</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" lastmodified="1217790006">Мога да напиша писмо.</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" lastmodified="1217790006">Мога да пиша писмо.</attrib>
+		</entry>
+		<entry id="e37000">
+			<attrib type="orth" lastmodified="1217790006">Можах да напиша писмо.(=i succeeded to write a letter);</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" lastmodified="1217790006">Можех да напиша писмо.</attrib>
+		</entry>
+		<entry id="e39000">
+			<attrib type="orth" lastmodified="1217790006">Можех да пиша писмо.</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217790006">Трябва да напиша писмо.</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" lastmodified="1217790006">Трябваше да напиша писмо.</attrib>
+		</entry>
+		<entry id="e42000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Трябваше да съм написал писмо.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Трябваше да съм написала писмо</attrib>
+		</entry>
+		<entry id="e43000">
+			<attrib type="orth" lastmodified="1217790006">Трябва да пиша писмо.</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" lastmodified="1217790006">Мога да напиша писмо.</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Бих могъл да напиша писмо.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Бих могла да напиша писмо.</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" lastmodified="1217790006">Имам нужда да напиша писмо.</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" lastmodified="1217790006">Имах нужда да напиша писмо.</attrib>
+		</entry>
+		<entry id="e48000">
+			<attrib type="orth" author="9000" lastmodified="1247512081">Вербални фрази - страдателен залог</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" lastmodified="1217790006">Писмото е написано от мен.</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" lastmodified="1217790006">Писмото беше написано от мен.</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" lastmodified="1217790006">Писмото е било написано от мен.</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" lastmodified="1217790006">Писмото ще бъде написано от мен.</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" lastmodified="1217790006">Писмото би било написано от мен.</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" lastmodified="1217790006">Писмото щеше да бъде написано от мен.</attrib>
+		</entry>
+		<entry id="e55000">
+			<attrib type="orth" author="9000" lastmodified="1247512115">Вербални фрази - императив</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" lastmodified="1217790006">Напиши писмо!</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" author="9000" lastmodified="1247512115">Напишете писмо! [Вие-sg polite]</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" lastmodified="1217790006">Не пиши писмо!</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" lastmodified="1217790006">Не пишете писмо! [Вие]</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" lastmodified="1217790006">Хайде да напишем писмо!</attrib>
+		</entry>
+		<entry id="e61000">
+			<attrib type="orth" lastmodified="1217790006">Нека писмото бъде написано!</attrib>
+		</entry>
+		<entry id="e62000">
+			<attrib type="orth" author="9000" lastmodified="1247512560">Вербални фрази - подчинително наклонение, съмнение, увереност, надежда, емоция</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" lastmodified="1217790006">Съмнявам се че той пише писмо.</attrib>
+		</entry>
+		<entry id="e64000">
+			<attrib type="orth" lastmodified="1217790006">Съмнявам се че той написа писмо вчера.</attrib>
+		</entry>
+		<entry id="e65000">
+			<attrib type="orth" lastmodified="1217790006">Съмнявам се че той е писал писмо всеки ден.</attrib>
+		</entry>
+		<entry id="e66000">
+			<attrib type="orth" lastmodified="1217790006">Съмнявам се че той е написал писмо.</attrib>
+		</entry>
+		<entry id="e67000">
+			<attrib type="orth" lastmodified="1217790006">Съмнявам се че той ще напише писмо.</attrib>
+		</entry>
+		<entry id="e68000">
+			<attrib type="orth" lastmodified="1217790006">Съмнявам се че той би написал писмо.</attrib>
+		</entry>
+		<entry id="e69000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Сигурен съм че той ще напише писмо.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Сигурна съм че той ще напише писмо.</attrib>
+		</entry>
+		<entry id="e70000">
+			<attrib type="orth" lastmodified="1217790006">Надявам се че той ще напише писмо.</attrib>
+		</entry>
+		<entry id="e71000">
+			<attrib type="orth" lastmodified="1217790006">Радвам се, че той ще напише писмо. (</attrib>
+		</entry>
+		<entry id="e72000">
+			<attrib type="orth" author="9000" lastmodified="1247512560">Вербални фрази - причастия</attrib>
+		</entry>
+		<entry id="e73000">
+			<attrib type="orth" lastmodified="1217790006">Човекът, който сега пише писмо, ще отиде до пощата по-късно.</attrib>
+		</entry>
+		<entry id="e74000">
+			<attrib type="orth" lastmodified="1217790006">Човекът, който е написал писмо вчера, е отишъл до пощата.</attrib>
+		</entry>
+		<entry id="e75000">
+			<attrib type="orth" lastmodified="1217790006">Човекът, който ще напише писмо утре, ще отиде до пощата.</attrib>
+		</entry>
+		<entry id="e76000">
+			<attrib type="orth" lastmodified="1217790006">Човекът, който би написал писмо, би отишъл до пощата.</attrib>
+		</entry>
+		<entry id="e77000">
+			<attrib type="orth" lastmodified="1217790006">Рискувайки живота си, той ме спасява.</attrib>
+		</entry>
+		<entry id="e78000">
+			<attrib type="orth" lastmodified="1217790006">След като рискува живота си, той ме спаси.</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" lastmodified="1217790006">Той е разбран човек.</attrib>
+		</entry>
+		<entry id="e80000">
+			<attrib type="orth" lastmodified="1217790006">Казаното съобщение беше шокиращо.</attrib>
+		</entry>
+		<entry id="e81000">
+			<attrib type="orth" author="9000" lastmodified="1247512668">Девербални съществителни</attrib>
+		</entry>
+		<entry id="e82000">
+			<attrib type="orth" lastmodified="1217790006">Четенето беше успокояващо.</attrib>
+		</entry>
+		<entry id="e83000">
+			<attrib type="orth" author="9000" lastmodified="1247512668">Вербални фрази - процес</attrib>
+		</entry>
+		<entry id="e84000">
+			<attrib type="orth" lastmodified="1217790006">Започвам да чета книгата си.</attrib>
+		</entry>
+		<entry id="e85000">
+			<attrib type="orth" lastmodified="1217790006">Продължавам да чета книгата си.</attrib>
+		</entry>
+		<entry id="e86000">
+			<attrib type="orth" lastmodified="1217790006">Спирам да чета книгата си.</attrib>
+		</entry>
+		<entry id="e87000">
+			<attrib type="orth" lastmodified="1217790006">Спрях да чета книгата си.</attrib>
+		</entry>
+		<entry id="e88000">
+			<attrib type="orth" author="9000" lastmodified="1247513900">Подчинени фрази</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217790006">Харесва ми да пиша писма.</attrib>
+		</entry>
+		<entry id="e90000">
+			<attrib type="orth" lastmodified="1217790006">Реших да прочета книгата си.</attrib>
+		</entry>
+		<entry id="e91000">
+			<attrib type="orth" lastmodified="1217790006">Опитвам се да покажа мнението си.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Решавам че ще прочета книгата си.</attrib>
+		</entry>
+		<entry id="e92000">
+			<attrib type="orth" lastmodified="1217790006">Не мога да реша дали той трябва да чете моята книга=Не мога да реша дали той трябва да чете книгата ми.</attrib>
+		</entry>
+		<entry id="e93000">
+			<attrib type="orth" author="9000" lastmodified="1247513901">Въпросителни фрази</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" author="9000" lastmodified="1247513901">Какво е това?</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" lastmodified="1217790006">Кой е този/онзи?</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217790006">Къде е той?</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" author="9000" lastmodified="1247514185">(На)къде отиваме?</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" lastmodified="1217790006">Кога отиваме?</attrib>
+		</entry>
+		<entry id="e99000">
+			<attrib type="orth" lastmodified="1217790006">Как отиваме?</attrib>
+		</entry>
+		<entry id="e100000">
+			<attrib type="orth" lastmodified="1217790006">Колко вода имаш?(you-singular)</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Колко вода имате(you plural+you singular formal)</attrib>
+		</entry>
+		<entry id="e101000">
+			<attrib type="orth" lastmodified="1217790006">Колко приятели имаш?(sg)</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Колко приятели имате? (pl+polite)</attrib>
+		</entry>
+		<entry id="e102000">
+			<attrib type="orth" author="9000" lastmodified="1247514185">Кой/какъв цвят харесваш?</attrib>
+		</entry>
+		<entry id="e104000">
+			<attrib type="orth" lastmodified="1217790006">Не разбирам какво виждам.</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217790006">Не знам къде живея.</attrib>
+		</entry>
+		<entry id="e106000">
+			<attrib type="orth" lastmodified="1217790006">Не знам кога ще дойда.</attrib>
+		</entry>
+		<entry id="e107000">
+			<attrib type="orth" lastmodified="1217790006">Не знам как ще преживея това бедствие.</attrib>
+		</entry>
+		<entry id="e109000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Ако бях богат, щях да си купя нова кола.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Ако бях богата, щях да си купя нова кола.</attrib>
+		</entry>
+		<entry id="e110000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Когато стана богат, ще си купя нова кола.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Когато стана богата, ще си купя нова кола.</attrib>
+		</entry>
+		<entry id="e111000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, освен когато вали.</attrib>
+		</entry>
+		<entry id="e112000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, ако не вали.</attrib>
+		</entry>
+		<entry id="e113000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, дори ако вали.</attrib>
+		</entry>
+		<entry id="e114000">
+			<attrib type="orth" lastmodified="1217790006">Вали, въпреки това ще отида на партито.</attrib>
+		</entry>
+		<entry id="e116000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, въпреки че вали.</attrib>
+		</entry>
+		<entry id="e117000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, защото вали.</attrib>
+		</entry>
+		<entry id="e118000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, щом вали.</attrib>
+		</entry>
+		<entry id="e119000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, за да пия бира.</attrib>
+		</entry>
+		<entry id="e120000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, така че ми кажи довиждане!</attrib>
+		</entry>
+		<entry id="e121000">
+			<attrib type="orth" lastmodified="1217790006">Отивам на партито, за да танцувам с приятелите си.</attrib>
+		</entry>
+		<entry id="e123000">
+			<attrib type="orth" lastmodified="1217790006">Ще отида на партито, но вали.</attrib>
+		</entry>
+		<entry id="e124000">
+			<attrib type="orth" lastmodified="1217790006">Ще отида на партито, още повече, ще ям там.</attrib>
+		</entry>
+		<entry id="e126000">
+			<attrib type="orth" lastmodified="1217790006">Пия чай преди да чета книгата си.</attrib>
+		</entry>
+		<entry id="e127000">
+			<attrib type="orth" lastmodified="1217790006">Пия чай след като съм прочел книгата си.</attrib>
+		</entry>
+		<entry id="e128000">
+			<attrib type="orth" lastmodified="1217790006">Пия чай докато чета книгата си.</attrib>
+		</entry>
+		<entry id="e129000">
+			<attrib type="orth" lastmodified="1217790006">Ще пия чай веднага щом прочета книгата си.</attrib>
+		</entry>
+		<entry id="e130000">
+			<attrib type="orth" lastmodified="1217790006">Пия чай откакто прочетох книгата си.</attrib>
+		</entry>
+		<entry id="e131000">
+			<attrib type="orth" lastmodified="1217790006">Пия чай, после прочитам книгата си .</attrib>
+		</entry>
+		<entry id="e132000">
+			<attrib type="orth" lastmodified="1217790006">Ще ям докато се изморя.</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217790006">Аз съм мъжът, който купува ябълка.</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217790006">Аз съм жената, която купува ябълка.</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217790006">Виждам мъжът, който купува ябълка.</attrib>
+		</entry>
+		<entry id="e137000">
+			<attrib type="orth" lastmodified="1217790006">Виждам мъжа, когото и тя вижда.</attrib>
+		</entry>
+		<entry id="e138000">
+			<attrib type="orth" lastmodified="1217790006">Виждам мъжа, на когото дадох подарък.</attrib>
+		</entry>
+		<entry id="e139000">
+			<attrib type="orth" lastmodified="1217790006">Виждам мъжа, от когото получих новините.</attrib>
+		</entry>
+		<entry id="e140000">
+			<attrib type="orth" lastmodified="1217790006">Виждам жената, с която имах среща.</attrib>
+		</entry>
+		<entry id="e141000">
+			<attrib type="orth" lastmodified="1217790006">Виждам ябълката, която мирише хубаво.</attrib>
+		</entry>
+		<entry id="e142000">
+			<attrib type="orth" lastmodified="1217790006">Ябълката, която виждам, мирише хубаво.</attrib>
+		</entry>
+		<entry id="e143000">
+			<attrib type="orth" lastmodified="1217790006">Ябълката, която гледах, мирише хубаво.</attrib>
+		</entry>
+		<entry id="e144000">
+			<attrib type="orth" lastmodified="1217790006">Ябълката, която мъжът купува, мирише хубаво.</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Голям съм колкото тебе.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Голяма съм колкото тебе.</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">По-интелигентен съм от тебе.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">По-интелигентна съм от тебе.</attrib>
+		</entry>
+		<entry id="e148000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">По-малко интелигентен съм от тебе.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">По-малко интелигентна съм от тебе.</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Аз съм най-интелигентният.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Аз съм най-интелигентната.</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" lastmodified="1217790006">Аз пея като тебе.</attrib>
+		</entry>
+		<entry id="e151000">
+			<attrib type="orth" lastmodified="1217790006">Аз пея, както ти плачеш.</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" lastmodified="1217790006">Давам ти подаръка.</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Давам подаръка на тебе.</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217790006">Това е кучето на моя приятел.</attrib>
+		</entry>
+		<entry id="e156000">
+			<attrib type="orth" lastmodified="1217790006">Птицата е в клетката си.</attrib>
+		</entry>
+		<entry id="e157000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети в клетката си.</attrib>
+		</entry>
+		<entry id="e158000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети вътре в клетката си.</attrib>
+		</entry>
+		<entry id="e159000">
+			<attrib type="orth" lastmodified="1217790006">Пилотът лети в самолета си.</attrib>
+		</entry>
+		<entry id="e160000">
+			<attrib type="orth" lastmodified="1217790006">Птицата седи върху клетката си.</attrib>
+		</entry>
+		<entry id="e161000">
+			<attrib type="orth" lastmodified="1217790006">Птицата седи на върха на клетката си.</attrib>
+		</entry>
+		<entry id="e162000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети край клетката си.</attrib>
+		</entry>
+		<entry id="e163000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети отдолу на клетката си.</attrib>
+		</entry>
+		<entry id="e164000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети над клетката си.</attrib>
+		</entry>
+		<entry id="e165000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети под клетката си.</attrib>
+		</entry>
+		<entry id="e166000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети около клетката си.</attrib>
+		</entry>
+		<entry id="e167000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети през клетката си.</attrib>
+		</entry>
+		<entry id="e168000">
+			<attrib type="orth" lastmodified="1217790006">Птицата излита извън клетката си.</attrib>
+		</entry>
+		<entry id="e169000">
+			<attrib type="orth" lastmodified="1217790006">Птицата долита до клетката си.</attrib>
+		</entry>
+		<entry id="e170000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети към клетката си.</attrib>
+		</entry>
+		<entry id="e171000">
+			<attrib type="orth" lastmodified="1217790006">Птицата излита от клетката си.</attrib>
+		</entry>
+		<entry id="e172000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети до клетката си.</attrib>
+		</entry>
+		<entry id="e173000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети покрай самолет.</attrib>
+		</entry>
+		<entry id="e174000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети близо до клетката си.</attrib>
+		</entry>
+		<entry id="e175000">
+			<attrib type="orth" lastmodified="1217790006">Птицата лети далеч от клетката си.</attrib>
+		</entry>
+		<entry id="e177000">
+			<attrib type="orth" lastmodified="1217790006">Пия вино преди вечеря.</attrib>
+		</entry>
+		<entry id="e178000">
+			<attrib type="orth" lastmodified="1217790006">Пия вино след вечеря.</attrib>
+		</entry>
+		<entry id="e179000">
+			<attrib type="orth" lastmodified="1217790006">Пия вино по време на вечеря.</attrib>
+		</entry>
+		<entry id="e180000">
+			<attrib type="orth" lastmodified="1217790006">Пия вино откакто вечерях.</attrib>
+		</entry>
+		<entry id="e182000">
+			<attrib type="orth" lastmodified="1217790006">Ще пия вино след пет минути.</attrib>
+		</entry>
+		<entry id="e183000">
+			<attrib type="orth" lastmodified="1217790006">Мога да допия чашата си вино в рамките на пет минути.</attrib>
+		</entry>
+		<entry id="e184000">
+			<attrib type="orth" lastmodified="1217790006">Ще се срещнем в понеделник през януари.</attrib>
+		</entry>
+		<entry id="e186000">
+			<attrib type="orth" lastmodified="1217790006">Майка ми ми говори за чистене на стаята ми.</attrib>
+		</entry>
+		<entry id="e187000">
+			<attrib type="orth" lastmodified="1217790006">Относно стаята ми, все още не е изчистена.</attrib>
+		</entry>
+		<entry id="e189000">
+			<attrib type="orth" lastmodified="1217790006">Според майка ми, би трябвало да изчистя стаята си.</attrib>
+		</entry>
+		<entry id="e190000">
+			<attrib type="orth" lastmodified="1217790006">Не изчистих стаята си, въпреки предупреждението на майка ми.</attrib>
+		</entry>
+		<entry id="e191000">
+			<attrib type="orth" lastmodified="1217790006">Не изчистих стаята си, за разлика от сестра си.</attrib>
+		</entry>
+		<entry id="e192000">
+			<attrib type="orth" lastmodified="1217790006">Не изчистих стаята си, освен бюрото.</attrib>
+		</entry>
+		<entry id="e193000">
+			<attrib type="orth" lastmodified="1217790006">Изчистих моята стая  с майка си.</attrib>
+		</entry>
+		<entry id="e194000">
+			<attrib type="orth" lastmodified="1217790006">Изчистих моята стая без майка си.</attrib>
+		</entry>
+		<entry id="e195000">
+			<attrib type="orth" lastmodified="1217790006">Изчистих стаята си с метла.</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" lastmodified="1217790006">Виждам всички.</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217790006">Виждам някого.</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" lastmodified="1217790006">Не виждам никого.</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217790006">Никой не може да ме види.</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" lastmodified="1217790006">Не виждам никого освен тебе.</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217790006">Виждам само тебе.</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" lastmodified="1217790006">Виждам всички мъже.</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" lastmodified="1217790006">Не виждам никакви мъже.</attrib>
+		</entry>
+		<entry id="e205000">
+			<attrib type="orth" lastmodified="1217790006">Виждам всеки мъж.</attrib>
+		</entry>
+		<entry id="e206000">
+			<attrib type="orth" lastmodified="1217790006">Виждам всичко.</attrib>
+		</entry>
+		<entry id="e207000">
+			<attrib type="orth" lastmodified="1217790006">Виждам нещо.</attrib>
+		</entry>
+		<entry id="e208000">
+			<attrib type="orth" lastmodified="1217790006">Не виждам нищо</attrib>
+		</entry>
+		<entry id="e209000">
+			<attrib type="orth" lastmodified="1217790006">Не виждам нищо друго.</attrib>
+		</entry>
+		<entry id="e210000">
+			<attrib type="orth" lastmodified="1217790006">Не виждам нищо повече.</attrib>
+		</entry>
+		<entry id="e211000">
+			<attrib type="orth" lastmodified="1217790006">Нищо не може да ме види.</attrib>
+		</entry>
+		<entry id="e212000">
+			<attrib type="orth" lastmodified="1217790006">Виждам всички книги.</attrib>
+		</entry>
+		<entry id="e213000">
+			<attrib type="orth" lastmodified="1217790006">Не виждам никакви книги.</attrib>
+		</entry>
+		<entry id="e214000">
+			<attrib type="orth" lastmodified="1217790006">Виждам всяка книга.</attrib>
+		</entry>
+		<entry id="e215000">
+			<attrib type="orth" lastmodified="1217790006">Виждам някои книги.</attrib>
+		</entry>
+		<entry id="e216000">
+			<attrib type="orth" lastmodified="1217790006">Виждам някаква книга.</attrib>
+		</entry>
+		<entry id="e217000">
+			<attrib type="orth" lastmodified="1217790006">Не виждам изобщо никаква книга.</attrib>
+		</entry>
+		<entry id="e218000">
+			<attrib type="orth" lastmodified="1217790006">Виждам цялата книга.</attrib>
+		</entry>
+		<entry id="e219000">
+			<attrib type="orth" lastmodified="1217790006">Виждам самата книга.</attrib>
+		</entry>
+		<entry id="e220000">
+			<attrib type="orth" lastmodified="1217790006">Виждам същата книга.</attrib>
+		</entry>
+		<entry id="e221000">
+			<attrib type="orth" lastmodified="1217790006">Виждам такава книга.</attrib>
+		</entry>
+		<entry id="e222000">
+			<attrib type="orth" lastmodified="1217790006">Можеш да избереш всяка книга.</attrib>
+		</entry>
+		<entry id="e223000">
+			<attrib type="orth" lastmodified="1217790006">Никой не може да ме види.</attrib>
+		</entry>
+		<entry id="e224000">
+			<attrib type="orth" lastmodified="1217790006">Гледах навсякъде.</attrib>
+		</entry>
+		<entry id="e225000">
+			<attrib type="orth" lastmodified="1217790006">Не съм гледал никъде.</attrib>
+		</entry>
+		<entry id="e226000">
+			<attrib type="orth" lastmodified="1217790006">Гледал съм някъде.</attrib>
+		</entry>
+		<entry id="e227000">
+			<attrib type="orth" lastmodified="1217790006">Ще се срещнем по някое време.</attrib>
+		</entry>
+		<entry id="e228000">
+			<attrib type="orth" lastmodified="1217790006">Ще се срещаме понякога.</attrib>
+		</entry>
+		<entry id="e229000">
+			<attrib type="orth" lastmodified="1217790006">Никога няма да се срещнем.</attrib>
+		</entry>
+		<entry id="e230000">
+			<attrib type="orth" lastmodified="1217790006">Винаги ще се срещаме.</attrib>
+		</entry>
+		<entry id="e231000">
+			<attrib type="orth" lastmodified="1217790006">Често ще се срещаме.</attrib>
+		</entry>
+		<entry id="e232000">
+			<attrib type="orth" lastmodified="1217790006">Обикновено ще се срещаме.</attrib>
+		</entry>
+		<entry id="e233000">
+			<attrib type="orth" lastmodified="1217790006">Рядко ще се срещаме.</attrib>
+		</entry>
+		<entry id="e235000">
+			<attrib type="orth" lastmodified="1217790006">Имам много вода.</attrib>
+		</entry>
+		<entry id="e236000">
+			<attrib type="orth" lastmodified="1217790006">Имам достатъчно вода.</attrib>
+		</entry>
+		<entry id="e237000">
+			<attrib type="orth" lastmodified="1217790006">Имам прекалено много вода.</attrib>
+		</entry>
+		<entry id="e238000">
+			<attrib type="orth" lastmodified="1217790006">Имам литър вода.</attrib>
+		</entry>
+		<entry id="e239000">
+			<attrib type="orth" lastmodified="1217790006">Имам пет бутилки вода.</attrib>
+		</entry>
+		<entry id="e240000">
+			<attrib type="orth" lastmodified="1217790006">Имам повече вода.</attrib>
+		</entry>
+		<entry id="e241000">
+			<attrib type="orth" lastmodified="1217790006">Имам по-малко вода.</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" lastmodified="1217790006">Имам само вода.</attrib>
+		</entry>
+		<entry id="e243000">
+			<attrib type="orth" lastmodified="1217790006">Имам също и вода.</attrib>
+		</entry>
+		<entry id="e244000">
+			<attrib type="orth" lastmodified="1217790006">Вече имам вода.</attrib>
+		</entry>
+		<entry id="e245000">
+			<attrib type="orth" lastmodified="1217790006">Още имам вода.</attrib>
+		</entry>
+	</entries>
+</ulr>

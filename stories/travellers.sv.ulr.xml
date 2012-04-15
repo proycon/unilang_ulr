@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="sv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zenit">Björnen och resenärerna</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zenit">En läxa om björnar och vänner</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Zenit">Två resenärer var på väg tillsammans, när en Björn plötsligt visade sig på platsen. Innan han observerade dem, sprang en av dem mot ett träd på andra sidan vägen, och klättrade upp i grenarna och gömde sig där.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Zenit">Den andra var inte så flink som sin kompanjon; och, eftersom han inte kunde fly, kastade han sig själv på marken och låtsades vara död.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Zenit">Björnen kom fram och sniffade runt honom, men han höll sig helt stilla och höll andan: för de säger att en björn inte rör en död kropp. Björnen tog honom för ett lik, och gick iväg.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Zenit">När kusten var klar, kom Resenären i trädet ner, och frågade den andra vad det var som Björnen hade viskat till honom när han hade satt munnen vid hans öra.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Zenit">Den andra svarade, &quot;Han sa åt mig att aldrig mera resa med en vän som lämnar dig vid första tecken till fara.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Zenit">Olycka testar vänskapens ärlighet.</attrib>
+		</entry>
+	</entries>
+</ulr>

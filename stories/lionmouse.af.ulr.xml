@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="af">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Ron">Die Leeu en die Muis</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Ron">'n Muis help 'n leeu</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Ron">'n Slapende leeu word in sy leplek wakker gemaak deur 'n muis wat oor sy gesig hardloop. hy verloor sy humeur en gryp die muis met sy klou en was oppad om hom te vermoor.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Ron">Die muis, doodbang, smeek hom droewig om sy lewe te spaar. &quot;Asseblief laat my gaan,&quot; huil hy, &quot;en op 'n dag sal ek jou beloon vir jou vriendelikheid.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Ron">Die idee dat 'n onbeduidende wese ooit in staat sou wees om iets te doen vir hom amuseer die leeu so baie dat hy hard moes lag. en met 'n goeie gemoed laat hy hom gaan.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Ron">Maar die muis se kans het uiteindelik gekom.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Ron">Op 'n dag raak die leeu vasgevang in 'n net wat daar neergelê is deur jagters vir wilde diere en die muis het sy brulle van woede gehoor en herken en het na die plek gehardloop. Sonder verdere uitstel het hy aan die werk gespring om die toue met sy tande deur te knaag, en gou genoeg slaag hy daarin om die leeu vry te maak.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Ron">&quot;Daar!&quot; het die muis gesê, &quot;jy het gelag toe ek gesê het dat ek jou sal beloon: maar nou sien jy, selfs 'n muis kan 'n leeu help.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="paul1" version="1.9" baselang="ga">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="jbflanman & Quevenois">Paul 1</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="jbflanman & Quevenois">Théid Pól ar thuras.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="jbflanman & Quevenois">Théid Pól ar thuras. Phacáil sé a mhála thaistil. Thóg sé tacsaí go dtí an t-aerfort. Nuair a bhain sé an t-aerfort amach, chuaigh sé amach as an tacsaí. Thug Pól a chuid bagáiste chuige deasc na dticéad Thug sé a thicéad don bhean chun seiceáil a dhéanamh.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="jbflanman & Quevenois">"An bhfuil tú an mala amháin?" D'fhiafraigh an bhean ar Pól.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="jbflanman & Quevenois">"Tá," d'inis Pól dí. "Tá an t-aon mála amháin agam."</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="jbflanman & Quevenois">Chláraigh an bhean a bhagáiste. Thug sí a thicéad do Phól. "Fágfaigh do eitleán as gheata a cúig," d'inis sí do Phól.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="jbflanman & Quevenois">"Go raibh maith agat," dúirt Pól léi. Mar sin chuaigh Pól go deasc sheiceáil na bpas.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="jbflanman & Quevenois">"Pas, más é do thoil," dúirt an gniomhaire na bpas. Thug Pól a phas dó. D'amharc an gníomhaire ar an phas. D'amharc an gníomhaire ar Phól. "Cá fhad beidh tú ar shiúl?" fhiafraigh an gniomhaire de Pól.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="jbflanman & Quevenois">"Beidh mé ar shiúl dhá cheann seachtaine," fhreagrair Pól.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="jbflanman & Quevenois">Sméid an gníomhaire a cheann agus stampáil sé an pas. Thug an gníomhaire a phas do Phól. "Go n-éirí an bóthar leat," dúirt an gniomhaire le Pól.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="jbflanman & Quevenois">"Go raibh maith agat," dúirt Pól leis. Chuaigh Pól chun an gheabhta le fanacht go dté sé isteach san eitleán. Cheannaigh sé nuaíochtán sa tsiopa phronntanas. I ndiaidh tamailt bhig tháinig an t-eitleán. Chuaigh Pól sa scuaine lena thicéad. Thug sé a thicéad do ghníomhaire na dticéad. Stróic sí cuid dena thicéad agus thug sí an comhdhuille dó. Chuaigh Pól ar bord an eitleáin agus fuair sé a shuíochán. Shuigh sé síos agus chuir a chrios tarrthála air.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="jbflanman & Quevenois">Cupla bomaite ina dhiaidh sin shuigh bean óg síos ar an tsuíochán in aice leis. Bhí sí iontach meallacach . Rinn Pól miongháire agus d’amharc sé ar a léinidh. Dúirt sí "UniLang" ar a léine le litreoireacht rua mór. Ní raibh a fhios ag Pól, cad é an rud "UniLang." "Gabh mo leithscéal," dúirt Pól leí.  "Cad tá 'UniLang'?"</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="jbflanman & Quevenois">D’amharc an bhean ar Phól.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="jbflanman & Quevenois">"Nach bhfuil fhios agat cad tá 'UniLang'?" fhiarfraigh sí de Pól.</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="jbflanman & Quevenois">Sular fhreagair Pól stad fear ar chúl na mná. D’amharc an fear ar a thicéad, ansin d'amharc sé ar an tsuíochán. "Seo é mo shuíochán," dúirt an fear le an bhean.</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="jbflanman & Quevenois">D’amharc an bhean ar a ticéad. "Tá an ceart agat," dúirt sí. "Gabh mo leithscál. Bhí mé dearmad a dhéanamh." Ansin chuaigh sí go tóin an eitleáin.</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="jbflanman & Quevenois">Shuigh an fear síos in aice le Pól. Tamalt ina dhiaidh sin thoisigh an t-eitleán a dhéanamh ar an rúidbhealach Chuaigh an t-eitleán suas san aer agus d’eitil sé</attrib>
+		</entry>
+	</entries>
+</ulr>

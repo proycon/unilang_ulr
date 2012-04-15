@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="hi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">namaste</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">namaste logon</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">subh prabhat</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">subh sandhya/dopaher</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">subh shaam</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">subh ratri</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">tum kis ke baare mein bol rahe ho</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">(tum)kaise ho</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">aap kaise hain</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">vyakteegat sawale</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">tum kahan se aaye</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">kya yahan yeh tumhara pehla baar hai</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">kya aap ...bolte hai</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">kahan rehte ho tum ...mein</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">tumne kitne umar ke ho/tum kitne saal ho</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">kya bhaashe tum sikhte ho</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">apne baare mein bolna</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">main ... se hoon</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">main ...bolta hoon</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">maaf kijie,main ..nahin bolta hoon</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">main sikh raha hoon/main sikhna chahta hoon</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">aapse milke mujhe khushi hui</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">aapse baat kar mujhe khushi hui</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">mujhe jaana hai</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">main pat mein jaa raha hoon</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">mujhe neend aa rahi hai(i'm sleepy)</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">hum phir milenge</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">hum kal ko milenge</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">subh ratri logon</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">namaste(hindu)/khuda hafiz(muslim)</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">shukriya/dhanyavaad</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">bahut shukriya</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">mujhe maf kar do</attrib>
+		</entry>
+	</entries>
+</ulr>

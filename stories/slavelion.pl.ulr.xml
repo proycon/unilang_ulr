@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="slavelion" version="1.9" baselang="pl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Zaduma / arti">Niewolnik i Lew</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Zaduma / arti">Lew może być najlepszym przyjacielem człowieka</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Zaduma / arti">Niewolnik uciekał od swojego pana, przez którego był okrutnie traktowany, i, aby uniknąć schwytania, udał sie na pustynię. Gdy tak wędrował w poszukiwaniu jedzenia i schronienia, doszedł do jaskini, do której wszedł i uznał, że nie jest zajęta.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Zaduma / arti">Tak naprawde było to legowisko lwa, i prawie natychmiast, ku przerażeniu nieszczęsnego uciekiniera, pojawił się lew. Mężczyzna poddał się: ale, ku jego zdziwieniu, lew, zamiast skoczyć na niego i pożreć go, podszedł i łasił się do niego, jednocześnie jecząc i podnosząc swoją łapę. Zaobserwował ją spuchniętą i rozognioną, mężczyzna zbadał ją i znalazł duży cierń wbity w poduszkę stopy. Usunął go zatem i opatrzył ranę tak jak potrafił: z biegiem czasu całkowicie się to zagoiło.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Zaduma / arti">Wdzięczność lwa była bezgraniczna; patrzył na mężczyznę jak na przyjaciela, i dzielili jaskinię przez jakiś czas razem. Jakkolwiek nadszedł dzień, kiedy niewolnik zaczął tęsknić za towarzystwem swoich kolegów, i pożegnał się z lwem i wrócił do miasta.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Zaduma / arti">Tutaj został wkrótce rozpoznany i zabrany w łańcuchach do jego poprzedniego pana, który zdecydował zrobić z niego przykład, i rozkazał rzucić go bestiom na następnym publicznym widowisku w teatrze. Fatalnego dnia bestie zostały wypuszczone na arenę i pośród reszty lew o ogromnym cielsku i dzikim spojrzeniu; następnie nieszczęsny niewolnik został rzucony pomiędzy nie.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Zaduma / arti">Jakie było zdziwienie widzów, kiedy lew po jednym spojrzeniu skoczył do niego i położył się w jego nogach wyrażając uczucie i radość! To był jego stary przyjaciel z jaskini! Publiczność krzyczała, że życie niewolnika powinno być oszczędzone: a zarządca miasta, podziwiając taką wdzięczność i wierność bestii, nakazał, że obaj powinni otrzymać wolność.</attrib>
+		</entry>
+	</entries>
+</ulr>

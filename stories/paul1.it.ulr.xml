@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="paul1" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="martyno">Paolo 1</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="martyno">Paolo sta andando a fare una gita - 1</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="martyno">Paolo sta andando a fare una gita. Ha fatto la valigia. Ha preso un taxi fino all'aeroporto. Quando Paolo arrivò all'aeroporto, scese dal taxi. Paolo portò il suo bagaglio in biglietteria. Diede alla signorina il suo biglietto così poté fare il check-in.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="martyno">&quot;Ha solo una borsa?&quot; chiese a Paolo la signorina.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="martyno">&quot;Sì&quot;, le disse Paolo, &quot;solo una borsa&quot;.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="martyno">La signorina controllò il suo bagaglio. Diede a Paolo il suo biglietto. &quot;Il suo aereo parte dal gate cinque&quot;, disse a Paolo.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="martyno">&quot;Grazie&quot;, disse Paolo. Paolo andò poi al controllo passaporti.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="martyno">&quot;Il passaporto, per favore&quot;, disse l'agente. Paolo gli diede il suo passaporto. L'agente guardò il passaporto. L'agente guardò Paolo. &quot;Quanto tempo starà via?&quot;, chiese l'agente a Paolo.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="martyno">&quot;Starò via due settimane&quot;, rispose Paolo.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="martyno">L'agente annuì e mise il timbro nel passaporto. L'agente diede a Paolo il suo passaporto. &quot;Buon viaggio&quot;, disse l'agente a Paolo.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="martyno">&quot;Grazie&quot;, disse Paolo. Paolo andò al gate per aspettare il suo volo. Comprò un giornale al negozio di souvenir. Dopo poco, il suo aereo arrivò. Paolo si mise in fila con il suo biglietto. Diede il suo biglietto alla signora che controllava i biglietti. Questa strappò via una parte del suo biglietto e gli diede la matrice. Paolo salì a bordo dell'aereo e trovò il suo sedile. Si sedette e mise la cintura.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="martyno">Alcuni minuti dopo, una giovane si sedette nel sedile affianco Era molto attraente. Paolo sorrise e fissò la sua camicia. Sulla camicia, a grandi lettere rosse, c'era scritto &quot;UniLang&quot; Paolo non sapeva cos'era &quot;UniLang&quot;. &quot;Scusi&quot;, Paolo disse alla donna. &quot;Cos'è 'UniLang'?&quot;</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="martyno">La donna guardò Paolo.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="martyno">&quot;Non sai cos'è 'UniLang'?&quot;, disse a Paolo.</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="martyno">Prima che Paolo potesse rispondere, un uomo si fermò dietro la donna. L'uomo guardò il suo biglietto, poi guardò il sedile. &quot;Questo è il mio sedile&quot;, disse l'uomo alla donna.</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="martyno">La donna guardò il suo biglietto. &quot;Ha ragione&quot;, disse. &quot;Mi scusi. Colpa mia&quot;. Andò allora verso il fondo dell'aereo.</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="martyno">L'uomo si sedette vicino a Paolo. Poco dopo l'aereo cominciò a muoversi verso la pista. L'aereo decollò e stava volando.</attrib>
+		</entry>
+	</entries>
+</ulr>

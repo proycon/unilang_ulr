@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="geography" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Ron">Geography Lesson</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Ron">School children get a geography lesson.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Ron">In the morning a rooster is crowing. John awakens. The sun is shining already. He rubs the sleep out of his eyes. John goes to the bathroom. He turns on the tap on and washes himself. John is fresh again,</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Ron">He goes downstairs for breakfast. His mother says: "Good morning!"</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Ron">John replies: "Good morning!" Then he butters a sandwich. He lays two pieces of cheese on it. The sandwiches tastes very good.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Ron">John has to take his bag. Now he can go to school along with Maria. They both attend the same school.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Ron">"Hello. How are you?" asks Maria.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Ron">"Very good!" says John with a smile. "And how are you doing?" asks John.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Ron">"Reasonable. I'm very tired." says Maria. Together they walk into the classroom.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Ron">The teacher hangs a world map on the wall. "Which countries do you know already?" asks the teacher.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Ron">Maria points her finger into the air. "That boot. That's Italy! My grandmother lives there." says Maria.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Ron">The teacher turns her head and asks: "Does someone else know another country?"</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Ron">"That big island. That's Australia" calls Willem.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Ron">"In that country live a lot of kangaroos." says the teacher. The teacher asks then: "In which country is that big wall situated?"</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Ron">All the children shout loudly throughout the class: "China!"</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="13070" lastmodified="1235962278">"Indeed. It's the 'Great Wall of China' and it's very old!" The teacher looks at her class and asks: "In which country are the pyramids situated?"</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Ron">"They're situated in Mexico!" says John.</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Ron">The whole class is laughing; "No. They're situated in Egypt." says Maria.</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Ron">"In both countries are pyramids situated, though I meant those from Egypt." The teacher walks through the class. She looks to see if all the pupils are writing this information in their notebooks. "Just one other question; In which country do people eat lots of baguettes and drink a lot of wine?"</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Ron">"In France!" calls Jacques.</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Ron">The teacher is satisfied. She sends the pupils outside. They have a break.</attrib>
+		</entry>
+	</entries>
+</ulr>

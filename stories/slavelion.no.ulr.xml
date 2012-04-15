@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="slavelion" version="1.9" baselang="no">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Toddi">Slaven og løva</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Toddi">En løve kan være en manns beste venn</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Toddi">En slave flyktet fra sin mester, som hadde behandlet ham grusomt, og for å unngå å bli tatt til fange, begav han seg ut i ørkenen. Mens han vandret omkring på leting etter mat og ly, kom han til en hule. Han gikk inn i hula og oppdaget at den stod tom.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Toddi">I virkeligheten var det imidlertid en løvehule, og nesten med det samme dukket løva selv opp, til den stakkars flyktningens store skrekk. Mannen trodde han var fortapt: men til hans store forundring kom løven, istedenfor å bykse mot ham og ete ham, krypende bort til mannen, mens den klynket og løftet opp poten sin. Da mannen så at poten var hoven og betent, undersøkte han den, og han fant en stor torn stukket inn i fotsålen. Mannen fjernet følgelig tornen og stelte såret som best han kunne, og etter som tiden gikk, ble det helt leget.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Toddi">Løvas takknemlighet var grenseløs; den så på mannen som sin venn, og en stund delte de hula sammen. Men så en dag begynte slaven å lengte etter sine frenders selskap, og han tok farvel med løva og dro tilbake til byen.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Toddi">Her ble han snart gjenkjent og ført bort i lenker til sin tidligere mester, som besluttet å gjøre eksempel av ham, og befalte at mannen skulle bli kastet til rovdyrene ved den neste offentlige forestillingen i teateret. På den skjebnesvangre dagen ble rovdyrene sluppet løs i arenaen. Blant dem var det en stor og mektig løve, og den stakkars slaven ble slengt inn midt iblant dem.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Toddi">Hvor forbløffet ble ikke tilskuerne da løva, etter å ha kastet ett blikk på slaven, sprang mot ham og la seg ømt og kjærlig ved føttene hans. Det var hans gamle venn fra hula! Tilskuerne krevde at slavens liv skulle bli spart, og byens guvernør, som undret seg over slik takknemlighet og troskap hos et rovdyr, beordret at de begge skulle få sin frihet.</attrib>
+		</entry>
+	</entries>
+</ulr>

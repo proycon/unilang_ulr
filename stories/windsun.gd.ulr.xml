@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="gd">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="12109" lastmodified="1233959280">A' Ghaoth Thuath agus a' Ghrian</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="12109" lastmodified="1233959280">Tha farpais eadar a' ghaoth agus a' ghrian.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="12109" lastmodified="1233959280">Thàinig connspaid eadar a' Ghaoth Thuath agus a' Ghrian, bha gach fear ag ràdh gu bheil iad nas làidire n’ a chèile Mu dheireadh thall, dh'aontaich iad a bhith a' feuchainn na cumhachdan aca air muin neach-subhail, 'fhaicinn cò a tha a' toirt dheth as luaithe an cloc aige.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="12109" lastmodified="1233959280">Fheuch a' Ghaoth Thuath sa' chiad àite; agus a' togail a h-uile neart aige airson thoir ionnsaigh, thàinig e a' snìomh sìos air an duine, agus fhuair e greim air an cloc mar a bhoidh esan tarraing e bhuaithe le oidheirp singilte: ach ma bha esan a' sèid nas làidire, bha an duine dìreach a' suain an cloc timcheall air nas dlùithe.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="12109" lastmodified="1233959280">An uair sin, thàinig an turas aig a' Ghrian. A' chiad char, dhèarrsaich i gu shocair air muin an neach-siubhail, </attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="12109" lastmodified="1233959280">'S e impidheachd an rud nas fheàrr na cumhachd.</attrib>
+		</entry>
+	</entries>
+</ulr>

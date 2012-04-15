@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="he">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="914" lastmodified="1232276822">שיחת צ'אט</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="914" lastmodified="1232276822">זהו ספרון מונחים המכיל מונחים שימושיים לשיחה בצ'אט</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="914" lastmodified="1232276822">מתחבר:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="13729" lastmodified="1226044313">שלום</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="13729" lastmodified="1226044313">שלום לכולם</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="13729" lastmodified="1226044313">בוקר טוב</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="13729" lastmodified="1226044313">צהריים טובים</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="13729" lastmodified="1226044313">ערב טוב</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="13729" lastmodified="1226044313">לילה טוב</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="914" lastmodified="1232276822">שלום לך</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="914" lastmodified="1232276822">התחלה בשיחה חדשה:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="914" lastmodified="1232276822">מה חדש?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="914" lastmodified="1232276964">מה קורה?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="914" lastmodified="1232276964">על מה אתה מדבר? | מה הנושא?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="914" lastmodified="1232276964">מה שלומך?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="914" lastmodified="1232276964">מה שלומכם?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="914" lastmodified="1232276964">מה העניינים?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="914" lastmodified="1232276964">שאלות אישיות:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="914" lastmodified="1232276964">מאיפה אתה, {משתמש}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="914" lastmodified="1232276964">אתה חדש כאן? | זוהי הפעם הראשונה שלך כאן?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="914" lastmodified="1232276964">אילו שפות אתה מדבר?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="914" lastmodified="1232276964">באיזה אזור של {מדינה} אתה חי?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="914" lastmodified="1232276964">בן כמה אתה?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="914" lastmodified="1232276964">אילו שפות אתה לומד?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="914" lastmodified="1232368133">שיתוף על עצמי:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="914" lastmodified="1232368133">אני מ{מדינה}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="914" lastmodified="1232368133">אני דובר {שפה/ות}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="914" lastmodified="1232368133">אני מתנצל אך אינני דובר {שפה}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="914" lastmodified="1232368133">אני לומד | אני מעוניין ללמוד {שפה/ות}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="914" lastmodified="1232368133">סיום שיחה:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="914" lastmodified="1232368133">היה נחמד לפגוש אותך</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="914" lastmodified="1232368133">היה נחמד לשוחח איתך</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="914" lastmodified="1232368133">אני חייב ללכת</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="914" lastmodified="1232368133">הגיע הזמן לארוחת הערב</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="914" lastmodified="1232368133">אני הולך לישון</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="914" lastmodified="1232368189">מוכרח ללכת לישון</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="914" lastmodified="1232368189">עזיבה:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="914" lastmodified="1232368189">נתראה מאוחר יותר</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="914" lastmodified="1232368189">נתראה מחר</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="914" lastmodified="1232368189">נתראה בקרוב</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="914" lastmodified="1232368189">נתראה בפעם הבאה</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="914" lastmodified="1232368189">לילה טוב לכולם</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="914" lastmodified="1232368189">להתראות לכולם</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="914" lastmodified="1232368189">מיד אחזור</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="914" lastmodified="1232368189">אחזור מאוחר יותר</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="914" lastmodified="1232368189">נוספים:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="914" lastmodified="1232368189">תודה</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="914" lastmodified="1232368214">המון תודה</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="914" lastmodified="1232368214">סליחה</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="914" lastmodified="1232368214">צוחק בקול רם</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="914" lastmodified="1232368214">חחח</attrib>
+		</entry>
+	</entries>
+</ulr>

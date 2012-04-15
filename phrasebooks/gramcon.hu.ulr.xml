@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="hu">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="13323" lastmodified="1228116678">Hungarian national anthem     
+
+God bless the hungarians,
+With cheer and fullness,
+Give your right hand to them
+If they fight with the enemy,
+Doom hurt this nation,
+Bring a Good Year, 
+This nation regreted the past and the future
+
+
+Magyar nemzeti himnusz
+
+Isten áldd meg a magyart, 
+Jó kedvvel , bőséggel,
+Nyújts feléje védő kart, 
+Ha küzd ellenséggel,
+Bal sors akit régen tép, 
+Hozz rá víg esztendőt,
+Megbűnhődte már e nép a múltat s jövendőt.</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Boldog vagyok.</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Nem vagyok boldog.</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Boldog voltam</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Ő is boldog.</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Mi mindketten boldogok vagyunk.</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Boldog leszek.</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Boldog maradok.</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Ez egy nagy fa.</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="15181" lastmodified="1235917213">Az egy nagy fa.</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Az a nagy fa.</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Van egy nagy fa a kertemben.</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Ma írok (Írni fogok) egy levelet.</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Ma nem írom meg a levelet.</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Ma egy levelet sem írok.</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Írtam egy levelet tegnap</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Nem írtam egy levelet sem tegnap</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Én nem írtam meg a levelet tegnap</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" author="15181" lastmodified="1235917448">Minden hónapban (havonta) írtam egy levelet.</attrib>
+		</entry>
+	</entries>
+</ulr>

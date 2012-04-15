@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="eo">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Scitor">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="9378" lastmodified="1224566557">Ĉi tio estas malgranda frazaro, kiu enhavas uzindajn frazojn, kiujn vi povas uzi en babilejo</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="9378" lastmodified="1224566700">Enveni:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="Scitor">Saluton</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="Scitor">Saluton, ĉiuj</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="Scitor">Bonan matenon</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="9378" lastmodified="1224566557">Bonan tagon</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="Scitor">Bonan vesperon</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="Scitor">Bonan nokton</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="9378" lastmodified="1224566557">Sal'</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="9378" lastmodified="1224566714">Komenci interparoladon:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="9378" lastmodified="1224566557">Ĉu nove?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="Scitor">Kio okazas?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="9378" lastmodified="1224566675">Pri kio vi parolas? | Kio estas la temo?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="Scitor">Kiel vi fartas?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="Scitor">Kiel vi fartas?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="9378" lastmodified="1224566676">Kiel ĉio?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="9378" lastmodified="1224566676">Personaj demandoj:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="9378" lastmodified="1224566676">El kie vi venas, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="9378" lastmodified="1224566676">Ĉu vi estas nova ĉi tie? | Ĉu ĉi tio estas via unua fojo ĉi tie?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="9378" lastmodified="1224566676">Kiujn lingvojn vi parolas?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="Scitor">Kie en {country} vi loĝas?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="Scitor">Kiom da jaroj vi havas?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="9378" lastmodified="1224566676">Kiujn lingvojn vi lernas?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Paroli pri vi:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Mi venas el {country}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="Scitor">Mi parolas {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Mi parolas denaske {language(s)}, flue {language(s)}, pli malpli bone {language(s)} kaj iomete {language(s)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Mi bedaŭras, sed mi ne parolas {language}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="Scitor">Mi lernas | Mi volas lerni {language(s)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Fini interparoladon:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="Scitor">Agrable renkonti vin</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Agrable paroli kun vi</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Mi devas foriri</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Tempo vespermanĝi</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Mi devas enlitiĝi</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Mi devas dormi</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Adiaŭi:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Ĝis la revido</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Ĝis morgaŭ</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Ĝis baldaŭ</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Ĝis la</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="Scitor">Bonan nokton, ĉiuj</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Ĝis, ĉiuj</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="Scitor">Mi revenos rapide</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Mi revenos pli malfrue</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Ekstraĵoj:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Scitor">Dankon</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="9378" lastmodified="1224567036">Multe dankon</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Scitor">Mi bedaŭras</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="9378" lastmodified="1224567036">Ridas laŭte</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="Scitor">Hoho | Hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

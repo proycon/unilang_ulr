@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="cy">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Os gwelwch yn dda</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Dyma chi</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Diolch</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Croeso</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Esgusodwch fi</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Efallai</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">S'mae?</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Hwyl!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Dydd da!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Bore da!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Noswaith dda!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Nos da!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Croeso!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Deall ein gilydd</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Dych chi'n siarad....?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Dw i'n siarad....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Dw i ddim yn siarad....</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Dw i'n siarad tipyn bach o ......</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">Saesneg</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">Ffrangeg</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">Almaeneg</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">Sbaeneg</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">Rwseg</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">Eidaleg</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">Iseldireg</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="11262" lastmodified="1244137580">Norwyeg</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="11262" lastmodified="1244137614">Swedeg</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="11262" lastmodified="1244137614">Daneg</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="11262" lastmodified="1244137614">Siapenëeg</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Dych chi'n deall?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Dych chi'n fy neall?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Dw i'n deall</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Dw i'n eich deall</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Dw i ddim yn deall</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Dw i ddim yn eich deall</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Gewch chi ailadrodd hyn, os gwelwch yn dda?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Gewch chi siarad yn arafach, os gwelwch yn dda?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Gewch chi ei ysgrifennu, os gwelwch yn dda?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="11262" lastmodified="1244137661">Wn i ddim sut i ddweud hyn</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="11262" lastmodified="1244137661">Wn i ddim y gair cywir</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Beth ddwedoch chi?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Sut dych chi'n ddweud hyn yn ....?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Sut dych chi'n ysgrifennu hyn?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Sut dych chi'n ynganu hyn?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Gewch chi gyfieithu hyn i mi?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Wnes i'w ddweud yn iawn?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Sgwrs sylfaenol</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Sut dych chi?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Dw i'n dda iawn!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Dw i'n iawn</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Dw i'n weddol</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Dw i ddim mor dda</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Faint ydy'ch oed chi?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Dw i'n .... oed</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Dwn i ddim</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Dw i ddim yn hoffi hynny</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Dw i'n barod</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Gawn ni fynd!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Mae'n ddrwg gen i</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">ieithoedd</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">mathemateg</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">gwybodeg</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="11262" lastmodified="1244137749">Mae gen i syched</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="11262" lastmodified="1244137749">cwpan o goffi</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="11262" lastmodified="1244137749">paned o dê</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Mae hi'n bwrw glaw</attrib>
+		</entry>
+	</entries>
+</ulr>

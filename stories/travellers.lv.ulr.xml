@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="lv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="hekate">Lācis un ceļinieki.</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="hekate">Mācība par lāčiem un draugiem</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="hekate">Uz ceļa bija divi ceļinieki, kad pēkšņi parādījās Lācis. Pirms viņš tos ievēroja, viens no viņiem sasniedza koku otrā ceļa malā, uzrāpās augšā zaros un tur paslēpās.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="hekate">Otrs nebija tik izveicīgs kā viņs biedrs; un, tā kā viņš nevarēja aizbēgt, viņš nometās zemē un izlikās miris.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="hekate">Lācis pienāca klāt un izošņāja tam visapkārt, bet viņš palika nevainojami nekustīgs un aizturēja savu elpu: jo saka, ka Lācis neaiztiekot beigtu ķermeni. Lācis viņu noturēja par līķi un aizgāja.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="hekate">Kad gaiss bija tīrs, pirmais ceļinieks nokāpa no koka un jautāja otram, ko Lācis tam čukstēja, kad bija pielicis savu muti pie viņa auss.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="hekate">Otrs atbildēja: &quot;Viņš man pieteica nekad vairs neceļot ar tādu draugu, kurš mani pamet pie pirmajām briesmām.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="hekate">Nelaime pārbauda draudzības īstumu.</attrib>
+		</entry>
+	</entries>
+</ulr>

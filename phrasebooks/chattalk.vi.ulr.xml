@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="vi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Xin chào</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Chào mọi người</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Chào buổi sáng / Chào</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Chào</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Chào</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Tạm biệt, chúc ngủ ngon</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Có gì mới không</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Bạn đang nói về điều gì vậy?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Bạn thế nào?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Các bạn thế nào?</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Bạn từ đâu đến</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Bạn lần đầu đến đây à</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Bạn nói những ngôn ngữ nào?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Bạn đang sống ở nước nào?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Bạn bao nhiêu tuổi?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Bạn đang học thứ tiếng nào?</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Tôi đến từ</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Tôi nói tiếng</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Xin lỗi, tôi không nói tiếng</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Tôi muốn học tiếng</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Rất vui được gặp bạn</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Rất vui được nói chuyện với bạn</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Tôi phải đi</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Tôi sắp đi ngủ</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Hẹn gặp lại</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Hẹn ngày mai</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Hẹn lần tới</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Tạm biệt mọi người</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Cám ơn</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Cám ơn rất nhiều</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Xin lỗi</attrib>
+		</entry>
+	</entries>
+</ulr>

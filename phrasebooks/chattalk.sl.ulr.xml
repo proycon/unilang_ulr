@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="sl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="13156" lastmodified="1232836153">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Ta majhna knjiga fraz vsebuje uporabne izraze, ki jih lahko uporabljate na chat-u.</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Prihaja:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Živijo</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Pozdrav vsem</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Dobro jutro</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Dober dan</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Dober večer</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Lahko noč</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Ejla</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Začenjati pogovor:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="13156" lastmodified="1232836153">Kaj je novega?</attrib>
+		</entry>
+	</entries>
+</ulr>

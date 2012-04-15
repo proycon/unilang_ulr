@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="chattalk" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,30"  groups=""  />
+		<editors  users="3"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="ar" stats="45" />
+		<language lang="ast" stats="49" />
+		<language lang="bg" stats="52" />
+		<language lang="bs" stats="45" />
+		<language lang="ca" stats="52" />
+		<language lang="cs" stats="51" />
+		<language lang="csb" stats="38" />
+		<language lang="da" stats="51" />
+		<language lang="de" stats="52" />
+		<language lang="el" stats="52" />
+		<language lang="en" stats="52" />
+		<language lang="eo" stats="52" />
+		<language lang="es" stats="52" />
+		<language lang="et" stats="52" />
+		<language lang="eu" stats="48" />
+		<language lang="fi" stats="52" />
+		<language lang="fo" stats="52" />
+		<language lang="fr" stats="52" />
+		<language lang="gl" stats="52" />
+		<language lang="hi" stats="35" />
+		<language lang="hr" stats="52" />
+		<language lang="hu" stats="52" />
+		<language lang="is" stats="7" />
+		<language lang="it" stats="52" />
+		<language lang="ja" stats="46" />
+		<language lang="ka" stats="24" />
+		<language lang="lt" stats="50" />
+		<language lang="lv" stats="52" />
+		<language lang="mi" stats="26" />
+		<language lang="ms" stats="29" />
+		<language lang="nl" stats="52" />
+		<language lang="no" stats="51" />
+		<language lang="pl" stats="51" />
+		<language lang="pt" stats="52" />
+		<language lang="ro" stats="52" />
+		<language lang="ru" stats="52" />
+		<language lang="sme" stats="5" />
+		<language lang="sr" stats="52" />
+		<language lang="sv" stats="52" />
+		<language lang="tr" stats="51" />
+		<language lang="vi" stats="33" />
+		<language lang="wee" stats="13" />
+		<language lang="zh" stats="51" />
+		<language lang="zh.Hans" stats="51" />
+		<language lang="sk" stats="52" />
+		<language lang="he" stats="51" />
+		<language lang="uk" stats="30" />
+		<language lang="sl" stats="12" />
+		<language lang="gd" stats="50" />
+		<language lang="kw" stats="19" />
+		<language lang="art" stats="41" />
+		<language lang="art-vo" stats="41" />
+		<language lang="esAR" stats="2" />
+	</languages>
+	<authors>
+		<author id="عرباوي أحمد" langs="ar" lastmodified="0" />
+		<author id="Zaduma" langs="ast,csb,gl,pl" lastmodified="0" />
+		<author id="Paruha" langs="bg" lastmodified="0" />
+		<author id="Koljenovic M." langs="bs" lastmodified="0" />
+		<author id="Scitor" langs="eo" lastmodified="0" />
+		<author id="Sir McDuck" langs="fi" lastmodified="0" />
+		<author id="Liisi" langs="lt" lastmodified="0" />
+		<author id="Kess" langs="sv" lastmodified="0" />
+		<author id="浩然 /" langs="zh.Hans" lastmodified="0" />
+		<author id="9378" langs="en,eo" lastmodified="1224567036" />
+		<author id="1149" langs="cs,sk" lastmodified="1227103784" />
+		<author id="13729" langs="he" lastmodified="1226044342" />
+		<author id="13899" langs="pl" lastmodified="1228578890" />
+		<author id="8367" langs="ru" lastmodified="1228569387" />
+		<author id="13645" langs="lv" lastmodified="1228900948" />
+		<author id="14244" langs="pl,uk" lastmodified="1229890998" />
+		<author id="7754" langs="hr" lastmodified="1231598030" />
+		<author id="914" langs="he" lastmodified="1232368214" />
+		<author id="13156" langs="sl" lastmodified="1232836153" />
+		<author id="14975" langs="ar" lastmodified="1234528874" />
+		<author id="12109" langs="en,gd" lastmodified="1233967983" />
+		<author id="15087" langs="ro,tr" lastmodified="1235162328" />
+		<author id="16000" langs="da" lastmodified="1241547840" />
+		<author id="16336" langs="uk" lastmodified="1244506501" />
+		<author id="15018" langs="lt,ru" lastmodified="1246091531" />
+		<author id="17531" langs="kw" lastmodified="1252929847" />
+		<author id="948" langs="art-vo" lastmodified="1258770859" />
+		<author id="18695" langs="da" lastmodified="1262787968" />
+		<author id="18968" langs="pt" lastmodified="1264688864" />
+		<author id="12790" langs="ar,es,esAR" lastmodified="1274030242" />
+	</authors>
+	<categories>
+		<category id="comingin" entries="hi,helloeverybody,goodmorning,goodafternoon,goodevening,goodnight,heythere" />
+		<category id="startconv" entries="whatsnew,whatsup,whattopic,howareyou,howareyoupl,howarethings" />
+		<category id="personalq" entries="wherefrom,newhere,languagesspeak,whereincountry,howoldareyou,languageslearn" />
+		<category id="talkingyou" entries="iamfrom,ispeak,ispeakfluently,sorryidontspeak,iamlearning" />
+		<category id="finishconv" entries="nicetomet,nicetotalk,ihavetogo,timedinner,leavingtobed,gottasleep" />
+		<category id="parting" entries="seeyoulater,seeyoutomorrow,seeyousoon,seenexttime,goodnighteverybody,byeall,berightback,bebacklater" />
+		<category id="xtras" entries="thanks,thanksalot,sorry,lol,hehe" />
+	</categories>
+	<entries order="strict">
+		<entry id="title" type="title" />
+		<entry id="description" type="description" />
+		<entry id="comingin" type="category" />
+		<entry id="hi" type="phrase" />
+		<entry id="helloeverybody" type="phrase" />
+		<entry id="goodmorning" type="phrase" />
+		<entry id="goodafternoon" type="phrase" />
+		<entry id="goodevening" type="phrase" />
+		<entry id="goodnight" type="phrase" />
+		<entry id="heythere" type="phrase" />
+		<entry id="startconv" type="category" />
+		<entry id="whatsnew" type="phrase" />
+		<entry id="whatsup" type="phrase" />
+		<entry id="whattopic" type="phrase" />
+		<entry id="howareyou" type="phrase" />
+		<entry id="howareyoupl" type="phrase" />
+		<entry id="howarethings" type="phrase" />
+		<entry id="personalq" type="category" />
+		<entry id="wherefrom" type="phrase" />
+		<entry id="newhere" type="phrase" />
+		<entry id="languagesspeak" type="phrase" />
+		<entry id="whereincountry" type="phrase" />
+		<entry id="howoldareyou" type="phrase" />
+		<entry id="languageslearn" type="phrase" />
+		<entry id="talkingyou" type="category" />
+		<entry id="iamfrom" type="phrase" />
+		<entry id="ispeak" type="phrase" />
+		<entry id="ispeakfluently" type="phrase" />
+		<entry id="sorryidontspeak" type="phrase" />
+		<entry id="iamlearning" type="phrase" />
+		<entry id="finishconv" type="category" />
+		<entry id="nicetomet" type="phrase" />
+		<entry id="nicetotalk" type="phrase" />
+		<entry id="ihavetogo" type="phrase" />
+		<entry id="timedinner" type="phrase" />
+		<entry id="leavingtobed" type="phrase" />
+		<entry id="gottasleep" type="phrase" />
+		<entry id="parting" type="category" />
+		<entry id="seeyoulater" type="phrase" />
+		<entry id="seeyoutomorrow" type="phrase" />
+		<entry id="seeyousoon" type="phrase" />
+		<entry id="seenexttime" type="phrase" />
+		<entry id="goodnighteverybody" type="phrase" />
+		<entry id="byeall" type="phrase" />
+		<entry id="berightback" type="phrase" />
+		<entry id="bebacklater" type="phrase" />
+		<entry id="xtras" type="category" />
+		<entry id="thanks" type="phrase" />
+		<entry id="thanksalot" type="phrase" />
+		<entry id="sorry" type="phrase" />
+		<entry id="lol" type="phrase" />
+		<entry id="hehe" type="phrase" />
+	</entries>
+</ulr>

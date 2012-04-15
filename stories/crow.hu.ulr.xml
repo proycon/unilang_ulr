@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="hu">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada (translated by Viktor Borbély)">A varjú és a korsó</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada (translated by Viktor Borbély)">A varjú használja az eszét, hogy italt szerezzen</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada (translated by Viktor Borbély)">Egy szomjas varjú talált egy korsót vízzel az alján, de olyan kevéske volt, akárhogy is próbálta nem tudta elérni a csőrével, és már úgy tűnt, hogy szomjanhal a puszta látványtól.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada (translated by Viktor Borbély)">Végül egy okos ötlete támadt. Kavicsokat kezdett el dobálni a korsóba, és minden egyes kaviccsal magasabbra emelkedett a vízszint, míg végül az utolsó által elérte a karimáját, és az okos madár olthatta szomját.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada (translated by Viktor Borbély)">Nagy úr a szükség.</attrib>
+		</entry>
+	</entries>
+</ulr>

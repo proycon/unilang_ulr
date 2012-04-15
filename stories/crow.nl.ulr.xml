@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="nl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Proycon">De kraai en de kan</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Proycon">Een kraai gebruikt haar hersens om te drinken</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Proycon">Een dorstige kraai vond een kan met wat water erin, maar er was zo weinig, dat hoe hard ze het ook probeerde, ze er niet met haar snavel bij kon, en het leek wel alsof ze van de dorst om zou komen, met de oplossing in zicht.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Proycon">Uiteindelijk bedacht ze een slim plannetje. Ze begon kiezeltjes in de kan te gooien, en met elke kiezel steeg het water weer een beetje totdat het uiteindelijk de rand bereikte, en de slimme vogel kon haar dorst lessen.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Proycon">Noodzaak maakt inventief.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="ru">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kathy">Доярка и ведро</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kathy">Доярка мечтает о будущем</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Kathy">Дочка фермера была на улице, чтобы подоить коров, и возвращалась на ферму, неся ведро с молоком на голове. По дороге она задумалась:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Kathy">&quot;Из молока в этом ведре у меня получится сметана, из которой я сделаю масло, и понесу на базар продавать. На эти деньги я куплю яиц, а из них выведутся цыплята. Постепенно у меня будет довольно большой птичий двор. Затем я продам несколько птиц, а на эти деньги куплю себе новое платье, которое одену, когда пойду на ярмарку. Все парни будут им восхищаться [, будут приходить] и ухаживать за мной, но я буду качать головой и ничего не скажу.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Kathy">Забыв о ведре и приводя слова в действие, она покачала головой. Ведро упало, всё молоко разлилось, и все её прекрасные воздушные замки исчезли в один миг!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Kathy">Цыплят по осени считают.</attrib>
+		</entry>
+	</entries>
+</ulr>

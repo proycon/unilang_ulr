@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="babeltext" version="1.9" baselang="de">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Der Babel-Text</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Dies ist die Geschichte von der Zerstörung des Turmes von Babel.</attrib>
+		</entry>
+		<entry id="e1">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Zu jener Zeit sprach die ganze Welt ein und die selbe Sprache.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Als die Menschen gen Osten zogen, fanden sie eine Ebene im Zweistromland und siedelten dort.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Sie sprachen zueinander: "Auf, lasset uns Ziegeln formen und hart brennen." Sie benutzten Ziegeln anstatt Steinen, und Teer als Mörtel.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Dann sprachen sie: "Auf, lasset uns eine Stadt erbauen, mit einem Turm, der zum Himmel reiche, auf daß wir uns einen Namen machen und nicht über die ganze Welt verstreut werden."</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Aber der Herr kam hernieder zu der Stadt und zu dem Turme, den die Menschen bauten.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Der Herr sprach: "Wenn sie als ein Volk, daß eine gemeinsame Sprache spricht, hiermit begonnen haben, dann wird ihnen nichts, was sie planen, unmöglich sein.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="11491" lastmodified="1238132900">So lasset uns hernieder gehen und ihre Sprache verwirren, auf daß sie einander nicht mehr verstehen.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Also verstreute der Herr sie von dort über die ganze Welt, und sie hörten auf, die Stadt zu bauen.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="11491" lastmodified="1238132900">Und deshalb ward sie Babel genannt - weil dort der Herr die Sprache der ganzen Welt verwirrte. Von dort verstreute der Herr sie über die ganze Erde.</attrib>
+		</entry>
+	</entries>
+</ulr>

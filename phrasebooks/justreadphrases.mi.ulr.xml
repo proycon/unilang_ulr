@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="mi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">Ka aroha atu au i a koe</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">Ka tae atu te &#257;wh&#257; ki te oneone</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">Ka rongo &#275;nei t&#257;ngata i t&#275;tahi oro kaha</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">Ka whiwhi i a au te maru whero</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">Ka kitea t&#275;tahi manu iti e ia.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">Ka kimi atu au i &#257;ku k&#299;</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">Ka p&#257; atu au i t&#333;u &#363;poko</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth">Ka mamae t&#333;na taringa katau</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">Ka m&#333;hio au i t&#275;r&#257; tangata roa</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">He mata kahurangi &#333;na</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">He tamaiti ia</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">Ka mataku te h&#333;iho</attrib>
+		</entry>
+	</entries>
+</ulr>

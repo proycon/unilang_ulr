@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="windsun" version="1.9" baselang="ro">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="aldaesme">Vântul de Nord şi Soarele</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="aldaesme">Între Vântul de Nord şi Soare a izbucnit o dispută, - 1</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="aldaesme">Între Vântul de Nord şi Soare a izbucnit o dispută, fiecare susţinând că el este mai puternic decât celălalt. În final au căzut deacord să îşi încerce puterile pe un călător, să vadă care dintre ei poate să îi dea mantia mai repede jos.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="aldaesme">Vântul de Nord a fost primul la încercare; şi, adunându-şi toate puterile pentru atac, a năvălit rostogolindu-se furios către bărbat, şi i-a ridicat mantia cu gândul că i-o va putea smulge cu un singur efort, dar cu cât sufla mai tare, cu atât mai aproape de el îşi înfăşura omul mantia.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="aldaesme">Apoi a venit rândul Soarelui. Mai întâi a strălucit uşor deasupra călătorului, care curând şi-a descheiat mantia şi a continuat să meargă cu ea agăţată neglijent pe umăr, apoi el a strălucit în toată puterea, şi omul, înainte de a mai face mulţi paşi, a fost bucuros să îşi arunce mantia şi să îşi continue călătoria mai lejer îmbrăcat.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="aldaesme">Persuasiunea este mai bună decât forţa.</attrib>
+		</entry>
+	</entries>
+</ulr>

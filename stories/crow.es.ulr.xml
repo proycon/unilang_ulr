@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="es">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">El Cuervo y el Cántaro</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">Un cuervo usa el cerebro para obtener de beber.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">Un cuervo sediento encontró un cántaro con algo de agua en él, pero había tan poca que, tratara como tratara, no podía alcanzarla con su pico, y parecía que moriría de sed a la vista de la cura.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">Al fin se le ocurrió un plan ingenioso. Empezó a arrojar guijarros dentro del cántaro, y con cada guijarro el agua ascendía un poco más hasta que al fin alcanzó el borde, y el ave astuta pudo satisfacer su sed.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">La necesidad es la madre de la inventiva.</attrib>
+		</entry>
+	</entries>
+</ulr>

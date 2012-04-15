@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="fi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Gallinago">Karhu ja kaksi matkalaista</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Gallinago">Kertomus karhuista ja ystävyydestä</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Gallinago">Kahden matkalaisen ollessa yhdessä tien päällä ilmestyi karhu äkkiä näköpiiriin. Ennen kuin se huomasi heidät, toinen matkalainen ryntäsi tien laidassa olevan puun luo, kapusi ylös oksistoon ja piiloutui sinne.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Gallinago">Toinen matkalainen ei ollut ketteryydessään kumppaninsa veroinen ja koska hän ei voinut paeta, hän heittäytyi maahan ja tekeytyi elottomaksi.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Gallinago">Karhu tuli ja nuuski häntä yltympäri, mutta hän pysytteli täysin liikkumattomana ja pidätteli henkeään: sillä sanotaan ettei karhu koske kuolleeseen ruumiiseen. Karhu luuli häntä kuolleeksi ja meni pois.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Gallinago">Kun tilanne oli seljennyt, puussa piileskellyt matkalainen kiipesi alas ja kysyi toiselta, mitä karhu oli kuiskannut sen pantua kuononsa korvaan.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Gallinago">Toinen vastasi: &quot;Se sanoi, ettei kannata koskaan toiste matkata sellaisen ystävän kanssa, joka jättää yksin vaaran uhatessa.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Gallinago">Hädässä ystävyys tutaan.</attrib>
+		</entry>
+	</entries>
+</ulr>

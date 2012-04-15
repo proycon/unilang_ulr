@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="fr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Emandir">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="113" lastmodified="1230804698">Voici est une liste qui contient environ 200 phrases, nous avons essayé d'utiliser des constructions grammaticales diverses et beaucoup de vocabulaire de base dans ces phrases, pour en faire un excellent moyen de s'exercer dans une langue et apprendre du vocabulaire en lisant simplement des phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Emandir">Je t'aime</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Emandir">La tempête atteint la plage</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Emandir">Ces gens entendent un grand bruit</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Emandir">Je reçois la lampe rouge</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Emandir">Elle voit un petit oiseau</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Emandir">Nous trouvons un vieux bâtiment</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Emandir">Je cherche mes clés</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Emandir">Je touche ta tête</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Emandir">Il veut une nouvelle voiture blanche</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Emandir">Elle ouvre la fenêtre cassée</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Emandir">La fille forte ferme la lourde porte noire</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="113" lastmodified="1230804815">Il résout le terrible problème</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Emandir">Le criminel en colère perd beaucoup d'argent précieux</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Emandir">Ils goûtent la délicieuse nourriture</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Emandir">Le policier a une opinion différente</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Emandir">Les collègues boivent du café froid et du thé chaud</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Emandir">La riche compagnie vend des légumes verts</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Emandir">Ils achètent dix nouveaux livres</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Emandir">Il a mal à l'oreille droite</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="Emandir">Je connais cette grande personne</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth" author="Emandir">La dame mince suit son chef obèse</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth" author="Emandir">L'ordinateur rapide change de couleur</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="Emandir">Il choisissent le mauvais outil</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" author="Emandir">Ma famille invite les gentils voisins</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="Emandir">Nous remercions les étudiants ennuyeux</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth" author="Emandir">Son mari apprécie la soirée</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="Emandir">Elle lit son quotidien</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="Emandir">Le pauvre homme porte des habits sales</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="Emandir">Le puissant animal rencontre un poisson faible</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Emandir">Je paye 200 euros/dollars</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Emandir">Elle aime la belle langue</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth" author="Emandir">La tempête atteint la plage</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth" author="Emandir">Les hommes construisent un bureau bas</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Emandir">Il a les yeux bleus</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="Emandir">Il neige aujourd'hui</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="Emandir">Il deviendra quelqu'un d'important</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="Emandir">Je suis à l'aéroport international</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Emandir">Elle a les mains propres</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Emandir">C'est un jeune garçon</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="Emandir">Elle est médecin</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="Emandir">Je demeure heureux</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth" author="Emandir">Je suis mouillé par la pluie</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="Emandir">Le cheval a peur</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="Emandir">Le chien blanc a été surpris</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth" author="Emandir">La société moderne est très avancée</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="Emandir">La cause de la collision est inconnue</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="Emandir">Je te fais un cadeau</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="Emandir">Il me pose une question difficile</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="Emandir">Je reçois un message de ma mère</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="Emandir">J'ecris une lettre à mon père</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="Emandir">Ils vivent dans une petite ville</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="Emandir">Le chien est assis derrière la télé</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="Emandir">Le chat est couché sur le sol</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="Emandir">Les enfants jouent dehors</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="Emandir">Elle parle de son université</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="Emandir">Ils quittent la pièce en silence</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="Emandir">Il répond au professeur</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="Emandir">Je marche devant ma maison</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="Emandir">Elle dort dans son (propre) lit</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="Emandir">L'avion vole au-dessus des montagnes</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth" author="Emandir">Nous courrons à travers le grand jardin</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" author="Emandir">Le livre est sur la table</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth" author="Emandir">J'entre dans la boutique avec toi</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth" author="Emandir">Je vais en ville en train</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth" author="Emandir">Les arbres poussent vite</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" author="Emandir">Il travaille dans une petite usine</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth" author="Emandir">Le stupide président tombe sur le nez</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" author="Emandir">Nous croyons certainemetn en Dieu</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth" author="Emandir">Je me plains du prix</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth" author="Emandir">Elle me lance la balle couteuse</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth" author="Emandir">Le grand-père malade meurt près de l'hôpital</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth" author="Emandir">Je comprends les phrases de cette page</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth" author="Emandir">La grand-mère raconte à l'enfant une histoire intéressante</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" author="Emandir">Nous espérons qu'il travaille dur</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth" author="Emandir">Il tient un couteau dans sa main gauche</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth" author="Emandir">Notre destination est entre les deux lacs</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth" author="Emandir">Il cuisine quelque chose de simple pour son amie</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth" author="Emandir">La fille est superbe dans la soir</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="Emandir">L'animal violent est sorti de sa cage</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="Emandir">Je compare nos lois aux vôtres</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth" author="Emandir">Je conduis vers notre capitale dans l'est</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth" author="Emandir">Les morts sont enterrés profondément dans le sol</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="Emandir">Le prêtre/imam/rabbin se tiens sous le nuage éclatant</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth" author="Emandir">L'oisillon au-dessus de moi vole près de ses parents</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth" author="Emandir">Je fuis dans l'école abîmée</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth" author="Emandir">Cette eau vient de loin</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="Emandir">J'ai beaucoup réfléchi à la vie</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth" author="Emandir">Quand ton ami vient-il ?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth" author="Emandir">De quoi te souviens-tu ?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth" author="Emandir">Combien de gens vont t'aider ?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth" author="Emandir">Pourquoi voles-tu ces objets ?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="Emandir">Quel âge as-tu ?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth" author="Emandir">Comment fabrique-t-on ce produit ?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth" author="Emandir">Qui est l'homme le plus intelligent du monde ?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth" author="Emandir">Que découvres-tu dans la mer ?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth" author="Emandir">Quel sandwich préfères-tu ?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth" author="Emandir">D'où viens-tu ?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" author="Emandir">Où vas-tu ?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth" author="Emandir">Ce magasin existe-t-il ?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth" author="Emandir">Quel est la raison de cette enquête ?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth" author="Emandir">Quels bus sont prêts à partir ?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth" author="Emandir">Je veux juste manger quelque chose</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth" author="Emandir">Je ne rêve jamais</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth" author="Emandir">Il est toujours en avance</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth" author="Emandir">Il a parfois raison</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="Emandir">Nous ne gagnons rien</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth" author="Emandir">Normalement, nous nous battons contre nos ennemis</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth" author="Emandir">Ils perdent souvent à ce jeu</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth" author="Emandir">J'aimerais que l'on soit déjà demain</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth" author="Emandir">Il y a beaucoup d'étoiles dans l'espace</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth" author="Emandir">Il expose souvent son corps nu</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth" author="Emandir">Nous dissimulons rarement nos idées</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth" author="Emandir">Il rit à quelque blague</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" author="Emandir">Je regarde partout</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth" author="Emandir">Il ne craint personne</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth" author="Emandir">Elle danse avec quelqu'un dans la rue</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth" author="Emandir">Tu peux prendre tout ce que tu veux</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth" author="Emandir">J'ai fais l'amour avec ma femme hier soir</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth" author="Emandir">Je t'offre deux fleurs gratuites</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth" author="Emandir">Il chantait tandis que ses parents écoutaient</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth" author="Emandir">Nous avons mangé après être allés au cinéma</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth" author="Emandir">Nous avons vu l'hôtel avant eux</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth" author="Emandir">Tu devrais nettoyer cette pièce avant que le propriétaire revienne</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth" author="Emandir">J'essaie de m'intéresser à la politique parce que je dois voter le mois prochain</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth" author="Emandir">Ce verre est vide, mais cet autre verre est plein</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth" author="Emandir">Ils crient pour que quelqu'un les entende</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth" author="Emandir">Je te permets de faire ça, bien que mon frère te l'ait interdit</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth" author="Emandir">Je suis fatigué, je ne vais donc pas me lever</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth" author="Emandir">J'ai envie de tuer les méchants prisonniers, sauf le blond</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth" author="Emandir">L'assassin aurait dû être reconnu coupable, mais il a été libéré à la place</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth" author="Emandir">Ca fait longtemps depuis la dernière fois où nous nous sommes vus</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth" author="Emandir">Je n'ai pas entendu parler d'elle depuis ce matin</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth" author="Emandir">Malgré le danger, il est entré dans la sombre maison en face de l'église/la mosquée/le temple</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth" author="Emandir">L'alcool était interdit, d'après mon père</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth" author="Emandir">J'aime cette région à cause de son histoire fascinante</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth" author="Emandir">Je fuis dans l'école abîmée</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth" author="Emandir">Cette eau vient de loin</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth" author="Emandir">Je me suis reposé pendant les vacances</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth" author="Emandir">J'attends que ma soeur vienne</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth" author="Emandir">Il prouve qu'il a raison</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth" author="Emandir">Nous pensons que ce n'est pas possible</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth" author="Emandir">Elle sourit, et il l'embrasse</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth" author="Emandir">Nous ne sommes toujours pas d'accord avec sa solution</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" author="Emandir">Je sais à quoi tu penses</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth" author="Emandir">La femme sait comment faire du pain</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth" author="Emandir">Je peux voir plusieurs mots</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth" author="Emandir">Je suis plus grand que toi</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth" author="Emandir">Il est aussi petit que toi</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth" author="Emandir">Il commence à détester son école</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth" author="Emandir">Elle a fini d'étudier ce sujet difficile</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth" author="Emandir">Ils ont arrêté de penser au gouvernement</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth" author="Emandir">Nous continuons notre travail</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth" author="Emandir">Ils se préparent à abandonner le navire</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth" author="Emandir">Il faut que j'oublie ce que j'ai vu</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth" author="Emandir">Si tu acceptes cette explication bizarre, tu es un imbécile</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth" author="Emandir">Je viendrai dans ton pays, à moins qu'il pleuve</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth" author="Emandir">La fille aveugle avait un grand sens de l'odorat</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth" author="Emandir">Hier, tout mes problèmes étaient bien loin</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth" author="Emandir">Je ne l'ai pas vu depuis trois ans</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth" author="Emandir">Je m'attends à ce qu'il vienne me voir pendant cinq heures</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth" author="Emandir">Je décide d'ignorer leur décision</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth" author="Emandir">Je répète une nouvelle fois ma conclusion</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth" author="Emandir">J'apprends aux élèves à compter jusqu'à dix</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth" author="Emandir">Pouvez vous traduire ce texte en anglais ?</attrib>
+		</entry>
+		<entry id="165">
+			<attrib type="orth" author="Emandir">Tu as réparé les dégâts toi-même la dernière fois tu as eu un accident</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth" author="Emandir">Je trouve qu'il est il possible d'en extraire le sens</attrib>
+		</entry>
+		<entry id="167">
+			<attrib type="orth" author="Emandir">Est-ce que tu m'apportes ma valise ou dois-je la porter moi-même?</attrib>
+		</entry>
+		<entry id="168">
+			<attrib type="orth" author="Emandir">Je n'ai pas encore réussi à apprendre cette leçon</attrib>
+		</entry>
+		<entry id="169">
+			<attrib type="orth" author="Emandir">C'est probablement une erreur très fréquente</attrib>
+		</entry>
+		<entry id="170">
+			<attrib type="orth" author="Emandir">Je suis heureusement généralement en bonne santé, je me suis cependant malheureusement fait mal au pied</attrib>
+		</entry>
+		<entry id="171">
+			<attrib type="orth" author="Emandir">Il fait beau, de plus, le soleil a brillé toute la journée</attrib>
+		</entry>
+		<entry id="172">
+			<attrib type="orth" author="Emandir">Savez-vous s'il peut s'occuper du vin pour la fête</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth" author="Emandir">Ma religion est toujours la même qu'avant</attrib>
+		</entry>
+		<entry id="174">
+			<attrib type="orth" author="Emandir">Une armée est inutile s'il n'y a aucune guerre</attrib>
+		</entry>
+		<entry id="175">
+			<attrib type="orth" author="Emandir">Le soldat international tire sur un passager innocent</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth" author="Emandir">Il est sans doute peu probable que ça arrive jamais</attrib>
+		</entry>
+		<entry id="177">
+			<attrib type="orth" author="Emandir">Il semble qu'il est l'heure de partir</attrib>
+		</entry>
+		<entry id="178">
+			<attrib type="orth" author="Emandir">On pense que mon âge est un secret</attrib>
+		</entry>
+		<entry id="179">
+			<attrib type="orth" author="Emandir">Dans ce cours, nous devons utiliser un dictionnaire et une calculatrice</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth" author="Emandir">J'ai peur d'achever ce que j'ai commencé</attrib>
+		</entry>
+		<entry id="181">
+			<attrib type="orth" author="Emandir">Je n'ai pas l'occasion de comparer mon dessin au tien</attrib>
+		</entry>
+		<entry id="182">
+			<attrib type="orth" author="Emandir">L'appareil électrique créé beaucoup d'énergie</attrib>
+		</entry>
+		<entry id="183">
+			<attrib type="orth" author="Emandir">Je suggère de na pas aller au nord, mais au sud</attrib>
+		</entry>
+		<entry id="184">
+			<attrib type="orth" author="Emandir">Je me sens mal. En fait, je me sens moins bien que la semaine dernière</attrib>
+		</entry>
+		<entry id="185">
+			<attrib type="orth" author="Emandir">Les bébés ne peuvent effectivement pas encore parler</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth" author="Emandir">Il faut (en) tirer les conséquences immédiatement</attrib>
+		</entry>
+		<entry id="187">
+			<attrib type="orth" author="Emandir">Je savais très bien s'il fallait que j'agisse ou non</attrib>
+		</entry>
+		<entry id="188">
+			<attrib type="orth" author="Emandir">Il a frappé en plein dans le bois</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth" author="Emandir">Mes camarades de classes jouaient ensemble, tandis que j'étais assis dans un coin</attrib>
+		</entry>
+		<entry id="190">
+			<attrib type="orth" author="Emandir">L'enfant voulait être gentil avec eux, mais malgré tout ils ne l'aimaient pas</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth" author="Emandir">Mon professeur a dit que je ne devrais pas dire de telles choses</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth" author="Emandir">Ma mère a toujours pensé que j'avais besoin de plus d'attention</attrib>
+		</entry>
+	</entries>
+</ulr>

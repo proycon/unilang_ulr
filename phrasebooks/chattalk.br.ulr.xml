@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="br">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Quevenois">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Quevenois">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth" author="Quevenois">Dont a-barzh</attrib>
+			<attrib type="phon" author="Quevenois">[dɔ͂n ˈbaχ]</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="Quevenois">Salud deoc'h!</attrib>
+			<attrib type="phon" author="Quevenois">[saly ˈtɔχ]</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="Quevenois">Salud da dout an dud</attrib>
+			<attrib type="phon" author="Quevenois">[saly tə dun ˈdyt]</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="Quevenois">Devezh mat deoc'h</attrib>
+			<attrib type="phon" author="Quevenois">[dəɥaʁ ma ˈtɔχ]</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="Quevenois">Achumant devezh mat deoc'h</attrib>
+			<attrib type="phon" author="Quevenois">[aʃyman dəɥaʁ ma ˈtɔχ]</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="Quevenois">Noziazh vat</attrib>
+			<attrib type="phon" author="Quevenois">[noːzjaʁ ˈvaːt]</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="Quevenois">Krog bar gaoj</attrib>
+			<attrib type="phon" author="Quevenois">[ˈkʁɔg baʁ ˈgoːʃ]</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="Quevenois">Petra zo nevez genoc'h?</attrib>
+			<attrib type="phon" author="Quevenois">[pəˈtɛ zo nəɥe ɟəˈnɔχ]</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="Quevenois">Zia-benn petra eh oc'h é kaojal?</attrib>
+			<attrib type="phon" author="Quevenois">[ziaben pəˈtɛ hɔχ koˈʒaːl]</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="Quevenois">Penaos e ya an traoù genoc'h?</attrib>
+			<attrib type="phon" author="Quevenois">[pənɔ jan tʁɔw ɟəˈnɔχ]</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="Quevenois">Penaos e ya an traoù genoc'h?</attrib>
+			<attrib type="phon" author="Quevenois">[pənɔ jan tʁɔw ɟəˈnɔχ]</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="Quevenois">Goulennoù personel</attrib>
+			<attrib type="phon" author="Quevenois">[gulənɔw pɛʁsɔˈnɛl]</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="Quevenois">Dia ven oc'h-c'hwi?</attrib>
+			<attrib type="phon" author="Quevenois">[dʒa ˈvɛn ɔˈhɥi]</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="Quevenois">C'hwi zo nevez 'barzh-amañ?</attrib>
+			<attrib type="phon" author="Quevenois">[hɥi zo nəɥe bahaˈma]</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="Quevenois">Pezh langajoù a gaojet?</attrib>
+			<attrib type="phon" author="Quevenois">[pɛʁ lɑ͂gaʒɔw ə goːʒət]</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="Quevenois">Men eh oc'h é chom ba {country} ?</attrib>
+			<attrib type="phon" author="Quevenois">[ˈmɛn ɔχ ˈʃom ba...]</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="Quevenois">Pezh oad 'peus?</attrib>
+			<attrib type="phon" author="Quevenois">[pɛh wɛt pəs]</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="Quevenois">Pezh langajoù eh oc'h é teskiñ?</attrib>
+			<attrib type="phon" author="Quevenois">[pɛʁ lɑ͂gaʒɔw hɔχ tesˈkɛ͂ɲ]</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="Quevenois">Kaojal zia-ho-penn ho-kunan</attrib>
+			<attrib type="phon" author="Quevenois">[koʒaːl zja o ˈpen o koˈlɔ͂ːn]</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="Quevenois">Me zo dia {country}</attrib>
+			<attrib type="phon" author="Quevenois">[mə zo dʒa...]</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="Quevenois">Me a gaoja {language}</attrib>
+			<attrib type="phon" author="Quevenois">[mə goːʒa...]</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="Quevenois">Ma langaj kentañ zo ar {}; me a gaoja {} àr ma aezemant; me a gaoja {} mat e-walc'h; me a gaoja un tammig {}</attrib>
+			<attrib type="phon" author="Quevenois">[mə lɑ͂gaʃ cətɑ͂ zo əʁ...; mə goːʒa... a mə ezəman; mə goːʒa... maːd əˈwal; mə goːʒa ɔ͂n tami...]</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="Quevenois">Eskuzet ac'hanin, ne gaojan ket {}</attrib>
+			<attrib type="phon" author="Quevenois">[escyːzəd anɛ͂ɲ, goːʒɑ͂ cə...]</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="Quevenois">Me zo é teskiñ {} / Me a faota din deskiñ {}</attrib>
+			<attrib type="phon" author="Quevenois">[mə zo teskɛ͂ɲ... / mə fota dɛ͂ɲ deskɛ͂ɲ...]</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="Quevenois">Achiv kaojal</attrib>
+			<attrib type="phon" author="Quevenois">[aʃi koʒaːl]</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="Quevenois">Me zo bet koutant doc'h ho kwelet</attrib>
+			<attrib type="phon" author="Quevenois">[mə zo pə kutan dɔh o cɥələt]</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="Quevenois">Me zo bet koutant da gaojal genoc'h</attrib>
+			<attrib type="phon" author="Quevenois">[mə zo pə kutan də goʒaːl ɟənɔχ]</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="Quevenois">Ema ret din mont</attrib>
+			<attrib type="phon" author="Quevenois">[matɛ͂ɲ mɔ͂n]</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="Quevenois">Mall eo debriñ koan</attrib>
+			<attrib type="phon" author="Quevenois">[mal ə dɛːbɛ͂ɲ kwɛ͂ːn]</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="Quevenois">Eh an da gousket</attrib>
+			<attrib type="phon" author="Quevenois">[jɑ͂ də guskət]</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="Quevenois">Ema ret din mont da gousket</attrib>
+			<attrib type="phon" author="Quevenois">[ma tɛ͂ɲ mɔ͂n tə guskət]</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="Quevenois">Lâret kenavo</attrib>
+			<attrib type="phon" author="Quevenois">[laːʁə cənəvo]</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="Quevenois">Da venn tuchant</attrib>
+			<attrib type="phon" author="Quevenois">[də vɛn tyʃan]</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="Quevenois">Da venn arc'hoazh</attrib>
+			<attrib type="phon" author="Quevenois">[də vɛn awaχ]</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="Quevenois">D'ar wezh kentañ</attrib>
+			<attrib type="phon" author="Quevenois">[dəʁ ɥɛχ cətɑ͂]</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="Quevenois">D'ar wezh kentañ</attrib>
+			<attrib type="phon" author="Quevenois">[dəʁ ɥɛχ cətɑ͂]</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="Quevenois">Noziazh vat da dout an dud</attrib>
+			<attrib type="phon" author="Quevenois">[noːzjaʁ ˈvaː tə dun dyt]</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="Quevenois">Kenavo da dout an dud</attrib>
+			<attrib type="phon" author="Quevenois">[cənvo də dun dyt]</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="Quevenois">Me a zey en-dro</attrib>
+			<attrib type="phon" author="Quevenois">[mə zɛj əndʁo]</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="Quevenois">Me a zey en-dro diwezhatoc'h</attrib>
+			<attrib type="phon" author="Quevenois">[mə zɛj əndʁo dəhatɔχ]</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Quevenois">Mersi bras deoc'h</attrib>
+			<attrib type="phon" author="Quevenois">[mɛʁsi bʁaːz dɔχ]</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="Quevenois">Mersi bras deoc'h</attrib>
+			<attrib type="phon" author="Quevenois">[mɛʁsi bʁaːz dɔχ]</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Quevenois">Eskuzet ac'hanin</attrib>
+			<attrib type="phon" author="Quevenois">[escyzəd anɛ͂ɲ]</attrib>
+		</entry>
+	</entries>
+</ulr>

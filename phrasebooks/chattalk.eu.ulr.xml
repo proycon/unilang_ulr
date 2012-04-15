@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="eu">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Aupa</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Kaixo , guztiok</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Egun on</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Arratsalde on</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Gau on</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">indonezijski</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Berririk al dago?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Zer gertatzen da?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Zertaz hitz egiten ari zarete?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Nola zaude? / Zelan zaude? Zer moduz?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Zelan zaudete?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Nola doaz gauzak?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Dobrodošli</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Nongoa zara?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Berriak zarete? Zuen lehenengo aldia hemen da?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Zer hizkuntza hitz egiten dituzu?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Zein herrialdetan bizi zara?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Ze hizkuntza ari zara ikasten?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">engleski</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">francuski</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">njemački</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">španjolski</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">portugalski</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">arapski</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">kineski</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">hindi</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">ruski</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">talijanski</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">nizozemski</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">norveški</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">švedski</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">danski</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">poljski</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">urdu</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">farsi</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">japanski</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">malajski</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">razumiješ li?/razumijete li ??</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">razumiješ li me?/razumijete li  me??</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">razumijem</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Razumijem te/Razumijem Vas</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Ne razumijem</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Ne razumijem te/Ne razumijem Vas</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Možeš li to ponoviti, molim te??/Možete li to ponoviti, molim Vas??</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">Možeš li govoriti sporije?/Možete li govoriti sporije?</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Možeš li to zapisati?/Možete li to zapisati?</attrib>
+		</entry>
+	</entries>
+</ulr>

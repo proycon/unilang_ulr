@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="sv">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Kess">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Kess">Det här är en mellanstor parlör med allmännyttiga vanliga fraser.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Kess">Vanligaste uttrycken</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Kess">Ja</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Kess">Nej</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Kess">Tack (no exact equivalent exists in Swedish)</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Kess">Varsågod</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Kess">Tack</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Kess">Varsågod</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Kess">Ursäkta</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Kess">Kanske</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Kess">Hej | Hallå</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Kess">Hej då!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Kess">God dag!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Kess">God morgon!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Kess">God kväll!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Kess">God natt!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Kess">Välkommen!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Kess">Trevlig resa!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Kess">Förstå varandra</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Kess">Talar du...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Kess">Jag talar...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Kess">Jag talar inte...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Kess">Jag talar lite...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Kess">Engelska</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Kess">Franska</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Kess">Tyska</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Kess">Spanska</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Kess">Portugisiska</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Kess">Arabiska</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Kess">Kinesiska</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Kess">Hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Kess">Ryska</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Kess">Italienska</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Kess">Nederländska</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Kess">Norska</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Kess">Svenska</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Kess">Danska</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Kess">Polska</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Kess">Urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Kess">Farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Kess">Japanska</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Kess">Indonesiska</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Kess">Malajiska</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Kess">Förstår du?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Kess">Förstår du mig?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Kess">Jag förstår</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Kess">Jag förstår dig</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Kess">Jag förstår inte</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Kess">Jag förstår dig inte</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Kess">Kan du säga om det?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Kess">Kan du tala lite långsammare?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Kess">Kan du skriva ned det?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Kess">Jag vet inte hur man säger det</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Kess">Jag kan inte det rätta ordet</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Kess">Vad sade du?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Kess">Hur säger man det i...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Kess">Hur skriver man det?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Kess">Hur uttalar man det?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Kess">Kan du översätta det här åt mig?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Kess">Sade jag det rätt?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Kess">Bassamtal</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Kess">Hur mår du?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Kess">Jag mår jättebra!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Kess">Jag mår bra</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Kess">Det är okej</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Kess">Inte så bra</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Kess">Hur gammal är du?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Kess">Jag är .... år [gammal]</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Kess">Jag vet inte</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Kess">Jag gillar inte det</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Kess">Jag är redo</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Kess">Låt oss gå!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Kess">Jag är ledsen</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Kess">Pengar</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Kess">Kan jag betala kontant?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Kess">Kan jag betala med kreditkort/kontokort?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Kess">Tar ni emot...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="Kess">Kan du växla in de här resecheckarna?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Kess">kan du växla det här till...?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="Kess">Kan du uppskatta vad det kommer kosta?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Kess">Här är mitt kort.</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="Kess">Hur mycket tar du i provision?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Kess">I vill växla lite dollar/euro/pund.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Kess">Vad är växlingskursen?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="Kess">Hur hög är inflationen?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Kess">Var kanjag växla mina pengar?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Kess">Var kan jag ta kopior?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Kess">Var är närmaste bank?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Kess">Var skall jag skriva under?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Kess">Har du en katalog?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Kess">Jag har ett möte med...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Kess">Hur mycket är inträdesavgiften?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Kess">Hur mycket kostar det per dag?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Kess">Hur mycket kostar det per timme?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Kess">Hur mycket kostar det per vecka?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Kess">Är det gratis?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Kess">Datorer och internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Kess">Har du en dator?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Kess">Hårddisken är full</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Kess">Har du modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Kess">Har du en internetuppkoppling?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Kess">Kan jag skicka e-post?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Kess">Kan jag läsa min e-post?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Kess">Kan jag skriva ut någonting?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Kess">Kan jag skanna in någonting?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Kess">Min dator dog</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Kess">Du behöver starta om</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Kess">Kan jag installera...</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Kess">Vad har du för e-postadress?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Kess">Min e-postadress är...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Kess">Har du någon hemsida?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Kess">Vad är det för adress?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Kess">Utbildning</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Kess">Vad pluggar du? | Vad studerar du?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Kess">Jag pluggar... | Jag studerar...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Kess">rätt</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Kess">medicin</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Kess">ekonomi</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Kess">språk</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Kess">lingvistik</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Kess">matematik | matte</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Kess">kemi</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Kess">fysik</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Kess">IT</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Kess">Vid vilket universitet studerar du?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Kess">Jag studerar vid... | Jag pluggar på...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Kess">Jag har skola i dag | Jag har föreläsning i dag</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Kess">Jag är ledig i dag</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Kess">Går du på högstadiet/gymnasiet?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Kess">Jag går på högstadiet/gymnasiet</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Kess">Jag måste gå till lektionen/föreläsningen nu</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Kess">Nödsituationer</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Kess">Ring efter en läkare!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Kess">Ring efter en ambulans!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Kess">Ring polisen!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Kess">Han kan inte andas</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Kess">Han kan inte röra sig</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Kess">Han stannade inte</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Kess">Han sprang in i mig</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Kess">Han körde för fort</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Kess">Han har skärt sig själv</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Kess">Jag kan inte röra min arm</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Kess">Jag kan inte röra mitt ben</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Kess">Jag har blivit rånad</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Kess">Stopp tjuven!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Kess">Mitt pass har blivit stulet</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Kess">Mina pengar har blivit stulna</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Kess">Min bil har blivit stulen</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Kess">Det brinner!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Kess">Var är närmaste sjukhus?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Kess">Var är närmaste polisstation?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Kess">Känslor och åsikter</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Kess">Tycker du om det?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Kess">Jag tycker om det</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Kess">Jag är glad</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Kess">Jag är arg</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Kess">Jag är missnöjd</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Kess">Jag är nöjd</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Kess">Jag är trött</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Kess">Jag är rädd</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Kess">Jag är varm</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Kess">Jag är kall</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Kess">Jag är sömnig</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Kess">Vi trivs här</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Kess">Det är (mycket) intressant</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Kess">Vi tycker det är mycket intressant</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Kess">Det är (väldigt) tråkigt</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Kess">Det är vackert</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Kess">Han är (mycket) stilig</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Kess">Hon är (väldigt) söt</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="Kess">Han är het!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="Kess">Hon är het!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Kess">Han/hon är mycket snäll</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Kess">Titta!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Kess">Lyssna!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Kess">Fint!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Kess">Imponerande!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Kess">Mat och restaurang</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Kess">Jag är hungrig</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Kess">Jag är törstig</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="Kess">Ska vi ta någonting att äta?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="Kess">Ska vi ta någonting att dricka?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Kess">Har du någonting att äta?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Kess">Har du någonting att dricka?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Kess">Vill du ha någonting att äta?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Kess">Kan jag ge dig någonting att äta?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Kess">Vill du ha någonting att dricka?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha ... (att dricka), är du snäll</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Kess">en kopp kaffe</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Kess">en kopp te</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Kess">ett glas öl</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Kess">ett glas vin</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Kess">ett glas rödvin</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Kess">ett glass vitt vin</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Kess">ett glas apelsinjuice</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Kess">ett glas äppeljuice</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Kess">Kan jag ge dig någonting att dricka?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Kess">Vad skulle du vilja dricka?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Kess">Vad skulle du vilja äta?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Kess">Vad rekommenderar du?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Kess">Kan jag få menyn, är du snäll?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Kess">Kan jag få vinlistan, är du snäll?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha det här</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Kess">Vill du ha en förrätt?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha en förrätt</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha fisk</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha biff[kött]</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha fläsk[kött]</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha en sallad</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha soppa</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha något vegetariskt</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Kess">Vill du ha efterrätt?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Kess">Som förrätt skulle jag vilja ha...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Kess">Som huvudrätt skulle jag vilja ha...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Kess">Som efterrätt skulle jag vilja ha...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Kess">Kan jag få den här med pommes frites/ris/potatis?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Kess">Kan jag få den här utan...</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Kess">Skulle jag bara kunna få en liten portion?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Kess">Vad har ni för slags sallader?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Kess">Inget mer, tack</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="Kess">Det är för att ta med</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Kess">Jag är vegeterian</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="Kess">Jag är vegan</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Kess">Jag kan inte äta det</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Kess">Innehåller det här...</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Kess">(mycket) salt</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Kess">(mycket) socker</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Kess">(mycket) fett</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Kess">något kött alls</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Kess">någon havsmat</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Kess">någon fisk</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Kess">någon mjölkprodukt</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Kess">Jag dricker inte (alkohol)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Kess">Jag har ingen gaffel</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Kess">Jag har ingen kniv</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Kess">Jag har ingen sked</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Kess">Det saknas ett glas</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Kess">Det saknas en tallrik</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Kess">Den här är inte ren</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Kess">Den är för kall</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Kess">Den är för stark</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Kess">Det här är inte vad jag beställde</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Kess">Det har uppkommit ett misstag här</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Kess">Det var jättegott/smarrigt (vernacular)</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Kess">Jag skulle vilja få betala</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Kess">Kan jag få notan, tack?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Kess">Vi skulle vilja betala var för en</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Kess">Är allt inräknat?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Kess">Är dricks medräknad?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Kess">Gillar du att laga mat?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Kess">Vem lagar maten i kväll?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Kess">Skall jag laga maten i kväll?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Kess">Vad skall jag göra?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Kess">Skulle du vilja ha en kopp kaffe?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Kess">Skulle du vilja ha en kopp te?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Kess">Hälsa och sjukdomar</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Kess">Jag är sjuk</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Kess">Jag har influensa[n]</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Kess">Jag är förkyld</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Kess">Jag är allergisk | Jag har allergier</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Kess">Jag är diabetiker | Jag har diabetes</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Kess">Jag har ont</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Kess">Jag mår inte så bra</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Kess">Jag går på medicin</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Kess">Jag är gravid</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Kess">Jag kan inte äta</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Kess">Jag kan inte sova</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="Kess">Jag vill inte ha något för starkt</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Kess">Jag känner mig yr</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="Kess">Jag känner mig illamående</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="Kess">Jag har brutit en tand</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Kess">Jag har hosta</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Kess">Jag har huvudvärk | Jag har ont i huvudet</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Kess">Jag har ont i magen</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="Kess">Jag har ont i bröstet</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Kess">Jag har fått en infektion</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="Kess">Jag har blivit stungen | Jag har blivit stucken</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="Kess">Jag har blivit biten</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Kess">Har du ont?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Kess">Gör det ont?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Kess">Gör det ont när jag gör så här?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="Kess">Äter du någon medicin?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="Kess">Vad är din [kropps]temperatur?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Kess">Kan du gå?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Kess">Jag behöver en rullstol</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="Kess">Jag sitter i rullstol</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Kess">Var är närmaste apotek?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Kess">Kan jag få det utan recept?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Kess">Har du något mot insektsbett?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Kess">Har du något mot solbränna?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Kess">Jag har recept från en läkare</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Kess">Jag behöver något för/mot</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Kess">Hur ofta borde jag ta det?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Kess">Fritidssysselsättningar</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Kess">Vad har du för hobbier?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Kess">Vad gör du på fritiden?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Kess">Tycker du om att läsa?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Kess">Jag tycker inte om att läsa</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Kess">Jag tycker om att läsa</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Kess">Jag gillar att laga mat</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Kess">Jag tycker om att lyssna på musik</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Kess">Jag gillar att spela piano</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Kess">Jag tycker om att spela gitarr</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Kess">Jag tycker om att sjunga</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Kess">Jag gillar att spela schack</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Kess">Jag tycker om att gå ut</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Kess">Jag gillar att resa</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Kess">Jag tycker om att handla/shoppa</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Kess">Jag tycker om att påta i trädgården</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Kess">jag gillar att kolla på teve</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Kess">Jag gillar att surfa på internet</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Kess">Vad för slags musik tycker du om?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Kess">Jag gillar klassisk musik</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Kess">Jag gillar popmusik</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Kess">Jag gillar opera</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Kess">Jag gillar jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Kess">Jag gillar techno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Kess">Jag gillar hårdrock</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Kess">Vilka är dina favoritband?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Kess">Vilket föredrar du?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Kess">Jag föredrar...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Kess">Introducera sig själva</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Kess">Jag heter...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Kess">Vad heter du?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Kess">Jag är...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Kess">Vem är du?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Kess">Får jag presentera...?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Kess">Jag tänker presentera dig för...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Kess">Det här är min fru</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Kess">Det är här min man</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Kess">Det här är min flickvän</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Kess">Det här är min pojkvän</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Kess">Det här är min kompis</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Kess">Det här är min son</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Kess">Det här är min dotter</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Kess">Det här är min mamma</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Kess">Det här är min pappa</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Kess">Trevligt att råkas</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Kess">Planer och möten</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="Kess">Är du ledig i dag / i morgon / i kväll?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Kess">Jag har redan planer</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Kess">Jag skall gå på bio</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Kess">Jag skall gå på teater</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Kess">Jag skall gå på museum</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="Kess">Har du lust att följa med ut i kväll?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="Kess">Jättegärna</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Kess">Har du biljetter?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Kess">Jag har två biljetter till...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Kess">Jag gillar inte musiken</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Kess">Volymen är för hög</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="Kess">Det är för trångt här</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Kess">Skall vi gå någon annan stans?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="Kess">Vad skall vi gå på för film?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="Kess">Vad tyckte du om filmen?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Kess">Politik</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Kess">Jag är intresserad av politik</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Kess">Jag är inte intresserad av politik</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="Kess">Vad tycker du om regeringen?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="Kess">Vad tycker du om kungen/drottningen?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Kess">Vad tycker du om presidenten?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="Kess">Vad tycker du om premiärministern?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Kess">Vad tycker du om yttrandefriheten?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="Kess">Vad tycker du om militären?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Kess">Vad tycker du om demokrati?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="Kess">Vad tycker du om mänskliga rättigheter?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="Kess">Vad tycker du om kvinnliga rättigheter?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="Kess">Vad tycker du om homo/bi/trans/.../sexuellas rättigheter?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="Kess">Är du medlem i något [politiskt] parti?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="Kess">När är det val?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="Kess">Vem röstade du på i förra valet?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="Kess">Vem tänker du rösta på?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Kess">Jag är...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Kess">kommunist</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Kess">kapitalist</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Kess">demokrat</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Kess">kristdemokrat</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Kess">republikan</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="Kess">åt vänster | vänsterorienterad</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Kess">nationalist</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="Kess">socialist</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="Kess">liberal</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Kess">fascist</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="Kess">Relationer och familj</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="Kess">Är du gift?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="Kess">Jag är gift</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="Kess">Jag är inte gift</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Kess">Har du pojkvän?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Kess">Har du flickvän?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Kess">Jag har pojkvän</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Kess">Jag har flickvän</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Kess">Hur gammal är han/hon?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Kess">Han/hon är .. år [gammal]</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="Kess">Vad gör han/hon?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Kess">Har du/ni barn?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Kess">Jag har inga barn</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Kess">Jag har ett barn / en son / en dotter</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Kess">Jag har två barn</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Kess">Jag har tre/fyra/fem/sex/sju barn</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Kess">Hur många syskon har du? | Hur många bröder och systrar har du?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="Kess">Lever din mamma fortfarande?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="Kess">Lever din pappa fortfarande?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="Kess">Är din mormor/farmor fortfarande i livet?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="Kess">Är din morfar/farfar fortfarande i livet?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Kess">Religion</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Kess">Är du religiös?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Kess">Jag är inte religiös</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Kess">Jag är ateist</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="Kess">Jag är agnostiker</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Kess">Jag är muslim</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Kess">Jag är jude</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Kess">Jag är buddist</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="Kess">Jag är hinduist</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Kess">Jag är katolik</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Kess">Jag är kristen</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="Kess">Var kan jag hitta en kyrka?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="Kess">Var kan jag hitta en moske?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="Kess">Var kan jag hitta en synagoga?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="Kess">Var kan jag hitta ett tempel?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="Kess">Tack gud</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="Kess">Om gud så vill | Om gud vill det</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Kess">Å herre gud | Herre jisses</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="Kess">Bostad, besök och logi</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Kess">Var kommer du ifrån? | Vilket land kommer du ifrån?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Kess">Jag är från...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Kess">Frankrike</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Kess">Storbrittanien</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Kess">Spanien</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Kess">Tyskland</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Kess">USA | Förenta staterna</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Kess">Kina</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Kess">Brasilien</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Kess">Japan</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Kess">Ryssland</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Kess">Kanada</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Kess">Australien</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="Kess">Vad har du för nationalitet?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Kess">Jag har...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Kess">brittisk</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Kess">fransk</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Kess">tysk</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Kess">amerikansk</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Kess">kinesisk</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Kess">japansk</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Kess">rysk</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Kess">brasiliansk</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Kess">kanadensisk</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Kess">Var kommer du ifrån? | I vilken stad bor du?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Kess">Jag bor i London/Paris/Berlin</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Kess">Är det nära...</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Kess">Är det långt från...</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Kess">Jag bor nära...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Kess">Jag bort långt från...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="Kess">Var bor du?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="Kess">Jag bor på hotellet...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="Kess">Hur länger stannar du?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="Kess">När åker du tillbaka?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Kess">När kom du?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="Kess">Är du här ensam?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Kess">Jag är här ensam</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="Kess">Jag är här med familjen</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Kess">Bor du här?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="Kess">Jag kommer inte härifrån</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="Kess">Kan vi tälta / slå läger här?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="Kess">Har ni några lediga platser?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="Kess">Har ni plats för ett tält?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="Kess">Hur mycket kostar det per natt?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="Kess">Vi vill stanna en vecka</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="Kess">Var är duscharna?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="Kess">Var är toaletterna?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="Kess">Jag skulle vilja ha ett enkelrum</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="Kess">Jag vill ha ett rum med...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Kess">ett bad</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Kess">en dusch</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="Kess">utsikt</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Kess">en balkong</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="Kess">en extra säng</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="Kess">separata sängar</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="Kess">Vi skulle vilja ha ett dubbelrum</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="Kess">Ingår frukost?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="Kess">När är det frukost?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="Kess">Finns det inga billigare rum?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="Kess">Har jag fått något meddelande?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="Kess">Skulle jag kunna få min nyckel?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="Kess">Vad har jag för rumsnummer?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="Kess">Jag frågade efter ett rum med bad/dusch</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="Kess">Sex</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="Kess">Vill du sova med mig? | Vill du ha sex med mig?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="Kess">Har du kondom?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth" author="Kess">Tar du p-piller?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="Kess">Inte utan kondom</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="Kess">Ta det lugnt | Var försiktig</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="Kess">Gillar du det här?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Kess">Jag gillar inte det här?</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="Kess">Är du singel?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="Kess">Är du gay/bög/homo[sexuell]?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth" author="Kess">Är du hetero[sexuell]/straight?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="Kess">Är du lesbisk/flata?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="Kess">Är du bi[sexuell]?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="Kess">Handel</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="Kess">Kan du hjälpa mig?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="Kess">Kan jag hjälpa dig?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" author="Kess">Vad skulle du vilja ha?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Kess">Vad letar du efter?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="Kess">Jag kollar bara</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="Kess">Jag gillar den här</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="Kess">Jag gillar de här byxorna</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="Kess">Jag gillar den här tröjan</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="Kess">Jag gillar den här jackan/kavajen</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="Kess">Jag gillar den här skjortan/blusen</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="Kess">Jag gillar den här kostymen</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="Kess">Jag gillar de här glasögonen</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="Kess">Jag gillar de här skorna</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Kess">Jag letar efter...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="Kess">Kan jag prova den? | Får jag ta på mig den?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="Kess">Kan jag prova den?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Kess">Var är omklädningsrummet?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Kess">Den är för lång</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="Kess">Den är för kort</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="Kess">Den är för smal/tajt</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="Kess">Den är för vid/stor</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="Kess">Den passar inte</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="Kess">Den passar perfekt</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="Kess">Vad har du för storlek?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="Kess">Jag har storlek...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth" author="Kess">Jag förstår mig inte på de här storlekarna</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="Kess">Har du en större [storlek]?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="Kess">Har du en mindre [storlek]?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="Kess">Jag gillar färgen</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="Kess">Jag gillar inte färgen</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="Kess">Har du den här i rött/blått/gult/grönt/lila/rosa?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="Kess">Har ni någon billigare?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="Kess">Vad är den gjord av?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="Kess">Kan du reparera den här?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="Kess">Rundtur | sightseeing</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="Kess">Får jag ta kort?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="Kess">Du får inte ta kort här</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="Kess">Går det någon båttur på sjön?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="Kess">Går det någon båttur på floden?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="Kess">Finns det guidade turer?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="Kess">Hur lång tid tar guidningen?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="Kess">Finns det någon bra nattklubb?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="Kess">Finns det någon lokal festival?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="Kess">Jag skulle vilja besöka katedralen</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="Kess">Jag skulle vilja besöka kyrkan</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="Kess">Jag skulle vilja besöka moskén</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="Kess">Jag skulle vilja besöka templet</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="Kess">Finns det barnrabatt</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="Kess">Finns det grupprabatt</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="Kess">Finns det pensionärsrabatt?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="Kess">Finns det studentrabatt?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="Kess">När har ni öppet?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="Kess">När stänger ni?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="Kess">När öppnar ni?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="Kess">När börjar föreställningen?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="Kess">När byggdes det?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="Kess">Vem byggde det?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="Kess">Hur högt är det det berget?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Kess">Vad kallas/heter det där djuret?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Kess">Vad kallas/heter den där fågeln?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Kess">Vad kallas/heter den där blomman/växten?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Kess">Vad kallas/heter det där trädet?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Kess">Vad kallas/heter den där byggnaden?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Kess">Vad kallas/heter det där berget?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Kess">Vad kallas/heter den där floden?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="Kess">Rökning</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="Kess">Rökning är skadligt för din hälsa</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="Kess">Störs du om jag röker?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="Kess">Har du eld?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="Kess">Kan jag få en cigarett?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="Kess">Är det här ett rökfritt område?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="Kess">Kan jag få en askkopp?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Kess">Sport</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="Kess">Finns det några farliga strömmar?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="Kess">Finns det något intressant promenadstråk i närheten?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth" author="Kess">Finns det någon skidlift?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Kess">Var ligger den närmaste golfbanan?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Kess">Var är den offentliga badplatesen?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="Kess">Kaj jag fiska här?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="Kess">Kan jag simma/bada här?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="Kess">Kan jag hyra...?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="Kess">ett slagträ</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="Kess">en fotboll</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="Kess">skidor</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="Kess">en tennisracket</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Kess">en båt</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="Kess">en handduk</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="Kess">Kan jag ta lektioner?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="Kess">Jag vill se en fotbollsmatch</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="Kess">Spelar du...?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="Kess">amerikansk fotboll</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Kess">fotboll</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth" author="Kess">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth" author="Kess">tennis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="Kess">baseball/brännboll</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth" author="Kess">basket</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Kess">Tid</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="Kess">Vad är det för dag i dag?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="Kess">Det är...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="Kess">Vad var det för dag i går?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="Kess">I går var [det]...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="Kess">Var är det för dag i morgon?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Kess">I morgon är [det]...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Kess">måndag</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Kess">tisdag</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Kess">onsdag</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Kess">torsdag</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Kess">fredag</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Kess">lördag</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Kess">söndag</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="Kess">Vad är det för månad?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="Kess">Det är...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Kess">Förra månaden var...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="Kess">Nästa månad är...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Kess">januari</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Kess">februari</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Kess">mars</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Kess">april</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Kess">maj</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Kess">juni</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Kess">juli</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Kess">augusti</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Kess">september</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Kess">oktober</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Kess">november</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Kess">december</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="Kess">Vad är klockan?| Hur mycket är hon? | Vad är det för tid?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="Kess">Hon är åtta</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="Kess">Hon är halv nio</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="Kess">Hon är kvart över åtta</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="Kess">Hon är kvart i nio</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="Kess">Hon är tio över åtta</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="Kess">Hon är tjugo över åtta</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="Kess">Hon är tjugo i åtta</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="Kess">Hon är tio i åtta</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth" author="Kess">Vad är det för datum?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth" author="Kess">Det är den femtonde december 1982</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Kess">När kan jag komma?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="Kess">När kommer du [för att besöka mig]?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth" author="Kess">Jag besöker dig den här morgonen</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="Kess">Jag besöker dig på morgonen</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth" author="Kess">Jag besöker dig den här kvällen</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="Kess">Jag besöker dig på kvällen</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth" author="Kess">Jag besöker dig den här veckan</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth" author="Kess">Jag besöker dig den här helgen</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth" author="Kess">Jag besöker dig i helgen</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="Kess">Jag besöker dig runt middag/lunch/tolv</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth" author="Kess">Jag besöker dig om två timmar</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth" author="Kess">Jag besöker dig halv elva</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth" author="Kess">Jag besöker dig efter halv elva</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth" author="Kess">Jag hälsar på dig innan halv elva</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth" author="Kess">Jag hälsar på dig mellan halv och prick elva</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth" author="Kess">Jag hälsar på dig från halv till prick elva</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="Kess">Jag hälsar på dig i vår</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="Kess">Jag hälsar på dig i sommar</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth" author="Kess">Jag hälsar på dig i höst</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="Kess">Jag hälsar på dig i vinter</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth" author="Kess">Jag hälsar på dig den 15:e december</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth" author="Kess">Hur länge kan du stanna hos mig?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth" author="Kess">Jag kan stanna två timmar</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth" author="Kess">Jag häslar på dig i två timmar</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth" author="Kess">Du är för sen</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth" author="Kess">Du kom precis i tid</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth" author="Kess">Du är för tidig</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="Kess">Vad är det för årstid?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth" author="Kess">Jag har inte tid?</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth" author="Kess">Kan du vänta en liten stund?</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth" author="Kess">Jag kommer dit om fem minuter</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth" author="Kess">Kommunikation</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth" author="Kess">Har du en bil?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="Kess">Jag har en bil</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth" author="Kess">Jag har inte en bil</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth" author="Kess">Skall vi ta min eller din bil?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth" author="Kess">Har du körkort?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth" author="Kess">Jag har inte körkort?</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth" author="Kess">När åker vi?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth" author="Kess">Vart åker är vi på väg?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth" author="Kess">Vart skall du?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth" author="Kess">Var kommer du ifrån?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth" author="Kess">Behöver jag byta buss?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth" author="Kess">Var är bussarna?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="Kess">Var är bushållplatsen?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth" author="Kess">Kan du säga till när jag skall kliva av?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth" author="Kess">Går den här bussen till?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="Kess">Var är flygplatsen?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth" author="Kess">När lyfter/flyger/avgår planet?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth" author="Kess">När anländer planet?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="Kess">Hur lång är flygturen?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="Kess">När behöver jag checka in?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="Kess">Skulle jag kunna få se ditt pass?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="Kess">Här är mitt pass</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="Kess">Kan jag ta den här med mig?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth" author="Kess">Var kan jag hämta bagaget?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="Kess">Jag kan inte hitta mitt bagage</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="Kess">Kan du hjälpa mig med mitt bagage?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="Kess">Jag tror det här är min plats</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="Kess">Är den här platsen tagen?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Kess">Var är tågstationen?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="Kess">Behöver jag byta tåg?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="Kess">Stannar det här tåget i...?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="Kess">Går det här tåget till...?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="Kess">Hur länge gör tåget uppehåll här?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="Kess">Vilken station är det här?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Kess">När går nästa tåg?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Kess">När går det sista tåget?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Kess">Var kan jag få tag på en taxi?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="Kess">Finns det en bilparkering i närheten?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="Kess">Får jag parkera här?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="Kess">Hur länge får jag parkera/stå här?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="Kess">Var kan/får jag parkera?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="Kess">Min bil har gått sönder</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="Kess">Min bil startar inte</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="Kess">Var är närmaste bensinstation?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="Kess">Var är närmaste garage?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="Kess">Jag har fått punktering</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="Kess">Jag är utan bränsle</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="Kess">Skulle jag kunna få se ditt körkort?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="Kess">Här är mitt körkort</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="Kess">Hur långt är det till nästa by/ställe?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="Kess">Hur lång tid tar det med bil?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="Kess">Hur lång tid tar det till fots?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="Kess">Jag skulle vilja hyra en bil i en vecka / i tre dagar</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Kess">Väder</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="Kess">Hur är vädret i morgon?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="Kess">Hur brukar vädret vara normalt?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="Kess">Det kommer regna i morgon</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Kess">Det regnar</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="Kess">Det snöar</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="Kess">Det är soligt</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="Kess">Det är molnigt</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="Kess">Det är varmt utomhus</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="Kess">Det är kallt utomhus</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="Kess">Vilket hemskt väder!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Kess">Vilken vacker dag!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="Kess">Fin dag, eller hur?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="Kess">Är det alltid så här hett?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="Kess">Är det alltid så här kallt?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="Kess">Är det alltid så här regnigt?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="Kess">Är det alltid så här molnigt?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="Kess">Jag är blöt</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Kess">Arbete</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Kess">Var jobbar du?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Kess">Vad har du som leverne?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Kess">Jag är lärare</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Kess">Jag är student</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="Kess">Jag är egenanställd</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Kess">Jag arbetar på en restaurang</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Kess">Jag jobbar på ett storköp</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Kess">Jag arbetar i en affär</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Kess">Jag är doktor/läkare</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Kess">Jag är psykolog</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Kess">Jag är programmerare</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Kess">Jag är tekniker</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Kess">Jag är mekaniker</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Kess">Jag är författare</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Kess">Jag är chafför</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="Kess">Jag är skådespelare</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="Kess">Jag är socialarbetare</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Kess">Jag är politiker</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="is">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Halló / sæl / hæ</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Hvađan ert þú, xyz?</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Ég er frá...</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Ég tala...</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Ég er ađ læra...</attrib>
+		</entry>
+	</entries>
+</ulr>

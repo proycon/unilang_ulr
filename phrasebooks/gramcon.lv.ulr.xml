@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="lv">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Pamatfrāzes</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Es esmu priecīgs / priecīga.</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Es neesmu priecīgs / priecīga.</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Es biju priecīgs / priecīga.</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Viņa arī ir priecīga.</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Mēs abi / abas esam priecīgi / priecīgas.</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Es kļūstu priecīga / priecīga.</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" author="13645" lastmodified="1228924401" variant="1">Es turpinu būt priecīgs / priecīga.</attrib>
+			<attrib type="orth" author="13645" lastmodified="1228924401">Es joprojām esmu priecīgs / priecīga.</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" author="13645" lastmodified="1228924401" variant="1">Jūs esat vai nu bagāti / bagātas vai nabadzīgi / nabadzīgas.</attrib>
+			<attrib type="orth" author="13645" lastmodified="1228924401">Tu esi vai nu bagāts / bagāta vai nabadzīgs / nabadzīga.</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="13645" lastmodified="1228924401" variant="1">Jūs neesat ne priecīgi / priecīgas, ne bēdīgi / bēdīgas.</attrib>
+			<attrib type="orth" author="13645" lastmodified="1228924401">Tu neesi ne priecīgs / priecīga, ne bēdīgs / bēdīga.</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Tas ir liels koks.</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="13645" lastmodified="1228924401">Šis ir liels koks.</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Šis ir lielais koks.</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Manā dārzā ir liels koks.</attrib>
+		</entry>
+		<entry id="e15000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Vārdu kārtība.</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Es šodien rakstu (rakstīšu) vēstuli.</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Es šodien nerakstu vēstuli.</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Es šodien nerakstu vēstuli.</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Es rakstīju vēstuli vakar.</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Es nerakstīju vēstuli vakar.</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Es nerakstīju vēstuli vakar.</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" author="13645" lastmodified="1228924618">Es rakstīju vēstuli katru mēnesi.</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es mēdzu rakstīt vēstuli katru mēnesi.</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es rakstīšu vēstuli rīt.</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es nerakstīšu vēstuli rīt.</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es rakstītu vēstuli.</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es rakstītu vēstuli, ja man būtu zīmulis.</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es esmu rakstījis / rakstījusi vēstuli.</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es biju rakstījis / rakstījusi vēstuli.</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es rakstu vēstuli (patreiz).</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" author="13645" lastmodified="1228924771">Es rakstīju vēstuli (tobrīd).</attrib>
+		</entry>
+		<entry id="e145000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Salīdzināšana</attrib>
+		</entry>
+		<entry id="e146000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Esmu tikpat liels / liela kā tu.</attrib>
+		</entry>
+		<entry id="e147000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Esmu gudrāks par tevi.</attrib>
+		</entry>
+		<entry id="e148000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Neesmu tik gudrs kā tu.</attrib>
+		</entry>
+		<entry id="e149000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Esmu visgudrākais.</attrib>
+		</entry>
+		<entry id="e150000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Es dziedu kā tu.</attrib>
+		</entry>
+		<entry id="e151000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Es dziedu kā tu raudi.</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Es dodu dāvanu tev.</attrib>
+			<attrib type="orth" author="13645" lastmodified="1230648644" variant="1">Es tev dodu dāvanu.</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" author="13645" lastmodified="1230648644">Tas ir mana drauga suns.</attrib>
+		</entry>
+		<entry id="e169000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Putns lido uz savu būri.</attrib>
+		</entry>
+		<entry id="e170000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Putns lido sava būra virzienā.</attrib>
+		</entry>
+		<entry id="e171000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Putns lido prom no sava būra.</attrib>
+		</entry>
+		<entry id="e172000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Putns lido garām savam būrim.</attrib>
+		</entry>
+		<entry id="e173000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Putns lido gar lidmašīnu.</attrib>
+		</entry>
+		<entry id="e174000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Putns lido netālu no sava būra.</attrib>
+		</entry>
+		<entry id="e175000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Putns lido tālu no sava būra.</attrib>
+		</entry>
+		<entry id="e177000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Es dzeru vīnu pirms pusdienām.</attrib>
+		</entry>
+		<entry id="e178000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Es dzeru vīnu pēc pusdienām.</attrib>
+		</entry>
+		<entry id="e179000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Es dzeru vīnu pusdienu laikā.</attrib>
+		</entry>
+		<entry id="e180000">
+			<attrib type="orth" author="13645" lastmodified="1230648837">Es dzeru vīnu kopš pusdienām.</attrib>
+		</entry>
+		<entry id="e181000">
+			<attrib type="orth" author="13645" lastmodified="1230648918">Es dzēru vīnu pirms piecām dienām.</attrib>
+		</entry>
+		<entry id="e182000">
+			<attrib type="orth" author="13645" lastmodified="1230648918">Es dzeršu vīnu pēc piecām minūtēm.</attrib>
+		</entry>
+		<entry id="e183000">
+			<attrib type="orth" author="13645" lastmodified="1230648918">Es varu pabeigt savu vīna glāzi piecās minūtēs.</attrib>
+		</entry>
+		<entry id="e184000">
+			<attrib type="orth" author="13645" lastmodified="1230648918">Es tevi satikšu janvāra pirmdienā.</attrib>
+		</entry>
+		<entry id="e193000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es, kopā ar māti, iztīrīju savu istabu.</attrib>
+		</entry>
+		<entry id="e194000">
+			<attrib type="orth" author="13645" lastmodified="1230648952">Es bez mātes iztīrīju savu istabu.</attrib>
+		</entry>
+		<entry id="e195000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es izslaucīju savu istabu ar slotu.</attrib>
+		</entry>
+		<entry id="e196000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Korelatīvi</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es redzu katru.</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es redzu kādu.</attrib>
+		</entry>
+		<entry id="e199000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es neredzu nevienu.</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Neviens nevar mani redzēt.</attrib>
+		</entry>
+		<entry id="e201000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es neredzu nevienu, izņemot tevi / jūs.</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es redzu tikai tevi / jūs.</attrib>
+		</entry>
+		<entry id="e203000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es redzu visus cilvēkus.</attrib>
+		</entry>
+		<entry id="e204000">
+			<attrib type="orth" author="13645" lastmodified="1228925492">Es neredzu cilvēku.</attrib>
+		</entry>
+		<entry id="e205000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es redzu katru cilvēku.</attrib>
+		</entry>
+		<entry id="e206000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es redzu visu.</attrib>
+		</entry>
+		<entry id="e207000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es kaut ko redzu.</attrib>
+		</entry>
+		<entry id="e208000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es neko neredzu.</attrib>
+		</entry>
+		<entry id="e209000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es neredzu neko citu.</attrib>
+		</entry>
+		<entry id="e210000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es neko vairs neredzu.</attrib>
+		</entry>
+		<entry id="e211000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Nekas mani neredz.</attrib>
+		</entry>
+		<entry id="e212000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es redzu visas grāmatas.</attrib>
+		</entry>
+		<entry id="e213000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es neredzu grāmatas.</attrib>
+		</entry>
+		<entry id="e214000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es redzu katru grāmatu.</attrib>
+		</entry>
+		<entry id="e215000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es redzu kādas grāmatas.</attrib>
+		</entry>
+		<entry id="e216000">
+			<attrib type="orth" author="13645" lastmodified="1228925260">Es redzu kādu grāmatu.</attrib>
+		</entry>
+		<entry id="e217000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Es vispār neredzu grāmatu.</attrib>
+		</entry>
+		<entry id="e218000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Es redzu visu grāmatu.</attrib>
+		</entry>
+		<entry id="e219000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Es redzu pašu grāmatu.</attrib>
+		</entry>
+		<entry id="e220000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Es redzu to pašu grāmatu.</attrib>
+		</entry>
+		<entry id="e221000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Es redzu tādu grāmatu.</attrib>
+		</entry>
+		<entry id="e222000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Tu vari izvēlēties jebkuru grāmatu. (sing.)
+Jūs varat izvēlēties jebkuru grāmatu. (pl.)</attrib>
+		</entry>
+		<entry id="e223000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Neviens mani nevar redzēt.</attrib>
+		</entry>
+		<entry id="e224000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Es esmu visur skatījies / skatījusies.</attrib>
+		</entry>
+		<entry id="e225000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Es nekur neesmu skatījies / skatījusies.</attrib>
+		</entry>
+		<entry id="e226000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Es esmu kaut kur skatījies /skatījusies.</attrib>
+		</entry>
+		<entry id="e227000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Mēs reiz tiksimies.</attrib>
+		</entry>
+		<entry id="e228000">
+			<attrib type="orth" author="13645" lastmodified="1228925115">Mēs dažreiz tiksimies.</attrib>
+		</entry>
+		<entry id="e229000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Mēs nekad netiksimies.</attrib>
+		</entry>
+		<entry id="e230000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Mēs vienmēr tiksimies.</attrib>
+		</entry>
+		<entry id="e231000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Mēs bieži tiksimies.</attrib>
+		</entry>
+		<entry id="e232000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Mēs parasti tiksimies.</attrib>
+		</entry>
+		<entry id="e233000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Mēs reti tiksimies.</attrib>
+		</entry>
+		<entry id="e234000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Daudzums.</attrib>
+		</entry>
+		<entry id="e235000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Man ir daudz ūdens.</attrib>
+		</entry>
+		<entry id="e236000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Man ir pietiekami daudz ūdens.</attrib>
+		</entry>
+		<entry id="e237000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Man ir pārāķ daudz ūdens.</attrib>
+		</entry>
+		<entry id="e238000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Man ir litrs ūdens.</attrib>
+		</entry>
+		<entry id="e239000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Man ir piecas pudeles ūdens.</attrib>
+		</entry>
+		<entry id="e240000">
+			<attrib type="orth" author="13645" lastmodified="1228924947">Man ir vairāk ūdens.</attrib>
+		</entry>
+		<entry id="e241000">
+			<attrib type="orth" author="13645" lastmodified="1228924815">Man ir mazliet ūdens.</attrib>
+		</entry>
+		<entry id="e242000">
+			<attrib type="orth" author="13645" lastmodified="1228924815">Man ir tikai ūdens.</attrib>
+		</entry>
+		<entry id="e243000">
+			<attrib type="orth" author="13645" lastmodified="1228924815">Man ir arī ūdens.</attrib>
+		</entry>
+		<entry id="e244000">
+			<attrib type="orth" author="13645" lastmodified="1228924815">Man jau ir ūdens.</attrib>
+		</entry>
+		<entry id="e245000">
+			<attrib type="orth" author="13645" lastmodified="1228924815">Man vēl ir ūdens.</attrib>
+		</entry>
+	</entries>
+</ulr>

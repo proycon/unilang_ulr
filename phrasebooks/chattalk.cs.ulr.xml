@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="cs">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Příchod | Přivítání</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Ahoj</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Ahoj, všichni</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Dobré ráno</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Dobré odpoledne</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Dobrý večer</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Dobrou noc</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Ahoj všem</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Začínáme konversovat</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Co nového?|Co je nového?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Co se děje?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">O čem mluvíte? | Jaké je téma?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Jak se máš?|Jak se daří?|Jak se vede?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Jak se máte?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Jak to jde?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Osobní otázky?</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="1149" lastmodified="1226656099">Odkud jsi, {uživatelské jméno}</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Jsi tu nový?|Jsi tu poprvé?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Jakými jazyky hovoříš? | Jakými jazyky mluvíš?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Kde v [zem] žiješ ?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Kolik ti je?|Jak jsi starý?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Jaký se učíš jazyk?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Mluvení o sobě | Představení se</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Jsem z [zem] | Pocházím z [zem]</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Mluvím [jazyk(y)]</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Můj rodný jazyk je [jazyk(y)] , plynně  [jazyk(y)], jsem pokročilý v  [jazyk(y)] a trochu  [jazyk(y)]</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Promiň, neumim [jazyk(y)]</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Učím se  [jazyk(y)] | Chci se naučit [jazyk(y)]</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Ukončení konverzace</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Rád(ráda - female) jsem tě poznal(a)</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Rád(ráda - female) jsem si s tebou popovídal(a)</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Už musím jít</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Čas na večeři</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Jdu do postele</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Musím jít spát</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Rozloučení</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Na shledanou</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Na shledanou zítra</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Na brzkou shledanou</attrib>
+			<attrib type="phon">Na shledanou</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Na shledanou příště</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Dobrou noc, všem</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Na shledanou</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Příjdu hned</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Vrátím se později</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Ostatní</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Děkuji</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Mockrát  děkuji</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Promiňte</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">haha</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="fa">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">سلام</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">سلا بر همگی</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">صبح به خیر</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">عصر به خیر</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">عصر به خیر</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">شب به خیر</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">سلام</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">شروع یک مکالمه</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">تازه چه خبر؟</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">چه خبر؟</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">راجع به چی صحبت می کنید؟</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">حال شما چطور است؟</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">حال شما چطور است؟</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">اوضاع چطور است؟</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">سئولات شخصی</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">اهل کجایی؟</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">بار اول است که اینجا آمدید؟</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">به چه زبانی صحبت می کنید؟</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">در چه کشوری زندگی می کنید؟</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">چند سال دارید؟</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">چه زبانی یاد می گیرید؟</attrib>
+		</entry>
+	</entries>
+</ulr>

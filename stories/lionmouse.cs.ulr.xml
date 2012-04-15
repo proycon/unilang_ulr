@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="cs">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Majka">Lev a myš</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Majka">Myš pomůže lvu.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Majka">Lev, který spal ve svém pelechu, se vzbudil, když mu přes tvář přeběhla myš. Rozčílený ji chytil do tlap a chtěl ji zabít.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Majka">Vyděšená myš jímavě škemrala, aby ji zachoval při životě. &quot;Prosím, pusť mě,&quot; plakala, &quot;a jednoho dne ti tvou laskavost oplatím.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Majka">Představa, že by tak bezvýznamný tvor byl schopen pro něj cokoli učinit, lva natolik pobavila, že se hlasitě rozesmál a v dobré náladě myš pustil.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Majka">Ale nakonec její příležitost přece přišla.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Majka">Jednoho dne se lev zapletl do sítě, kterou na zvěř nastražili lovci. Myš zaslechla a poznala jeho zlostný řev a běžela za ním. Bez okolků se dala do práce s přehryzáváním provazů a zanedlouho lva osvobodila.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Majka">&quot;Vidíš!&quot; řekla myš, &quot;smál ses mi, když jsem ti slibovala, že se ti odvděčím, ale teď ses přesvědčil o tom, že i myš dokáže pomoct lvu.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

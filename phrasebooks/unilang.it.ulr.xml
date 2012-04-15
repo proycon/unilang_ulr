@@ -1,0 +1,2278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="it">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Le espressioni più comuni</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Sì</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">No</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Per favore/ per piacere</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">Ecco (formal: prego)</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Grazie</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">Prego</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">(Mi) scusi (formal)i/scusa (informal)</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Forse/può darsi</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">Ciao! (or: Salve!)</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">Ciao</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Buona giornata!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Buongiorno!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Buonasera!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Buonanotte!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Benvenuto!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Buon viaggio</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Comprendersi</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Parla...?(formal)/Parli...? (informal)</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">(Io) parlo...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Non parlo...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Parlo un po' di</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">inglese</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">francese</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">tedesco</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">spagnolo</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">Portoghese</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">arabo</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">cinese</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">indiano</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">russo</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">italiano</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">olandese</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">norvegese</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">svedese</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">danese</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">polacco</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">giapponese</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">indonesiano</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">malese</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Capisce..? (formal) / Capisci..? (informal)</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Mi capisce? / Mi capisci?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Capisco</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">La capisco (formal) / Ti capisco (informal)</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Non capisco</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Non la capisco / non ti capisco</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Scusi, può ripetere? / Scusa, puoi ripetere?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Scusi, può parlare più piano / Scusa, puoi parlare più piano</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Scusi, me lo può scrivere / Scusa, me lo puoi scrivere</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Non so come dirlo</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Non so/conosco  la parola esatta</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Come ha detto? / Come hai detto</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Come si dice questo in...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Come si scrive questo?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Come si pronuncia questo?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Può tradurmi questo? / Puoi tradurmi questo?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">L'ho detto bene?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Conversazione base</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Come va?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Benissimo</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">Bene</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">Tutto bene</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">Non molto bene</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Quanti anni ha? (formal) / Quanti anni hai (informal)</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Ho....anni</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Non lo so</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Non mi piace</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Sono pronto (male) / Sono pronta (female)</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Andiamo!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Mi dispiace</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Affari e finanza</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Posso pagare in contanti?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Posso pagare con carta di credito?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Accettate...? / si accettano...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Può cambiarmi questi traveler's checks</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Può cambiarmi questi in...</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Potrei sapere l'importo approssimativo?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Ecco la mia carta</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">A quanto ammonta la commissione?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Vorrei cambiare dei dollari / euro / sterline</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Qual è il tasso di scambio</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Qual è il tasso di inflazione</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Dove posso cambiare valuta?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Dove posso fare delle fotocopie?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Dov'è la banca più vicina?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Dove devo firmare?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Avete un catalogo? / potrei avere un catalogo?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Ho un appuntamento con...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Quanto costa l'ingresso?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Quanto costa al giorno?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Quanto costa l'ora?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Quanto costa a settimana?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">E' gratuito?(m) gratuita? (f) / È gratis?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Computer &amp; Internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Ha un computer? (formal)/Hai un computer? (informal)</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">L'hard disk è pieno</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Ha un modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth">Può connettersi a internet? / Ha una connessione a internet?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Posso inviare un' e-mail?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Posso leggere la mia posta elettronica?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Posso stampare una cosa?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Posso usare lo scanner?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Il mio computer è rotto</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">Devi riavviare</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">Posso installare...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Qual è il tuo indirizzo di posta elettronica?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Il mio indirizzo di posta elettronica è...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Ha una hompage? / Ha una pagina di benvenuto?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Qual è l'indirizzo?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Istruzione</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Che  cosa studi?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Studio...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">Legge / Giurisprudenza</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">Medicina</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">Economia</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">Lingue</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">Linguistica</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">Matematica</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">Chimica</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">Fisica</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">Informatica</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">In quale università studi?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Studio a...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">Oggi ho lezione</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Oggi sono libero (male)/ libera (female)</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Sei alle superiori?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Sono alle superiori</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Devo andare a lezione adesso</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">Emergenze</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Chiama un dottore!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Chiama l'ambulanza!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Chiama la polizia!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Non riesce a respirare</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Non si può muovere</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Non si è fermato allo STOP</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Mi ha tamponato</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Stava andando molto forte</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Si è tagliato</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Non riesco a muovere il braccio</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Non riesco a muovere la gamba</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Sono stato-a derubato-a</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Fermate quel ladro!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">Mi hanno rubato il passaporto</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">Mi hanno rubato il denaro</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">Mi hanno rubato la macchina.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">C'è un incendio!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Dov'è l'ospedale più vicino?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Dov'è la stazione di polizia più vicina?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Emozioni e Opinioni</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Ti piace?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Mi piace</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Sono felice</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Sono incazzato</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Sono scocciato</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">Sono contento</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Sono stanco</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Ho paura</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Sto bene</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Ho freddo</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Ho sonno</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">Si sta bene qui</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">E' molto interessante</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">Lo troviamo molto interessante</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">E' (molto) noioso</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">E' bello</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">E' (molto) bello</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">E' (molto) carina</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">E' un fico!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">E' bona!!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">E' molto gentile</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Guarda!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Ascolta!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Figo!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">Bello!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Cibo e Ristorante</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">ho fame</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">ho sete</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">Possiamo ordinare da mangiare?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">Possiamo ordinare da bere?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">Hai qualcosa da mangiare?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">Hai qualcosa da bere?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Vuoi qualcosa da mangiare?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Posso mangiare qualcosa?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Vuoi qualcosa da bere?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Vorrei bere .....</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">una tazza di caffè</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">una tazza di thè</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">una birra</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">un bicchiere di vino</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">un bicchiere di vino rosso</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">un bicchiere di vino bianco</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">un bicchiere d'aranciata</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">un bicchiere di succo di frutta alla mela</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">ti offro qualcosa da bere?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">che bevi? / che prendi?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">che mangi? / che prendi?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">cosa mi consigli?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">potrei avere il menù, per favore?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">potrei avere la carta dei vini, per favore?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">vorrei questo, grazie</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth">ti va un antipasto?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth">vorrei un antipasto, per favore</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">prendo del pesce, grazie</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Prendo una bistecca, grazie</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Prendo una braciola, grazie</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">prendo un'insalata, grazie</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">prendo la minestra, grazie</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">prendo qualcosa di vegetariano, grazie</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Gradisci il dolce?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth">come antipasto vorrei...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth">come primo (piatto) prendo...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">come dolce prendo...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">Potrei avere un contorno di fritti / riso / patate?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Posso ordinare questo ma senza....</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">una porzione piccola, per favore!</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">che insalate avete?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">nient'altro, grazie!</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth">è a portar via</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">sono vegetariano / vegetariana</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth">sono vegano / vegana</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">non posso mangiarlo / mangiarla</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">questo contiene...?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(molto) sale</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(molto) zucchero</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">troppi grassi</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">della carne</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">dei frutti di mare</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">del pesce</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">dei latticini</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">non bevo (alcol)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">non ho la forchetta</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">non ho il coltello</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">non ho il cucchiaio</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">manca un bicchiere</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">manca un vassoio</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">(questo) non è pulito</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">è troppo freddo-a</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">è troppo piccante</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">(questo) non è ciò che ho ordinato</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">c'è un errore</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">era delizioso-a</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">offro io</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">potrei avere il conto, per favore?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">vorremmo conti separati</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">tutto compreso?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">ti piace cucinare?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">chi cucina stasera?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth">devo cucinare io stasera?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">che faccio?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">ti va un caffè?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">ti va un thè?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Salute e malattie</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">sto male</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">ho la febbre</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">ho il raffreddore</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">ho l'allergia</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">sono diabetico-a</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">sto male</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">non mi sento bene</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth">prendo la pillola</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">sono incinta</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">non riesco a mangiare</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">non riesco a dormire</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth">non voglio niente che sia troppo forte</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth">mi sento stordito</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth">ho la nausea</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth">ho un dente rotto</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">ho la tosse</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">ho mal di testa</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">ho mal di stomaco</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">ho un dolore al petto / torace</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth">ho un'infezione</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth">sono stato-a punto-a</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">sono stato-a morso-a</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth">stai male?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">ti fa male?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">ti fa male se faccio così?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">prendi qualche medicina?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth">che temperatua (corporea)hai?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">riesci a camminare?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">ho bisogno di una sedia a rotelle</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">sto sulla sedia a rotelle</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth">dov'è la farmacia più vicina?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth">posso comprarlo senza ricetta medica?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth">avete qualcosa per punture d'insetti?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth">avete qualcosa per le ustioni solari?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth">ho una ricetta medica</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth">mi serve qualcosa per....</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth">ogni quanto devo prenderlo-a?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">hobby</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">quali sono i tuoi hobby?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">che fai nel tempo libero?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">ti piace leggere?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">non mi piace leggere</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">mi piace leggere</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">mi piace cucinare</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">mi piace ascoltare la musica</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">mi piace suonare il pianoforte</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">mi piace suonare la chitarra</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">mi piace cantare</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">mi piace giocare a scacchi</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">mi piace uscire</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">mi piace viaggiare</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">mi piace fare shopping</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">mi piace il giardinaggio</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">mi piace guardare la televisione</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">mi piace navigare in internet</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">che genere di musica ti piace?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">mi piace la musica classica</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">mi piace il pop</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">mi piace l'opera</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">mi piace il jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">mi piace la tecno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">mi piace il rock</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">quali sono i tuoi gruppi (musicali) preferiti?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">quale preferisci?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth">preferisco...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">presentarsi</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">mi chiamo...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">come ti chiami?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">sono...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">chi sei?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth">ti posso presentare...?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth">ti presenterò a .....</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">lei è mia moglie</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">lui è mio marito</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">lei è la mia ragazza</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">lui è il mio ragazzo</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">lui è il mio amico</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">questo è mio figlio</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">questa è mia figlia</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">questa è mia madre</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">questo è mio padre</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">molto piacere</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth">apputamenti</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth">Sei libero oggi / domani/ stasera?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth">Ho già un impegno</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth">Sto andando al cinema</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth">Sto andando a teatro</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth">Sto andando al museo</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth">Ti va di uscire con me stasera?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth">Mi piacerebbe</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth">Hai biglietti?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth">Ho due biglietti per...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth">Non mi piace la musica</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth">la musica è troppo alta</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth">è troppo affollato qui</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth">andiamo da qualche altra parte / altrove?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth">che film andiamo a vedere?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth">che ne pensi del film?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">politica</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth">mi interessa la politica</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth">non mi interessa la politica</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth">che ne pensi del governo?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth">che ne pensi del re / della regina?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth">che ne pensi del presidente?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth">che ne pensi del primo ministro? (presidente del consiglio)</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth">che ne pensi della libertà di parola?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth">che ne pensi dell'esercito?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth">che ne pensi della democrazia?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth">che ne pensi dei diritti umani?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth">che ne pensi dei diritti della donna?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth">che ne pensi dei diritti dei gay / omosessuali?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth">sei iscritto a un partito politico?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth">quando ci saranno le elezioni?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth">Chi hai votato l'ultima volta?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth">Chi voterai?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth">Sono</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth">comunista</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth">capitalista</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth">democratico</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth">democristiano</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth">repubblicano</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth">di sinistra</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth">nazionalista</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth">socialista</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth">libertario</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth">fascista</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">famiglia e relazioni sociali</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">sei sposato-a?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">sono sposato-a</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">non sono sposato-a</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">ce l'hai il ragazzo?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">ce l'hai la ragazza?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">ho il ragazzo</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">ho la ragazza</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">quanti anni ha?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth">ha.... anni</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth">di che vive?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">hai dei figli? / avete figli?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">non ho figli</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">ho un figlio / una figlia</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">ho due figli</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">ho tre / quattro / cinque / sei / sette figli</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">quanti fratelli hai? quanti fratelli e sorelle hai?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">tua madre è ancora viva?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">tuo padre è ancora vivo?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">tua nonna è ancora viva?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">tuo nonno è ancora vivo?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">religione</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth">sei religioso-a?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth">non sono religioso-a</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth">sono ateo-a</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth">sono agnostico-a</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">sono musulmano-a</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">sono ebreo-a</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">sono buddista</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">sono indu</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">sono cattolico-a</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">sono cristiano-a</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">dove posso trovare una chiesa?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">dove posso trovare una moschea?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">dove posso trovare una sinagoga?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">dove posso trovare un tempio?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Grazie a Dio</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">Se Dio vuole</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">O mio Dio!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth">Viaggi e alloggiamenti</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">Da dove vieni?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth">Vengo dal... / vengo dalla...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">Francia</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">Regno Unito</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">Spagna</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">Germania</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">Stati Uniti</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">Cina</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth">Brasile</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth">Giappone</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth">Russia</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth">Canada</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth">Australia</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth">Di che nazionalità sei?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">Sono...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">Inglese</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">Francese</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">Tedesco / tedesca</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">Americano / americana</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">Cinese</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">Giapponese</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">Russo / russa</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">Brasiliano / brasiliana</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">Canadese</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">Da dove vieni? / In che città vivi?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Vengo da Londra / Parigi / Berlino</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth">E' vicino a...</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth">E' lontano da...</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth">Abito vicino a...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth">Abito lontano da...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth">Dove stai?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth">Sto in all'hotel...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth">Quanto rimani? / Quanto resti?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth">Quando ritorni?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth">Quando sei arrivato / arrivata?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth">Sei da solo / sola?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth">Sono qui da solo / sola</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth">Sono qui con la mia famiglia</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth">vivi qui?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth">Io non sono di qui</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth">Possiamo accamparci qui?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth">Avete posti?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth">C'è spazio per una tenda?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth">Quanto viene per notte?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth">Vogliamo rimanere una settimana</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth">Dove sono le docce?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth">Dove sono i bagni?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth">Vorrei una stanza singola, grazie</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth">Voglio una stanza con...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth">un bagno</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth">una doccia</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth">una bella vista</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth">un balcone</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth">un letto extra</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth">letti separati</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth">vogliamo una doppia, per favore</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth">è inclusa la colazione</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth">quando viene servita la colazione</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth">ci sono stanze più economiche?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth">ci sono messaggi per me?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth">posso avere la mia chiave, per favore?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth">qual è il numero della mia stanza?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth">ho chiesto una stanza con bagno/doccia</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Sesso</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Vuoi venire a letto con me?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Hai un preservativo?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Prendi la pillola?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Non lo voglio fare senza preservativo</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Per favore, cerca di essere delicato</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Ti piace?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Non mi piace</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Sei single?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Sei gay?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Sei etero?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Sei lesbica?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Sei bisessuale?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth">Shopping</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth">Mi può aiutare?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth">Posso aiutarla?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth">Cosa desidera?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth">Cosa sta cercando?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth">Sto solo guardando</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth">Mi piace questo</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth">Mi piacciono questi pantaloni</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth">Mi piace questa maglietta</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth">Mi piace questa giacca</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth">Mi piace questa camicia</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth">Mi piace questo completo</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth">Mi piacciono questi occhiali</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth">Mi piacciono queste scarpe</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth">Sto cercando...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth">Posso indossarlo?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth">Posso provarlo?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth">Dov'è lo stanzino?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth">E' troppo lungo</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth">E' troppo corto</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth">E' troppo stretto</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth">E' troppo largo</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth">Non mi va bene</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth">Mi va bene</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth">Che taglia hai?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth">Ho la...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth">Non capisco queste taglie...</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth">Ne hai una più grande?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth">Ne hai una più piccola?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth">Mi piace il colore</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth">Non mi piace il colore</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth">Ce l'hai rosso/blu/giallo/verde/viola/rosa?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth">Ne hai di più economici?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth">Di che cosa è fatto?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth">Mi può riparare questo?</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Posso fare foto?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Non puoi fare foto qui</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth">Ci sono gite in barca sul lago?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth">Ci sono gite in barca sul fiume?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth">Ci sono giri turistici guidati?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Quanto dura il giro?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">Ci sono dei locali interessanti?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth">Ci sono sagre locali?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Vorrei visitare la cattedrale</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Vorrei visitare la chiesa</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth">Vorrei visitare la moschea</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Vorrei visitare il tempio</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth">C'è uno sconto per i bambini?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth">C'è uno sconto per i gruppi?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth">C'è uno sconto per gli anziani?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth">C'è uno sconto per gli studenti?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth">Quando siete aperti?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth">A che ora chiudete?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth">A che ora aprite?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth">A che ora inizia lo spettacolo?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Quando è stato costruito?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Chi l'ha costruito?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth">Quando è alta la montagna?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Come si chiama quell'animale?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth">Come si chiama quell'uccello?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Come si chiama quel fiore?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Come si chiama quell'albero?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Come si chiama quell'edificio?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth">Come si chiama quella montagna?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Come si chiama quel fiume?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">Fumo</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">Fumare fa male alla salute</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">Ti dispiace se fumo?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Hai da accendere?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Posso avere una sigaretta?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">E'un reparto non-fumatori?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Posso avere un posacenere?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">Sport</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth">Ci sono correnti pericolose?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth">Ci sono passeggiate interessanti qui in giro?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth">Ci sono gli ski lift?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth">Dov'è il più vicino campo da golf?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth">Dov'è la piscina comunale?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth">Posso pescare qui?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth">Posso nuotare qui?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth">Posso affittare...</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth">una mazza da baseball</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth">un pallone</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth">un paio di sci</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth">una racchetta da tennis</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth">una barca</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth">un asciugamano</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth">Posso prendere lezioni?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth">Vorrei vedere una partita di calcio</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth">Giochi a...</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">football americano</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">calcio</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">tennis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">baseball</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">basket / pallacanestro</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">ora</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">che giorno è oggi?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth">Oggi è...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth">Che giorno era ieri?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">Ieri era...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Che giorno è domani?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">Domani è...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">Lunedì</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">Martedì</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">Mercoledì</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">Giovedì</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">Venerdì</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">Sabato</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">Domenica</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Che mese è?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth">Il mese è...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth">Il mese scorso era...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth">Il prossimo mese è...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">Gennaio</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">Febbraio</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">Marzo</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">Aprile</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">Maggio</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">Giugno</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">Luglio</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">Agosto</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">Settembre</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">Ottobre</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">Novembre</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">Dicembre</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Che ore sono?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Sono le 8</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth">Sono le otto e mezza / otto e trenta</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth">Sono le otto e un quarto</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth">Sono le otto e tre quarti</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth">Sono le otto e dieci</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth">Sono le otto e venti</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth">Sono le sette e quaranta</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth">Sono le otto meno dieci</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth">Che giorno è oggi?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth">Il 15 dicembre 1982</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth">Quando posso arrivare?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth">Quando vieni a trovarmi?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth">Verrò stamattina</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth">Verrò nella mattinata</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth">Verrò stasera</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth">Verrò in serata</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth">Verrò questa settimana</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth">Verrò questo weekend</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth">Verrè nel weekend</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth">Verrò a mezzogiorno</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth">Sarò da te tra due ore</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth">Verrò alle dieci e mezza</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth">Verrò dopo le dieci e mezza</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth">Verrò prima delle dieci e trenta</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth">Verrò tra le dieci e mezza e le undici</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth">Starò da te dalle dieci e mezza fino alle undici</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth">Verrò in primavera</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth">Verrò in estate</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth">Verrò in autunno</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">Verrò in inverno</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth">Verrò il 15 dicembre</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth">Quanto tempo puoi stare da me?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth">Posso stare due ore</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth">Starò da te due ore</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Sei in ritardo</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth">Sei giusto in tempo / sei puntuale</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth">Sei in anticipo</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth">In che stagione siamo?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">Non ho tempo</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Aspetta un minuto per favore</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth">Sono lì tra cinque minuti</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Trasporti</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">Hai una macchina?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">Ho una macchina</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">Non ho una macchina</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth">Andiamo con la tua o con la mia?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth">Hai la patente?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth">Non ho la patente</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth">Quando te ne vai?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth">Dove andiamo?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth">Dove vai?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth">Da dove vieni?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth">Devo cambiare autobus?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth">Dove sono gli autobus?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth">Dov'è la fermata degli autobus?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth">Puoi dirmi quando devo scendere?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth">L'autobus va a...</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth">Dov'è l'aeroporto?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth">Quando parte l'aereo?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth">Quando arriva l'aereo?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth">Quando dura il volo?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth">A che ora si fa in check-in?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth">Posso vedere il passaporto per favore?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth">Ecco il mio passaporto</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth">Posso tenerlo?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth">Dove posso prendere il mio bagaglio?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth">Non trovo il mio bagaglio</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth">Può (puoi) aiutarmi con il mio bagaglio?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth">Credo che questo sia il mio posto</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth">Questo posto è occupato?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth">Dov'è la stazione dei treni?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth">Devo cambiare treno?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth">Questo treno ferma a...</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth">Questo treno va a...</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth">Quanto si ferma il treno?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth">Che stazione è questa?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth">Quando è il prossimo treno?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth">Quando è passato l'ultimo treno?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth">Dove posso prendere un taxi?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth">Dov'è il più vicino parcheggio?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth">Posso parcheggiare qui?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth">Quanto posso lasciare qui l'auto?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth">Dove posso parcheggiare?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">La mia auto è in panne</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth">La mia auto non parte</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth">Dov'è il distributore più vicino</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth">Qual è l'autorimessa più vicina?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth">Ho una gomma a terra</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth">Sono a secco</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth">Posso vedere la tua patente per favore?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth">Ecco la mia patente</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth">Quando lontano è il paese?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth">Quanto ci vuole in auto?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth">Quanto ci vuole a piedi?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth">Vorrei affittare un'auto per una settimana / per tre giorni</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Tempo</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth">Che tempo fa domani?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth">Com'è il tempo di solito?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">Domani piove</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Sta piovendo</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Sta nevicando</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">C'è il sole</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">E' nuvoloso</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">Fuori fa caldo</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">Fuori fa freddo</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Che strano tempo</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Che bella giornata</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth">Bella giornata, vero?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">Fa sempre così caldo?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">Fa sempre così freddo?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">Piove sempre così tanto?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">E' sempre così nuvoloso?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth">Sono fradicio</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Lavoro</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Dove lavori?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Cosafai per vivere?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">Sono un maestro / un professore (for high schools or university)</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">Sono uno studente</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth">Sono un libero professionista</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">Lavoro in un ristorante</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">Lavoro in un supermercato</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">Lavoro in un negozio</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">Sono un dottore</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">Sono uno psicologo</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">Sono un programmatore</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">Sono un ingegnere</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">Sono un meccanico</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">Sono uno scrittore</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">Sono un autista</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">Sono un attore / una attrice</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">Lavoro nel sociale</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">Sono un politico</attrib>
+		</entry>
+	</entries>
+</ulr>

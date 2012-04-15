@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="paul1" version="1.9" baselang="fi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Liisi">Pauli 1</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Liisi">Pauli lähtee matkalle</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Liisi">Pauli on lähdössä matkalle. Hän pakkasi matkalaukkunsa. Hän ajoi taksilla lentokentälle. Kun Pauli saapui lentokentälle, hän astui ulos taksista. Pauli vei matkatavaransa lippukassalle. Hän antoi naiselle lippunsa, jotta pääsisi lähtöselvitykseen.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Liisi">&quot;Onko teillä vain yksi laukku?&quot; nainen kysyi Paulilta.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Liisi">&quot;Kyllä&quot;, Pauli sanoi hänelle. &quot;Vain yksi laukku&quot;.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Liisi">Nainen tarkasti hänen matkatavaransa. Nainen antoi Paulille hänen lippunsa. &quot;Lentokoneenne lähtee portilta numero viisi&quot;, hän sanoi Paulille.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Liisi">&quot;Kiitos&quot;, sanoi Pauli. Sitten Pauli meni passintarkastukseen.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Liisi">&quot;Passinne, olkaa hyvä&quot;, sanoi passintarkastaja. Pauli antoi hänelle passinsa. Tarkastaja katsoi passia. Tarkastaja katsoi Paulia. &quot;Kauaksiko aikaa matkustatte?&quot; tarkastaja kysyi Paulilta.</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Liisi">&quot;Matkustan kahdeksi viikoksi&quot;, vastasi Pauli.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Liisi">Tarkastaja nyökkäsi ja leimasi passin. Tarkastaja antoi Paulille hänen passinsa. &quot;Hauskaa matkaa&quot;, tarkastaja toivotti Paulille.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Liisi">&quot;Kiitos&quot;, sanoi Pauli. Pauli meni portille odottamaan lentoaan. Hän osti sanomalehden lahjamyymälästä. Pian hänen lentokoneensa saapui. Pauli meni jonoon lippu mukanaan. Hän antoi lippunsa lipuntarkastajalle. Tarkastaja repäisi lipusta palan ja antoi hänelle lipun kannan. Pauli astui lentokoneeseen ja löysi paikkansa. Hän istuutui ja kiinnitti turvavyön.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Liisi">Muutaman minuutin kuluttua nuori nainen istui hänen viereensä. Nainen oli hyvin viehättävä. Pauli hymyili ja tuijotti naisen paitaa. Paidassa luki suurin punaisin kirjaimin: &quot;UniLang&quot;. Pauli ei tiennyt, mikä &quot;UniLang&quot; on. &quot;Anteeksi&quot;, Pauli sanoi naiselle. &quot;Mikä on 'UniLang'?&quot;</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Liisi">Nainen katsoi Pauliin.</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Liisi">&quot;Ettekö tiedä, mikä 'UniLang' on?&quot; hän kysyi Paulilta.</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Liisi">Ennen kuin Pauli ehti vastata, joku mies pysähtyi naisen taa. Mies katsoi lippuaan ja sitten hän katsoi istuinta. &quot;Tämä on minun paikkani&quot;, mies sanoi naiselle.</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Liisi">Nainen katsoi lippuaan. &quot;Olette oikeassa&quot;, hän sanoi. &quot;Pyydän anteeksi. Erehdyin.&quot; Sitten nainen lähti koneen takaosaan.</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Liisi">Mies istuutui Paulin viereen. Pian lentokone alkoi liikkua kiitorataa kohti. Lentokone nousi ilmaan ja se lensi.</attrib>
+		</entry>
+	</entries>
+</ulr>

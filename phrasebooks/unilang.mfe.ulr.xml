@@ -1,0 +1,2281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="mfe">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Anusha">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Anusha">Everyday expressions translated in Mauritian Creole</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="Anusha">Parol tou lé zour</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="Anusha">Oui</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="Anusha">Non</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="Anusha">Siouplé</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="Anusha">Ala ou la</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="Anusha">Merci!</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="Anusha">Dérien</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="Anusha">exkise-moi</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="Anusha">Kittfoie</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="Anusha">Alo!</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="Anusha">Salam!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="Anusha">Bonzou!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="Anusha">Bonzou!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="Anusha">Bonsoir!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="Anusha">bon' nuit!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="Anusha">Mo conten ou la!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="Anusha">Promné bien!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="Anusha">Pou comprend les ott</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="Anusha">Ou coz...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="Anusha">Mo coz...</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="Anusha">Mo pa coz...</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="Anusha">Mo coz ein pé...</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="Anusha">Anglais</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="Anusha">Français</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="Anusha">Allemand</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="Anusha">Espagnol</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="Anusha">Portiguais</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="Anusha">Arabe</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="Anusha">Sinois</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="Anusha">Hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="Anusha">Risse</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="Anusha">Italien</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="Anusha">Hollandais</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="Anusha">Norvézien</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="Anusha">Siédois</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="Anusha">Danois</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="Anusha">Polonais</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="Anusha">Urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="Anusha">Farsi</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="Anusha">Zaponais</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="Anusha">Indonesien</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="Anusha">Malay</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="Anusha">Ou comprend?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="Anusha">Ou pé comprend moi?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="Anusha">Mo comprend</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="Anusha">Mo comprend ou</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="Anusha">Mo pa comprend</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="Anusha">Mo pa comprend ou</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="Anusha">Ou capav répét ça siouplé?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="Anusha">Ou capav coz pli doucema siouplé?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="Anusha">Ou capav écrir ça siouplé?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="Anusha">Mo pa coné couma dir ça</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="Anusha">Mo pa conn mot la</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="Anusha">Ki ou finn dir?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="Anusha">Couma ou dir ça en...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="Anusha">Couma ou écrir ça?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="Anusha">Couma ou prononce ça?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="Anusha">Ou capav tradir ça pou moi?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="Anusha">Mo finn bien dir ça la?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="Anusha">Coz cozé</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="Anusha">Ki dir?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="Anusha">Mari correc!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="Anusha">Correc!</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="Anusha">Coum ci coum ça</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="Anusha">Pas tro bien</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="Anusha">Ki laz ou éna?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="Anusha">Mo éna...ans</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="Anusha">Mo pas coné...</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="Anusha">Mo pa content ça</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="Anusha">Monn fini paré</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="Anusha">Anou alé!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="Anusha">Sori</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="Anusha">Larzan</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="Anusha">Mo capav paye en likid?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="Anusha">Mo capav paye are carte crédit?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="Anusha">Ou dacor...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="Anusha">Ou capav sanz ça bann sek la?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="Anusha">Ou capav sanz ça en...?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="Anusha">Ou capav dir moi a pé pré comié li pou couté?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="Anusha">Ala mo carte</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="Anusha">Comié commission ou prend?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="Anusha">Mo oulé sanz ein pé dollar/euro/ livre</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="Anusha">Ki to lésanz?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="Anusha">Ki to linflation?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="Anusha">Kott mo capav sanz mo cass?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="Anusha">Akott mo capav faire photocopie?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="Anusha">Ki la banque pli pré?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="Anusha">Kott mo bizin signé?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="Anusha">Ou éna catalog?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="Anusha">Mo éné ène rendez-vou avec...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="Anusha">Comié bizin payé pou rentrer?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="Anusha">Comié ça couté par zour?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="Anusha">Comié ça couté par lère</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="Anusha">Comié ça couté par séméne?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="Anusha">Li gratuit?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="Anusha">Lordinatère</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="Anusha">Ou éna lordinatère?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="Anusha">Disque dir la rempli</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="Anusha">Ou éna ène modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="Anusha">Ou éna internet?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="Anusha">Mo capav avoy ène messaz?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="Anusha">Mo capav lir mo bann messaz?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="Anusha">Mo capav imprim kitsoz?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="Anusha">Mo capav scan ène zaffair?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="Anusha">Mo lordinatère finn cassé</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="Anusha">Ou bizin rédemarrer</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="Anusha">Mo capav install...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="Anusha">Ki ou ladress e-mail?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="Anusha">Mo l'adress email</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="Anusha">Ou éna ène paz web?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="Anusha">Ki so ladress?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="Anusha">Apprann</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="Anusha">Ki ou pé apprann?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="Anusha">Mo pé apprann...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="Anusha">la loi</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="Anusha">medcine</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="Anusha">léconomie</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="Anusha">bann langaz</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="Anusha">linguistique</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="Anusha">mathematik</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="Anusha">chimie</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="Anusha">physic</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="Anusha">linformatic</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="Anusha">Cott ça ou pé apprann?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="Anusha">Mo al...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="Anusha">Mo éna cours zordi</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="Anusha">Mo libre zordi</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="Anusha">To al coléz?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="Anusha">Mo dan coléz</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="Anusha">Mo bizin al dan mo classe astère</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="Anusha">Lirzance</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="Anusha">appel doctère!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="Anusha">Appel lambilance!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="Anusha">appel la police!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="Anusha">Li pa capav respiré</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="Anusha">Li pa capav bouzé</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="Anusha">Li pann arrété</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="Anusha">Linn cogne are moi</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="Anusha">Li ti pé condir tro vitt</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="Anusha">Li finn coupé</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="Anusha">Mo pa capav bouz mo lé bra</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="Anusha">Mo pa capav bouz mo la zamm</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="Anusha">Dimoun finn cokein moi!</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="Anusha">Volère!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="Anusha">Dimon finn cokein mo passeport!</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="Anusha">Dimoun finn cokein mo cass!</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="Anusha">Dimoun finn cokein mo loto!</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="Anusha">Guett difé!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="Anusha">Ki lopital pli pré ici?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="Anusha">Ki station la police pli pré ici?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="Anusha">Emotion ek lopinion</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="Anusha">Ou conten ça?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="Anusha">Mo conten ça</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="Anusha">Mo conten</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="Anusha">Mo en colère</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="Anusha">Mo déci</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="Anusha">Mo bien</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="Anusha">Mo fatigué</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="Anusha">Mo gagne per</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="Anusha">Fère bon ici</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="Anusha">Mo gagne fré</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="Anusha">Mo gagne sommeil</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="Anusha">Nou bien conten ici</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="Anusha">Extra intéressant</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="Anusha">Nou trouv ça extra intéressant</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="Anusha">Extra annouyan!</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="Anusha">Ala zoli la!</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="Anusha">Li mari zoli</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="Anusha">Li mari cocasse!</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="Anusha">Li mari bonn!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="Anusha">Li mari bonn!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="Anusha">Li extra zenti</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="Anusha">Guété!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="Anusha">Ecouté!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="Anusha">Mari bonn!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="Anusha">Mari bonn!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="Anusha">Manzé</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="Anusha">Mo gagne faim</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="Anusha">mo gagne soif</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="Anusha">nou capav asté kitsoz pou manzé?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="Anusha">Nou capav al boir kitsoz?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="Anusha">To éna kitsoz pou manzé?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="Anusha">To éna kitsoz pou boir?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="Anusha">To oulé kitsoz pou manzé?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="Anusha">Ki to oulé mo donn toi pou manzé?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="Anusha">To oulé boir kitsoz?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="Anusha">Mo oulé boir...siltéplé</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="Anusha">ène tass café</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="Anusha">ène tass dité</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="Anusha">ène ver la bière</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="Anusha">ène ver divin</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="Anusha">ène ver divin rouz</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="Anusha">ène ver divin blanc</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="Anusha">ène ver zi doranz</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="Anusha">ène ver zi pom</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="Anusha">ki to lé mo donn toi pou boir?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="Anusha">ki to oulé boir?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="Anusha">ki to oulé manzé?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="Anusha">ki to conseil moi?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="Anusha">Mo capav guett menu la, siltéplé?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="Anusha">Mo capav guette la list divin, siouplé?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="Anusha">Mo oulé ça, siouplé</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="Anusha">Ou oulé manz ène gajak?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="Anusha">Mo oulé manz ène gajak, siouplé</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="Anusha">Mo oulé ène morceau poisson, siouplé</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="Anusha">Mo oulé ène morceau béf, siouplé</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="Anusha">Mo oulé manz porc, siouplé</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="Anusha">Mo oulé ène salade, siouplé</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="Anusha">Mo oulé ène bol la soupe, siouplé</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="Anusha">Mo oulé ène plat vézétarien, siouplé</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="Anusha">Ou oulé ène dessert?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="Anusha">Pou commencé, mo ti a content manz...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="Anusha">Pou plat principal, mo oulé...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="Anusha">Pou dessert, mo oulé...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="Anusha">Mo capav prend ça ar frites/diri/pomdéter?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="Anusha">Mo capav prend ça sans...?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="Anusha">Ou capav donn moi zis ène ti portion siouplé?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="Anusha">Ki salade ou éna?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="Anusha">Mo pas pou prend nanrié encor</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="Anusha">Mo pas pou manz sir place</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="Anusha">Mo vézétarien</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="Anusha">Mo pas capav manz ça</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="Anusha">eski éna...ladan?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="Anusha">(oucou) disel</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="Anusha">(boucou) disic</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="Anusha">(boucou) la graisse</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="Anusha">nimporte ki laviann</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="Anusha">nimporte ki fruit de mer</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="Anusha">nimporte ki poisson</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="Anusha">nimporte ki produit laitier</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="Anusha">mo pas boir lalcol</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="Anusha">mo péna fourcett</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="Anusha">mo péna couto</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="Anusha">mo péna cuillère</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="Anusha">mank ène ver</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="Anusha">mank ène lassiett</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="Anusha">ça pas prop</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="Anusha">Li tro fré</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="Anusha">Li tro fort</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="Anusha">Mo pa ti commann ça</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="Anusha">Ena ène errère la</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="Anusha">Ti extra bon</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="Anusha">Mo oulé payé siouplé</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="Anusha">Ou capav donn moi factir siouplé?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="Anusha">Nou oulé paye séparément</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="Anusha">Eski ou finn compte tou la?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="Anusha">Eski pourboir la compté la dan?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="Anusha">Ou content fair la cuisine?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="Anusha">Ki çannla pou cui asoir?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="Anusha">Eski mo cui asoir?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="Anusha">Ki mo pou préparé?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="Anusha">Ou oulé ène tass café?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="Anusha">Ou oulé boir dité?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="Anusha">La santé</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="Anusha">Mo malade</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="Anusha">Mo éna linflienza</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="Anusha">Mo enrimé</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="Anusha">Mo éna alerzi</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="Anusha">mo gagne diabett</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="Anusha">Mo pé gagne dimal</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="Anusha">Mo pas senti moi bien</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="Anusha">Mo prend pillil</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="Anusha">Mo enceinte</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="Anusha">Mo pas capav manzé</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="Anusha">Mo pas capav dormi</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="Anusha">Mo pas oulé pren kitsoz tro fort</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="Anusha">mo la tet pé tourné</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="Anusha">mo gagne mal o kère</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="Anusha">Mo lédent finn cassé</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="Anusha">Mo gagne toussé</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="Anusha">Mo latet pé fair mal</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="Anusha">Mo ventre pé fair mal</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="Anusha">Mo senti ène doulère dans mo poitrine</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="Anusha">Mo éna ène linfection</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="Anusha">ène linsec finn pik moi</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="Anusha">ène zanimo finn morde moi</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="Anusha">To pé senti ène doulère?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="Anusha">To pé gagne dimal?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="Anusha">Eski to gagne dimal lorsski mo fair ça?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="Anusha">To pé prend ène mekcinn?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="Anusha">Ki to températir?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="Anusha">To capav marcé?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="Anusha">Mo bizin ène foteil roulant</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="Anusha">Mo dan ène foteil roulant</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="Anusha">Ki lafarmaci pli pré?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="Anusha">Mo capav asté ça sans lordonnans?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="Anusha">Ou éna ène mekcinn pou morsir linsect?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="Anusha">Eski ou éna ène lacrem solaire?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="Anusha">Mo éna ène lordonnans</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="Anusha">Mo bizin ène mekcinn pou...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="Anusha">Komié fois par zour mo bizin prend ça?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="Anusha">Létan libr</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="Anusha">ki to bann loisir?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="Anusha">ki to content fair kan to libr?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="Anusha">To content lir?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="Anusha">Mo pa content lir</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="Anusha">Mo content lir</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="Anusha">Mo content coui manzé</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="Anusha">Mo content écoute la mizik</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="Anusha">Mo content zoué piano</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="Anusha">Mo content zoué la guitar</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="Anusha">Mo content santé</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="Anusha">Mo content zoué lésec</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="Anusha">Mo content sorti</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="Anusha">Mo content voyazé</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="Anusha">Mo content al magasin</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="Anusha">Mo content fair zardinaz</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="Anusha">Mo content guett télévision</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="Anusha">mo content al lor internet</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="Anusha">Ki la mizik to content?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="Anusha">Mo contentla mizik classik</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="Anusha">Mo content la mizik pop</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="Anusha">Mo content opéra</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="Anusha">Mo content jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="Anusha">Mo content techno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="Anusha">Mo content hard rock</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="Anusha">Ki to group préféré?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="Anusha">Ki to préféré</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="Anusha">Mo préfère...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="Anusha">fair connaissance nouvo dimoun</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="Anusha">Mo appell...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="Anusha">Kouma ou appélé?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="Anusha">Mo...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="Anusha">Ki sann là ou été?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="Anusha">Mo capav présente ou...?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="Anusha">Mo pou présente ou...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="Anusha">Mo présente ou mo femme</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="Anusha">Mo présente ou mo mari</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="Anusha">Mo présente ou mo copine</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="Anusha">Mo présente ou mo copain</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="Anusha">Li mo camarade</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="Anusha">sa mo garçon</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="Anusha">ça mo tifi</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="Anusha">ça mo mama</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="Anusha">ça mo papa</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="Anusha">Mo content mo finn zoène ou</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="Anusha">Plan ek rendez-vous</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="Anusha">Are you free today / tomorrow / this evening ?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="Anusha">Monn déza fair mo plan</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="Anusha">Mo pé al cinéma</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="Anusha">Mo pé al téatre</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="Anusha">Mo pé al mizé</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="Anusha">To oulé sorti avek moi asoir?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="Anusha">Oui, mo bien envi</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="Anusha">To éna billet?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="Anusha">Mo éna dé billet pou...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="Anusha">Mo pa content sa la mizik la</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="Anusha">La mizik tro for</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="Anusha">Ena tro boucou dimoun ici</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="Anusha">Nou capav al ène lott lendroit?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="Anusha">Ki fim nou pou guété?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="Anusha">Kouma tonn trouve fim la?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="Anusha">Politik</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="Anusha">Mo intéressé ar politik</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="Anusha">Mo pa intéressé ar politik</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="Anusha">kouma to trouv gouvernment?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="Anusha">Kouma to trouv lé roi/ la reine?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="Anusha">Kouma to trouv président?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="Anusha">Ki to pensé lor prémié minis?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="Anusha">Ki to pensé lor liberté lexpression?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="Anusha">Ki to pensé lor bann soldats?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="Anusha">Ki to pensé lor démocraci?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="Anusha">Ki to lopinion lor droits dé lom?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="Anusha">Ki to lopinion lor droits dé femmes?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="Anusha">Ki to pensé lor bann homosexuels zot droits?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="Anusha">Eski to dans enn parti politik?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="Anusha">Lélection kan?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="Anusha">Pou ki sann la to ti voté dernié fois?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="Anusha">Pou ki sann là to pou voté?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="Anusha">Mo...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="Anusha">enn cominist</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="Anusha">enn capitalist</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="Anusha">enn democrat</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="Anusha">enn chrétien démocrat</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="Anusha">enn répiblikin</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="Anusha">enn gauchiste</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="Anusha">enn nationalist</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="Anusha">enn socialist</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="Anusha">enn libertaire</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="Anusha">enn fascist</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="Anusha">rélasion ek fami</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="Anusha">Eski ou marié?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="Anusha">Mo marié</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="Anusha">Mo pa marié</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="Anusha">Eski ou éna enn copain?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="Anusha">Eski ou éna enn copine?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="Anusha">Mo éna enn copain</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="Anusha">Mo éna enn copine</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="Anusha">Ki laz li éna?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="Anusha">Li éna...an</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="Anusha">Kott sa li travail?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="Anusha">Eski ou éna zenfan?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="Anusha">Mo péna zenfan</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="Anusha">Mo éna enn zenfan/ enn garçon/ enn tifi</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="Anusha">Mo éna dé zenfan</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="Anusha">Mo éna trois/kat/cink/sis/sett zenfan</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="Anusha">Comié frère/sère ou éna?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="Anusha">Eski ou mama enkor vivan?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="Anusha">Eski ou papa enkor vivant?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="Anusha">Eski ou gramère enkor vivant?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="Anusha">Eski ou granpère enkor vivant?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="Anusha">Rélizion</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="Anusha">Eski ou pratik enn rélizion?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="Anusha">Mo pa pratik okenn rélizion</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="Anusha">Mo athée</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="Anusha">Mo agnostik</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="Anusha">Mo mizilman</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="Anusha">Mo juif</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="Anusha">Mo boudist</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="Anusha">Mo hindou</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="Anusha">Mo catolik</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="Anusha">Mo chrétien</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="Anusha">Kot sa mo kapav trouv enn léglise?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="Anusha">Kot sa mo kapav trouv enn moské?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="Anusha">Kot sa mo kapav trouv enn synagogue?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="Anusha">Kot sa mo kapav trouv enn temple?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="Anusha">Merci Bondié</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="Anusha">Si Bondié oulé</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="Anusha">Ayo Bondié!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="Anusha">Kot sa pou dormi?</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="Anusha">Kot sa ou resté? Dépi ki pays ou sorti?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="Anusha">Mo vinn dépi...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="Anusha">la France</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="Anusha">l'Angléterre</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="Anusha">l'Espagne</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="Anusha">l'Allemagne</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="Anusha">l'Amérique</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="Anusha">La Sinn</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="Anusha">Brézil</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="Anusha">Zapon</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="Anusha">la Russie</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="Anusha">Canada</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="Anusha">l'Australia</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="Anusha">Ki ou nationalité?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="Anusha">Mo...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="Anusha">Anglais</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="Anusha">Français</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="Anusha">Allemand</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="Anusha">Américain</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="Anusha">Sinoa</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="Anusha">Zaponé</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="Anusha">Russe</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="Anusha">Brézilien</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="Anusha">Canadien</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="Anusha">Kot ça ou resté? dan ki la ville ou resté?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="Anusha">Mo res Londres/ Paris/ Berlin</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="Anusha">Eski li pré ar...?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="Anusha">Eski li loin ar...?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="Anusha">Mo res pré...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="Anusha">Mo res loin ar...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="Anusha">Kot ça ou pé resté?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="Anusha">Mo pé res lotel....</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="Anusha">Pou komié letan ou la?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="Anusha">Kan ou pou allé?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="Anusha">When did you arrive?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="Anusha">Eski oun vinn tousel?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="Anusha">Mo tousel</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="Anusha">Monn vinn avek mo fami</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="Anusha">Eski ou res ici?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="Anusha">Mo pas viv ici</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="Anusha">Eski nou Kapav campe la?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="Anusha">Eski ou éna place libr?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="Anusha">Eski éna place pou enn la tente?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="Anusha">Komié ça couté pou enn la nuite?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="Anusha">nou oulé res enn sémaine</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="Anusha">Kot douche été?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="Anusha">Kot cabiné?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="Anusha">Mo oulé enn la samm pou enn sel dimoun siouplé</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="Anusha">Mo oulé enn la samm avek...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="Anusha">enn baignoire</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="Anusha">enn douche</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="Anusha">enn vue</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="Anusha">enn balcon</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="Anusha">enn lili enplis</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="Anusha">lili séparé</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="Anusha">Nou oulé enn la samm double siouplé</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="Anusha">Eski tisézéné compté ladan?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="Anusha">Ki lère ou servi tidézéné?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="Anusha">Eski ou éna la samm pli bomarcé?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="Anusha">Eski éna messaz pou moi?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="Anusha">Ou kapav donn moi mo la clé siouplé?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="Anusha">Ki niméro mo la samm?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="Anusha">Mo ti réserv enn la samm avec baignoire ek douche</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="Anusha">Sex</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="Anusha">Do you want to sleep with me?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="Anusha">Do you have a condom?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth" author="Anusha">Are you on the pill?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="Anusha">I won't do it without a condom</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="Anusha">Please be careful | Please be gentle</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="Anusha">Do you like this?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="Anusha">I don't like this</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="Anusha">Are you single?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="Anusha">Are you gay?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth" author="Anusha">Are you straight?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="Anusha">Are you lesbian?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="Anusha">Are you bisexual?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="Anusha">Shopping</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="Anusha">Can you help me?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="Anusha">Can I help you?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" author="Anusha">What would you like?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="Anusha">What are you looking for?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="Anusha">I'm just browsing | I'm just looking around</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="Anusha">I like this one</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="Anusha">I like these trousers/pants</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="Anusha">I like this t-shirt</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="Anusha">I like this jacket</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="Anusha">I like this blouse</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="Anusha">I like this suit</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="Anusha">I like these glasses</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="Anusha">I like these shoes</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="Anusha">I'm looking for ......</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="Anusha">Can I try it on?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="Anusha">Can I try it?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="Anusha">Where is the fitting room?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="Anusha">It's too long</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="Anusha">It's too short</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="Anusha">It's too tight</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="Anusha">It's too loose</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="Anusha">It doesn't fit</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="Anusha">It fits quite well</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="Anusha">What size are you?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="Anusha">I am size ...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth" author="Anusha">I don't understand these sizes</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="Anusha">Do you have a larger one?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="Anusha">Do you have a smaller one?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="Anusha">I like the color</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="Anusha">I don't like the color</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="Anusha">Do you have this in red/blue/yellow/green/purple/pink?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="Anusha">Do you have a cheaper one?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="Anusha">What is this made of?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="Anusha">Can you repair this?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="Anusha">Sightseeing</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="Anusha">Can I take pictures?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="Anusha">You can't take pictures here</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="Anusha">Are there any boat trips on the lake?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="Anusha">Are there any boat trips on the river?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="Anusha">Are there any guided tours?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="Anusha">How long does the tour take?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="Anusha">Are there any good night clubs?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="Anusha">Are there any local festivals?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="Anusha">I'd like to visit the cathedral.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="Anusha">I'd like to visit the church.</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="Anusha">I'd like to visit the mosque.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="Anusha">I'd like to visit the temple.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="Anusha">Is there a discount for children?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="Anusha">Is there a discount for groups?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="Anusha">Is there a discount for elderly?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="Anusha">Is there a discount for students?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="Anusha">What hours are you open?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="Anusha">What time do you close?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="Anusha">What time do you open?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="Anusha">What time does the show begin?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="Anusha">When was it built?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="Anusha">Who built this?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="Anusha">How high is that mountain?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="Anusha">What is the name of that animal?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="Anusha">What is the name of that bird?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="Anusha">What is the name of that flower?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="Anusha">What is the name of that tree?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="Anusha">What is the name of that building?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="Anusha">What is the name of that mountain?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="Anusha">What is the name of that river?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="Anusha">Smoking</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="Anusha">Smoking is bad for your health</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="Anusha">Do you mind if I smoke?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="Anusha">Do you have a light?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="Anusha">Can I have a cigarete?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="Anusha">Is this a non-smoking section?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="Anusha">May I have an ashtray?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="Anusha">Sports</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="Anusha">Are there any dangerous currents?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="Anusha">Are there any interesting walks nearby?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth" author="Anusha">Are there any ski lifts?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="Anusha">Where is the nearest golf course?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="Anusha">Where is the public swimming pool?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="Anusha">Can I go fishing here?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="Anusha">Can I go swimming here?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="Anusha">Can I rent ..... ?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="Anusha">a baseball bat</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="Anusha">a football</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="Anusha">a pair of skis</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="Anusha">a tennis racket</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="Anusha">a boat</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="Anusha">a towel</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="Anusha">Can I take lessons?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="Anusha">I want to see a soccer match</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="Anusha">Do you play .... ?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="Anusha">American football</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="Anusha">soccer</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth" author="Anusha">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth" author="Anusha">tennis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="Anusha">baseball</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth" author="Anusha">basketball</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="Anusha">Time</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="Anusha">What day is it today?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="Anusha">It's ......</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="Anusha">What day was is yesterday?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="Anusha">Yesterday was .....</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="Anusha">What day is it tomorrow?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="Anusha">Tomorrow will be .....</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="Anusha">Monday</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="Anusha">Tuesday</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="Anusha">Wednesday</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="Anusha">Thursday</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="Anusha">Friday</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="Anusha">Saturday</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="Anusha">Sunday</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="Anusha">What's the month? | What month is it?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="Anusha">This month is .....</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="Anusha">Last month was ...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="Anusha">Next month will be ...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="Anusha">January</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="Anusha">February</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="Anusha">March</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="Anusha">April</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="Anusha">May</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="Anusha">June</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="Anusha">July</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="Anusha">August</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="Anusha">September</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="Anusha">October</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="Anusha">November</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="Anusha">December</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="Anusha">What time is it?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="Anusha">It's eight o'clock</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="Anusha">It's half past eight | It's eight thirty</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="Anusha">It's a quarter past eight | | It's eight fifteen</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="Anusha">It's a quarter to nine | It's eight forty-five</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="Anusha">It's ten past eight | It's eight ten</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="Anusha">It's twenty past eight | It's eight twenty</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="Anusha">It's twenty to eight | It's seven forty</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="Anusha">It's ten to eight | It's seven fifty</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth" author="Anusha">What's the date?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth" author="Anusha">It's the 15th of December, 1982</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="Anusha">When can I come?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="Anusha">When will you visit me?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth" author="Anusha">I will visit you this morning</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="Anusha">I will visit you in the morning</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth" author="Anusha">I will visit you this evening</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="Anusha">I will visit you in the evening</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth" author="Anusha">I will visit you this week</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth" author="Anusha">I will visit you this weekend</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth" author="Anusha">I will visit you in the weekend</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="Anusha">I will visit you at noon</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth" author="Anusha">I will visit you in two hours</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth" author="Anusha">I will visit you at half past ten</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth" author="Anusha">I will visit you after half past ten</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth" author="Anusha">I will visit you before half past ten</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth" author="Anusha">I will visit you between half past ten and eleven o'clock</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth" author="Anusha">I will visit you from half past ten to eleven o'clock</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="Anusha">I will visit you in spring</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="Anusha">I will visit you in summer</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth" author="Anusha">I will visit you in autumn</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="Anusha">I will visit you in winter</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth" author="Anusha">I will visit you on December 15</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth" author="Anusha">How long can you stay with me?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth" author="Anusha">I can stay two hours</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth" author="Anusha">I will visit you for two hours</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth" author="Anusha">You are too late</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth" author="Anusha">You are just in time</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth" author="Anusha">You are too early</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="Anusha">What season is it?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth" author="Anusha">I don't have time</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth" author="Anusha">Please wait a minute</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth" author="Anusha">I will be there in five minutes</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth" author="Anusha">Transportation</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth" author="Anusha">Do you have a car?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="Anusha">I have a car</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth" author="Anusha">I don't have a car</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth" author="Anusha">Shall we take your car or mine?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth" author="Anusha">Do you have a driver's license?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth" author="Anusha">I don't have a driver's license</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth" author="Anusha">When do we depart?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth" author="Anusha">Where are we going to?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth" author="Anusha">Where are you going to?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth" author="Anusha">Where are you coming from?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth" author="Anusha">Do I have to change buses?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth" author="Anusha">Where are the buses?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="Anusha">Where is the bus stop?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth" author="Anusha">Can you tell me when to get off?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth" author="Anusha">Does this bus go to ..... ?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="Anusha">Where is the airport?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth" author="Anusha">When does the plane leave?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth" author="Anusha">When does the plane arrive?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="Anusha">How long is the flight?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="Anusha">At what time do I have to check in?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="Anusha">Can I see your passport, please?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="Anusha">Here is my passport</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="Anusha">Can I take this with me?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth" author="Anusha">Where can I collect my luggage?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="Anusha">I can't find my luggage</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="Anusha">Can you help me with my luggage?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="Anusha">I think that is my seat</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="Anusha">Is this seat taken?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="Anusha">Where is the railway station?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="Anusha">Do I have to change trains?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="Anusha">Does this train stop in .....</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="Anusha">Does this train go to ..... ?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="Anusha">How long does the train stop here?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="Anusha">What station is this?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="Anusha">When is the next train?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="Anusha">When is the last train?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="Anusha">Where can I get a taxi?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="Anusha">Is there a car park nearby?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="Anusha">May I park here?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="Anusha">How long can I park here?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="Anusha">Where can I park?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="Anusha">My car has broken down.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="Anusha">My car will not start.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="Anusha">Where is the nearest gas station?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="Anusha">Where is the nearest garage?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="Anusha">I have a flat tire.</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="Anusha">I'm out of fuel</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="Anusha">Can I see your driver's license please?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="Anusha">Here is my driver's license.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="Anusha">How far is the next village?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="Anusha">How long does it take by car?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="Anusha">How long does it take on foot?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="Anusha">I would like to rent a car for a week / for three days.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="Anusha">Weather</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="Anusha">What's the weather going to be like tomorrow?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="Anusha">What's the weather like usually?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="Anusha">It's going to rain tomorrow</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="Anusha">It's raining</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="Anusha">It's snowing</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="Anusha">It's sunny</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="Anusha">It's cloudy</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="Anusha">It's warm outside</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="Anusha">It's cold outside</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="Anusha">What awful weather!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="Anusha">What a lovely day!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="Anusha">Nice day, isn't it?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="Anusha">Is it always this hot?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="Anusha">Is it always this cold?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="Anusha">Is it always this rainy?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="Anusha">Is it always this cloudy?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="Anusha">I'm wet</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="Anusha">Work</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="Anusha">Where do you work?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="Anusha">What do you do for a living?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="Anusha">I am a teacher</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="Anusha">I am a student</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="Anusha">I am self-employed</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="Anusha">I work in a restaurant</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="Anusha">I work in a super market</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="Anusha">I work in a shop</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="Anusha">I am a doctor/a physician</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="Anusha">I am a psychologist</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="Anusha">I am a programmer</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="Anusha">I am an engineer</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="Anusha">I am a mechanic</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="Anusha">I am a writer</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="Anusha">I am a driver</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="Anusha">I am an actor/an actress</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="Anusha">I am a social worker</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="Anusha">I am a politician</attrib>
+		</entry>
+	</entries>
+</ulr>

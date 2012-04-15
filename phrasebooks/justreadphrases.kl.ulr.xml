@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="kl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">Asavakkit</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">Anorersuarup sissaq tikippaa</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">Uku inuitit nipi qataatsoq tusaapavarput</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">Qulleq aappaluttoq pivara</attrib>
+		</entry>
+	</entries>
+</ulr>

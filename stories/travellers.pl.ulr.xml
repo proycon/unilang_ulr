@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="pl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="arti">Niedźwiedź i turyści</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="arti">Lekcja o niedźwiedziach i przyjaciołach</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="arti">Dwaj turyści byli razem na drodze, kiedy nagle pojawił się niedźwiedź. Zanim ich zauważył, jeden z nich skierował się ku drzewu na poboczu drogi, wspiął się na gałęzie i ukrył się tam.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="arti">Drugi nie był tak zwinny jak jego towarzysz; i, skoro nie mógł uciec, rzucił się na ziemię i udawał, że jest martwy.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="arti">Niedźwiedź podszedł i obwąchał go, ale on nie ruszał się i wstrzymał oddech: bo mówi się, że niedźwiedź nie ruszy martwego ciała. Niedzwiedź wziął go za trupa i odszedł.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="arti">Kiedy wybrzeże było czyste, turysta na drzewie zszedł i spytał drugiego, co niedźwiedź szepnął mu, kiedy przyłożył swoje usta do jego ucha.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="arti">Drugi odpowiedział, &quot;Powiedział mi, by nigdy więcej nie podróżować z przyjacielem, który opuszcza cię przy pierwszym niebezpieczeństwie.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="arti">Nieszczęście sprawdza szczerość przyjaźni.</attrib>
+		</entry>
+	</entries>
+</ulr>

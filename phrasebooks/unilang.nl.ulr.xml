@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="nl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="proycon">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="proycon">This is a medium-sized phrasebook containing useful common phrases.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth" author="proycon">Veel gebruikte uitdrukkingen</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth" author="proycon">ja</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth" author="proycon">nee</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth" author="proycon">Alstublieft / Alsjeblieft</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="proycon">Alstublieft / Alsjeblieft</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="proycon">Dank u / je | Bedankt</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="proycon">Graag gedaan</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth" author="proycon">Excuseer mij</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth" author="proycon">Wellicht | Mischien</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="proycon">Hallo | Hoi</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth" author="proycon">Tot ziens!</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth" author="proycon">Goedendag!</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth" author="proycon">Goedemorgen!</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth" author="proycon">Goedenavond!</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth" author="proycon">Goedenacht!</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth" author="proycon">Welkom!</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth" author="proycon">Een goede reis!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth" author="proycon">Elkaar begrijpen</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth" author="proycon">Spreekt u .....? / Spreek je .....?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth" author="proycon">Ik spreek .....</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth" author="proycon">Ik spreek geen ......</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth" author="proycon">Ik spreek een beetje .....</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth" author="proycon">Engels</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth" author="proycon">Frans</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth" author="proycon">Duits</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth" author="proycon">Spaans</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth" author="proycon">Portugees</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth" author="proycon">Arabisch</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth" author="proycon">Chinees</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth" author="proycon">Hindi</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth" author="proycon">Russisch</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth" author="proycon">Italiaans</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth" author="proycon">Nederlands</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth" author="proycon">Noors</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth" author="proycon">Zweeds</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth" author="proycon">Deens</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth" author="proycon">Pools</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth" author="proycon">Urdu</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth" author="proycon">Perzisch</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth" author="proycon">Japans</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth" author="proycon">Indonesisch</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth" author="proycon">Maleis</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth" author="proycon">Begrijpt u? / Begrijp je?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth" author="proycon">Begrijpt u me? / Begrijp je me?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth" author="proycon">Ik begrijp het</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth" author="proycon">Ik begrijp u / je</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth" author="proycon">Ik begrijp het niet</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth" author="proycon">Ik begrijp u / je niet</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth" author="proycon">Kunt u / Kun je dat alstublieft herhalen?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth" author="proycon">Kunt u / Kun je alstublieft langzamer praten?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth" author="proycon">Kunt u / Kun je dat alstublieft opschrijven?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth" author="proycon">Ik weet niet hoe ik dat moet zeggen</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth" author="proycon">Ik weet het goede woord niet</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth" author="proycon">Wat zei u / je?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth" author="proycon">Hoe zeg je dat in het .....?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth" author="proycon">Hoe schrijf je dat?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth" author="proycon">Hoe spreek je dat uit?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth" author="proycon">Kunt u / Kun je dit voor me vertalen?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth" author="proycon">Zei ik dat goed?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth" author="proycon">Simpele Conversatie</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth" author="proycon">Hoe gaat het met u / je?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth" author="proycon">(Met mij gaat het) heel goed!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth" author="proycon">Het gaat goed</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth" author="proycon">Het gaat redelijk</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth" author="proycon">Het gaat niet zo goed met me</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth" author="proycon">Hoe oud bent u / ben je?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth" author="proycon">Ik ben .... (jaar)</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth" author="proycon">Ik weet het niet</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth" author="proycon">Dat vind ik niet leuk</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth" author="proycon">Ik ben klaar</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth" author="proycon">Laten we gaan!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="proycon">Het spijt me</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth" author="proycon">Zaken &amp; Financiën</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth" author="proycon">Kan ik contant betalen?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth" author="proycon">Kan ik met een creditcard betalen?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth" author="proycon">Accepteert u...?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth" author="proycon">Kunt u deze traveler's checks wisselen?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth" author="proycon">Kunt u dit wisselen in...</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth" author="proycon">Kunt een schatting maken van de kosten?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth" author="proycon">Hier is mijn kaart</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth" author="proycon">Hoeveel comissie rekent u?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth" author="proycon">Ik wil wat dollars/euro's/ponden wisselen</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth" author="proycon">Wat is de wisselkoers?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth" author="proycon">Wat is de inflatiekoers?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth" author="proycon">Waar kan ik mijn geld onwisselen?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth" author="proycon">Waar ik kopieën maken?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth" author="proycon">Waar is de dichtstbijzijnde bank?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth" author="proycon">Waar moet ik tekenen?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth" author="proycon">Heeft u een catalogus?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth" author="proycon">Ik heb een afspraak met...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth" author="proycon">Wat is de toegangsprijs?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth" author="proycon">Hoeveel kost het per dag?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth" author="proycon">Hoeveel kost het per uur?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth" author="proycon">Hoeveel kost het per week?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth" author="proycon">Is het gratis?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth" author="proycon">Computers &amp; Internet</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een computer?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth" author="proycon">De harde schijf is vol</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een modem?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een internetverbinding?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth" author="proycon">Mag ik een e-mail versturen?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth" author="proycon">Mag ik mijn e-mail lezen?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth" author="proycon">Mag ik iets printen?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth" author="proycon">Mag ik iets scannen?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth" author="proycon">Mijn computer liep vast</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth" author="proycon">U / Je moet opnieuw opstarten</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth" author="proycon">Mag ik .... installeren?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth" author="proycon">Wat is uw / je e-mailadres?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth" author="proycon">Mijn e-mailadres is...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een homepage?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth" author="proycon">Wat is het adres?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth" author="proycon">Educatie | Opleiding | Onderwijs</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth" author="proycon">Wat studeer je?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth" author="proycon">Ik studeer...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth" author="proycon">rechten</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth" author="proycon">medicijnen</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth" author="proycon">economie</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth" author="proycon">talen</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth" author="proycon">linguïstiek</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth" author="proycon">wiskunde</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth" author="proycon">scheikunde</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth" author="proycon">natuurkunde</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth" author="proycon">informatica</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth" author="proycon">Aan welke universiteit studeer je?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth" author="proycon">Ik studeer aan ...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth" author="proycon">Ik heb vandaag les</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth" author="proycon">Ik ben vrij vandaag</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth" author="proycon">Zit je op de middelbare school?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth" author="proycon">Ik zit op de middelbare school</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth" author="proycon">Ik moet nu naar de les</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth" author="proycon">Noodgevallen</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth" author="proycon">Bel een dokter!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth" author="proycon">Bel een ambulance (The Dutch emergency number is 112)</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth" author="proycon">Bel de politie  (The Dutch emergency number is 112)</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth" author="proycon">Hij kan geen adem krijgen.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth" author="proycon">Hij kan niet bewegen</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth" author="proycon">Hij stopte niet</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth" author="proycon">Hij botste tegen me op.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth" author="proycon">Hij reed te snel</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth" author="proycon">Hij heeft zich gesneden</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth" author="proycon">Ik kan mijn arm niet bewegen</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth" author="proycon">Ik kan mijn been niet bewegen</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth" author="proycon">Ik ben beroofd</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth" author="proycon">Houd de dief!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth" author="proycon">Mijn paspoort is gestolen</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth" author="proycon">Mijn geld is gestolen</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth" author="proycon">Mijn auto is gestolen</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth" author="proycon">Er is brand!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth" author="proycon">Waar is het dichtstbijzijnde ziekenhuis?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth" author="proycon">Waar is het dichtstbijzijnde politiebureau?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth" author="proycon">Emoties &amp; Meningen</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth" author="proycon">Vind u / je het leuk?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth" author="proycon">Ik vind het leuk</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth" author="proycon">Ik ben blij</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth" author="proycon">Ik ben boos</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth" author="proycon">Ik ben teleurgesteld</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth" author="proycon">Ik ben tevreden</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth" author="proycon">Ik ben moe</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth" author="proycon">Ik ben bang</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth" author="proycon">Ik heb het warm</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth" author="proycon">Ik heb het koud</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth" author="proycon">Ik heb slaap</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth" author="proycon">We vinden het leuk hier</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth" author="proycon">Het is (erg) interessant</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth" author="proycon">Wij vinden het erg interessant</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth" author="proycon">Het is (erg) saai</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth" author="proycon">Het is prachtig</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth" author="proycon">Hij is (erg) knap</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth" author="proycon">Zij is (erg) knap</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth" author="proycon">Hij is lekker!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth" author="proycon">Zij is lekker!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth" author="proycon">Hij/zij is erg aardig</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth" author="proycon">Kijk!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth" author="proycon">Luister!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth" author="proycon">Cool! | Tof!</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth" author="proycon">Gaaf!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth" author="proycon">Eten &amp; Restaurant</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth" author="proycon">Ik heb honger</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth" author="proycon">Ik heb dorst</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth" author="proycon">Zullen we iets gaan eten?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth" author="proycon">Zullen we iets gaan drinken?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth" author="proycon">Heeft u / Heb je iets te eten?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth" author="proycon">Heeft u / Heb je iets te drinken?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth" author="proycon">Wilt u / Wil je wat eten?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth" author="proycon">Kan ik u / je iets te eten aanbieden?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth" author="proycon">Wilt u / Wil je wat drinken?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth" author="proycon">Ik wil graag .... (drinken), alstublieft</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth" author="proycon">een kopje koffie</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth" author="proycon">een kopje thee</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth" author="proycon">een glas bier | een biertje</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth" author="proycon">een glas wijn | een wijntje</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth" author="proycon">een glas rode wijn</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth" author="proycon">een glas witte wijn</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth" author="proycon">een glas sinaasappelsap</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth" author="proycon">een glas appelsap</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth" author="proycon">Kan ik u / je iets te drinken aanbieden?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth" author="proycon">Wat zou u / je willen drinken?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth" author="proycon">Wat zou u / je willen eten?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth" author="proycon">Wat raadt u /raad je aan?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth" author="proycon">Mag ik de (menu)kaart zien, alstublieft?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth" author="proycon">Mag ik de wijnkaart zien, alstublieft?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth" author="proycon">Ik wil dit graag</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth" author="proycon">Zou u / je een voorafje willen?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth" author="proycon">Ik zou graag een voorafje willen</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth" author="proycon">Ik zou graag wat vis hebben</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth" author="proycon">Ik wil graag wat rundvlees</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth" author="proycon">Ik wil graag wat varkensvlees.</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth" author="proycon">Ik zou graag een salade hebben</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth" author="proycon">Ik zou graag een soep hebben</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth" author="proycon">Ik zou graag iets vegetarisch hebben</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth" author="proycon">Wilt u / Wil je een dessert hebben?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth" author="proycon">Als aperitief wil ik...</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth" author="proycon">Als hoofdgerecht wil ik...</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth" author="proycon">Als toetje/dessert wil ik...</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth" author="proycon">Kan ik hier patat/rijst/aardappelen bij krijgen?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth" author="proycon">Kan ik dit zonder ... krijgen?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth" author="proycon">Kan ik een een kleine portie krijgen, alstublieft?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth" author="proycon">Welke salades heeft u?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth" author="proycon">Niets meer, dank u</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth" author="proycon">Om mee te nemen, alstublieft</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth" author="proycon">Ik ben vegetariër</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth" author="proycon">Ik ben veganist</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth" author="proycon">Dat kan/mag ik niet eten.</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth" author="proycon">Zit hier...in?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth" author="proycon">(veel) zout</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth" author="proycon">(veel) suiker</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth" author="proycon">(veel) vet</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth" author="proycon">vlees</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth" author="proycon">zeevruchten</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth" author="proycon">vis</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth" author="proycon">melkproducten</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth" author="proycon">Ik drink niet |  Ik drink geen alcohol</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth" author="proycon">Ik heb geen vork</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth" author="proycon">Ik heb geen mes</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth" author="proycon">Ik heb geen lepel</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth" author="proycon">Er ontbreekt een glas</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth" author="proycon">Er ontbreekt een bord</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth" author="proycon">Dit is niet schoon</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth" author="proycon">Het is te koud</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth" author="proycon">Het is te gekruid</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth" author="proycon">Dit heb ik niet besteld</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth" author="proycon">Dit is een vergissing</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth" author="proycon">Het was heerlijk!</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth" author="proycon">Ik wil graag betalen, alstublieft</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth" author="proycon">Mag ik de rekening hebben?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth" author="proycon">Wij willen graag apart afrekenen.</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth" author="proycon">Is alles inbegrepen?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth" author="proycon">Is de fooi erbij inbegrepen?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth" author="proycon">Kookt u graag?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth" author="proycon">Wie kookt vanavond ?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth" author="proycon">Zal ik vanavond koken?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth" author="proycon">Wat zal ik maken?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth" author="proycon">Wilt u / Wil je een kopje koffie ?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth" author="proycon">Wilt u / Wil je een kopje thee?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth" author="proycon">Gezondheid en ziekte</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth" author="proycon">Ik ben ziek</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth" author="proycon">Ik heb de griep</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth" author="proycon">Ik ben verkouden</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth" author="proycon">Ik ben allergisch</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth" author="proycon">Ik heb diabetes/suikerziekte</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth" author="proycon">Ik heb pijn</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth" author="proycon">Ik voel me niet zo goed</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth" author="proycon">Ik neem de pil</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth" author="proycon">Ik ben zwanger</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth" author="proycon">Ik kan niet eten</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth" author="proycon">Ik kan niet slapen</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth" author="proycon">Ik wil niets sterks innemen</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth" author="proycon">Ik voel me duizelig</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth" author="proycon">Ik voel me misselijk</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth" author="proycon">Mijn tand is afgebroken</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth" author="proycon">Ik hoest veel</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth" author="proycon">Ik heb hoofdpijn</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth" author="proycon">Ik heb buikpijn</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth" author="proycon">Ik heb pijn in mijn borst</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth" author="proycon">Ik heb een infectie</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth" author="proycon">Ik ben gestoken</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth" author="proycon">Ik ben gebeten</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth" author="proycon">Heeft u pijn? / Heb je pijn?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth" author="proycon">Doet het pijn?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth" author="proycon">Doet het pijn als ik dit doe?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth" author="proycon">Slikt u / Slik je medicijnen?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth" author="proycon">Wat voor temperatuur heeft u?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth" author="proycon">Kunt u lopen?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth" author="proycon">Ik heb een rolstoel nodig</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth" author="proycon">Ik zit in een rolstoel</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth" author="proycon">Waar is de dichtstbijzijnde apotheek?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth" author="proycon">Kan ik dit krijgen zonder recept?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth" author="proycon">Heeft u iets tegen insectenbeten?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth" author="proycon">Heeft u iets tegen zonnebrand?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth" author="proycon">Ik heb een recept van een dokter</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth" author="proycon">Ik heb iets nodig voor...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth" author="proycon">Hoe vaak moet ik het innemen?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth" author="proycon">Hobby's</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth" author="proycon">Wat zijn uw / je hobby's?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth" author="proycon">Wat doet u in uw vrije tijd? / Wat doe je in je vrije tijd?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth" author="proycon">Houdt u / Hou je van lezen?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth" author="proycon">Ik hou niet van lezen.</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth" author="proycon">Ik hou van lezen.</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth" author="proycon">Ik hou van koken</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth" author="proycon">Ik luister graag naar muziek</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth" author="proycon">Ik hou van piano spelen</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth" author="proycon">Ik hou van gitaar spelen</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth" author="proycon">Ik hou van zingen</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth" author="proycon">Ik hou van schaken</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth" author="proycon">Ik hou van uitgaan</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth" author="proycon">Ik hou van reizen</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth" author="proycon">Ik hou van winkelen/shoppen</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth" author="proycon">Ik hou van tuinieren</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth" author="proycon">Ik hou van tv-kijken</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth" author="proycon">Ik surf graag op het internet</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth" author="proycon">Van wat voor muziek hou je?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth" author="proycon">Ik hou van klassieke muziek</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth" author="proycon">Ik hou van pop(muziek)</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth" author="proycon">Ik hou van opera</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth" author="proycon">Ik hou van jazz</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth" author="proycon">Ik hou van techno</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth" author="proycon">Ik hou van hard rock</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth" author="proycon">Wat zijn je lievelingsbands?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth" author="proycon">Waar geef jij de voorkeur aan?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth" author="proycon">Ik geef de voorkeur aan...</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth" author="proycon">Zich voorstellen</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth" author="proycon">Mijn naam is... | Ik heet...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth" author="proycon">Hoe heet u / je?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth" author="proycon">Ik ben...</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth" author="proycon">Wie bent u / ben jij?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth" author="proycon">Mag ik u / je voorstellen aan...?</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth" author="proycon">I stel u / je voor aan...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth" author="proycon">Dit is mijn vrouw</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth" author="proycon">Dit is mijn man</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth" author="proycon">Dit is mijn vriendin</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth" author="proycon">Dit is mijn vriend</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth" author="proycon">Dit is mijn vriend(in) (vriendin = female)</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth" author="proycon">Dit is mijn zoon</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth" author="proycon">Dit is mijn dochter</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth" author="proycon">Dit is mijn moeder</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth" author="proycon">Dit is mijn vader</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth" author="proycon">Aangenaam (kennis te maken)</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth" author="proycon">Plannen &amp; Afspraken</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth" author="proycon">Ben je vrij vandaag/morgen/vanavond?</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth" author="proycon">Ik heb al plannen</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth" author="proycon">Ik ga naar de film</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth" author="proycon">Ik ga naar het theater</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth" author="proycon">Ik ga naar het museum</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth" author="proycon">Wil je vanavond met me uitgaan?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth" author="proycon">Dat lijkt me leuk</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth" author="proycon">Heb je kaartjes?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth" author="proycon">Ik heb twee kaartjes voor...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth" author="proycon">De muziek bevalt me niet</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth" author="proycon">De muziek is te hard</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth" author="proycon">Het is hier te druk</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth" author="proycon">Zullen we ergens anders heen gaan?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth" author="proycon">Naar welke film gaan we?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth" author="proycon">Wat vond je van de film?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth" author="proycon">Politiek</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth" author="proycon">Ik interesseer me voor politiek | Ik ben geïnteresseerd in politiek</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth" author="proycon">Ik interesseer me niet voor politiek | Ik ben niet geïnteresseerd in politiek</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de regering?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de koning/konigin?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de president?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de premier? (pronounce like the French word for first)</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de vrijheid van meningsuiting?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van het leger?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de democratie?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de mensenrechten?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de vrouwenrechten?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth" author="proycon">Wat vindt u / vind je van de homorechten?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth" author="proycon">Bent u / Ben je lid van een politieke partij?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth" author="proycon">Wanneer zijn de verkiezingen?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth" author="proycon">Op wie heeft u / heb je de vorige keer gestemd?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth" author="proycon">Op wie gaat u / ga je stemmen?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth" author="proycon">Ik ben...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth" author="proycon">een communist</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth" author="proycon">een kapitalist</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth" author="proycon">een democraat</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth" author="proycon">een christen-democraat</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth" author="proycon">een republikein</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth" author="proycon">links</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth" author="proycon">een nationalist</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth" author="proycon">een socialist</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth" author="proycon">iemand die volledige vrijheid nastreeft</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth" author="proycon">een fascist</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth" author="proycon">Relatie &amp; Familie</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth" author="proycon">Bent u / Ben je getrouwd?</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth" author="proycon">Ik ben getrouwd</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth" author="proycon">Ik ben niet getrouwd</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een vriend?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een vriendin?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth" author="proycon">Ik heb een vriend.</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth" author="proycon">Ik heb een vriendin.</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth" author="proycon">Hoe oud is hij/zij?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth" author="proycon">Hij/Zij is ... (just a number will suffice)</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth" author="proycon">Wat voor werk doet hij/zij?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth" author="proycon">Heeft u / Heb je kinderen?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth" author="proycon">Ik heb geen kinderen.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth" author="proycon">Ik heb één kind/één zoon/één dochter.</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth" author="proycon">Ik heb twee kinderen.</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth" author="proycon">Ik heb drie/vier/vijf/zes/zeven kinderen.</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth" author="proycon">Hoeveel broers en zussen heeft u / heb je?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth" author="proycon">Leeft uw / je moeder nog?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth" author="proycon">Leeft uw / je vader nog?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth" author="proycon">Leeft uw / je oma nog?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth" author="proycon">Leeft uw / je opa nog?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth" author="proycon">Religie | Godsdienst</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth" author="proycon">Bent u / Ben je religieus?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth" author="proycon">Ik ben niet religieus</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth" author="proycon">Ik ben atheïst</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth" author="proycon">Ik ben agnostisch</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth" author="proycon">Ik ben moslim</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth" author="proycon">Ik ben joods</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth" author="proycon">Ik ben boeddhist</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth" author="proycon">Ik ben hindoestaans</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth" author="proycon">Ik ben katholiek</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth" author="proycon">Ik ben een christen</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth" author="proycon">Waar kan ik een kerk vinden?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth" author="proycon">Waar kan ik een moskee vinden?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth" author="proycon">Waar kan ik een synagoge vinden?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth" author="proycon">Waar kan ik een tempel vinden?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth" author="proycon">Godzijdank!</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth" author="proycon">Als God het wil...</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth" author="proycon">Mijn God!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth" author="proycon">Woning, bezoek en accomodatie</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth" author="proycon">Waar komt u / kom je vandaan? | Uit welk land komt u / kom je?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth" author="proycon">Ik kom uit...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth" author="proycon">Frankrijk</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth" author="proycon">het Verenigd Koninkrijk</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth" author="proycon">Spanje</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth" author="proycon">Duitsland</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth" author="proycon">de Verenigde Staten</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth" author="proycon">China</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth" author="proycon">Brazilië</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth" author="proycon">Japan</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth" author="proycon">Rusland</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth" author="proycon">Canada</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth" author="proycon">Australië</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth" author="proycon">Welke nationaliteit heeft u / heb je?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth" author="proycon">Ik ben...</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth" author="proycon">Brits</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth" author="proycon">Frans | een Fransman</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth" author="proycon">Duits</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth" author="proycon">Amerikaans</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth" author="proycon">Chinees</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth" author="proycon">Japans</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth" author="proycon">Russisch</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth" author="proycon">Braziliaans</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth" author="proycon">Canadees</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth" author="proycon">Waar komt u / kom je vandaan? | In welke stad woont u / woon je?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth" author="proycon">Ik woon in Londen/Parijs/Berlijn.</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth" author="proycon">Is dat dichtbij...?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth" author="proycon">Is dat ver van...?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth" author="proycon">Ik woon dichtbij...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth" author="proycon">Ik woon ver van...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth" author="proycon">Waar verblijft u / verblijf je?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth" author="proycon">Ik zit in hotel...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth" author="proycon">Hoe lang blijft u / blijf je hier?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth" author="proycon">Wanneer gaat u / ga je terug?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth" author="proycon">Wanneer bent u / ben je aangekomen?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth" author="proycon">Bent u / Ben je hier alleen?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth" author="proycon">Ik ben hier alleen</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth" author="proycon">Ik ben hier samen met mijn familie/gezin</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth" author="proycon">Woont u / Woon je hier?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth" author="proycon">Ik kom hier niet vandaan</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth" author="proycon">Kunnen we hier kamperen?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth" author="proycon">Is er een kamer/plaats vrij?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth" author="proycon">Heeft u ruimte voor een tent?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth" author="proycon">Hoe duur is het per nacht?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth" author="proycon">We willen één week blijven</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth" author="proycon">Waar zijn de douches?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth" author="proycon">Waar zijn de toiletten?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth" author="proycon">Ik wil een eenpersoonskamer, alstublieft</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth" author="proycon">Ik wil een kamer met...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth" author="proycon">een bad</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth" author="proycon">een douche</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth" author="proycon">uitzicht</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth" author="proycon">een balkon</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth" author="proycon">een extra bed</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth" author="proycon">aparte bedden</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth" author="proycon">Wij willen een tweepersoonskamer, alstublieft</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth" author="proycon">Is dat inclusief ontbijt?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth" author="proycon">Wanneer wordt het ontbijt opgediend?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth" author="proycon">Zijn er goedkopere kamers?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth" author="proycon">Zijn er boodschappen voor mij?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth" author="proycon">Mag ik mijn sleutel, alstublieft</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth" author="proycon">Wat is mijn kamernummer?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth" author="proycon">Ik heb om een kamer met een bad/douche gevraagd</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth" author="proycon">Seks</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth" author="proycon">Wil je met me naar bed?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth" author="proycon">Heb je een condoom?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth" author="proycon">Slik je de pil?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth" author="proycon">Ik doe het niet zonder condoom</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth" author="proycon">Wees alsjeblieft voorzichtig | Doe alsjeblieft zachtjes</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth" author="proycon">Vind je dit lekker?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth" author="proycon">Ik vind dit niet lekker | Ik vind dit niks</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth" author="proycon">Ben je single? | Ben je vrijgezel?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth" author="proycon">Ben je homo?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth" author="proycon">Ben je hetero?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth" author="proycon">Ben je lesbisch?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth" author="proycon">Ben je bi?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth" author="proycon">Winkelen</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth" author="proycon">Kunt u / Kun je me helpen?</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth" author="proycon">Kan ik u / je helpen?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth" author="proycon">Wat zou u / je willen?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth" author="proycon">Waar bent u / ben je naar op zoek?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth" author="proycon">Ik kijk alleen even rond</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth" author="proycon">Ik vind deze leuk</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth" author="proycon">Deze broek vind ik leuk</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth" author="proycon">Ik vind dit T-shirt leuk</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth" author="proycon">Ik vind dit jasje leuk</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth" author="proycon">Ik vind deze bloes leuk</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth" author="proycon">Ik vind dit pak mooi</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth" author="proycon">Ik vind deze bril leuk</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth" author="proycon">Ik vind deze schoenen leuk</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth" author="proycon">Ik ben op zoek naar...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth" author="proycon">Mag ik het passen?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth" author="proycon">Mag ik het proberen?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth" author="proycon">Waar is de paskamer?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth" author="proycon">Het is te lang</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth" author="proycon">Het is te kort</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth" author="proycon">Het is te strak</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth" author="proycon">Het is te wijd</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth" author="proycon">Het past niet</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth" author="proycon">Het past goed</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth" author="proycon">Wat voor maat heeft u / heb je?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth" author="proycon">Ik heb maat...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth" author="proycon">Ik begrijp deze maten niet</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth" author="proycon">Heeft u / Heb je deze in een grotere maat?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth" author="proycon">Heeft u / Heb je deze in een kleinere maat?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth" author="proycon">De kleur bevalt me</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth" author="proycon">Ik vind de kleur niet mooi</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth" author="proycon">Heeft u / Heb je dit in het rood/blauw/geel/groen/paars/roze?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth" author="proycon">Heeft u / Heb je iets goedkopers?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth" author="proycon">Waar is dit van gemaakt?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth" author="proycon">Kunt u / Kun je dit maken?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth" author="proycon">Toerisme</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth" author="proycon">Mag ik foto's maken?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth" author="proycon">U / Je mag hier niet fotograferen.</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth" author="proycon">Zijn er rondvaarten op het meer?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth" author="proycon">Zijn er rondvaarten op de rivier?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth" author="proycon">Zijn er rondleidingen met gids?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth" author="proycon">Hoe lang duurt de rondleiding/rondvaart?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth" author="proycon">Zijn er goede nachtclubs?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth" author="proycon">Zijn er plaatselijke festivals?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth" author="proycon">Ik wil graag de kathedraal bezoeken</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth" author="proycon">Ik wil graag de kerk bezoeken</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth" author="proycon">Ik wil graag de moskee bezoeken</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth" author="proycon">Ik wil graag de tempel bezoeken</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth" author="proycon">Is er ook kinderkorting?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth" author="proycon">Is er geen groepskorting?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth" author="proycon">Is er een 65+ korting?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth" author="proycon">Is er geen studentenkorting?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth" author="proycon">Op welke tijden bent u geopend?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth" author="proycon">Wanneer gaat u dicht?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth" author="proycon">Wanneer gaat u open?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth" author="proycon">Hoe laat begint de show?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth" author="proycon">Wanneer is het gebouwd?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth" author="proycon">Door wie is dit gebouwd?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth" author="proycon">Hoe hoog is die berg?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth" author="proycon">Hoe heet dat dier?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth" author="proycon">Hoe heet die vogel?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth" author="proycon">Hoe heet die bloem?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth" author="proycon">Hoe heet die boom?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth" author="proycon">Hoe heet dat gebouw?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth" author="proycon">Hoe heet die berg?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth" author="proycon">Hoe heet die rivier?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth" author="proycon">Roken</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth" author="proycon">Roken is slecht voor uw / je gezondheid.</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth" author="proycon">Heeft u / Heb je er bezwaar tegen als ik rook?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een vuurtje?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth" author="proycon">Mag ik een sigaret?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth" author="proycon">Is dit een niet-roken afdeling?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth" author="proycon">Mag ik een asbak?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth" author="proycon">Sport</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth" author="proycon">Zijn er gevaarlijke stromingen?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth" author="proycon">Zijn er leuke wandelingen in de buurt?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth" author="proycon">Zijn er ook skiliften?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth" author="proycon">Waar is de dichtstbijzijnde golfbaan?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth" author="proycon">Waar is het zwembad?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth" author="proycon">Kan / Mag ik hier vissen?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth" author="proycon">Kan / Mag ik hier zwemmen?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth" author="proycon">Kan ik ... huren?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth" author="proycon">een honkbalbat</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth" author="proycon">een voetbal</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth" author="proycon">ski's</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth" author="proycon">een tennisracket</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth" author="proycon">een boot</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth" author="proycon">een handdoek</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth" author="proycon">Kan ik lessen nemen?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth" author="proycon">Ik wil een voetbalwedstrijd kijken</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth" author="proycon">Speel je ....?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth" author="proycon">american football</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth" author="proycon">voetbal</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth" author="proycon">golf</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth" author="proycon">tennis</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth" author="proycon">honkbal</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth" author="proycon">basketbal</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth" author="proycon">Tijd</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth" author="proycon">Welke dag is het vandaag?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth" author="proycon">Het is...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth" author="proycon">Wat voor dag was het gisteren?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth" author="proycon">Gisteren was het...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth" author="proycon">Wat voor dag is het morgen?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth" author="proycon">Morgen is het...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth" author="proycon">maandag</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth" author="proycon">dinsdag</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth" author="proycon">woensdag</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth" author="proycon">donderdag</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth" author="proycon">vrijdag</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth" author="proycon">zaterdag</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth" author="proycon">zondag</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth" author="proycon">Wat voor maand is het? | Welke maand is het?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth" author="proycon">Het is...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth" author="proycon">Vorige maand was het...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth" author="proycon">Volgende maand is het...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth" author="proycon">januari</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth" author="proycon">februari</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth" author="proycon">maart</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth" author="proycon">april</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth" author="proycon">mei</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth" author="proycon">juni</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth" author="proycon">juli</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth" author="proycon">augustus</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth" author="proycon">september</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth" author="proycon">oktober</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth" author="proycon">november</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth" author="proycon">december</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth" author="proycon">Hoe laat is het?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth" author="proycon">Het is acht uur</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth" author="proycon">Het is half negen</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth" author="proycon">Het is kwart over acht</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth" author="proycon">Het is kwart voor negen</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth" author="proycon">Het is tien over acht</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth" author="proycon">Het is tien voor half negen</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth" author="proycon">Het is tien over half acht</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth" author="proycon">Het is tien voor acht</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth" author="proycon">Welke datum is het?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth" author="proycon">Het is 15 december 1982</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth" author="proycon">Wanneer kan ik langskomen?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth" author="proycon">Wanneer komt u / kom je bij me op bezoek?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth" author="proycon">Ik kom vanmorgen bij u / je langs.</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth" author="proycon">Ik kom 's ochtends bij u / je langs.</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth" author="proycon">Ik kom vanavond bij u / je langs.</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth" author="proycon">Ik kom 's avonds bij u / je langs.</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth" author="proycon">Ik kom deze week bij u / je langs.</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth" author="proycon">Ik kom dit weekend bij u / je langs.</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth" author="proycon">Ik kom van het weekend bij u / je langs.</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth" author="proycon">Ik kom rond twaalf uur bij u / je langs.</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth" author="proycon">Ik kom over twee uur langs.</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth" author="proycon">Ik kom om half elf.</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth" author="proycon">Ik kom na half elf langs.</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth" author="proycon">Ik kom voor half elf langs.</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth" author="proycon">Ik kom tussen half elf en elf uur langs.</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth" author="proycon">Ik kom van half elf tot elf uur langs.</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth" author="proycon">Ik kom in de lente langs.</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth" author="proycon">Ik kom in de zomer langs.</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth" author="proycon">Ik kom in de herfst langs.</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth" author="proycon">Ik kom in de winter langs.</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth" author="proycon">Ik kom op 15 december langs.</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth" author="proycon">Hoe lang kunt u / kun je bij me blijven?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth" author="proycon">Ik kan twee uur blijven.</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth" author="proycon">Ik kom twee uur langs.</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth" author="proycon">U / Je bent te laat.</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth" author="proycon">U / Je bent net op tijd.</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth" author="proycon">U / Je bent te vroeg.</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth" author="proycon">Welk seizoen is het?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth" author="proycon">Ik heb geen tijd.</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth" author="proycon">Wacht  een minuutje alstublieft.</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth" author="proycon">Ik ben er over vijf minuten.</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth" author="proycon">Vervoer</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een auto?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth" author="proycon">Ik heb een auto.</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth" author="proycon">Ik heb geen auto.</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth" author="proycon">Zullen we uw / jouw auto nemen of de mijne?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth" author="proycon">Heeft u / Heb je een rijbewijs?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth" author="proycon">Ik heb geen rijbewijs.</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth" author="proycon">Wanneer vertrekken we?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth" author="proycon">Waar gaan we heen?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth" author="proycon">Waar gaat u / ga jij naartoe?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth" author="proycon">Waar komt u / kom je vandaan?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth" author="proycon">Moet ik overstappen (op een andere bus)?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth" author="proycon">Waar staan de bussen?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth" author="proycon">Waar is de bushalte?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth" author="proycon">Kunt u / Kun je me vertellen wanneer ik eruit moet?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth" author="proycon">Gaat deze bus naar...?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth" author="proycon">Waar is het vliegveld?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth" author="proycon">Wanneer vertrekt het vliegtuig?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth" author="proycon">Hoe laat komt het vliegtuig aan?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth" author="proycon">Hoe lang duurt de vlucht?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth" author="proycon">Hoe laat moet ik inchecken?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth" author="proycon">Mag ik uw / je paspoort zien, alstublieft?</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth" author="proycon">Hier is mijn paspoort.</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth" author="proycon">Mag ik dit meenemen?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth" author="proycon">Waar kan ik mijn bagage ophalen?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth" author="proycon">Ik kan mijn bagage niet vinden.</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth" author="proycon">Kunt u /  Kun je me helpen met mijn bagage?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth" author="proycon">Ik denk dat dat mijn stoel is.</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth" author="proycon">Is deze stoel bezet?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth" author="proycon">Waar is het treinstation?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth" author="proycon">Moet ik overstappen (op een andere trein)?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth" author="proycon">Stopt deze trein in...?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth" author="proycon">Gaat deze trein naar...?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth" author="proycon">Hoe lang staat de trein hier stil?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth" author="proycon">Welk station is dit?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth" author="proycon">Wanneer komt de volgende trein?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth" author="proycon">Hoe laat vertrekt de laatste trein?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth" author="proycon">Waar kan ik een taxi vinden?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth" author="proycon">Is er een parkeerterrein / parkeerplaats in de buurt?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth" author="proycon">Mag ik hier parkeren?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth" author="proycon">Hoe lang mag ik hier parkeren?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth" author="proycon">Waar kan ik parkeren?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth" author="proycon">Ik heb autopech.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth" author="proycon">Mijn auto start niet.</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth" author="proycon">Waar is de dichtstbijzijnde benzinepomp?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth" author="proycon">Waar is de dichtstbijzijnde garage?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth" author="proycon">Ik heb een lekke band.</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth" author="proycon">Ik heb geen benzine meer.</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth" author="proycon">Mag ik uw rijbewijs zien, alstublieft?</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth" author="proycon">Hier is mijn rijbewijs.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth" author="proycon">Hoe ver is het naar het volgende dorp?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth" author="proycon">Hoe lang is het met de auto?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth" author="proycon">Hoe lang duurt het om erheen te lopen?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth" author="proycon">Ik wil graag een auto huren voor een week/voor drie dagen.</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth" author="proycon">Het weer</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth" author="proycon">Wat voor weer wordt het morgen?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth" author="proycon">Wat voor weer is het gewoonlijk?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth" author="proycon">Het gaat morgen regenen.</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth" author="proycon">Het regent.</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth" author="proycon">Het sneeuwt.</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth" author="proycon">Het is zonnig.</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth" author="proycon">Het is bewolkt.</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth" author="proycon">Het is warm buiten.</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth" author="proycon">Het is koud buiten.</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth" author="proycon">Wat een afschuwelijk weer!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth" author="proycon">Wat een prachtige dag!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth" author="proycon">Mooi weer, hè?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth" author="proycon">Is het altijd zo heet?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth" author="proycon">Is het altijd zo koud?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth" author="proycon">Is het altijd zo regenachtig?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth" author="proycon">Is het altijd zo bewolkt?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth" author="proycon">Ik ben nat. (expect vulgar remarks if you're a woman)</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth" author="proycon">Werk</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth" author="proycon">Waar werk je?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth" author="proycon">Wat voor werk doet u?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth" author="proycon">Ik ben leraar.</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth" author="proycon">Ik ben student.</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth" author="proycon">Ik ben zelfstandig.</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth" author="proycon">Ik werk in een restaurant.</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth" author="proycon">Ik werk in een supermarkt.</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth" author="proycon">Ik werk in een winkel.</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth" author="proycon">Ik ben een dokter/arts.</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth" author="proycon">Ik ben psycholoog.</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth" author="proycon">Ik ben programmeur.</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth" author="proycon">Ik ben ingenieur.</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth" author="proycon">Ik ben monteur.</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth" author="proycon">Ik ben schrijver.</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth" author="proycon">Ik ben chauffeur.</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth" author="proycon">Ik ben een acteur/actrice.</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth" author="proycon">Ik ben een sociaal werker.</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth" author="proycon">Ik ben politicus.</attrib>
+		</entry>
+	</entries>
+</ulr>

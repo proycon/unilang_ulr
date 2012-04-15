@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="ca">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada (English) / Núria Harket (Catalan)">L'Ós i els Viatgers</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada (English) / Núria Harket (Catalan)">Una lliçó sobre óssos i amics</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada (English) / Núria Harket (Catalan)">Dos Viatgers feien camí plegats quan, de sobte, un Ós va entrar en escena. Abans que els veiés, un va anar cap a un arbre a la vora del camí, i va enfilar-se a les branques i s'amagà.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada (English) / Núria Harket (Catalan)">L'altre no era tan àgil com el seu company; i, com que no es podia escapar, es va llençar al terra fent-se el mort.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada (English) / Núria Harket (Catalan)">L'Ós va anar cap a ell, el va ensumar de dalt a baix, però el viatger va quedar-se quiet aguantant la respiració: ja que diuen que un ós non tocarà mai un cos mort. L'Ós el va prendre per un cadàver i se'n va anar.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada (English) / Núria Harket (Catalan)">Quan va passar el perill, el Viatger de l'arbre va baixar, i li va preguntar a l'altre què li havia xiuxiuejat l'ós quan li va posar el morro a l'orella.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Abavagada (English) / Núria Harket (Catalan)">L'altre contestà, &quot;Em va dir que mai més tornés a viatjar amb un amic que et deixa plantat a la primera senyal de perill.&quot;</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Abavagada (English) / Núria Harket (Catalan)">les desgràcies posen a prova la sinceritat de l'amistat.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="is">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">já</attrib>
+			<attrib type="phon">/iao/</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">nei</attrib>
+			<attrib type="phon">/nei/</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">/tahk/ /meth lejvi/</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth">/kvertnig genkyr/ /kvath sejirthy goht/</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">takk</attrib>
+			<attrib type="phon">/tahk/</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth">/tha(th) var ehkert/</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">/kanski/</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth">hæ</attrib>
+			<attrib type="phon">/hai/</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">bless</attrib>
+			<attrib type="phon">/bles/</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">gođann daginn</attrib>
+			<attrib type="phon">/gowthan tajin/</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">/gowtha nowht/</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">/velkomin/</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Njóttu ferðarinnar</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Talarðu...?</attrib>
+			<attrib type="phon">/talarthy/</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">ég tala</attrib>
+			<attrib type="phon">/ieg tala/</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">ég tala ekki</attrib>
+			<attrib type="phon">/ieg tala ehki/</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">ég tala bara svolítið(svolitla)...</attrib>
+			<attrib type="phon">/ieg tala bara swolitith/</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">Enska, Ensku</attrib>
+			<attrib type="phon">enska ensky</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">Franska, Frönsku</attrib>
+			<attrib type="phon">franska frönsky</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">Þýska, Þýsku</attrib>
+			<attrib type="phon">Tiska, tisky</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">spænska, spönsku</attrib>
+			<attrib type="phon">spanska spönsky</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">Portúgalska</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">Arabíska</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">Kínverska</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">Hindí</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">Rússneska</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">Ítalska</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">Hollenska</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">Norska</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">Sænska</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">Danska</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">Pólska</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">Japanska</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Skilurðu</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Skilurðu mig</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">ég skil</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">ég skil þig</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">ég skil ekki</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">ég skil þig ekki</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Gætirðu endurtekið þetta?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Gætirðu talað hægar?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Gætirðu skrifað það niður?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">ég veit ekki hvernig ég á að segja það</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Ég veit ekki rétta orðið</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">hvað sagðirðu?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">hvernig segirðu það á....?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">hvernig skrifarðu það?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">hvernig segirðu það?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">getur þú þýtt það fyrir mig?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Sagði ég þetta rétt?</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Hvað segirðu gott?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">bara allt fínt!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">bara fínt</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">allt ágætt</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">ekki alltof gott</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">hvað ertu gamall/gömul?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">ég er ... ára</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Ég veit ekki</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Mér líkar þetta ekki</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">ég er tilbúin(n)</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Förum!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Fyrirgefðu</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Get ég borgað í reiðuféi</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Get ég borgað með kredit korti?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Tekur þú við...?</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Kynlíf</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Viltu sofa hjá mér</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">Ertu með smokk?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Ertu á pillunni</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Við gerum það ekki án smokks</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">PASSAÐU ÞIG!!!!</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Fílarðu þetta?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Ég fíla þetta ekki</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Ertu á lausu</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Ertu samkynhneigð(ur) (hommi, lesbía)</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Ertu gagnkynhneigð(ur)</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Ertu lesbía</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Ertu tvíkynhneigð(ur)</attrib>
+		</entry>
+	</entries>
+</ulr>

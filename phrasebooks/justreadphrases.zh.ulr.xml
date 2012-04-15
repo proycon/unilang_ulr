@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="zh">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" complexlang=".Hans">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" complexlang=".Hans">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" complexlang=".Hans">我爱你</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wo3 ai4 ni3</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" complexlang=".Hans">暴风雨打到海滩了</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">bao4 feng1 yu3 da3 dao4 hai3 tan1 le</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" complexlang=".Hans">这些人听到一个很响的声音</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">zhe4xie1ren2 ting1 dao4 yi2 ge4 hen3 xiang3 de sheng1 yin1</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" complexlang=".Hans">我拿到红灯了！(actually means</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wo3 na2 dao4 hong2 deng1 le</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" complexlang=".Hans">她看到一只小鸟</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">ta1 kan4 dao4 yi4 zhi1 xiao2 niao3</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" complexlang=".Hans">我们找到一栋旧的建筑物</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wo3 men2 zhao3 dao4 yi2 dong4 jiu4 de jian4 zhu4 wu4</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" complexlang=".Hans">我找我的钥匙 / 我寻找我的锁匙</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wo2 (tone 2 because it precedes a tone 3 character) zhao3 wo3 de yao4 shi2 / wo3 xun2 zhao3 wo3 de suo3 shi2</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" complexlang=".Hans">我摸你的头</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wo3 mo1 ni3 de tou2</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" complexlang=".Hans">他想要一辆新的白色的车 / 他想要一辆白色的新车</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">ta1 xiang3 yao4 yi2 liang4 xin1 de bai2 se4 de che1 / ta1 xiang3 yao4 yi4 liang3 bai2 se4 de xin1 che1</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" complexlang=".Hans">她打开一扇破了的窗 / 她打开一扇破窗</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">ta1 da3 kai1 yi2 shan4 po4 liao3 de chuang1 / ta1 da3 kai1 yi2 shan4 po4 chuang1</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" complexlang=".Hans">强壮的女孩关上[了]又黑又重的门</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">qiang2 zhuang4 de nü3 hai2 guan1 shang4 [le] you4 hei1 you1 zhong4 de men2</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" complexlang=".Hans">他解决了非常困难/棘手的问题</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">ta1 jie3 jue2 le fei1 chang2 kun4 nan2 de wen4 ti2</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" complexlang=".Hans">生气的犯人失去了一大笔宝贵的金钱</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">sheng1 qi4 de fan4 ren2 shi1 qu4 le yi2 da4 bi3 bao3 gui4 de jin1 qian2</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" complexlang=".Hans">他们尝到美味的食物</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">ta1 men2 chang2 dao4 mei3 wei4 de shi2 wu4</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" complexlang=".Hans">警察官有另外的想法 /  警察官有不同的看法</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">jing3 cha2 guan1 you3 ling4 wai4 de xiang2 fa3 / jing3 cha2 guan1 you3 bu4 tong2 de xiang2 fa3</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" complexlang=".Hans">同事们喝下冷咖啡和热茶</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tong2 shi4 men2 he1 xia4 leng3 ka1 fei1 he2 re4 cha2</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" complexlang=".Hans">这个富有的公司卖绿色蔬菜。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Zhe4 ge4 fu4 you3 de gong1 si1 mai4 lv4 se4 shu1 cai4</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" complexlang=".Hans">他们买十本新书</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tāmen mǎi shí běn xīn shū</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" complexlang=".Hans">他的右耳疼</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tā de yòu ěr téng</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" complexlang=".Hans">我认识那个高的人</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ rènshi nèi gè gāo de rén</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" complexlang=".Hans">他们选错了工具</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tāmen xuǎn cuò le gōng jù</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" complexlang=".Hans">我的家人邀请了友好的邻居。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Wo3 de4 jia1 ting2 yao1 qing3 le you3 hao3 de lin2 ju.</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" complexlang=".Hans">她读她的日报。</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Ta1 du2 ta1 de4 ri4 bao4</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" complexlang=".Hans">穷人穿着脏兮兮的衣服</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Qiong2 ren2 chuan1 zhe zang1 xi1 xi1 de4 yi1 fu2</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" complexlang=".Hans">强壮的动物遇到了一个孱弱的鱼儿</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">Qiang2 zhuang4 de4 dong4 wu yu4 dao4 le4 yi2 ge4 chan3 ruo4 de4 yu2 er2</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" complexlang=".Hans">他有蓝色的眼睛</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tā yǒu lán sè de yǎn jīng</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" complexlang=".Hans">今天下雪了</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">jīntiān xià xuě le</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" complexlang=".Hans">我在国际机场</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ zài guó jì jīchǎng</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" complexlang=".Hans">她是一位医生</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tā shì yī wèi yī shēng</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" complexlang=".Hans">马受惊了</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">mǎ shòu jīng le</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" complexlang=".Hans">我送给你一份礼物</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">wǒ sòng gěi nǐ yī fèn lǐ wù</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" complexlang=".Hans">他问我一个难的问题</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">tā wèn  wǒ  yī ge nán  de wèn tí</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" complexlang=".Hans">他们住在一个小镇上</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" complexlang=".Hans">书放在桌子上</attrib>
+			<attrib type="phon" complexlang=".Hans" form="pinyin">shū fàng zài zhuōzi shàng</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" complexlang=".Hans">他在一家小工厂工作</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" complexlang=".Hans">我们当然相信神</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" complexlang=".Hans">我们希望他努力学习</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth" complexlang=".Hans">你记得多少?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" complexlang=".Hans">你多大了?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" complexlang=".Hans">你从哪里来?</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" complexlang=".Hans">我四周都找遍了</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth" complexlang=".Hans">他谁也不怕</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth" complexlang=".Hans">他证明了他是对的</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" complexlang=".Hans">我知道你想什么</attrib>
+		</entry>
+	</entries>
+</ulr>

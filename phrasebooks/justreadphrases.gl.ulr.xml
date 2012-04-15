@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="gl">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Porto">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Porto">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Porto">Ámote</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Porto">A tormenta alcanzou a praia</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Porto">Estas persoas escoitaron un son moi forte</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Porto">Conseguín a lámpara vermella</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Porto">Ela necesita un paxaro pequeno</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Porto">Atopamos un edificio vello</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Porto">Estou procurando polas miñas chaves</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Porto">Toquei a túa cabeza</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Porto">El quere un cocho novo</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Porto">Ela abre a fiestra rota</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Porto">A forte rapaza abre a porta negra</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth" author="Porto">El solventou a agrio problema</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth" author="Porto">O enfadado ladrón perdeu moitísimo diñeiro</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth" author="Porto">Eles saborearon o delicioso manxar</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth" author="Porto">O oficial da policía ten unha opinion distinta.</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth" author="Porto">Os amigos beben café frío e té quente.</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth" author="Porto">A adiñeirada compañía vende vexetais verdes.</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth" author="Porto">Eles mercaron des novos libros</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth" author="Porto">Feriu a súa orella dereita</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth" author="Porto">Eu coñezo aquela persoa alta</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth" author="Porto">A fraca rapaza seguíu ó seu gordo xefe</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth" author="Porto">O rápido computador cambiou a súa cor</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth" author="Porto">Eles elixiron a ferramenta incorrecta</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth" author="Porto">A miña nai invitou ós seus amigables veciños</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth" author="Porto">Agradecimos ós aburridos compañeiros</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth" author="Porto">O seu marido desfruta a noite</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth" author="Porto">Ela le o seu xornal diario</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth" author="Porto">O pobre home viste sucias roupas</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth" author="Porto">O forte animal encontrou un fraco peixe</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth" author="Porto">Paguei 200 euros/dollars</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth" author="Porto">A ela gústalle a bonita lingua</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth" author="Porto">A tormenta alcanzou a praia</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth" author="Porto">O home construiu unha pequena oficiña</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth" author="Porto">El ten ollos azuis</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth" author="Porto">Está a never hoxe</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth" author="Porto">El convertirase nunha importante persoa</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth" author="Porto">Estou no aeroporto internacional</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth" author="Porto">Ela lavouse as mans</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth" author="Porto">É un rapaz novo</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth" author="Porto">Ela é doctora</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth" author="Porto">Encóntrome ledo</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth" author="Porto">Molleime pola choiva</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth" author="Porto">O cabalo ten medo</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth" author="Porto">O perro branco sorprendeuse</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth" author="Porto">A sociedade moderna é moi avanzada</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth" author="Porto">A causa da colisión é descoñecida</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth" author="Porto">Douche un regalo</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth" author="Porto">El pregúntame unha dificil cuestión</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth" author="Porto">Recibo unha mesaxe da miña nai</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth" author="Porto">Estou escribindo unha carta ó meu pai</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth" author="Porto">Eles viven nunha pequena vila</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth" author="Porto">O can senta detrás da tele</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth" author="Porto">O gato reposa sobre o chan</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth" author="Porto">Os nenos xogan fóra</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth" author="Porto">Ela fala sobre a súa universidade</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth" author="Porto">Saíron da aula sen ruido</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth" author="Porto">El contesta ó mestre</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth" author="Porto">Eu camiño fronte o meu fogar</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth" author="Porto">Ela durme na súa propia cama</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth" author="Porto">A avioneta voa sobre as montañas</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth" author="Porto">Nos corremos polo gran xardín</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth" author="Porto">O libro está sobre a mesa</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth" author="Porto">Eu entro na tendo contigo</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth" author="Porto">Eu vou á cidade en tren</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth" author="Porto">A árbore medra rapidamente</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth" author="Porto">El traballa nunha fábrica pequena</attrib>
+		</entry>
+		<entry id="67">
+			<attrib type="orth" author="Porto">O presidente quedouse mudo</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth" author="Porto">Nós verdadeiramente cremos en Dios</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth" author="Porto">Quéixome do precio</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth" author="Porto">Ela botoume a pesada bola a mi</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth" author="Porto">O enfermo avó morreu preto do hospital</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth" author="Porto">Eu entendo as frases neste web</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth" author="Porto">A avoa contalle ós neno interesantes historias</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth" author="Porto">Esperamos que estudie forte</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth" author="Porto">El leva un coitelo na súa man esquerda</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth" author="Porto">O noso destino mora entre os dous lagos</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth" author="Porto">Cociñou unha básica comida para a súa amiga</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth" author="Porto">A rapaza está preciosa na noite</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth" author="Porto">O violento animal saíu da caseta</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth" author="Porto">Eu comparo os meus dereitos cos teus</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth" author="Porto">Eu conduzo pola capital ó este</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth" author="Porto">A xente morta descansa debaixo do solo</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth" author="Porto">O cura/rabino/imán está baixo a nube brilante</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth" author="Porto">O paxaro bebé sobre a miña cabeza voa preto dos seus pais</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth" author="Porto">Eu escapo da deteriorada escola</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth" author="Porto">Esta auga ven dende  un lexano lugar</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth" author="Porto">Eu pensei moito sobre a vida</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth" author="Porto">¿Cándo ven o teu amigo?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth" author="Porto">¿Cánto recordas?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth" author="Porto">¿Cánta xente axudarate?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth" author="Porto">¿Por qué robaches esas cousas?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth" author="Porto">¿Cántos anos tes?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth" author="Porto">¿Cómo creaches este producto?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth" author="Porto">¿Quén é o máis intelixente do mundo?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth" author="Porto">¿Qué descubriches no mar?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth" author="Porto">¿Qué bocata prefires?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth" author="Porto">¿Ti de ónde es?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth" author="Porto">¿Ónde vas?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth" author="Porto">¿Existe esa tenda?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth" author="Porto">¿Cál é a razón da investigación?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth" author="Porto">¿Cáles buses están preparados para saír?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth" author="Porto">Eu só quero comer algunha cousa</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth" author="Porto">Eu nunca durmo</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth" author="Porto">El sempre chega tarde</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth" author="Porto">As veces ten razón</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth" author="Porto">Non gaña nada</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth" author="Porto">Nós as veces loitamos contra os nosos enimigos</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth" author="Porto">Eles as veces perden neste xogo</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth" author="Porto">Eu desexo que sexa xa mañán</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth" author="Porto">Hai moitas estrelas no espacio</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth" author="Porto">El soe ensinar o seu corpo espido</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth" author="Porto">Nos raramente agachamos as nosas ideas</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth" author="Porto">El ríese dalgunha broma</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth" author="Porto">Eu miro a tódalas partes</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth" author="Porto">El non ten medo a ninguén</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth" author="Porto">Ela baila con alguén na rúa</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth" author="Porto">Podes coller algo que che guste</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth" author="Porto">A miña muller fai o amor conmigo tódalas noites</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth" author="Porto">Eu ofrézoche flores gratis</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth" author="Porto">El cantou mentras os seus pais escoitaban</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth" author="Porto">Nos comimos despoir de ir ó cine</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth" author="Porto">Vimos ó hotel antes deque eles poideran  velo</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth" author="Porto">Podes limpar o teu carto antes de que chegue a dona</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth" author="Porto">Eu intento interesarme sobre a política porque teño que votar o vindeiro mes</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth" author="Porto">O vaso está valeiro, pero o outro está cheo</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth" author="Porto">Eles berraron para que todos se enteraran</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth" author="Porto">Eu permítoche facer iso, aínda que meu irmán prohíbecho</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth" author="Porto">Estou canso, polo tanto non me erguirei</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth" author="Porto">Eu quero asasinar ós malvados prisioneiros, agás o do pelo rubio.</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth" author="Porto">O asasinato debeu ser convicto, pero el estivo fóra</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth" author="Porto">Fai moito tempo dende a derradeira vez que nos vimos</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth" author="Porto">Non souben nada dela dende esta mañán</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth" author="Porto">A pesar do perigo, el entrou na escura casa en fronte da igrexa/mezquita/templo</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth" author="Porto">O alcohol soe estar prohibido da cordo co meu pai</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth" author="Porto">Gústame esta zoa pola súa fascinante historia</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth" author="Porto">Eu entrei nunha vella escola</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth" author="Porto">Esta auga ven dende un lexano lugar</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth" author="Porto">Eu descansei durante as vacacións</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth" author="Porto">Estou esperando a que veña a miña irmá</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth" author="Porto">Probou que tiña razón</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth" author="Porto">Nós cremos que é imposibel</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth" author="Porto">Ela sonrie, e el besaa</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth" author="Porto">Nos todavía non estamos dacordo con esa solución</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth" author="Porto">Eu sei o que pensas</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth" author="Porto">A muller sabe como facer o pan</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth" author="Porto">Podo ver moitas palabras</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth" author="Porto">Eu son máis grande ca ti</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth" author="Porto">El é tan pequeno coma ti</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth" author="Porto">El empeza a odiar a escola</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth" author="Porto">Ela remata estudiando esta dura asignatura</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth" author="Porto">Eles rematan falando sobre o goberno</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth" author="Porto">Nós continuamos o noso traballo</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth" author="Porto">Eles preparan para abandoar o barco</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth" author="Porto">Eu debo olvidar o que eu vin</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth" author="Porto">Se ti aceptas aquela estraña explicación, ti es un estúpido</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth" author="Porto">Eu viaxarai ó teu país, a non ser que chova</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth" author="Porto">A rapaza cega pode uler moi ben</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth" author="Porto">Onte tódolos meus problemas pasaron</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth" author="Porto">Non o vira dende fai tres anos</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth" author="Porto">Eu espero que me visite tres horas</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth" author="Porto">Eu decido iñorar a súa decisión</attrib>
+		</entry>
+		<entry id="162">
+			<attrib type="orth" author="Porto">Eu repito a miña conclusión outra vez</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth" author="Porto">Eu ensino ós alumnos como cantar ata dez</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth" author="Porto">¿Podes traducir esto ó inglés?</attrib>
+		</entry>
+		<entry id="165">
+			<attrib type="orth" author="Porto">Ti reparaches o dano cando ti tivechelo acidente ateriormente</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth" author="Porto">Paréceme imposibel de recoñecer o seu significado</attrib>
+		</entry>
+		<entry id="167">
+			<attrib type="orth" author="Porto">¿Tráesme a miña maleta ou teño que levala eu?</attrib>
+		</entry>
+		<entry id="168">
+			<attrib type="orth" author="Porto">Eu non fun capaz de aprender esta lección todavía</attrib>
+		</entry>
+		<entry id="169">
+			<attrib type="orth" author="Porto">Este é probalel un moi corrente erro</attrib>
+		</entry>
+		<entry id="170">
+			<attrib type="orth" author="Porto">Afortunadamente,  eu estou ben, sen embargo, desafortunadamente ferinme no meu p</attrib>
+		</entry>
+		<entry id="171">
+			<attrib type="orth" author="Porto">O tempo é bo, ademais, o sol brillou todo o día</attrib>
+		</entry>
+		<entry id="172">
+			<attrib type="orth" author="Porto">¿Ti sabes se podemos levar viño á festa?</attrib>
+		</entry>
+		<entry id="173">
+			<attrib type="orth" author="Porto">A miña relixión é todavía a mesma que antes</attrib>
+		</entry>
+		<entry id="174">
+			<attrib type="orth" author="Porto">O exército é inutil se non hai guerra, pero paz</attrib>
+		</entry>
+		<entry id="175">
+			<attrib type="orth" author="Porto">O soldado internacional dispara a un pasaxeiro inocente</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth" author="Porto">Quizais é desafortunadamente o que nunca ocorrerá</attrib>
+		</entry>
+		<entry id="177">
+			<attrib type="orth" author="Porto">Parece que é hora de marchar</attrib>
+		</entry>
+		<entry id="178">
+			<attrib type="orth" author="Porto">A miña idade é considerada un secreto</attrib>
+		</entry>
+		<entry id="179">
+			<attrib type="orth" author="Porto">Neste curso esperamos usalo dicionario e a calculadora</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth" author="Porto">Teño medo de completar o que empecei</attrib>
+		</entry>
+		<entry id="181">
+			<attrib type="orth" author="Porto">Non teño posibilidade de comparar os meus debuxos cos outros</attrib>
+		</entry>
+		<entry id="182">
+			<attrib type="orth" author="Porto">O aparato eléctrico xenera moita enerxía</attrib>
+		</entry>
+		<entry id="183">
+			<attrib type="orth" author="Porto">Eu suxiro non ir ó norte, pero sí ir ó sur</attrib>
+		</entry>
+		<entry id="184">
+			<attrib type="orth" author="Porto">Síntome mal. De feito, síntome peor ca semana pasada</attrib>
+		</entry>
+		<entry id="185">
+			<attrib type="orth" author="Porto">Os bebés non poden falar todavía</attrib>
+		</entry>
+		<entry id="186">
+			<attrib type="orth" author="Porto">As consecuencias necesitan ser inmediatamente descoñecidas</attrib>
+		</entry>
+		<entry id="187">
+			<attrib type="orth" author="Porto">Eu supen moi ben se actuar ou non</attrib>
+		</entry>
+		<entry id="188">
+			<attrib type="orth" author="Porto">El tirou ben ca madeira</attrib>
+		</entry>
+		<entry id="189">
+			<attrib type="orth" author="Porto">Os meus compañeiros de crase xogaban xuntos, pero eu sentabame so nunca esquiña</attrib>
+		</entry>
+		<entry id="190">
+			<attrib type="orth" author="Porto">O neno quería ser amabel cos outros, pero aínda así a eles non lles gustaba</attrib>
+		</entry>
+		<entry id="191">
+			<attrib type="orth" author="Porto">O meu mestre dixo que non debería dicir certas cousas</attrib>
+		</entry>
+		<entry id="192">
+			<attrib type="orth" author="Porto">A miña nai sempre pensa que necesito unha atención engadida</attrib>
+		</entry>
+	</entries>
+</ulr>

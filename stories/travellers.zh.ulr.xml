@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="travellers" version="1.9" baselang="zh">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">熊与旅人</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">熊与旅人的启示</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">两个旅人一起在旅途中，突然出现了一头熊。 在熊注意到他们之前，其中一个人跑向路旁的一棵树， 爬到树上，把自己藏在树枝后面。</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">另一个旅人不像他的同伴那样敏捷； 他逃跑不了，于是躺到地上装死。</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">熊来到他身边，在他身上到处嗅，可是他毫不动弹，忍耐着不呼吸： 因为听说熊是不碰死尸的。 熊以为他是具尸体，就离开了。</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">场面安全了以后，旅人丛树上下来， 问另一个旅人，熊把嘴巴放在他耳朵旁的时候，对他说了什么悄悄话。</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">这个旅人回答：“他告诉我，再也不要跟一个一有危险的征兆，马上就抛下你的朋友一起旅行。”</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="杨大猫" complexlang=".Hans">患难中才看得出真正的朋友。</attrib>
+		</entry>
+	</entries>
+</ulr>

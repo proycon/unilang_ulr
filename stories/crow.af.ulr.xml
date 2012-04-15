@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="af">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Tigaine">Die Kraai en die Kruik</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Tigaine">'n Kraai gebruik haar brein om te Drink</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Tigaine">'n Dors kraai het 'n kruik gevind met water in, maar daar was so min in, dat hoe hard sy ookal probeer, sy kon dit nie met haar bek bykom nie, en dit het voorgekom of sy sou doodgaan van die dors binne sig van die oplossing.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Tigaine">Ten einde laas dink say aan 'n slim plan. Sy het begin om klippies in die kruik te gooi, en met elke klippie styg die water 'n bietjie hoër tot dit uiteindelik die rand bereik, en die wyse voël haar dors kon les.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Tigaine">Nood is die moeder van uitvinding.</attrib>
+		</entry>
+	</entries>
+</ulr>

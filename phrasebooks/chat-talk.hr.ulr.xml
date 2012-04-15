@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chat-talk" version="1.9" baselang="hr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="7754" lastmodified="1231597395">Chat-razgovor</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="7754" lastmodified="1231597395">Evo teksta koji opisuje vaš izvor!</attrib>
+		</entry>
+		<entry id="e1">
+			<attrib type="orth" author="7754" lastmodified="1231597395">Zamijenite ovaj tekst određenom frazom! Zatim upotrijebiti plus na lijevom strani kako biste dodali iduću frazu itd.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="el">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Σίνης">Η κουρούνα και η στάμνα</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Σίνης">Μια κουρούνα χρησιμοποιεί το μυαλό της για να πιει</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Σίνης">Μια διψασμένη κουρούνα βρήκε μια στάμνα με λίγο νερό μέσα αλλά ήταν τόσο λίγο, που όσο κι αν προσπαθούσε, δεν μπορούσε να το φτάσει με το ράμφος της και φαινόταν ότι θα πέθαινε από τη δίψα παρότι βρισκόταν τόσο κοντά στη λύση του προβλήματός της.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Σίνης">Τελικά, βρήκε ένα έξυπνο σχέδιο. Άρχισε να ρίχνει χαλίκια μέσα στη στάμνα, και με κάθε χαλίκι το νερό ανέβαινε όλο και περισσότερο ώσπου στο τέλος έφτασε στο χείλος, και το έξυπνο πουλί μπόρεσε να ξεδιψάσει.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Σίνης">Πενία τέχνας κατεργάζεται.</attrib>
+		</entry>
+	</entries>
+</ulr>

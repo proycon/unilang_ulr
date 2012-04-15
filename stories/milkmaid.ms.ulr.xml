@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="milkmaid" version="1.9" baselang="ms">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Abavagada">Pemerah susu dan baldinya</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Abavagada">Pemerah susu berangan masa hadapannya</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Abavagada">Anak peladang keluar untuk memerah susu lembu dan sedang kembali ke ladang membawa sebaldi susu di atas kepalanya Ketika dia sedang berjalan, dia berfikir sebegini:</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Abavagada">&quot;Susu dalam baldi ini akan memberikan saya krim yang saya akan jadikan mentega untuk dijual di pasar. Dengan wang itu saya akan beli beberapa biji telor, dan apabila ianya menetas, akan menghasilkan ayam, dan perlahan-lahan saya akan mempunyai ladang ternak yang besar. Kemudian saya akan jual sebahagian ayam saya, dan dengan wang jualan saya akan membelikan gaun baru, yang saya akan pakai apabila saya kepesta; dan kesemua pemuda akan mengkaguminya, dan akan datang menggoda saya, tetapi saya akan</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Abavagada">Terlupa mengenai baldi, dan melakukan seperti katanya, dia memalingkan kepalanya. Dan baldi itu jatuh, kesemua susu tumpah, dan kesemua impian indahnya lenyap dalam seketika!</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Abavagada">Jangan mengharap telur yang belum menetas.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="ro">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="aldaesme">Leul şi Şoarecele</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="aldaesme">Un şoarece ajută un leu</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="aldaesme">Un Leu adormit în grota lui a fost trezit de un Şoricel care fugea pe faţa lui. Pierzându-şi răbdarea îl prinse în laba lui şi era pe punctul să îl omoare.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="aldaesme">Şoricelul, îngrozit, îl rugă cu umilinţă să îi cruţe viaţa &quot;Te rog lasă-mă să plec,&quot; strigă şoricelul, &quot;şi într-o zi am să te răsplătesc pentru bunătatea ta.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="aldaesme">Ideea că o creatură atât de insignifiantă va fi vreodată capabilă să facă ceva pentru el îl amuză pe leu aşa de tare încât se apucă să râdă în hohote şi cu bună dispoziţie îi dădu drumul.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="aldaesme">Dar şansa Şoricelului veni până la urmă.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="aldaesme">Într-o zi Leul a fost prind într-o plasă care a fost întinsă din joacă de către vânători, iar Şoricelul a auzit şi recunoscut răgetele lui de nervi şi a fugit către locul cu pricina. Fără prea multă trăncăneală se apucă de treabă, de ros frânghiile cu dinţii, şi după o vreme reuşi să îl elibereze pe Leu.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="aldaesme">&quot;Iată!&quot; spuse Şoricelul, &quot;ai râs de mine când ţi-am promis că te voi răsplăti, dar acum poţi vedea, că chiar şi un Şoricel poate ajuta un Leu.&quot;</attrib>
+		</entry>
+	</entries>
+</ulr>

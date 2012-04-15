@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="ru">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="8367" lastmodified="1228543682">Список общеупотребляемых выражений</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="8367" lastmodified="1228543682">Небольшой список полезных выражений.</attrib>
+		</entry>
+		<entry id="basics">
+			<attrib type="orth">Общие выражения</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Да</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Нет</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Пожалуйста</attrib>
+		</entry>
+		<entry id="politeoffer">
+			<attrib type="orth" author="8367" lastmodified="1228543682">Пожалуйста. Возьмите.</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Спасибо (благодарю вас)</attrib>
+		</entry>
+		<entry id="nothanks">
+			<attrib type="orth" author="8367" lastmodified="1228543682">Пожалуйста. Не за что</attrib>
+		</entry>
+		<entry id="excuse">
+			<attrib type="orth">Извините</attrib>
+		</entry>
+		<entry id="perhaps">
+			<attrib type="orth">Возможно, может быть, вероятно</attrib>
+		</entry>
+		<entry id="greetingarrival">
+			<attrib type="orth" author="8367" lastmodified="1228543682">Привет, здравствуйте</attrib>
+		</entry>
+		<entry id="greetingdeparture">
+			<attrib type="orth">До свидания</attrib>
+		</entry>
+		<entry id="greetingday">
+			<attrib type="orth">Добрый день</attrib>
+		</entry>
+		<entry id="greetingearly">
+			<attrib type="orth">Доброе утро</attrib>
+		</entry>
+		<entry id="greetinglate">
+			<attrib type="orth">Добрый вечер</attrib>
+		</entry>
+		<entry id="greetingnight">
+			<attrib type="orth">Спокойной ночи</attrib>
+		</entry>
+		<entry id="welcome">
+			<attrib type="orth">Добро пожаловать</attrib>
+		</entry>
+		<entry id="goodtrip">
+			<attrib type="orth">Счастливого пути!</attrib>
+		</entry>
+		<entry id="understanding">
+			<attrib type="orth">Понимаем друг друга</attrib>
+		</entry>
+		<entry id="askspeak">
+			<attrib type="orth">Говорите ли вы...?</attrib>
+		</entry>
+		<entry id="speak">
+			<attrib type="orth">Я говорю</attrib>
+		</entry>
+		<entry id="notspeak">
+			<attrib type="orth">Я не говорю</attrib>
+		</entry>
+		<entry id="littlespeak">
+			<attrib type="orth">Я немного говорю</attrib>
+		</entry>
+		<entry id="english">
+			<attrib type="orth">по-английски</attrib>
+		</entry>
+		<entry id="french">
+			<attrib type="orth">по-французски</attrib>
+		</entry>
+		<entry id="german">
+			<attrib type="orth">по-немецки</attrib>
+		</entry>
+		<entry id="spanish">
+			<attrib type="orth">по-испански</attrib>
+		</entry>
+		<entry id="portuguese">
+			<attrib type="orth">по-португальски</attrib>
+		</entry>
+		<entry id="arabic">
+			<attrib type="orth">по-арабски</attrib>
+		</entry>
+		<entry id="chinese">
+			<attrib type="orth">по-китайски</attrib>
+		</entry>
+		<entry id="hindi">
+			<attrib type="orth">на хинди</attrib>
+		</entry>
+		<entry id="russian">
+			<attrib type="orth">по-русски</attrib>
+		</entry>
+		<entry id="italian">
+			<attrib type="orth">по-итальянски</attrib>
+		</entry>
+		<entry id="dutch">
+			<attrib type="orth">по-голландски</attrib>
+		</entry>
+		<entry id="norwegian">
+			<attrib type="orth">по-норвежски</attrib>
+		</entry>
+		<entry id="swedish">
+			<attrib type="orth">по-шведски</attrib>
+		</entry>
+		<entry id="danish">
+			<attrib type="orth">по-датски</attrib>
+		</entry>
+		<entry id="polish">
+			<attrib type="orth">по-польски</attrib>
+		</entry>
+		<entry id="urdu">
+			<attrib type="orth">на урду</attrib>
+		</entry>
+		<entry id="farsi">
+			<attrib type="orth">по-персидски</attrib>
+		</entry>
+		<entry id="japanese">
+			<attrib type="orth">по-японски</attrib>
+		</entry>
+		<entry id="indonesian">
+			<attrib type="orth">по-индонезийски</attrib>
+		</entry>
+		<entry id="malay">
+			<attrib type="orth">по-малайски</attrib>
+		</entry>
+		<entry id="askunderstand">
+			<attrib type="orth">Понимаете ли вы?</attrib>
+		</entry>
+		<entry id="askunderstandme">
+			<attrib type="orth">Понимаете ли вы меня?</attrib>
+		</entry>
+		<entry id="understand">
+			<attrib type="orth">Я понимаю</attrib>
+		</entry>
+		<entry id="understandyou">
+			<attrib type="orth">Я вас понимаю.</attrib>
+		</entry>
+		<entry id="notunderstand">
+			<attrib type="orth">Я не понимаю</attrib>
+		</entry>
+		<entry id="notunderstandyou">
+			<attrib type="orth">Я не понимаю вас</attrib>
+		</entry>
+		<entry id="askrepeat">
+			<attrib type="orth">Не могли бы вы повторить?</attrib>
+		</entry>
+		<entry id="askslowspeak">
+			<attrib type="orth">Не могли бы вы говорить помедленней?</attrib>
+		</entry>
+		<entry id="askwrite">
+			<attrib type="orth">Не могли бы вы написать это, пожалуйста?</attrib>
+		</entry>
+		<entry id="notknowsay">
+			<attrib type="orth">Я не знаю как это сказать</attrib>
+		</entry>
+		<entry id="notknowword">
+			<attrib type="orth">Я не знаю подходящего слова</attrib>
+		</entry>
+		<entry id="askwhatsay">
+			<attrib type="orth">Что вы сказали?</attrib>
+		</entry>
+		<entry id="askhowsayin">
+			<attrib type="orth">Как это сказать на...?</attrib>
+		</entry>
+		<entry id="askhowwrite">
+			<attrib type="orth">Как это пишется?</attrib>
+		</entry>
+		<entry id="askhowpronounce">
+			<attrib type="orth">Как это произносится?</attrib>
+		</entry>
+		<entry id="asktranslate">
+			<attrib type="orth">Не могли бы вы перевести это для меня?</attrib>
+		</entry>
+		<entry id="askwascorrect">
+			<attrib type="orth">Правильно ли я это сказал?</attrib>
+		</entry>
+		<entry id="basicconversation">
+			<attrib type="orth">Основное общение</attrib>
+		</entry>
+		<entry id="askstatus">
+			<attrib type="orth">Как у вас дела?</attrib>
+		</entry>
+		<entry id="replystatusgreat">
+			<attrib type="orth">Здорово!</attrib>
+		</entry>
+		<entry id="replystatusfine">
+			<attrib type="orth">хорошо</attrib>
+		</entry>
+		<entry id="replystatusalright">
+			<attrib type="orth">нормально</attrib>
+		</entry>
+		<entry id="replystatusnotwell">
+			<attrib type="orth">не очень</attrib>
+		</entry>
+		<entry id="askage">
+			<attrib type="orth">Сколько Вам лет?</attrib>
+		</entry>
+		<entry id="giveage">
+			<attrib type="orth">Мне ... лет</attrib>
+		</entry>
+		<entry id="notknow">
+			<attrib type="orth">Я не знаю</attrib>
+		</entry>
+		<entry id="notlike">
+			<attrib type="orth">Я не люблю это.</attrib>
+		</entry>
+		<entry id="amready">
+			<attrib type="orth">Я готов(а)</attrib>
+		</entry>
+		<entry id="letsgo">
+			<attrib type="orth">Идем!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Мне жаль.</attrib>
+		</entry>
+		<entry id="finance">
+			<attrib type="orth">Бизнес и деньги</attrib>
+		</entry>
+		<entry id="askpaycash">
+			<attrib type="orth">Могу ли я оплатить наличными?</attrib>
+		</entry>
+		<entry id="askpaycreditcard">
+			<attrib type="orth">Могу ли я оплатить кредитной карточкой?</attrib>
+		</entry>
+		<entry id="askacceptcreditcard">
+			<attrib type="orth">Принимаете ли вы ... ?</attrib>
+		</entry>
+		<entry id="asktravelercheck">
+			<attrib type="orth">Можно обменять эти дорожный чеки?</attrib>
+		</entry>
+		<entry id="askchange">
+			<attrib type="orth">Можно обменять это на ... ?</attrib>
+		</entry>
+		<entry id="askcostestimate">
+			<attrib type="orth">Могли бы вы приблизительно оценить стоимость?</attrib>
+		</entry>
+		<entry id="givecard">
+			<attrib type="orth">Вот моя карточка</attrib>
+		</entry>
+		<entry id="askcommission">
+			<attrib type="orth">Какова ваша комиссия?</attrib>
+		</entry>
+		<entry id="wanttochangecurrency">
+			<attrib type="orth">Я хочу обменять доллары/евро/фунты стерлингов.</attrib>
+		</entry>
+		<entry id="askexchangerate">
+			<attrib type="orth">Каков курс обмена валют?</attrib>
+		</entry>
+		<entry id="askinflationrate">
+			<attrib type="orth">Какой курс инфляции?</attrib>
+		</entry>
+		<entry id="askwherechangecurrency">
+			<attrib type="orth">Где можно обменять деньги?</attrib>
+		</entry>
+		<entry id="askwherecopy">
+			<attrib type="orth">Где можно сделать копии?</attrib>
+		</entry>
+		<entry id="askwherebank">
+			<attrib type="orth">Где находится ближайший банк?</attrib>
+		</entry>
+		<entry id="askwheresign">
+			<attrib type="orth">Где мне нужно расписаться?</attrib>
+		</entry>
+		<entry id="askcatalog">
+			<attrib type="orth">Есть ли у Вас каталог?</attrib>
+		</entry>
+		<entry id="haveappointment">
+			<attrib type="orth">Я записан на прием к ...</attrib>
+		</entry>
+		<entry id="askentrancefee">
+			<attrib type="orth">Какова плата за вход?</attrib>
+		</entry>
+		<entry id="askcostperday">
+			<attrib type="orth">Сколько это стоит в день?</attrib>
+		</entry>
+		<entry id="askcostperhour">
+			<attrib type="orth">Сколько это стоит в час?</attrib>
+		</entry>
+		<entry id="askcostperweek">
+			<attrib type="orth">Сколько это стоит в неделю?</attrib>
+		</entry>
+		<entry id="askisfree">
+			<attrib type="orth">Это бесплатно?</attrib>
+		</entry>
+		<entry id="computers">
+			<attrib type="orth">Компьютеры и Интернет</attrib>
+		</entry>
+		<entry id="askhavecomputer">
+			<attrib type="orth">Есть ли у вас компьютер?</attrib>
+		</entry>
+		<entry id="harddiskfull">
+			<attrib type="orth">Жесткий диск заполнен</attrib>
+		</entry>
+		<entry id="askhavemodem">
+			<attrib type="orth">Есть ли у вас модем?</attrib>
+		</entry>
+		<entry id="askhaveinternet">
+			<attrib type="orth" author="4430" lastmodified="1246268894">Есть ли у вас соединение с Интернет?</attrib>
+		</entry>
+		<entry id="asksendemail">
+			<attrib type="orth">Я могу отправить электронную почту?</attrib>
+		</entry>
+		<entry id="askreademail">
+			<attrib type="orth">Я могу прочитать электронную почту?</attrib>
+		</entry>
+		<entry id="askprint">
+			<attrib type="orth">Можно кое-что распечатать?</attrib>
+		</entry>
+		<entry id="askscan">
+			<attrib type="orth">Можно кое-что отсканировать?</attrib>
+		</entry>
+		<entry id="computercrashed">
+			<attrib type="orth">Мой компьютер сломался</attrib>
+		</entry>
+		<entry id="needtoreboot">
+			<attrib type="orth">Вам нужно перезагрузиться.</attrib>
+		</entry>
+		<entry id="askcaninstall">
+			<attrib type="orth">Можно установить...?</attrib>
+		</entry>
+		<entry id="askemailaddress">
+			<attrib type="orth">Какой у вас адрес электронной почты?</attrib>
+		</entry>
+		<entry id="giveemail">
+			<attrib type="orth">Мой электронный адрес...</attrib>
+		</entry>
+		<entry id="askhomepage">
+			<attrib type="orth">Есть ли у вас домашняя страничка?</attrib>
+		</entry>
+		<entry id="askurl">
+			<attrib type="orth">Какой адрес?</attrib>
+		</entry>
+		<entry id="education">
+			<attrib type="orth">Образование</attrib>
+		</entry>
+		<entry id="askwhatstudy">
+			<attrib type="orth">Что вы изучаете?</attrib>
+		</entry>
+		<entry id="study">
+			<attrib type="orth">Я изучаю ...</attrib>
+		</entry>
+		<entry id="law">
+			<attrib type="orth">право</attrib>
+		</entry>
+		<entry id="medicine">
+			<attrib type="orth">медицину</attrib>
+		</entry>
+		<entry id="economics">
+			<attrib type="orth">экономику</attrib>
+		</entry>
+		<entry id="languages">
+			<attrib type="orth">иностранные языки</attrib>
+		</entry>
+		<entry id="linguistics">
+			<attrib type="orth">лингвистику</attrib>
+		</entry>
+		<entry id="mathematics">
+			<attrib type="orth">математику</attrib>
+		</entry>
+		<entry id="chemistry">
+			<attrib type="orth">химию</attrib>
+		</entry>
+		<entry id="physics">
+			<attrib type="orth">физику</attrib>
+		</entry>
+		<entry id="informatics">
+			<attrib type="orth">информатику</attrib>
+		</entry>
+		<entry id="askuniversity">
+			<attrib type="orth">В каком университете вы учитесь?</attrib>
+		</entry>
+		<entry id="university">
+			<attrib type="orth">Я учусь в ...</attrib>
+		</entry>
+		<entry id="haveclass">
+			<attrib type="orth">У меня сегодня занятие.</attrib>
+		</entry>
+		<entry id="amfree">
+			<attrib type="orth">Я сегодня свободен.</attrib>
+		</entry>
+		<entry id="askhighschool">
+			<attrib type="orth">Вы учитесь в средней школе?</attrib>
+		</entry>
+		<entry id="highschool">
+			<attrib type="orth">Я учусь в средней школе</attrib>
+		</entry>
+		<entry id="havetogoclass">
+			<attrib type="orth">Мне нужно сейчас идти на занятия.</attrib>
+		</entry>
+		<entry id="emergencies">
+			<attrib type="orth">Чрезвычайные ситуации</attrib>
+		</entry>
+		<entry id="calldoctor">
+			<attrib type="orth">Вызовите доктора!</attrib>
+		</entry>
+		<entry id="callambulance">
+			<attrib type="orth">Вызовите скорую помощь!</attrib>
+		</entry>
+		<entry id="callpolice">
+			<attrib type="orth">Вызовите полицию!</attrib>
+		</entry>
+		<entry id="cantbreathe">
+			<attrib type="orth">Он не может дышать.</attrib>
+		</entry>
+		<entry id="cantmove">
+			<attrib type="orth">Он не может двигаться.</attrib>
+		</entry>
+		<entry id="didnotstop">
+			<attrib type="orth">Он не остановился.</attrib>
+		</entry>
+		<entry id="ranintome">
+			<attrib type="orth">Он врезался в меня.</attrib>
+		</entry>
+		<entry id="drivingtoofast">
+			<attrib type="orth">Он ехал слишком быстро.</attrib>
+		</entry>
+		<entry id="cuthimself">
+			<attrib type="orth">Он порезался.</attrib>
+		</entry>
+		<entry id="cantmovearm">
+			<attrib type="orth">Я не  могу двигать рукой.</attrib>
+		</entry>
+		<entry id="cantmoveleg">
+			<attrib type="orth">Я не могу двигать ногой.</attrib>
+		</entry>
+		<entry id="beenrobbed">
+			<attrib type="orth">Меня ограбили.</attrib>
+		</entry>
+		<entry id="stopthief">
+			<attrib type="orth">Остановите вора!</attrib>
+		</entry>
+		<entry id="passportstolen">
+			<attrib type="orth">У меня украли паспорт.</attrib>
+		</entry>
+		<entry id="moneystolen">
+			<attrib type="orth">У меня украли деньги.</attrib>
+		</entry>
+		<entry id="carstolen">
+			<attrib type="orth">У меня угнали машину.</attrib>
+		</entry>
+		<entry id="fireexcl">
+			<attrib type="orth">Пожар!</attrib>
+		</entry>
+		<entry id="wherehospital">
+			<attrib type="orth">Где ближайшая больница?</attrib>
+		</entry>
+		<entry id="wherepolice">
+			<attrib type="orth">Где ближайшее отделение милиции?</attrib>
+		</entry>
+		<entry id="emotions">
+			<attrib type="orth">Чувства и мнения</attrib>
+		</entry>
+		<entry id="asklike">
+			<attrib type="orth">Нравится ли это вам?</attrib>
+		</entry>
+		<entry id="saylike">
+			<attrib type="orth">Мне это нравится.</attrib>
+		</entry>
+		<entry id="amhappy">
+			<attrib type="orth">Я счастлив.</attrib>
+		</entry>
+		<entry id="amangry">
+			<attrib type="orth">Я злюсь.</attrib>
+		</entry>
+		<entry id="amdissappointed">
+			<attrib type="orth">Я разочарован.</attrib>
+		</entry>
+		<entry id="amcontent">
+			<attrib type="orth">Я доволен.</attrib>
+		</entry>
+		<entry id="amtired">
+			<attrib type="orth">Я устал.</attrib>
+		</entry>
+		<entry id="amafraid">
+			<attrib type="orth">Я боюсь.</attrib>
+		</entry>
+		<entry id="amwarm">
+			<attrib type="orth">Мне тепло.</attrib>
+		</entry>
+		<entry id="amcold">
+			<attrib type="orth">Мне холодно.</attrib>
+		</entry>
+		<entry id="amsleepy">
+			<attrib type="orth">Я хочу спать.</attrib>
+		</entry>
+		<entry id="welikehere">
+			<attrib type="orth">нам здесь нравится.</attrib>
+		</entry>
+		<entry id="isinteresting">
+			<attrib type="orth">Это (очень) интересно.</attrib>
+		</entry>
+		<entry id="fintitinteresting">
+			<attrib type="orth">Мы думаем, что это очень интересно.</attrib>
+		</entry>
+		<entry id="isboring">
+			<attrib type="orth">Это (очень) скучно.</attrib>
+		</entry>
+		<entry id="isbeautiful">
+			<attrib type="orth">Это красиво.</attrib>
+		</entry>
+		<entry id="hehandsome">
+			<attrib type="orth">Он очень красивый.</attrib>
+		</entry>
+		<entry id="shepretty">
+			<attrib type="orth">Она очень красивая.</attrib>
+		</entry>
+		<entry id="hehot">
+			<attrib type="orth">Он крутой!; Он классный!; Он просто супер!</attrib>
+		</entry>
+		<entry id="shehot">
+			<attrib type="orth">Она классная!; Она просто супер!</attrib>
+		</entry>
+		<entry id="3rdkind">
+			<attrib type="orth">Он очень добрый/Она очень добрая.</attrib>
+		</entry>
+		<entry id="lookimp">
+			<attrib type="orth">Посмотрите!</attrib>
+		</entry>
+		<entry id="listenimp">
+			<attrib type="orth">Послушайте!</attrib>
+		</entry>
+		<entry id="coolexcl">
+			<attrib type="orth">Классно! (Круто!)</attrib>
+		</entry>
+		<entry id="awesomeexcl">
+			<attrib type="orth">Великолепно!</attrib>
+		</entry>
+		<entry id="foodrestaurant">
+			<attrib type="orth">Еда и Ресторан</attrib>
+		</entry>
+		<entry id="hungry">
+			<attrib type="orth">Я голоден.</attrib>
+		</entry>
+		<entry id="thirsty">
+			<attrib type="orth">Я хочу пить.</attrib>
+		</entry>
+		<entry id="askshalleat">
+			<attrib type="orth">Возьмем что-нибудь поесть?</attrib>
+		</entry>
+		<entry id="askshalldrink">
+			<attrib type="orth">Возьмем что-нибудь попить?</attrib>
+		</entry>
+		<entry id="askhavefood">
+			<attrib type="orth">У вас есть что-нибудь поесть?</attrib>
+		</entry>
+		<entry id="askhavedrink">
+			<attrib type="orth">У вас есть что-нибудь попить?</attrib>
+		</entry>
+		<entry id="askwanteat">
+			<attrib type="orth">Не хотите ли вы что-нибудь поесть?</attrib>
+		</entry>
+		<entry id="offereat">
+			<attrib type="orth">Я мог бы вам чем-то помочь  в выборе еды?</attrib>
+		</entry>
+		<entry id="askwantdrink">
+			<attrib type="orth">Не хотите ли что-нибудь попить?</attrib>
+		</entry>
+		<entry id="saywantdrink">
+			<attrib type="orth">Я хотел бы .... (выпить)</attrib>
+		</entry>
+		<entry id="coffee">
+			<attrib type="orth">чашку кофе</attrib>
+		</entry>
+		<entry id="tea">
+			<attrib type="orth">чашку чая</attrib>
+		</entry>
+		<entry id="beer">
+			<attrib type="orth">стакан пива</attrib>
+		</entry>
+		<entry id="wine">
+			<attrib type="orth">бокал вина</attrib>
+		</entry>
+		<entry id="redwine">
+			<attrib type="orth">бокал красного вина</attrib>
+		</entry>
+		<entry id="whitewine">
+			<attrib type="orth">бокал белого вина</attrib>
+		</entry>
+		<entry id="orangejuice">
+			<attrib type="orth">стакан апельсинового сока</attrib>
+		</entry>
+		<entry id="applejuice">
+			<attrib type="orth">стакан яблочного сока</attrib>
+		</entry>
+		<entry id="offerdrink">
+			<attrib type="orth">Я не мог бы вам помочь с выбором напитка?</attrib>
+		</entry>
+		<entry id="askwhatdrink">
+			<attrib type="orth">Что бы вы хотели выпить?</attrib>
+		</entry>
+		<entry id="askwhateat">
+			<attrib type="orth">Что бы вы хотели поесть?</attrib>
+		</entry>
+		<entry id="askrecommend">
+			<attrib type="orth">Что бы вы порекомендовали?</attrib>
+		</entry>
+		<entry id="askmenu">
+			<attrib type="orth">Можно, пожалуйста, посмотреть меню?</attrib>
+		</entry>
+		<entry id="askwinelist">
+			<attrib type="orth">Можно, пожалуйста, посмотреть карту вин?</attrib>
+		</entry>
+		<entry id="wantthis">
+			<attrib type="orth">Мне хотелось бы вот это, пожалуйста.</attrib>
+		</entry>
+		<entry id="askwantappetizer">
+			<attrib type="orth">Не хотели бы вы закуску?</attrib>
+		</entry>
+		<entry id="wantappetizer">
+			<attrib type="orth">Я хотел бы закуску, пожалуйста.</attrib>
+		</entry>
+		<entry id="wantfish">
+			<attrib type="orth">Я хотел бы рыбу, пожалуйста.</attrib>
+		</entry>
+		<entry id="wantbeef">
+			<attrib type="orth">Я хотел бы говядинy, пожалуйста.</attrib>
+		</entry>
+		<entry id="wantpork">
+			<attrib type="orth">Я хотел бы свинину, пожалуйста.</attrib>
+		</entry>
+		<entry id="wantsalad">
+			<attrib type="orth">Я хотел бы салат, пожалуйста.</attrib>
+		</entry>
+		<entry id="wantsoup">
+			<attrib type="orth">Я хотел бы суп, пожалуйста.</attrib>
+		</entry>
+		<entry id="wantveggy">
+			<attrib type="orth">Я хотел бы что-нибудь вегетарианское , пожалуйста.</attrib>
+		</entry>
+		<entry id="askdessert">
+			<attrib type="orth">Не хотите десерт?</attrib>
+		</entry>
+		<entry id="appetizer">
+			<attrib type="orth">На закуску я хотел бы .....</attrib>
+		</entry>
+		<entry id="maindish">
+			<attrib type="orth">Как главное блюдо я хотел бы .....</attrib>
+		</entry>
+		<entry id="dessert">
+			<attrib type="orth">На десерт я хотел бы.....</attrib>
+		</entry>
+		<entry id="askextra">
+			<attrib type="orth">Можно это с жареным картофелем / рисом / картофелем?</attrib>
+		</entry>
+		<entry id="askomit">
+			<attrib type="orth">Можно это без...?</attrib>
+		</entry>
+		<entry id="asksmall">
+			<attrib type="orth">Можно маленькую порцию?</attrib>
+		</entry>
+		<entry id="asksalads">
+			<attrib type="orth">Какие у вас есть салаты?</attrib>
+		</entry>
+		<entry id="nomore">
+			<attrib type="orth">Больше ничего, спасибо</attrib>
+		</entry>
+		<entry id="takeaway">
+			<attrib type="orth">Это можно убрать</attrib>
+		</entry>
+		<entry id="amvegetarian">
+			<attrib type="orth">Я вегетарианец</attrib>
+		</entry>
+		<entry id="amveganist">
+			<attrib type="orth">Я вегетарианец и не ем молочного.</attrib>
+		</entry>
+		<entry id="notcaneat">
+			<attrib type="orth">Я не могу это есть</attrib>
+		</entry>
+		<entry id="askcontain">
+			<attrib type="orth">Не содержит ли это ...?</attrib>
+		</entry>
+		<entry id="salt">
+			<attrib type="orth">(много) соли</attrib>
+		</entry>
+		<entry id="sugar">
+			<attrib type="orth">(много) сахара</attrib>
+		</entry>
+		<entry id="fat">
+			<attrib type="orth">(много) жира</attrib>
+		</entry>
+		<entry id="meat">
+			<attrib type="orth">любые виды мяса</attrib>
+		</entry>
+		<entry id="seafood">
+			<attrib type="orth">любые морепродукты</attrib>
+		</entry>
+		<entry id="fish">
+			<attrib type="orth">любую рыбу</attrib>
+		</entry>
+		<entry id="dairy">
+			<attrib type="orth">любые молочные продукты</attrib>
+		</entry>
+		<entry id="notdrinkalcohol">
+			<attrib type="orth">Я не пью (алкоголь)</attrib>
+		</entry>
+		<entry id="nofork">
+			<attrib type="orth">У меня нет вилки</attrib>
+		</entry>
+		<entry id="noknife">
+			<attrib type="orth">У меня нет ножа.</attrib>
+		</entry>
+		<entry id="nospoon">
+			<attrib type="orth">У меня нет ложки.</attrib>
+		</entry>
+		<entry id="missglass">
+			<attrib type="orth">Не хватает стакана.</attrib>
+		</entry>
+		<entry id="missplate">
+			<attrib type="orth">Не хватает тарелки.</attrib>
+		</entry>
+		<entry id="notclean">
+			<attrib type="orth">Это грязное.</attrib>
+		</entry>
+		<entry id="toocold">
+			<attrib type="orth">Это слишком холодное.</attrib>
+		</entry>
+		<entry id="toospicy">
+			<attrib type="orth">Это слишком острое.</attrib>
+		</entry>
+		<entry id="notordered">
+			<attrib type="orth">Это не то, что я заказал.</attrib>
+		</entry>
+		<entry id="ismistake">
+			<attrib type="orth">Здесь ошибка.</attrib>
+		</entry>
+		<entry id="wasdelicious">
+			<attrib type="orth">Было вкусно.</attrib>
+		</entry>
+		<entry id="wantpay">
+			<attrib type="orth">Я бы хотел оплатить.</attrib>
+		</entry>
+		<entry id="askbill">
+			<attrib type="orth">Можно, пожалуйста, счет?</attrib>
+		</entry>
+		<entry id="payseparately">
+			<attrib type="orth">Мы хотели бы оплатить отдельно</attrib>
+		</entry>
+		<entry id="askallincluded">
+			<attrib type="orth">Здесь все включено?</attrib>
+		</entry>
+		<entry id="asktipincluded">
+			<attrib type="orth">Чаевые включены?</attrib>
+		</entry>
+		<entry id="asklikecook">
+			<attrib type="orth">Любите ли вы готовить?</attrib>
+		</entry>
+		<entry id="askwhocook">
+			<attrib type="orth">Кто готовит сегодня вечером?</attrib>
+		</entry>
+		<entry id="askshallcook">
+			<attrib type="orth">Давайте, я буду готовить сегодня вечером?</attrib>
+		</entry>
+		<entry id="askmakewhat">
+			<attrib type="orth">Что мне приготовить?</attrib>
+		</entry>
+		<entry id="askwantcoffee">
+			<attrib type="orth">Не хотите ли чашечку кофе?</attrib>
+		</entry>
+		<entry id="askwanttea">
+			<attrib type="orth">Не хотите ли чашечку чая?</attrib>
+		</entry>
+		<entry id="healthanddisease">
+			<attrib type="orth">Здоровье и болезни</attrib>
+		</entry>
+		<entry id="amill">
+			<attrib type="orth">Я болен</attrib>
+		</entry>
+		<entry id="haveflu">
+			<attrib type="orth">У меня грипп.</attrib>
+		</entry>
+		<entry id="haveacold">
+			<attrib type="orth">У меня простуда.</attrib>
+		</entry>
+		<entry id="haveallergies">
+			<attrib type="orth">У меня аллергия</attrib>
+		</entry>
+		<entry id="diabetic">
+			<attrib type="orth">У меня диабет.</attrib>
+		</entry>
+		<entry id="inpain">
+			<attrib type="orth">У меня всё болит</attrib>
+		</entry>
+		<entry id="notfeelingwell">
+			<attrib type="orth">Я нехорошо себя чувствую.</attrib>
+		</entry>
+		<entry id="onthepill">
+			<attrib type="orth">Я принимаю таблетки.</attrib>
+		</entry>
+		<entry id="pregnant">
+			<attrib type="orth">Я беременна.</attrib>
+		</entry>
+		<entry id="canteat">
+			<attrib type="orth">Я не могу есть.</attrib>
+		</entry>
+		<entry id="cantsleep">
+			<attrib type="orth">Я не могу спать.</attrib>
+		</entry>
+		<entry id="nottoostrong">
+			<attrib type="orth">Я не хочу что-либо слишком сильное.</attrib>
+		</entry>
+		<entry id="feeldizzy">
+			<attrib type="orth">У меня кружится голова.</attrib>
+		</entry>
+		<entry id="feelnauseous">
+			<attrib type="orth">Меня тошнит.</attrib>
+		</entry>
+		<entry id="brokentooth">
+			<attrib type="orth">У меня сломан зуб</attrib>
+		</entry>
+		<entry id="havecouch">
+			<attrib type="orth">У меня кашель</attrib>
+		</entry>
+		<entry id="headache">
+			<attrib type="orth">У меня болит голова.</attrib>
+		</entry>
+		<entry id="stomachache">
+			<attrib type="orth">У меня болит живот.</attrib>
+		</entry>
+		<entry id="paininchest">
+			<attrib type="orth">У меня боли в груди</attrib>
+		</entry>
+		<entry id="infection">
+			<attrib type="orth">Я инфицирован.</attrib>
+		</entry>
+		<entry id="beenstung">
+			<attrib type="orth">Меня ужалили.</attrib>
+		</entry>
+		<entry id="beenbitten">
+			<attrib type="orth">Меня укусили.</attrib>
+		</entry>
+		<entry id="askhavepain">
+			<attrib type="orth">Болит?</attrib>
+		</entry>
+		<entry id="askhurt">
+			<attrib type="orth">Вам больно?</attrib>
+		</entry>
+		<entry id="askhurtspecific">
+			<attrib type="orth">Вам больно, когда я делаю так?</attrib>
+		</entry>
+		<entry id="asktakemedication">
+			<attrib type="orth">Вы принимаете лекарства?</attrib>
+		</entry>
+		<entry id="asktemperature">
+			<attrib type="orth">Какая у вас температура?</attrib>
+		</entry>
+		<entry id="askcanwalk">
+			<attrib type="orth">Можете ли вы идти?</attrib>
+		</entry>
+		<entry id="needwheelchair">
+			<attrib type="orth">Мне нужна инвалидная коляска.</attrib>
+		</entry>
+		<entry id="aminwheelchair">
+			<attrib type="orth">Я в инвалидной коляске.</attrib>
+		</entry>
+		<entry id="askwherepharmacy">
+			<attrib type="orth">Где ближайшая аптека?</attrib>
+		</entry>
+		<entry id="askwithoutprescription">
+			<attrib type="orth">Это можно приобрести без рецепта?</attrib>
+		</entry>
+		<entry id="askpharinsectbite">
+			<attrib type="orth">Есть ли у вас что-нибудь от укусов насекомых?</attrib>
+		</entry>
+		<entry id="askpharsunburn">
+			<attrib type="orth">Есть ли у вас что-нибудь от солнечных ожогов?</attrib>
+		</entry>
+		<entry id="haveprescription">
+			<attrib type="orth">У меня рецепт от врача.</attrib>
+		</entry>
+		<entry id="pharneedsomethingfor">
+			<attrib type="orth">Мне нужно что-нибудь от ...</attrib>
+		</entry>
+		<entry id="phartakehowoften">
+			<attrib type="orth">Как часто это нужно принимать?</attrib>
+		</entry>
+		<entry id="hobbies">
+			<attrib type="orth">Увлечения</attrib>
+		</entry>
+		<entry id="askhobbies">
+			<attrib type="orth">Чем вы увлекаетесь?</attrib>
+		</entry>
+		<entry id="asksparetime">
+			<attrib type="orth">Как вы проводите свободное время?</attrib>
+		</entry>
+		<entry id="asklikeread">
+			<attrib type="orth">Вы любите читать?</attrib>
+		</entry>
+		<entry id="notlikeread">
+			<attrib type="orth">Я не  люблю читать.</attrib>
+		</entry>
+		<entry id="likeread">
+			<attrib type="orth">Я люблю читать.</attrib>
+		</entry>
+		<entry id="likecook">
+			<attrib type="orth">Я люблю готовить.</attrib>
+		</entry>
+		<entry id="likelistenmusic">
+			<attrib type="orth">Я люблю слушать музыку.</attrib>
+		</entry>
+		<entry id="likeplaypiano">
+			<attrib type="orth">Я люблю играть на пианино.</attrib>
+		</entry>
+		<entry id="likeplayguitar">
+			<attrib type="orth">Я люблю играть на гитаре.</attrib>
+		</entry>
+		<entry id="likesing">
+			<attrib type="orth">Я люблю петь.</attrib>
+		</entry>
+		<entry id="likeplaychess">
+			<attrib type="orth">Я люблю играть в шахматы.</attrib>
+		</entry>
+		<entry id="likegoout">
+			<attrib type="orth">Я люблю бывать в обществе</attrib>
+		</entry>
+		<entry id="liketravel">
+			<attrib type="orth">Я люблю путешествовать.</attrib>
+		</entry>
+		<entry id="likeshopping">
+			<attrib type="orth">Я люблю ходить по магазинам.</attrib>
+		</entry>
+		<entry id="likegardening">
+			<attrib type="orth">Я люблю садоводство.</attrib>
+		</entry>
+		<entry id="liketv">
+			<attrib type="orth">Я люблю смотреть телевизор.</attrib>
+		</entry>
+		<entry id="likeinternet">
+			<attrib type="orth">Я люблю бродить по Интернету.</attrib>
+		</entry>
+		<entry id="askmusictaste">
+			<attrib type="orth">Какую музыку вы любите?</attrib>
+		</entry>
+		<entry id="likemusicclassic">
+			<attrib type="orth">Я люблю классическую музыку.</attrib>
+		</entry>
+		<entry id="likemusicpop">
+			<attrib type="orth">Я люблю популярную музыку.</attrib>
+		</entry>
+		<entry id="likemusicopera">
+			<attrib type="orth">Я люблю оперу.</attrib>
+		</entry>
+		<entry id="likemusicjazz">
+			<attrib type="orth">Я люблю джаз.</attrib>
+		</entry>
+		<entry id="likemusictechno">
+			<attrib type="orth">Я люблю техно.</attrib>
+		</entry>
+		<entry id="likemusichardrock">
+			<attrib type="orth">Я люблю тяжелый рок.</attrib>
+		</entry>
+		<entry id="askfavoritebands">
+			<attrib type="orth">Какие у вас любимые группы?</attrib>
+		</entry>
+		<entry id="askwhatprefer">
+			<attrib type="orth">Что вы предпочитаете?</attrib>
+		</entry>
+		<entry id="prefer">
+			<attrib type="orth">Я предпочитаю.</attrib>
+		</entry>
+		<entry id="introducing">
+			<attrib type="orth">Знакомство</attrib>
+		</entry>
+		<entry id="myname">
+			<attrib type="orth">Меня зовут...</attrib>
+		</entry>
+		<entry id="askname">
+			<attrib type="orth">Как Вас зовут?</attrib>
+		</entry>
+		<entry id="iam">
+			<attrib type="orth">Я</attrib>
+		</entry>
+		<entry id="whoareu">
+			<attrib type="orth">Вы кто?</attrib>
+		</entry>
+		<entry id="askintroduce">
+			<attrib type="orth">Позвольте представить вам...</attrib>
+		</entry>
+		<entry id="introduce">
+			<attrib type="orth">Я представлю Вам...</attrib>
+		</entry>
+		<entry id="presentwife">
+			<attrib type="orth">Это моя жена.</attrib>
+		</entry>
+		<entry id="presenthusband">
+			<attrib type="orth">Это мой муж.</attrib>
+		</entry>
+		<entry id="presentgirlfriend">
+			<attrib type="orth">Это моя девушка.</attrib>
+		</entry>
+		<entry id="presentboyfriend">
+			<attrib type="orth">Это мой парень.</attrib>
+		</entry>
+		<entry id="presentfriend">
+			<attrib type="orth">Это мой друг.</attrib>
+		</entry>
+		<entry id="presentson">
+			<attrib type="orth">Это мой сын.</attrib>
+		</entry>
+		<entry id="presentdaughter">
+			<attrib type="orth">Это моя дочь.</attrib>
+		</entry>
+		<entry id="presentmother">
+			<attrib type="orth">Это моя мама.</attrib>
+		</entry>
+		<entry id="presentfather">
+			<attrib type="orth">Это мой папа.</attrib>
+		</entry>
+		<entry id="nicetomeet">
+			<attrib type="orth">Приятно познакомиться.</attrib>
+		</entry>
+		<entry id="plans">
+			<attrib type="orth">Планы и встречи</attrib>
+		</entry>
+		<entry id="askfree">
+			<attrib type="orth">Вы свободны сегодня/завтра/сегодня вечером</attrib>
+		</entry>
+		<entry id="haveplansalready">
+			<attrib type="orth">У меня уже есть планы</attrib>
+		</entry>
+		<entry id="cinemaplan">
+			<attrib type="orth">Я иду в кино</attrib>
+		</entry>
+		<entry id="theaterplan">
+			<attrib type="orth">Я иду в театр</attrib>
+		</entry>
+		<entry id="museumplan">
+			<attrib type="orth">Я иду в музей</attrib>
+		</entry>
+		<entry id="askgoout">
+			<attrib type="orth">Не хотите ли прогуляться со мной вечером?</attrib>
+		</entry>
+		<entry id="lovegoout">
+			<attrib type="orth">Я хотел бы</attrib>
+		</entry>
+		<entry id="askhavetickets">
+			<attrib type="orth">Есть ли у вас билеты?</attrib>
+		</entry>
+		<entry id="havetwotickets">
+			<attrib type="orth">У меня два билета на...</attrib>
+		</entry>
+		<entry id="notlikemusic">
+			<attrib type="orth">Мне не нравится эта музыку</attrib>
+		</entry>
+		<entry id="musictooloud">
+			<attrib type="orth">Музыка слишком громкая.</attrib>
+		</entry>
+		<entry id="toocrowded">
+			<attrib type="orth">Здесь слишком много народу.</attrib>
+		</entry>
+		<entry id="askgosomewhereelse">
+			<attrib type="orth">Может, сходим куда-нибудь еще?</attrib>
+		</entry>
+		<entry id="askwhatmovie">
+			<attrib type="orth">На какой фильм мы идем?</attrib>
+		</entry>
+		<entry id="askopinionmovie">
+			<attrib type="orth">Что вы думаете об этом фильме?</attrib>
+		</entry>
+		<entry id="politics">
+			<attrib type="orth">Политика</attrib>
+		</entry>
+		<entry id="interestedpolitics">
+			<attrib type="orth">Я интересуюсь политикой</attrib>
+		</entry>
+		<entry id="notinterestedpolitics">
+			<attrib type="orth">Я не интересуюсь политикой.</attrib>
+		</entry>
+		<entry id="opiniongovernment">
+			<attrib type="orth">Что вы думаете о правительстве?</attrib>
+		</entry>
+		<entry id="opinionking">
+			<attrib type="orth">Что вы думаете о короле/королеве?</attrib>
+		</entry>
+		<entry id="opinionpresident">
+			<attrib type="orth">Что вы думаете о президенте?</attrib>
+		</entry>
+		<entry id="opinionpm">
+			<attrib type="orth">Что вы думаете о премьер-министре?</attrib>
+		</entry>
+		<entry id="opinionfreedomofspeech">
+			<attrib type="orth">Как вы относитесь к свободе слова?</attrib>
+		</entry>
+		<entry id="opinionmilitary">
+			<attrib type="orth">Как вы относитесь к армии?</attrib>
+		</entry>
+		<entry id="opiniondemocracy">
+			<attrib type="orth">Как вы относитесь к демократии?</attrib>
+		</entry>
+		<entry id="opinionhumanrights">
+			<attrib type="orth">Что вы думаете о правах человека?</attrib>
+		</entry>
+		<entry id="opinionwomensrights">
+			<attrib type="orth">Что вы думаете о правах женщин?</attrib>
+		</entry>
+		<entry id="opiniongaysrights">
+			<attrib type="orth">Что вы думаете о правах гомосексуалистов?</attrib>
+		</entry>
+		<entry id="askmemberpoliticalparty">
+			<attrib type="orth">Являетесь ли вы членом политической партии?</attrib>
+		</entry>
+		<entry id="askwhenelections">
+			<attrib type="orth">Когда будут выборы?</attrib>
+		</entry>
+		<entry id="askvotedwhat">
+			<attrib type="orth">За кого вы голосовали в прошлый раз?</attrib>
+		</entry>
+		<entry id="askwillvotewhat">
+			<attrib type="orth">За кого вы будете голосовать?</attrib>
+		</entry>
+		<entry id="politicalaffiliation">
+			<attrib type="orth">Я ...</attrib>
+		</entry>
+		<entry id="communist">
+			<attrib type="orth">коммунист</attrib>
+		</entry>
+		<entry id="capitalist">
+			<attrib type="orth">капиталист</attrib>
+		</entry>
+		<entry id="democrat">
+			<attrib type="orth">демократ</attrib>
+		</entry>
+		<entry id="christiandemocrat">
+			<attrib type="orth">христианский демократ</attrib>
+		</entry>
+		<entry id="republican">
+			<attrib type="orth">республиканец</attrib>
+		</entry>
+		<entry id="leftist">
+			<attrib type="orth">левый</attrib>
+		</entry>
+		<entry id="nationalist">
+			<attrib type="orth">националист</attrib>
+		</entry>
+		<entry id="socialist">
+			<attrib type="orth">социалист</attrib>
+		</entry>
+		<entry id="libertarian">
+			<attrib type="orth">либерал</attrib>
+		</entry>
+		<entry id="fascist">
+			<attrib type="orth">фашист</attrib>
+		</entry>
+		<entry id="relationshipandfamily">
+			<attrib type="orth">Семья/Отношения</attrib>
+		</entry>
+		<entry id="askmarried">
+			<attrib type="orth">Вы женаты/замужем</attrib>
+		</entry>
+		<entry id="married">
+			<attrib type="orth">Я женат/замужем</attrib>
+		</entry>
+		<entry id="notmarried">
+			<attrib type="orth">Я холост/незамужем</attrib>
+		</entry>
+		<entry id="askhaveboyfriend">
+			<attrib type="orth">Есть ли у вас парень?</attrib>
+		</entry>
+		<entry id="askhavegirlfriend">
+			<attrib type="orth">Есть ли у вас девушка?</attrib>
+		</entry>
+		<entry id="haveboyfriend">
+			<attrib type="orth">У меня есть парень.</attrib>
+		</entry>
+		<entry id="havegirlfriend">
+			<attrib type="orth">У меня есть девушка.</attrib>
+		</entry>
+		<entry id="ask3rdage">
+			<attrib type="orth">Сколько ему/ей лет?</attrib>
+		</entry>
+		<entry id="3rdage">
+			<attrib type="orth">Ему/ей ... лет.</attrib>
+		</entry>
+		<entry id="ask3rdoccupation">
+			<attrib type="orth">Кем он/она работает?</attrib>
+		</entry>
+		<entry id="askchildren">
+			<attrib type="orth">Есть ли у вас дети?</attrib>
+		</entry>
+		<entry id="havenochildren">
+			<attrib type="orth">У меня нет детей.</attrib>
+		</entry>
+		<entry id="haveonechild">
+			<attrib type="orth">У меня есть ребенок/сын/дочь.</attrib>
+		</entry>
+		<entry id="havetwochildren">
+			<attrib type="orth">У меня двое детей.</attrib>
+		</entry>
+		<entry id="havechildren">
+			<attrib type="orth">У меня трое/четверо/пятеро/шестеро/семеро детей.</attrib>
+		</entry>
+		<entry id="asksiblings">
+			<attrib type="orth">Сколько у вас братьев/сестер?</attrib>
+		</entry>
+		<entry id="askmotheralive">
+			<attrib type="orth">Жива ли еще ваша мать?</attrib>
+		</entry>
+		<entry id="askfatheralive">
+			<attrib type="orth">Жив ли еще ваш отец?</attrib>
+		</entry>
+		<entry id="askgrandmotheralive">
+			<attrib type="orth">Жива ли еще ваша бабушка?</attrib>
+		</entry>
+		<entry id="askgrandfatheralive">
+			<attrib type="orth">Жив ли еще ваш дедушка?</attrib>
+		</entry>
+		<entry id="religion">
+			<attrib type="orth">Религия</attrib>
+		</entry>
+		<entry id="askarereligious">
+			<attrib type="orth">Вы исповедуете религию?</attrib>
+		</entry>
+		<entry id="amnotreligious">
+			<attrib type="orth">Я неверующий.</attrib>
+		</entry>
+		<entry id="amatheist">
+			<attrib type="orth">Я атеист.</attrib>
+		</entry>
+		<entry id="amagnostic">
+			<attrib type="orth">Я агностик</attrib>
+		</entry>
+		<entry id="ammuslim">
+			<attrib type="orth">Я мусульманин</attrib>
+		</entry>
+		<entry id="amjewish">
+			<attrib type="orth">Я иудей.</attrib>
+		</entry>
+		<entry id="ambuddhist">
+			<attrib type="orth">Я буддист</attrib>
+		</entry>
+		<entry id="amhindu">
+			<attrib type="orth">Я индуист.</attrib>
+		</entry>
+		<entry id="amcatholic">
+			<attrib type="orth">Я католик</attrib>
+		</entry>
+		<entry id="amchristian">
+			<attrib type="orth">Я христианин.</attrib>
+		</entry>
+		<entry id="askwherechurch">
+			<attrib type="orth">Где находится церковь?</attrib>
+		</entry>
+		<entry id="askwheremosque">
+			<attrib type="orth">Где находится мечеть?</attrib>
+		</entry>
+		<entry id="askwheresynagoge">
+			<attrib type="orth">Где находится синагога?</attrib>
+		</entry>
+		<entry id="askwheretemple">
+			<attrib type="orth">Где находится храм?</attrib>
+		</entry>
+		<entry id="thankgod">
+			<attrib type="orth">Слава Богу</attrib>
+		</entry>
+		<entry id="deovolente">
+			<attrib type="orth">По воле божьей</attrib>
+		</entry>
+		<entry id="ohmygod">
+			<attrib type="orth">О боже! Господи! Боже мой!</attrib>
+		</entry>
+		<entry id="residence">
+			<attrib type="orth">Место жительства</attrib>
+		</entry>
+		<entry id="askwherefrom_country">
+			<attrib type="orth">Откуда вы? Из какой страны?</attrib>
+		</entry>
+		<entry id="amfrom_country">
+			<attrib type="orth">Я из...</attrib>
+		</entry>
+		<entry id="france">
+			<attrib type="orth">Франции</attrib>
+		</entry>
+		<entry id="uk">
+			<attrib type="orth">Великобритании</attrib>
+		</entry>
+		<entry id="spain">
+			<attrib type="orth">Испании</attrib>
+		</entry>
+		<entry id="germany">
+			<attrib type="orth">Германии</attrib>
+		</entry>
+		<entry id="us">
+			<attrib type="orth">Соединенных Штатов</attrib>
+		</entry>
+		<entry id="china">
+			<attrib type="orth">Китая</attrib>
+		</entry>
+		<entry id="brazil">
+			<attrib type="orth">Бразилии</attrib>
+		</entry>
+		<entry id="japan">
+			<attrib type="orth">Японии</attrib>
+		</entry>
+		<entry id="russia">
+			<attrib type="orth">России</attrib>
+		</entry>
+		<entry id="canada">
+			<attrib type="orth">Канады</attrib>
+		</entry>
+		<entry id="australia">
+			<attrib type="orth">Австралии</attrib>
+		</entry>
+		<entry id="asknationality">
+			<attrib type="orth">Кто вы по национальности?</attrib>
+		</entry>
+		<entry id="nationality">
+			<attrib type="orth">Я</attrib>
+		</entry>
+		<entry id="british_nat">
+			<attrib type="orth">англичанин</attrib>
+		</entry>
+		<entry id="french_nat">
+			<attrib type="orth">француз</attrib>
+		</entry>
+		<entry id="german_nat">
+			<attrib type="orth">немец</attrib>
+		</entry>
+		<entry id="american_nat">
+			<attrib type="orth">американец</attrib>
+		</entry>
+		<entry id="chinese_nat">
+			<attrib type="orth">китаец</attrib>
+		</entry>
+		<entry id="japanese_nat">
+			<attrib type="orth">японец</attrib>
+		</entry>
+		<entry id="russian_nat">
+			<attrib type="orth">русский</attrib>
+		</entry>
+		<entry id="brazilian_nat">
+			<attrib type="orth">бразилец</attrib>
+		</entry>
+		<entry id="canadian_nat">
+			<attrib type="orth">канадец</attrib>
+		</entry>
+		<entry id="askwhereareyoufrom_city">
+			<attrib type="orth">Откуда вы? Из какого города?</attrib>
+		</entry>
+		<entry id="livein_city">
+			<attrib type="orth">Я живу в Лондоне/Париже/Берлине</attrib>
+		</entry>
+		<entry id="askcloseto">
+			<attrib type="orth">Это недалеко от...?</attrib>
+		</entry>
+		<entry id="askfarfrom">
+			<attrib type="orth">Это далеко от... ?</attrib>
+		</entry>
+		<entry id="livecloseto">
+			<attrib type="orth">Я живу недалеко от...</attrib>
+		</entry>
+		<entry id="livefarfrom">
+			<attrib type="orth">Я живу далеко от...</attrib>
+		</entry>
+		<entry id="askwherestay">
+			<attrib type="orth">Где вы остановились?</attrib>
+		</entry>
+		<entry id="stay">
+			<attrib type="orth">Я остановился в отеле/гостинице...</attrib>
+		</entry>
+		<entry id="askhowlonghere">
+			<attrib type="orth">Как долго вы здесь будете?</attrib>
+		</entry>
+		<entry id="askwhengoback">
+			<attrib type="orth">Когда вы возвращаетесь?</attrib>
+		</entry>
+		<entry id="askwhenarrive">
+			<attrib type="orth">Когда вы приехали?</attrib>
+		</entry>
+		<entry id="askarealone">
+			<attrib type="orth">Вы здесь один?</attrib>
+		</entry>
+		<entry id="amalone">
+			<attrib type="orth">Я здесь один</attrib>
+		</entry>
+		<entry id="amwithfamily">
+			<attrib type="orth">Я здесь со своей семьей</attrib>
+		</entry>
+		<entry id="asklivehere">
+			<attrib type="orth">Вы живете здесь?</attrib>
+		</entry>
+		<entry id="notfromhere">
+			<attrib type="orth">Я не отсюда.</attrib>
+		</entry>
+		<entry id="askcancamp">
+			<attrib type="orth">Здесь можно сделать привал?</attrib>
+		</entry>
+		<entry id="askvacancies">
+			<attrib type="orth">У вас есть свободные номера?</attrib>
+		</entry>
+		<entry id="askroomtent">
+			<attrib type="orth">У вас есть место для палатки?</attrib>
+		</entry>
+		<entry id="askcostpernight">
+			<attrib type="orth">Сколько стоит в сутки?</attrib>
+		</entry>
+		<entry id="stayweek">
+			<attrib type="orth">Мы хотим остаться на одну неделю.</attrib>
+		</entry>
+		<entry id="askcampwhereshowers">
+			<attrib type="orth">Где душ?</attrib>
+		</entry>
+		<entry id="askwheretoilets">
+			<attrib type="orth">Где туалет?</attrib>
+		</entry>
+		<entry id="wantsingleroom">
+			<attrib type="orth">Я хочу одноместный номер, пожалуйста.</attrib>
+		</entry>
+		<entry id="wantroomwith">
+			<attrib type="orth">Я хочу комнату с ...</attrib>
+		</entry>
+		<entry id="withbath">
+			<attrib type="orth">ванной</attrib>
+		</entry>
+		<entry id="withshower">
+			<attrib type="orth">душем</attrib>
+		</entry>
+		<entry id="withview">
+			<attrib type="orth">видом</attrib>
+		</entry>
+		<entry id="withbalcony">
+			<attrib type="orth">балконом</attrib>
+		</entry>
+		<entry id="withextrabed">
+			<attrib type="orth">дополнительной кроватью</attrib>
+		</entry>
+		<entry id="withseparatedbeds">
+			<attrib type="orth">отдельными кроватями</attrib>
+		</entry>
+		<entry id="wantdoubleroom">
+			<attrib type="orth">Мы хотели бы двухместный номер, пожалуйста.</attrib>
+		</entry>
+		<entry id="askbreakfastincluded">
+			<attrib type="orth">Завтрак включен?</attrib>
+		</entry>
+		<entry id="askwhenbreakfast">
+			<attrib type="orth">Когда бывает завтрак?</attrib>
+		</entry>
+		<entry id="askcheaperroom">
+			<attrib type="orth">У вас есть номера дешевле?</attrib>
+		</entry>
+		<entry id="askmessags">
+			<attrib type="orth">Есть сообщения для меня?</attrib>
+		</entry>
+		<entry id="askkey">
+			<attrib type="orth">Можно получить мой ключ, пожалуйста?</attrib>
+		</entry>
+		<entry id="askroomnumber">
+			<attrib type="orth">Какой номер у моей комнаты?</attrib>
+		</entry>
+		<entry id="complainroom">
+			<attrib type="orth">Я просил комнату с ванной/душем.</attrib>
+		</entry>
+		<entry id="sex">
+			<attrib type="orth">Секс</attrib>
+		</entry>
+		<entry id="askgotobed">
+			<attrib type="orth">Ты хочешь переспать со мной?</attrib>
+		</entry>
+		<entry id="askcondom">
+			<attrib type="orth">У тебя есть презерватив?</attrib>
+		</entry>
+		<entry id="asktakepill">
+			<attrib type="orth">Ты принимаешь противозачаточные таблетки?</attrib>
+		</entry>
+		<entry id="notwithoutcondom">
+			<attrib type="orth">Я не буду заниматься этим без презерватива.</attrib>
+		</entry>
+		<entry id="sexbecareful">
+			<attrib type="orth">Будь аккуратнее / Будь нежнее</attrib>
+		</entry>
+		<entry id="sexasklike">
+			<attrib type="orth">Тебе так нравится?</attrib>
+		</entry>
+		<entry id="sexnotlike">
+			<attrib type="orth">Мне так не нравится.</attrib>
+		</entry>
+		<entry id="asksingle">
+			<attrib type="orth">Ты одинок?</attrib>
+		</entry>
+		<entry id="askgay">
+			<attrib type="orth">Ты гомосексуалист?</attrib>
+		</entry>
+		<entry id="askstraight">
+			<attrib type="orth">Ты натурал?</attrib>
+		</entry>
+		<entry id="asklesbian">
+			<attrib type="orth">Ты лесбиянка?</attrib>
+		</entry>
+		<entry id="askbisexual">
+			<attrib type="orth">Ты бисексуал?</attrib>
+		</entry>
+		<entry id="shopping">
+			<attrib type="orth">Покупки</attrib>
+		</entry>
+		<entry id="askhelp">
+			<attrib type="orth">Помогите, пожалуйста.</attrib>
+		</entry>
+		<entry id="askcanhelp">
+			<attrib type="orth">Вам помочь?</attrib>
+		</entry>
+		<entry id="asklikewhat">
+			<attrib type="orth">Что бы вы хотели?</attrib>
+		</entry>
+		<entry id="asksearchwhat">
+			<attrib type="orth">Что вы ищете?</attrib>
+		</entry>
+		<entry id="justbrowsing">
+			<attrib type="orth">Я просто смотрю.</attrib>
+		</entry>
+		<entry id="likethisone">
+			<attrib type="orth">Мне нравится вот это.</attrib>
+		</entry>
+		<entry id="liketrousers">
+			<attrib type="orth">Мне нравится эти брюки.</attrib>
+		</entry>
+		<entry id="liketshirt">
+			<attrib type="orth">Мне нравится эта футболка.</attrib>
+		</entry>
+		<entry id="likejacket">
+			<attrib type="orth">Мне нравится это пиджак.</attrib>
+		</entry>
+		<entry id="likeblouse">
+			<attrib type="orth">Мне нравится эта блузка.</attrib>
+		</entry>
+		<entry id="likesuit">
+			<attrib type="orth">Мне нравится это костюм.</attrib>
+		</entry>
+		<entry id="likeglasses">
+			<attrib type="orth">Мне нравится эти очки.</attrib>
+		</entry>
+		<entry id="likeshoes">
+			<attrib type="orth">Мне нравится эти туфли.</attrib>
+		</entry>
+		<entry id="lookingfor">
+			<attrib type="orth">Я ищу...</attrib>
+		</entry>
+		<entry id="asktry_clothing">
+			<attrib type="orth">Можно это примерить?</attrib>
+		</entry>
+		<entry id="asktry_nonclothing">
+			<attrib type="orth">Можно это попробовать?</attrib>
+		</entry>
+		<entry id="askfittingroom">
+			<attrib type="orth">Где примерочная?</attrib>
+		</entry>
+		<entry id="toolong">
+			<attrib type="orth">Это слишком длинно.</attrib>
+		</entry>
+		<entry id="tooshort">
+			<attrib type="orth">Это слишком коротко.</attrib>
+		</entry>
+		<entry id="tootight">
+			<attrib type="orth">Это слишком туго.</attrib>
+		</entry>
+		<entry id="tooloose">
+			<attrib type="orth">Это слишком свободно.</attrib>
+		</entry>
+		<entry id="notfit">
+			<attrib type="orth">Это не подходит.</attrib>
+		</entry>
+		<entry id="fit">
+			<attrib type="orth">Это хорошо сидит.</attrib>
+		</entry>
+		<entry id="asksize">
+			<attrib type="orth">Каков ваш размер?</attrib>
+		</entry>
+		<entry id="givesize">
+			<attrib type="orth">Мой размер ...</attrib>
+		</entry>
+		<entry id="notunderstandsize">
+			<attrib type="orth">Я не понимаю эти размеры.</attrib>
+		</entry>
+		<entry id="asklargersize">
+			<attrib type="orth">У вас есть побольше?</attrib>
+		</entry>
+		<entry id="asksmallersize">
+			<attrib type="orth">У вас есть поменьше?</attrib>
+		</entry>
+		<entry id="likecolor">
+			<attrib type="orth">Мне нравится этот цвет.</attrib>
+		</entry>
+		<entry id="notlikecolor">
+			<attrib type="orth">Мне не нравится этот цвет.</attrib>
+		</entry>
+		<entry id="askforcolor">
+			<attrib type="orth">У вас есть такое красное/синее /желтое /зеленое/пурпурное/розовое?</attrib>
+		</entry>
+		<entry id="askcheaper">
+			<attrib type="orth">У вас есть подешевле?</attrib>
+		</entry>
+		<entry id="askmaterial">
+			<attrib type="orth">Из чего это сделано?</attrib>
+		</entry>
+		<entry id="askcanrepair">
+			<attrib type="orth">Вы могли бы это починить?</attrib>
+		</entry>
+		<entry id="sightseeing">
+			<attrib type="orth">Экскурсии</attrib>
+		</entry>
+		<entry id="askcantakephotos">
+			<attrib type="orth">Можно фотографировать?</attrib>
+		</entry>
+		<entry id="canttakephotos">
+			<attrib type="orth">Здесь нельзя фотографировать</attrib>
+		</entry>
+		<entry id="askboattriponlake">
+			<attrib type="orth">Можно покататься на лодке на озере?</attrib>
+		</entry>
+		<entry id="askboattriponriver">
+			<attrib type="orth">Есть ли лодочные прогулки по реке?</attrib>
+		</entry>
+		<entry id="askguidedtour">
+			<attrib type="orth">Здесть есть экскурсии с гидом?</attrib>
+		</entry>
+		<entry id="askdurationtour">
+			<attrib type="orth">Сколько времени занимает эта экскурсия?</attrib>
+		</entry>
+		<entry id="asknighclubs">
+			<attrib type="orth">Здесь есть хорошие ночные клубы?</attrib>
+		</entry>
+		<entry id="asklocalfestivals">
+			<attrib type="orth">Здесь есть какие-нибудь местные праздники/фестивали?</attrib>
+		</entry>
+		<entry id="visitcathedral">
+			<attrib type="orth">Я хотел бы посетить собор.</attrib>
+		</entry>
+		<entry id="visitchurch">
+			<attrib type="orth">Я хотел бы посетить церковь.</attrib>
+		</entry>
+		<entry id="visitmosque">
+			<attrib type="orth">Я хотел бы посетить мечеть.</attrib>
+		</entry>
+		<entry id="visittemple">
+			<attrib type="orth">Я хотел бы посетить храм.</attrib>
+		</entry>
+		<entry id="askdiscountchildren">
+			<attrib type="orth">Есть ли скидка для детей?</attrib>
+		</entry>
+		<entry id="askdiscountgroups">
+			<attrib type="orth">Есть ли скидка для групп?</attrib>
+		</entry>
+		<entry id="askdiscountelderly">
+			<attrib type="orth">Есть ли скидка для пенсионеров?</attrib>
+		</entry>
+		<entry id="askdiscountstudents">
+			<attrib type="orth">Есть ли скидка для студентов?</attrib>
+		</entry>
+		<entry id="askopeninghours">
+			<attrib type="orth">Каковы часы работы?</attrib>
+		</entry>
+		<entry id="askwhenclose">
+			<attrib type="orth">Когда вы закрываетесь?</attrib>
+		</entry>
+		<entry id="askwhenopen">
+			<attrib type="orth">Когда открываетесь?</attrib>
+		</entry>
+		<entry id="askshowbegin">
+			<attrib type="orth">Когда начинается шоу?</attrib>
+		</entry>
+		<entry id="askbuildingage">
+			<attrib type="orth">Когда это построили?</attrib>
+		</entry>
+		<entry id="askbuilder">
+			<attrib type="orth">Кто это построил?</attrib>
+		</entry>
+		<entry id="askmountainheight">
+			<attrib type="orth">Какой высоты эта гора?</attrib>
+		</entry>
+		<entry id="asknameanimal">
+			<attrib type="orth">Как называется это животное?</attrib>
+		</entry>
+		<entry id="asknamebird">
+			<attrib type="orth">Как называется эта птица?</attrib>
+		</entry>
+		<entry id="asknameflower">
+			<attrib type="orth">Как называется этот цветок?</attrib>
+		</entry>
+		<entry id="asknametree">
+			<attrib type="orth">Как называется это дерево?</attrib>
+		</entry>
+		<entry id="asknamebuilding">
+			<attrib type="orth">Как называется это здание?</attrib>
+		</entry>
+		<entry id="asknamemountain">
+			<attrib type="orth">Как называется эта гора?</attrib>
+		</entry>
+		<entry id="asknameriver">
+			<attrib type="orth">Как называется эта река?</attrib>
+		</entry>
+		<entry id="smoking">
+			<attrib type="orth">Курение</attrib>
+		</entry>
+		<entry id="smokingisbad">
+			<attrib type="orth">Курение вредит вашему здоровью.</attrib>
+		</entry>
+		<entry id="cansmoke">
+			<attrib type="orth">Вы не будете против, если я закурю?</attrib>
+		</entry>
+		<entry id="asksmokelight">
+			<attrib type="orth">Есть прикурить?</attrib>
+		</entry>
+		<entry id="askcigarrete">
+			<attrib type="orth">Можно сигарету?</attrib>
+		</entry>
+		<entry id="asknonsmoking">
+			<attrib type="orth">Это отделение для некурящих?</attrib>
+		</entry>
+		<entry id="askashtray">
+			<attrib type="orth">Можно пепельницу?</attrib>
+		</entry>
+		<entry id="sports">
+			<attrib type="orth">Спорт</attrib>
+		</entry>
+		<entry id="askcurrents">
+			<attrib type="orth">Здесь есть опасные течения?</attrib>
+		</entry>
+		<entry id="askwalks">
+			<attrib type="orth">Есть ли поблизости интересные маршруты для прогулок?</attrib>
+		</entry>
+		<entry id="askskilifts">
+			<attrib type="orth">Тут есть лыжные подъёмники?</attrib>
+		</entry>
+		<entry id="askgolfcourse">
+			<attrib type="orth">Где ближайшее поле для гольфа?</attrib>
+		</entry>
+		<entry id="askwhereswimmingpool">
+			<attrib type="orth">Где находится общественный бассейн?</attrib>
+		</entry>
+		<entry id="askfishing">
+			<attrib type="orth">Могу я здесь ловить рыбу?</attrib>
+		</entry>
+		<entry id="askswim">
+			<attrib type="orth">Здесь можно плавать?</attrib>
+		</entry>
+		<entry id="asksportrent">
+			<attrib type="orth">Можно взять напрокат..?</attrib>
+		</entry>
+		<entry id="baseballbat">
+			<attrib type="orth">бейсбольную биту</attrib>
+		</entry>
+		<entry id="football">
+			<attrib type="orth">футбольный мяч</attrib>
+		</entry>
+		<entry id="skipair">
+			<attrib type="orth">лыжи</attrib>
+		</entry>
+		<entry id="tennisracket">
+			<attrib type="orth">теннисную ракетку</attrib>
+		</entry>
+		<entry id="boat">
+			<attrib type="orth">лодку</attrib>
+		</entry>
+		<entry id="towel">
+			<attrib type="orth">полотенце</attrib>
+		</entry>
+		<entry id="asktakesportlessons">
+			<attrib type="orth">Можно ли брать уроки?</attrib>
+		</entry>
+		<entry id="wantseematch">
+			<attrib type="orth">Я хотел бы посмотреть футбольный матч</attrib>
+		</entry>
+		<entry id="askplaysport">
+			<attrib type="orth">Вы играете в...?</attrib>
+		</entry>
+		<entry id="americanfootball">
+			<attrib type="orth">американский футбол/регби</attrib>
+		</entry>
+		<entry id="soccer">
+			<attrib type="orth">футбол</attrib>
+		</entry>
+		<entry id="golf">
+			<attrib type="orth">гольф</attrib>
+		</entry>
+		<entry id="tennis">
+			<attrib type="orth">теннис</attrib>
+		</entry>
+		<entry id="baseball">
+			<attrib type="orth">бейсбол</attrib>
+		</entry>
+		<entry id="basketball">
+			<attrib type="orth">баскетбол</attrib>
+		</entry>
+		<entry id="time">
+			<attrib type="orth">Время</attrib>
+		</entry>
+		<entry id="askday">
+			<attrib type="orth">Какой сегодня день недели?</attrib>
+		</entry>
+		<entry id="todayis">
+			<attrib type="orth">Сегодня ...</attrib>
+		</entry>
+		<entry id="askdayyesterday">
+			<attrib type="orth">Какой день недели был вчера?</attrib>
+		</entry>
+		<entry id="yesterdaywas">
+			<attrib type="orth">Вчера был ...</attrib>
+		</entry>
+		<entry id="askdaytomorrow">
+			<attrib type="orth">Какой день недели будет завтра?</attrib>
+		</entry>
+		<entry id="tomorrowwillbe">
+			<attrib type="orth">Завтра будет...</attrib>
+		</entry>
+		<entry id="monday">
+			<attrib type="orth">Понедельник</attrib>
+		</entry>
+		<entry id="tuesday">
+			<attrib type="orth">Вторник</attrib>
+		</entry>
+		<entry id="wednesday">
+			<attrib type="orth">Среда</attrib>
+		</entry>
+		<entry id="thursday">
+			<attrib type="orth">Четверг</attrib>
+		</entry>
+		<entry id="friday">
+			<attrib type="orth">Пятница</attrib>
+		</entry>
+		<entry id="saturday">
+			<attrib type="orth">Суббота</attrib>
+		</entry>
+		<entry id="sunday">
+			<attrib type="orth">Воскресенье</attrib>
+		</entry>
+		<entry id="askmonth">
+			<attrib type="orth">Какой сейчас месяц?</attrib>
+		</entry>
+		<entry id="thismonth">
+			<attrib type="orth">Сейчас ...</attrib>
+		</entry>
+		<entry id="lastmonth">
+			<attrib type="orth">Прошлый месяц был ...</attrib>
+		</entry>
+		<entry id="nextmonth">
+			<attrib type="orth">Следующий месяц будет ...</attrib>
+		</entry>
+		<entry id="january">
+			<attrib type="orth">Январь</attrib>
+		</entry>
+		<entry id="february">
+			<attrib type="orth">Февраль</attrib>
+		</entry>
+		<entry id="march">
+			<attrib type="orth">Март</attrib>
+		</entry>
+		<entry id="april">
+			<attrib type="orth">Апрель</attrib>
+		</entry>
+		<entry id="may">
+			<attrib type="orth">Май</attrib>
+		</entry>
+		<entry id="june">
+			<attrib type="orth">Июнь</attrib>
+		</entry>
+		<entry id="july">
+			<attrib type="orth">Июль</attrib>
+		</entry>
+		<entry id="august">
+			<attrib type="orth">Август</attrib>
+		</entry>
+		<entry id="september">
+			<attrib type="orth">Сентябрь</attrib>
+		</entry>
+		<entry id="october">
+			<attrib type="orth">Октябрь</attrib>
+		</entry>
+		<entry id="november">
+			<attrib type="orth">Ноябрь</attrib>
+		</entry>
+		<entry id="december">
+			<attrib type="orth">Декабрь</attrib>
+		</entry>
+		<entry id="asktime">
+			<attrib type="orth">Который час сейчас?</attrib>
+		</entry>
+		<entry id="0800">
+			<attrib type="orth">Сейчас восемь часов.</attrib>
+		</entry>
+		<entry id="0830">
+			<attrib type="orth">Сейчас полдевятого. /Сейчас восемь тридцать.</attrib>
+		</entry>
+		<entry id="0815">
+			<attrib type="orth">Сейчас четверть девятого./Сейчас восемь пятнадцать</attrib>
+		</entry>
+		<entry id="0845">
+			<attrib type="orth">Сейчас без четверти девять./Сейчас восемь сорок пять.</attrib>
+		</entry>
+		<entry id="0810">
+			<attrib type="orth">Сейчас десять минут девятого./Сейчас восемь десять.</attrib>
+		</entry>
+		<entry id="0820">
+			<attrib type="orth">Сейчас двадцать минут девятого./Сейчас восемь двадцать.</attrib>
+		</entry>
+		<entry id="0840">
+			<attrib type="orth">Сейчас без четверти восемь./Сейчас семь сорок.</attrib>
+		</entry>
+		<entry id="0850">
+			<attrib type="orth">Сейчас без десяти минут восемь./Сейчас семь пятьдесять.</attrib>
+		</entry>
+		<entry id="askdate">
+			<attrib type="orth">Какое сегодня число?</attrib>
+		</entry>
+		<entry id="exactdate">
+			<attrib type="orth">Сегодня пятнадцатое декабря, тысяча девятьсот восемьдесят второго года</attrib>
+		</entry>
+		<entry id="whencancome">
+			<attrib type="orth">Когда я могу прийти?</attrib>
+		</entry>
+		<entry id="askwhenvisit">
+			<attrib type="orth">Когда ты навестишь меня?</attrib>
+		</entry>
+		<entry id="visitthismorning">
+			<attrib type="orth">Я навещу тебя/приду к тебе этим утром</attrib>
+		</entry>
+		<entry id="visitmorning">
+			<attrib type="orth">Я навещу тебя/приду к тебе утром</attrib>
+		</entry>
+		<entry id="visitthisevening">
+			<attrib type="orth">Я навещу тебя/приду к тебе этим вечером</attrib>
+		</entry>
+		<entry id="visitevening">
+			<attrib type="orth">Я навещу тебя/приду к тебе вечером</attrib>
+		</entry>
+		<entry id="visitthisweek">
+			<attrib type="orth">Я наведаюсь к тебе на неделе</attrib>
+		</entry>
+		<entry id="visitthisweekend">
+			<attrib type="orth">Я наведаюсь к тебе на этих выходных</attrib>
+		</entry>
+		<entry id="visitweekend">
+			<attrib type="orth">Я навещу тебя на выходных</attrib>
+		</entry>
+		<entry id="visitnoon">
+			<attrib type="orth">Я буду у тебя в полдень</attrib>
+		</entry>
+		<entry id="visitintwohours">
+			<attrib type="orth">Я буду у тебя через два часа</attrib>
+		</entry>
+		<entry id="visit1030">
+			<attrib type="orth">Я буду у тебя в половину одиннадцатого</attrib>
+		</entry>
+		<entry id="visitafter1030">
+			<attrib type="orth">Я буду у тебя после половины одиннадцатого</attrib>
+		</entry>
+		<entry id="visitbefore1030">
+			<attrib type="orth">Я буду у тебя до половины одиннадцатого</attrib>
+		</entry>
+		<entry id="visitbeween1030_1100">
+			<attrib type="orth">Я буду у тебя между половиной одиннадцатого и одиннадцатью</attrib>
+		</entry>
+		<entry id="visitfrom1030to1100">
+			<attrib type="orth">Я буду у тебя в промежутке между половиной одиннадцатого и одиннадцатью часами.</attrib>
+		</entry>
+		<entry id="visitspring">
+			<attrib type="orth">Я приеду к тебе весной.</attrib>
+		</entry>
+		<entry id="visitsummer">
+			<attrib type="orth">Я приеду к тебе летом.</attrib>
+		</entry>
+		<entry id="visitautumn">
+			<attrib type="orth">Я приеду к тебе осенью.</attrib>
+		</entry>
+		<entry id="visitwinter">
+			<attrib type="orth">Я приеду к тебе зимой.</attrib>
+		</entry>
+		<entry id="visitdate">
+			<attrib type="orth">Я буду у тебя пятнадцатого декабря.</attrib>
+		</entry>
+		<entry id="howlongstay">
+			<attrib type="orth">Как долго ты можешь остаться со мной?</attrib>
+		</entry>
+		<entry id="staytwohours">
+			<attrib type="orth">Я могу остаться на два часа.</attrib>
+		</entry>
+		<entry id="visittwohours">
+			<attrib type="orth">Я буду у тебя в течение двух часов.</attrib>
+		</entry>
+		<entry id="toolate">
+			<attrib type="orth">Вы слишком поздно.</attrib>
+		</entry>
+		<entry id="intime">
+			<attrib type="orth">Вы как раз вовремя.</attrib>
+		</entry>
+		<entry id="tooearly">
+			<attrib type="orth">Вы слишком рано.</attrib>
+		</entry>
+		<entry id="askseason">
+			<attrib type="orth">Какое это время года?</attrib>
+		</entry>
+		<entry id="notime">
+			<attrib type="orth">У меня нет времени.</attrib>
+		</entry>
+		<entry id="waitaminute">
+			<attrib type="orth">Подождите минуточку.</attrib>
+		</entry>
+		<entry id="bein5">
+			<attrib type="orth">Я буду там через пять минут.</attrib>
+		</entry>
+		<entry id="transportation">
+			<attrib type="orth">Транспорт</attrib>
+		</entry>
+		<entry id="askhavecar">
+			<attrib type="orth">У вас есть автомобиль (машина)?</attrib>
+		</entry>
+		<entry id="havecar">
+			<attrib type="orth">У меня есть автомобиль (машина)</attrib>
+		</entry>
+		<entry id="havenocar">
+			<attrib type="orth">У меня нет автомобиля (машины)</attrib>
+		</entry>
+		<entry id="whichcar">
+			<attrib type="orth">Поедем на вашей или на моей машине?</attrib>
+		</entry>
+		<entry id="askhavelicense">
+			<attrib type="orth">У вас есть водительские права?</attrib>
+		</entry>
+		<entry id="havenolicense">
+			<attrib type="orth">У меня нет водительских прав</attrib>
+		</entry>
+		<entry id="askwhendepart">
+			<attrib type="orth">Когда мы отправляемся?</attrib>
+		</entry>
+		<entry id="askwheregowe">
+			<attrib type="orth">Куда мы едем?</attrib>
+		</entry>
+		<entry id="askwheregoyou">
+			<attrib type="orth">Куда вы едете?</attrib>
+		</entry>
+		<entry id="askwherecomeyou">
+			<attrib type="orth">Откуда вы приехали?</attrib>
+		</entry>
+		<entry id="askchangebus">
+			<attrib type="orth">Мне нужно делать пересадку?</attrib>
+		</entry>
+		<entry id="askwherebus">
+			<attrib type="orth">Где автобусы?</attrib>
+		</entry>
+		<entry id="askwherebusstop">
+			<attrib type="orth">Где останавливается автобус?</attrib>
+		</entry>
+		<entry id="asktellwhengetoff">
+			<attrib type="orth">Вы можете мне сказать, когда сойти?</attrib>
+		</entry>
+		<entry id="askbusgoto">
+			<attrib type="orth">Идёт ли автобус до ....?</attrib>
+		</entry>
+		<entry id="askwhereairport">
+			<attrib type="orth">Где аэропорт?</attrib>
+		</entry>
+		<entry id="askwhenleaveplane">
+			<attrib type="orth">Когда улетает самолёт?</attrib>
+		</entry>
+		<entry id="askwhenarriveplane">
+			<attrib type="orth">Когда прибывает самолёт?</attrib>
+		</entry>
+		<entry id="askhowlongflight">
+			<attrib type="orth">Сколько длится полёт?</attrib>
+		</entry>
+		<entry id="askwhencheckin_airport">
+			<attrib type="orth">Когда начинается регистрация?</attrib>
+		</entry>
+		<entry id="askseepassport">
+			<attrib type="orth">Будьте добры ваш паспорт.</attrib>
+		</entry>
+		<entry id="herepassport">
+			<attrib type="orth">Вот мой паспорт.</attrib>
+		</entry>
+		<entry id="asktakewithme">
+			<attrib type="orth">Можно мне взять это с собой?</attrib>
+		</entry>
+		<entry id="askwherecollectluggage">
+			<attrib type="orth">Где я могу забрать мой багаж?</attrib>
+		</entry>
+		<entry id="notfindluggage">
+			<attrib type="orth">Я не могу найти мой багаж</attrib>
+		</entry>
+		<entry id="askhelpluggage">
+			<attrib type="orth">Вы не могли бы мне помочь с багажом?</attrib>
+		</entry>
+		<entry id="myseat">
+			<attrib type="orth">Я думаю, что это моё место</attrib>
+		</entry>
+		<entry id="askseattaken">
+			<attrib type="orth">Это место занято?</attrib>
+		</entry>
+		<entry id="askwherestation">
+			<attrib type="orth">Где железнодорожная станция (вокзал)?</attrib>
+		</entry>
+		<entry id="askchangetrains">
+			<attrib type="orth">Нужно ли мне делать пересадку?</attrib>
+		</entry>
+		<entry id="asktrainstop">
+			<attrib type="orth">Останавливается ли этот поезд в ....?</attrib>
+		</entry>
+		<entry id="asktraingo">
+			<attrib type="orth">Идёт ли этот поезд до ....?</attrib>
+		</entry>
+		<entry id="askhowlongstop">
+			<attrib type="orth">Как долго поезд стоит здесь?</attrib>
+		</entry>
+		<entry id="askwhatstation">
+			<attrib type="orth">Какая это станция?</attrib>
+		</entry>
+		<entry id="askwhennexttrain">
+			<attrib type="orth">Когда будет следующий поезд?</attrib>
+		</entry>
+		<entry id="askwhenlasttrain">
+			<attrib type="orth">Когда последний поезд?</attrib>
+		</entry>
+		<entry id="askwheretaxi">
+			<attrib type="orth">Где я могу найти такси?</attrib>
+		</entry>
+		<entry id="askcarparknearby">
+			<attrib type="orth">Здесть есть автомобильная стоянка/парковка поблизости?</attrib>
+		</entry>
+		<entry id="askcanpark">
+			<attrib type="orth">Можно ли здесь парковать автомобиль (машину)?</attrib>
+		</entry>
+		<entry id="askhowlongpark">
+			<attrib type="orth">На какое время я могу здесь оставить машину?</attrib>
+		</entry>
+		<entry id="askparkwhere">
+			<attrib type="orth">Где я могу припарковать автомобиль (машину)?</attrib>
+		</entry>
+		<entry id="carbroken">
+			<attrib type="orth">Моя машина сломалась.</attrib>
+		</entry>
+		<entry id="carnotstart">
+			<attrib type="orth">Мой автомобиль (моя машина) не заводится</attrib>
+		</entry>
+		<entry id="askgasstationwhere">
+			<attrib type="orth">Где ближайшая автозаправочная станция?</attrib>
+		</entry>
+		<entry id="askgaragewhere">
+			<attrib type="orth">Где ближайший автосервис?</attrib>
+		</entry>
+		<entry id="flattire">
+			<attrib type="orth">У меня спустило колесо.</attrib>
+		</entry>
+		<entry id="nofuel">
+			<attrib type="orth">У меня кончилось топливо</attrib>
+		</entry>
+		<entry id="askdriverlicence">
+			<attrib type="orth">Будьте добры ваши водительские права.</attrib>
+		</entry>
+		<entry id="givedriverlicense">
+			<attrib type="orth">Вот мои водительские права.</attrib>
+		</entry>
+		<entry id="howfarnextvillage">
+			<attrib type="orth">Как далеко до следующей деревни?</attrib>
+		</entry>
+		<entry id="howlongbycar">
+			<attrib type="orth">Как долго туда добираться на автомобиле?</attrib>
+		</entry>
+		<entry id="howlongbyfoot">
+			<attrib type="orth">Как долго туда добираться пешком?</attrib>
+		</entry>
+		<entry id="rentcar">
+			<attrib type="orth">я бы хотел / хотела (fem.) взять на прокат машину на неделю / на три дня</attrib>
+		</entry>
+		<entry id="weather">
+			<attrib type="orth">Погода</attrib>
+		</entry>
+		<entry id="askweathertomorrow">
+			<attrib type="orth">Какая погода будет завтра?</attrib>
+		</entry>
+		<entry id="askweatherusually">
+			<attrib type="orth">Какая обычно бывает погода?</attrib>
+		</entry>
+		<entry id="tomorrowrain">
+			<attrib type="orth">Завтра будет дождь</attrib>
+		</entry>
+		<entry id="raining">
+			<attrib type="orth">Идёт дождь</attrib>
+		</entry>
+		<entry id="snowing">
+			<attrib type="orth">Идёт снег</attrib>
+		</entry>
+		<entry id="sunny">
+			<attrib type="orth">Светит солнце/Солнечно</attrib>
+		</entry>
+		<entry id="cloudy">
+			<attrib type="orth">Облачно</attrib>
+		</entry>
+		<entry id="weatherwarm">
+			<attrib type="orth">На улице тепло</attrib>
+		</entry>
+		<entry id="weathercold">
+			<attrib type="orth">На улице холодно</attrib>
+		</entry>
+		<entry id="awfulweather">
+			<attrib type="orth">Какая ужасная погода!</attrib>
+		</entry>
+		<entry id="lovelyday">
+			<attrib type="orth">Какой чудесный день!</attrib>
+		</entry>
+		<entry id="confirmniceday">
+			<attrib type="orth">Прекрасный день, не правда ли?</attrib>
+		</entry>
+		<entry id="askalwayshot">
+			<attrib type="orth">Здесь всегда так жарко?</attrib>
+		</entry>
+		<entry id="askalwayscold">
+			<attrib type="orth">Здесь всегда так холодно?</attrib>
+		</entry>
+		<entry id="askalwaysrainy">
+			<attrib type="orth">Здесь всегда так дождливо?</attrib>
+		</entry>
+		<entry id="askalwayscloudy">
+			<attrib type="orth">Здесь всегда так облачно?</attrib>
+		</entry>
+		<entry id="amwet">
+			<attrib type="orth">я промок / промокла (fem.)</attrib>
+		</entry>
+		<entry id="work">
+			<attrib type="orth">Работа</attrib>
+		</entry>
+		<entry id="askwherework">
+			<attrib type="orth">Где вы работаете?</attrib>
+		</entry>
+		<entry id="askwhatdoyoudoforliving">
+			<attrib type="orth">Кем вы работаете?</attrib>
+		</entry>
+		<entry id="workteacher">
+			<attrib type="orth">я преподаватель / учитель</attrib>
+		</entry>
+		<entry id="workstudent">
+			<attrib type="orth">я студент / я студентка (female)</attrib>
+		</entry>
+		<entry id="selfemployed">
+			<attrib type="orth">Я работаю не по найму/У меня собственное предприятие/Я фрилансер</attrib>
+		</entry>
+		<entry id="workrestaurant">
+			<attrib type="orth">я работаю в ресторане</attrib>
+		</entry>
+		<entry id="worksupermarket">
+			<attrib type="orth">я работаю в супермаркете</attrib>
+		</entry>
+		<entry id="workshop">
+			<attrib type="orth">я работаю в магазине</attrib>
+		</entry>
+		<entry id="workmedicaldoctor">
+			<attrib type="orth">я врач / доктор</attrib>
+		</entry>
+		<entry id="workpsychologist">
+			<attrib type="orth">я психолог</attrib>
+		</entry>
+		<entry id="workprogrammer">
+			<attrib type="orth">я программист</attrib>
+		</entry>
+		<entry id="workengineer">
+			<attrib type="orth">я инженер</attrib>
+		</entry>
+		<entry id="workmechanic">
+			<attrib type="orth">я механик</attrib>
+		</entry>
+		<entry id="workwriter">
+			<attrib type="orth">я писатель</attrib>
+		</entry>
+		<entry id="workdriver">
+			<attrib type="orth">я водитель</attrib>
+		</entry>
+		<entry id="workactor">
+			<attrib type="orth">я актёр / я актриса</attrib>
+		</entry>
+		<entry id="worksocialworker">
+			<attrib type="orth">я работник социальной сферы</attrib>
+		</entry>
+		<entry id="workpolitician">
+			<attrib type="orth">я политик</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="gl">
+	<entries>
+		<entry id="e1000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Frases nominais</attrib>
+		</entry>
+		<entry id="e2000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Estou contento</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Non estou contento</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Estaba contento</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Ela tamén está contenta</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Os dous estamos contentos</attrib>
+		</entry>
+		<entry id="e8000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Quedo contento</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Es rico ou pobre</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Non estou nin contento nin triste</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Esta árbore é grande</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="14479" lastmodified="1231328439">Esa é unha árbore grande</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" author="14479" lastmodified="1231328532">Esa é a árbore grande</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" author="14479" lastmodified="1231328532">Hai unha árbore grande no meu xardín</attrib>
+		</entry>
+		<entry id="e15000">
+			<attrib type="orth" author="14479" lastmodified="1231328532">Orde das palabras</attrib>
+		</entry>
+		<entry id="e16000">
+			<attrib type="orth" author="14479" lastmodified="1231328532">Coidadosamente, doulle ao home perigoso o diñeiro de meu pai na praza en que quedamos en fronte da igrexa</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="sk">
+	<entries>
+		<entry id="e2000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Som šťastný / štastná</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Nie som šťastný / šťastná.</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Bol som šťastný. / Bola som šťastná.</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Aj ona je šťastná.</attrib>
+		</entry>
+		<entry id="e6000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Obaja sme šťastní.</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Stávam sa šťastným / šťastnou.</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Buď si bohatý / bohatá alebo chudobný / chudobná.</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Nie si ani šťastný / šťastná ani smutný / smutná</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Toto je veľký strom.</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" author="1149" lastmodified="1233080412">Tamto je veľký strom.</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Tamto je veľký strom</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Tam je veľký strom v mojej záhrade</attrib>
+		</entry>
+		<entry id="e15000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Slovosled</attrib>
+		</entry>
+		<entry id="e18000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Dnes napíšem list. / Dnes budem písať list</attrib>
+		</entry>
+		<entry id="e19000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Dnes nepíšem list</attrib>
+		</entry>
+		<entry id="e20000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Dnes nepíšem list</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Včera som napísal(a) list</attrib>
+		</entry>
+		<entry id="e22000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Včera som nenapísal(a) list</attrib>
+		</entry>
+		<entry id="e23000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Včera som nenapísal(a) list</attrib>
+		</entry>
+		<entry id="e24000">
+			<attrib type="orth" author="1149" lastmodified="1233080845">Písal(a) som list každý mesiac</attrib>
+		</entry>
+		<entry id="e25000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Písaval(a) som list každý mesiac</attrib>
+		</entry>
+		<entry id="e26000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Zajtra budem písať list. / Zajtra napíšem list</attrib>
+		</entry>
+		<entry id="e27000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Zajtra nebudem písať list / Zajtra nenapíšem list</attrib>
+		</entry>
+		<entry id="e28000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Napísal(a) by som list</attrib>
+		</entry>
+		<entry id="e29000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Napísal(a) by som list, keby som mal(a) ceruzku</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Napísal(a) som list</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Napísal(a) som list</attrib>
+		</entry>
+		<entry id="e32000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Píšem list</attrib>
+		</entry>
+		<entry id="e33000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Písal(a) som list</attrib>
+		</entry>
+		<entry id="e35000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Viem napísať list</attrib>
+		</entry>
+		<entry id="e36000">
+			<attrib type="orth" author="1149" lastmodified="1233081252">Môžem napísať list</attrib>
+		</entry>
+		<entry id="e37000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Mohol / Mohla som napísať list</attrib>
+		</entry>
+		<entry id="e38000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Mohol / Mohla by som napísať list</attrib>
+		</entry>
+		<entry id="e39000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Mohol / Mohla by som písať list</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Musím napísať list</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Musel(a) som napísať list</attrib>
+		</entry>
+		<entry id="e42000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Musel(a) by som napísať list</attrib>
+		</entry>
+		<entry id="e43000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Musím písať list.</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Môžem napísať list</attrib>
+		</entry>
+		<entry id="e45000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Mohol / Mohla by som napísať list</attrib>
+		</entry>
+		<entry id="e46000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Potrebujem napísať list</attrib>
+		</entry>
+		<entry id="e47000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Potreboval(a) by som napísať list</attrib>
+		</entry>
+		<entry id="e48000">
+			<attrib type="orth" author="1149" lastmodified="1233081409">Slovesné frázy - pasív</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" author="1149" lastmodified="1233081621">List je napísaný mnou</attrib>
+		</entry>
+		<entry id="e50000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">List bol písaný mnou</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">List bol napísaný mnou</attrib>
+		</entry>
+		<entry id="e52000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">List bude písaný mnou</attrib>
+		</entry>
+		<entry id="e53000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">List by mohol byť napísaný mnou</attrib>
+		</entry>
+		<entry id="e54000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">List by mohol byť písaný mnou</attrib>
+		</entry>
+		<entry id="e55000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">Slovesné frázy - imperatív</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">Napíš list!</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">Napíš list!</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">Nepíš list!</attrib>
+		</entry>
+		<entry id="e59000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">Nepíš list!</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" author="1149" lastmodified="1233081622">Napíš list!</attrib>
+		</entry>
+	</entries>
+</ulr>

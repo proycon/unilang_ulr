@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="gramcon" version="1.9" baselang="la">
+	<entries>
+		<entry id="e2000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Laetus sum</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Laeta sum</attrib>
+		</entry>
+		<entry id="e3000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Non laetus sum</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Non laeta sum</attrib>
+		</entry>
+		<entry id="e4000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Laetus eram</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Laeta eram</attrib>
+		</entry>
+		<entry id="e5000">
+			<attrib type="orth" lastmodified="1217790006">[Ea] quoque laeta est</attrib>
+		</entry>
+		<entry id="e7000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">fio laetus</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">fio laeta</attrib>
+		</entry>
+		<entry id="e9000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Aut pecuniosus aut pauper es</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Aut pecuniosa aut pauper es</attrib>
+		</entry>
+		<entry id="e10000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Neque laetus neque maestus es</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Neque laeta neque maesta es</attrib>
+		</entry>
+		<entry id="e11000">
+			<attrib type="orth" lastmodified="1217790006">Haec arbor magna est</attrib>
+		</entry>
+		<entry id="e12000">
+			<attrib type="orth" lastmodified="1217790006">Illa arbor magna est</attrib>
+		</entry>
+		<entry id="e13000">
+			<attrib type="orth" lastmodified="1217790006">Illa arbor magna est</attrib>
+		</entry>
+		<entry id="e14000">
+			<attrib type="orth" lastmodified="1217790006">Arbor in horto meo est</attrib>
+		</entry>
+		<entry id="e21000">
+			<attrib type="orth" lastmodified="1217790006">litteras heri scripsi</attrib>
+		</entry>
+		<entry id="e30000">
+			<attrib type="orth" lastmodified="1217790006">Litteras scripsi</attrib>
+		</entry>
+		<entry id="e31000">
+			<attrib type="orth" lastmodified="1217790006">Litteras scripseram</attrib>
+		</entry>
+		<entry id="e40000">
+			<attrib type="orth" lastmodified="1217790006">Debeo litteras scribere</attrib>
+		</entry>
+		<entry id="e41000">
+			<attrib type="orth" lastmodified="1217790006">Debebam litteras scribere</attrib>
+		</entry>
+		<entry id="e44000">
+			<attrib type="orth" lastmodified="1217790006">Possum litteras scribere</attrib>
+		</entry>
+		<entry id="e49000">
+			<attrib type="orth" lastmodified="1217790006">Litterae scribentur de me</attrib>
+		</entry>
+		<entry id="e51000">
+			<attrib type="orth" lastmodified="1217790006">Litterae scriptae sunt de me</attrib>
+		</entry>
+		<entry id="e56000">
+			<attrib type="orth" lastmodified="1217790006">Scribe litteras!</attrib>
+		</entry>
+		<entry id="e57000">
+			<attrib type="orth" lastmodified="1217790006">Scribite litteras!</attrib>
+		</entry>
+		<entry id="e58000">
+			<attrib type="orth" lastmodified="1217790006">Non scribe litteras!</attrib>
+		</entry>
+		<entry id="e60000">
+			<attrib type="orth" lastmodified="1217790006">Scribamus litteras!</attrib>
+		</entry>
+		<entry id="e63000">
+			<attrib type="orth" lastmodified="1217790006">Dubito eum scribere litteras</attrib>
+		</entry>
+		<entry id="e77000">
+			<attrib type="orth" lastmodified="1217790006">Utiens vita sua, me conservat</attrib>
+		</entry>
+		<entry id="e78000">
+			<attrib type="orth" lastmodified="1217790006">Usus vita sua, me conservavit.</attrib>
+		</entry>
+		<entry id="e79000">
+			<attrib type="orth" lastmodified="1217790006">Vir sapiens est</attrib>
+		</entry>
+		<entry id="e89000">
+			<attrib type="orth" lastmodified="1217790006">me placet, litteras scribere</attrib>
+		</entry>
+		<entry id="e94000">
+			<attrib type="orth" lastmodified="1217790006">Quod est?</attrib>
+		</entry>
+		<entry id="e95000">
+			<attrib type="orth" lastmodified="1217790006">Quis est?</attrib>
+		</entry>
+		<entry id="e96000">
+			<attrib type="orth" lastmodified="1217790006">Quis est [is]?</attrib>
+		</entry>
+		<entry id="e97000">
+			<attrib type="orth" lastmodified="1217790006">Quo imus?</attrib>
+		</entry>
+		<entry id="e98000">
+			<attrib type="orth" lastmodified="1217790006">Quando imus?</attrib>
+		</entry>
+		<entry id="e105000">
+			<attrib type="orth" lastmodified="1217790006">Ignoro, ubi habito</attrib>
+		</entry>
+		<entry id="e121000">
+			<attrib type="orth" lastmodified="1217790006">Eo ad celebrationem, salturus cum amicis meis</attrib>
+		</entry>
+		<entry id="e134000">
+			<attrib type="orth" lastmodified="1217790006">Vir, qui malum emit, sum</attrib>
+		</entry>
+		<entry id="e135000">
+			<attrib type="orth" lastmodified="1217790006">Femina, quae malum emit, sum</attrib>
+		</entry>
+		<entry id="e136000">
+			<attrib type="orth" lastmodified="1217790006">Virum, qui malum emit, video</attrib>
+		</entry>
+		<entry id="e137000">
+			<attrib type="orth" lastmodified="1217790006">Virum, quem [ea] quoque videt, video</attrib>
+		</entry>
+		<entry id="e138000">
+			<attrib type="orth" lastmodified="1217790006">Virum, cui donum dedi, video</attrib>
+		</entry>
+		<entry id="e153000">
+			<attrib type="orth" lastmodified="1217790006">Tibi donum do</attrib>
+		</entry>
+		<entry id="e154000">
+			<attrib type="orth" lastmodified="1217790006">Canis amici mei est</attrib>
+		</entry>
+		<entry id="e156000">
+			<attrib type="orth" lastmodified="1217790006">Avis in cavea sua est</attrib>
+		</entry>
+		<entry id="e157000">
+			<attrib type="orth" lastmodified="1217790006">Avis in cavea sua volat</attrib>
+		</entry>
+		<entry id="e158000">
+			<attrib type="orth" lastmodified="1217790006">Avis in caveam suam volat</attrib>
+		</entry>
+		<entry id="e168000">
+			<attrib type="orth" lastmodified="1217790006">Avis ex caveam suam volat</attrib>
+		</entry>
+		<entry id="e197000">
+			<attrib type="gender" lastmodified="1217790006">m</attrib>
+			<attrib type="gender" lastmodified="1217790006" variant="1">f</attrib>
+			<attrib type="orth" lastmodified="1217790006">Cunctos video</attrib>
+			<attrib type="orth" lastmodified="1217790006" variant="1">Cunctas video</attrib>
+		</entry>
+		<entry id="e198000">
+			<attrib type="orth" lastmodified="1217790006">Aliquem video</attrib>
+		</entry>
+		<entry id="e200000">
+			<attrib type="orth" lastmodified="1217790006">Nemo potest me videre</attrib>
+		</entry>
+		<entry id="e202000">
+			<attrib type="orth" lastmodified="1217790006">Te solum video</attrib>
+		</entry>
+	</entries>
+</ulr>

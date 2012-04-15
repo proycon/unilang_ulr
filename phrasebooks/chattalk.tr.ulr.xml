@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="tr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="15087" lastmodified="1235162328">selam</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">En yaygın deyimler</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Selam</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Herkese merhaba</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Günaydın</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">İyi günler</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">İyi akşamlar</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">İyi geceler</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Selam</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Sohbete başlama</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Ne haber?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Ne haber?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Neden bahsediyorsun?/ Konu ne?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Nasılsın?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Nasılsınız?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Bugün işler nasıl?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Kişisel sorular:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Nerelisiniz?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Burada yeni misin?/ Buraya ilk gelişiniz mi?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Hangi dilleri konuşuyorsunuz?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Nerede ( hangi ülkede) yaşıyorsunuz?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Kaç yaşındasınız?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Hangi dilleri öğreniyorsunuz?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Kendini tanıtma:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Ben Türkiye'den geliyorum.</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Türkçe konuşuyorum.</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Türkçe'yi anadil olarak, İngilizce ve Almaca'yı akıcı bir şekilde ve Fransızca'yı da biraz konuşuyorum.</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Üzgünüm, bir dil konuşamıyorum.</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Öğreniyorum/... Öğrenmek istiyorum.</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Sohbeti bitirme</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Tanıştığıma memnun oldum.</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Sizinle konuşmak güzeldi.</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Gitmeliyim</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Akşam yemeği zamanı geldi.</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Yatmaya gidiyorum</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Uyumam lazım</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">ayrılış</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Sonra görüşürüz</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Yarın görüşürüz</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Yakında görüşürüz</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Bir dahaki sefere görüşürüz</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Herkese iyi geceler</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Herkese güle güle</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Hemen geliyorum</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Sonra geri geleceğim</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Teşekkürler</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Çok teşekkürler</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Üzgünüm</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">Yüksek sesle gülüyor(um)</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">hihi</attrib>
+		</entry>
+	</entries>
+</ulr>

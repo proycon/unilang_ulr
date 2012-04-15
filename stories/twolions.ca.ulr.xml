@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="twolions" version="1.9" baselang="ca">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">Història de dos lleons.</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">Dos lleons escapen d'un zoo a Brasil i intenten sobreviure (és un acudit)</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">Es diu que hi havia dos lleons que es van escapar d’un zoo al Brasil. Durant la seva fugida, cadascú va escollir un camí diferent L’un se’n va anar a la selva i l’altre a la ciutat. Les autoritats els van buscar per tot arreu, però no els van trobar. Simplement van desaparèixer.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">Una setmana després que marxessin, el lleó que se’n va anar a la selva va tornar tot sol Estava prim, famolenc i dèbil El director del zoo estava pensant-se enviar el lleó un altre cop a l’Àfrica. Ningú vol veure un lleó esparracat (mig mort). Un diputat brasiler va fer que el director mantingués el lleó al zoo Ja se sap, els diputats brasilers al poder fan miracles.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">Vuit mesos més tard ningú recordava el lleó que havia anat a la ciutat fins que el van capturar. El van tornar al zoo amb bon estat de salut.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">Quan l’altre lleó va trobar-se amb el seu vell amic, li va dir:</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">- Caram! Com t’ho vas fer per viure a la ciutat i tot i així tenir bona salut? Jo he estat a la selva i no vaig trobar menjar. Com te’n vas sortir? Digue’m com t’ho vas fer?</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">L’altre lleó li va explicar:</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">Em vaig amagar en unes dependències oficials. Em menjava un funcionari al dia Ningú es va donar de la seva absència.</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">- Com? Així per què vas tornar? Vas cruspir-te (acabar amb) tots els funcionaris?</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Original: Snoopy / Català: Núria Harket">- No, no, no, no... al Brasil hi ha molts funcionaris Però vaig ser ruc. Em vaig menjar el director… el cap de department…altres empleats… I ningú es va adonar de la seva absència. Em van atrapar quan em vaig menjar l’empleat encarregat de servir el café.</attrib>
+		</entry>
+	</entries>
+</ulr>

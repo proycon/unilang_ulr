@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="whereisjames" version="1.9" baselang="mi">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Riki">Kei Whea a Hēmi?</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Riki">He pakiwaitara noa iho tēnei mā ngā tamariki, otira, he pai  hoki tēnei mā ngā tauira reo kua tīmata ki te ako i te reo</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Riki">KEI WHEA A HĒMI? (Nā Proycon)</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Riki">Kei runga i te māra a Hēmi rāua ko Mere. He pai te āhua o te huarere i tēnei rā, he tino mahana. Engari, inanahi, kua makariri! Kāore e taea e rāua te tākaro i waho i taua wā. E tino pai ana ki a Hēmi rāua ko Mere ki te tākaro, ka tākaro tonu rāua i te mara i mua i te whare rahi.</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Riki">He tamaiti nohi a Hēmi, e ono ōna tau. Ko te tamāhine nohi ko tōna tuahine. He kurī riki tā Hēmi, kei runga hoki i te mara te kurī ināianei. E pai ana ki te kurī ki te tākaro ki ngā tamariki. Ka koa rawa te kurī ināianei.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Riki">He kurī tā Mere? Kāore, kāore ā Mere kurī, he ngeru kē tāna Otīra, kei roto i te whare te ngeru, e moe ana te ngeru.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Riki">Kei roto tō rāua whaea i te whare me te ngeru, ā, ka titiro a ia mā te matapihi, ā, ka kite a ia i a Hēmi rāua ko Mere e tākaro ana Ka oma horo a Hēmi ki te rākau tawhito nui, e huna atu ana a ia i a Mere. E mōhio ana koe i te take? E noho ana a Mere, ā, kei mua i tōna karu tōna ringa. Kāore e taea e ia te kite, ā, e tatau ana a ia. He aha ia e mahi pērā ana? ā, he aha a Hēmi e tū tata ana ki te rākau?</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Riki">He kēmu kē. I tō Mere whakamutunga ki te tatau, ka kimi noa atu ia. E kimi atu ana a ia ki a Hēmi: kua haere atu a ia ki whea? Kua kitea a ia e koe?</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth" author="Riki">Kāore a Mere e mōhio ana kei whea a Hēmi. Ka pātai atu a ia ki te kurī: \\ Otīra, kāore e taea kētia e te kurī te kōrero Nā reira, kāore ia i whakawhiwhi i tētahi whakautunga ki tāna pātai. E kore ngā tāngata e whakawhiwhi i ngā whakautunga ina pātai atu rātou ki ngā kurī!</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth" author="Riki">Ka titiro atu a Mere ki tōna whaea i muri i te matapihi, e katakata ana tōna whaea. Kua puta te whakaaro ki a Mere kua kitea pea e ia ki whea i haere atu ra a Hēmi: \\ Anō rā hoki \\ Tēnā pea, ka mōhio pea ia kei whea ia, kāore ia e hiahia ana ki te whāki atu.</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth" author="Riki">Ka āta hīkoi a Mere i te māra. Ka whakamātau tonu ia kia kite i a Hēmi. Ka titiro iho ia i te tēpu, ā, i raro i ngā nohoanga hoki, engari kāhore i reira a Hēmi. Ka kimi atu ia i ngā wāhi katoa, engari, kāore e āhei ana i a ia te kite atu ra i a Hēmei.</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth" author="Riki">Ā, ka rongo ia i tētahi tangi, e haere mai ana i muri i te rākau tawhito nui Ko Hēmi tērā? Ko taua tangi anō! Ka āta whakarongo atu ia. Ehara i te manu, i tētahi atu kararehe rānei. Ka rongo pai ia. Ko Hēmi pea!</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth" author="Riki">Ā ka kite atu hoki ia i tētahi ringa iti ka whakatata atu ia ā ka kite hoki ia i tōna ūpoko! Ka kata a ia, ā, ka kī \\ Kua koa rāua ā ka hoki atu ki te whare, ko tēnei te wā ki te kai i tētahi mea, ā, inumia he wai!</attrib>
+		</entry>
+	</entries>
+</ulr>

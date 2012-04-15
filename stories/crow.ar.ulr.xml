@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="crow" version="1.9" baselang="ar">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="ابفاحادا">البقرة والاناء</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="ابفاحادا">البقرة التى استعملت عقلها لتشرب</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="ابفاحادا">بقرة عطشانة وحدت اناء فيه بعض الماء ولكنه كان قليلا لم تستطيع ان تصل اليه بفيها وعلى مايبدو انها كادت ان تموت عطشا وقد تراىء لها الحل</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="ابفاحادا">اخيرا استطاعت ان تصل الى خطة ذكية بَدأتْ بإسْقاط الأحجارِ فى الاناء ر ومع كل حصاة كانت الماء ترتفع الى حد ما حتى اخيرا وصل الى الحافة والطائر المرمى استطاع ان يروى عطشها</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="ابفاحادا">الحاجة ام الاختراع</attrib>
+		</entry>
+	</entries>
+</ulr>

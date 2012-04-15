@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="babeltext" version="1.9" baselang="pt">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="15270" lastmodified="1236554455" complexlang="-BR">O texto de Babel</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="15270" lastmodified="1236554455" complexlang="-BR">Esta é a história da destruição da Torre de Babel.</attrib>
+		</entry>
+		<entry id="e1">
+			<attrib type="orth" author="15270" lastmodified="1236554455" complexlang="-BR">Até então, o mundo inteiro possuia apenas uma língua e um dialeto.</attrib>
+		</entry>
+	</entries>
+</ulr>

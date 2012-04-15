@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="gd">
+	<entries>
+		<entry id="comingin">
+			<attrib type="orth" author="12109" lastmodified="1233967085">A' tighinn a-steach:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth" author="12109" lastmodified="1233967085">Hi, Hai, Hoigh, Halò</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth" author="12109" lastmodified="1233967085">Halò, a h-uile duine</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth" author="12109" lastmodified="1233967085">Madainn mhath</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth" author="12109" lastmodified="1233967085">Feasgar math</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth" author="12109" lastmodified="1233967085">Feasgar math</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth" author="12109" lastmodified="1233967085">Oidhche mhath</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth" author="12109" lastmodified="1233967085">Tha thu ann, halò!</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth" author="12109" lastmodified="1233967085">A' toiseachadh comhradh:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth" author="12109" lastmodified="1233967085">Dè tha dol?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Dè tha dol?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Dè tha sinn a' bruidhinn mu dheidhinn? | Dè air a tha sinn a' bruidhinn?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Ciamar a tha thu?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Ciamar a tha sibh?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Ciamar a tha cuisean?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Ceistean pearsanta:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Cò às a tha thu?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth" author="12109" lastmodified="1233967355">A bheil thusa ùr an seo? | An e seo a' chiad thuras agadsa an seo?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Dè cànanan a tha agadsa?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Dè dùathaich a tha thu a' fuireach ann an?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Dè 'n aois a tha thu?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth" author="12109" lastmodified="1233967355">Dè cànanan a tha thu ag ionnsachadh?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth" author="12109" lastmodified="1233967707">A' bruidhinn air do shon:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth" author="12109" lastmodified="1233967707">Tha mi à [dùathaich)</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth" author="12109" lastmodified="1233967707">Tha [cànanan] agam</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth" author="12109" lastmodified="1233967707">Tha mi fileanta ann an [cànan], tha [cànan] math agam agus tha rud beag [cànan] agam.</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth" author="12109" lastmodified="1233967707">tha mi duilich ach chan eil [cànan] agam.</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth" author="12109" lastmodified="1233967707">Tha mi ag ionnsachadh [cànan] | Tha mi airson [cànan] ionnsachadh.</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth" author="12109" lastmodified="1233967707">A' cur crìoch air comhradh:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth" author="12109" lastmodified="1233967707">Tha e math a bhith gad choinneachadh</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth" author="12109" lastmodified="1233967707">Tha e math a bhith gad bhruidhinn</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth" author="12109" lastmodified="1233967707">Feumaidh mi falbh an-dràst'</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="12109" lastmodified="1233967707">'S e àm dinnear a th' ann</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="12109" lastmodified="1233967707">Tha mi a' dol dhan leabaidh agams'</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Feumaidh mi cadal fhaighinn</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth" author="12109" lastmodified="1233967839">A' partaidheadh:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Chì mi thu!</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Chì mi a-màireach thu!</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Chì mi a dh'aithgearr thu!</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Chì mi an ath-thuras!</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Oidhche mhath, a h-uile duine!</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Tìoraidh, a huile duine!</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Bidh mi air ais</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Bidh mi air ais nas anmoiche</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Barrachd air seo:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth" author="12109" lastmodified="1233967839">Tapadh leat (s)/leibh (pl)</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth" author="12109" lastmodified="1233967983">Mòran taing!</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth" author="12109" lastmodified="1233967983">Tha mi duilich.</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="12109" lastmodified="1233967983">"A' gàireachdain" no "lol"</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth" author="12109" lastmodified="1233967983">Hàhà</attrib>
+		</entry>
+	</entries>
+</ulr>

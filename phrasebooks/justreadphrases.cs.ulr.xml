@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="cs">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">Miluji tě</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">Bouře dosahuje pobřeží</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth">Ti lidé slyší hlasitý zvuk</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth">Dostanu tu červenou lampu</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">Vidí malého ptáka | Vidí ptáčka</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth">Najdeme starou budovu</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">Hledám klíče</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">Dotýkám se tvé hlavy</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">Chce nové bílé auto</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth">Otevírá rozbité okno</attrib>
+		</entry>
+		<entry id="11">
+			<attrib type="orth">Silná dívka zavře těžké černé dveře</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth">Řeší ten hrozný problém</attrib>
+		</entry>
+		<entry id="13">
+			<attrib type="orth">Rozzlobený zločinec ztratil spoustu hodnotných peněz</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth">Ochutnávají toto výborné jídlo</attrib>
+		</entry>
+		<entry id="15">
+			<attrib type="orth">Policejní důstojník je jiného názoru</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth">Kolegové pijí studenou kávu a horký čaj</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth">Bohatá firma prodává zelenou zeleninu</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth">Kupují deset nových knih</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth">Bolí ho pravé ucho</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">Toho vysokého člověka znám</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth">Štíhlá dáma následuje svého tlustého šéfa</attrib>
+		</entry>
+		<entry id="22">
+			<attrib type="orth">Rychlý počítač mění barvu</attrib>
+		</entry>
+		<entry id="23">
+			<attrib type="orth">Vybírají nesprávné nářadí</attrib>
+		</entry>
+		<entry id="24">
+			<attrib type="orth">Moje rodina pozve přátelské sousedy</attrib>
+		</entry>
+		<entry id="25">
+			<attrib type="orth">Děkujeme nudným studentům</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth">Její manžel si užívá večera</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth">Čte si své noviny</attrib>
+		</entry>
+		<entry id="28">
+			<attrib type="orth">Ten chudák nosí špinavé oblečení</attrib>
+		</entry>
+		<entry id="29">
+			<attrib type="orth">Silné zvíře potká slabou rybu</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth">Platím dvě stě dolarů/euro</attrib>
+		</entry>
+		<entry id="31">
+			<attrib type="orth">Líbí se jí ta krásná řeč</attrib>
+		</entry>
+		<entry id="32">
+			<attrib type="orth">Bouře dosahuje pobřeží</attrib>
+		</entry>
+		<entry id="33">
+			<attrib type="orth">Muži staví nízkou kancelář</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">Má modré oči</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth">Dnes sněží</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth">Stane se důležitou osobou</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth">Jsem na mezinárodním letišti</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth">Má čisté ruce</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">Je to mladý kluk</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth">Je doktorka</attrib>
+		</entry>
+		<entry id="41">
+			<attrib type="orth">Zůstanu šťastný/sťastná</attrib>
+		</entry>
+		<entry id="42">
+			<attrib type="orth">Zmoknu</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">Kůň se bojí</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth">Bílý pes byl překvapený</attrib>
+		</entry>
+		<entry id="45">
+			<attrib type="orth">Moderní společnost je velmi rozvinutá</attrib>
+		</entry>
+		<entry id="46">
+			<attrib type="orth">Příčina kolize není známa</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth">Dám ti dárek</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth">Klade mi složité otázky</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth">Dostanu zprávu od matky</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth">Píšu dopis otci</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth">Žijí v malém městě</attrib>
+		</entry>
+		<entry id="52">
+			<attrib type="orth">Pes sedí za televizí</attrib>
+		</entry>
+		<entry id="53">
+			<attrib type="orth">Kočka leží na podlaze</attrib>
+		</entry>
+		<entry id="54">
+			<attrib type="orth">Děti si hrají venku</attrib>
+		</entry>
+		<entry id="55">
+			<attrib type="orth">Mluví o univerzitě</attrib>
+		</entry>
+		<entry id="56">
+			<attrib type="orth">Tiše opustí pokoj</attrib>
+		</entry>
+		<entry id="57">
+			<attrib type="orth">Odpovídá učiteli</attrib>
+		</entry>
+		<entry id="58">
+			<attrib type="orth">Chodím před naším domem</attrib>
+		</entry>
+		<entry id="59">
+			<attrib type="orth">Spí ve své vlastní posteli</attrib>
+		</entry>
+		<entry id="60">
+			<attrib type="orth">Letectvo přelétá hory</attrib>
+		</entry>
+		<entry id="61">
+			<attrib type="orth">Proběhli jsme tou velkou zahradou</attrib>
+		</entry>
+		<entry id="62">
+			<attrib type="orth">Kniha je na stole</attrib>
+		</entry>
+		<entry id="63">
+			<attrib type="orth">Vstoupím do obchodu s tebou</attrib>
+		</entry>
+		<entry id="64">
+			<attrib type="orth">Jezdím do města vlakem</attrib>
+		</entry>
+		<entry id="65">
+			<attrib type="orth">Strom roste rychle</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth">Pracuje v malé továrně</attrib>
+		</entry>
+		<entry id="68">
+			<attrib type="orth">Jistě věříme v Boha</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth">Stěžuji si na cenu</attrib>
+		</entry>
+		<entry id="70">
+			<attrib type="orth">Hází na mě ten drahý míč</attrib>
+		</entry>
+		<entry id="71">
+			<attrib type="orth">Nemocný dědeček umírá blízko nemocnice</attrib>
+		</entry>
+		<entry id="72">
+			<attrib type="orth">Rozumím větám na této stránce</attrib>
+		</entry>
+		<entry id="73">
+			<attrib type="orth">Babička vypráví dítěti zajímavý příběh</attrib>
+		</entry>
+		<entry id="74">
+			<attrib type="orth">Doufáme, že pilně studuje</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth">V levé ruce drží nůž</attrib>
+		</entry>
+		<entry id="76">
+			<attrib type="orth">Náš cíl se nachází mezi dvěma jezery</attrib>
+		</entry>
+		<entry id="77">
+			<attrib type="orth">Vaří pro svou kamarádku obyčejné jídlo</attrib>
+		</entry>
+		<entry id="78">
+			<attrib type="orth">Ta dívka vypadá večer krásně</attrib>
+		</entry>
+		<entry id="79">
+			<attrib type="orth">Zuřivé zvíře uteklo z klece</attrib>
+		</entry>
+		<entry id="80">
+			<attrib type="orth">Porovnávám naše zákony s vašimi</attrib>
+		</entry>
+		<entry id="81">
+			<attrib type="orth">Jedu na východ směrem k našemu hlavnímu městu</attrib>
+		</entry>
+		<entry id="82">
+			<attrib type="orth">Mrtví jsou pochováni hluboko pod zemí</attrib>
+		</entry>
+		<entry id="83">
+			<attrib type="orth">Kněz/imám/rabín stojí pod jasnou oblohou</attrib>
+		</entry>
+		<entry id="84">
+			<attrib type="orth">Ptáče nad mou hlavou letí blízko svých rodičů</attrib>
+		</entry>
+		<entry id="85">
+			<attrib type="orth">Utíkám do poničené školy</attrib>
+		</entry>
+		<entry id="86">
+			<attrib type="orth">Tahle voda je ze vzdáleného místa</attrib>
+		</entry>
+		<entry id="87">
+			<attrib type="orth">Hodně jsem přemýšlel/a o životě</attrib>
+		</entry>
+		<entry id="88">
+			<attrib type="orth">Kdy přijde ten tvůj kamarád/ta tvá kamarádka?</attrib>
+		</entry>
+		<entry id="89">
+			<attrib type="orth">Kolik si toho pamatuješ?</attrib>
+		</entry>
+		<entry id="90">
+			<attrib type="orth">Kolik lidí ti pomůže?</attrib>
+		</entry>
+		<entry id="91">
+			<attrib type="orth">Proč jsi ukradl/a ty věci?</attrib>
+		</entry>
+		<entry id="92">
+			<attrib type="orth">Kolik ti je?</attrib>
+		</entry>
+		<entry id="93">
+			<attrib type="orth">Jak tohle vyrábíte?</attrib>
+		</entry>
+		<entry id="94">
+			<attrib type="orth">Kdo je nejinteligentnější člověk na světě?</attrib>
+		</entry>
+		<entry id="95">
+			<attrib type="orth">Co jsi objevil/a v moři?</attrib>
+		</entry>
+		<entry id="96">
+			<attrib type="orth">Který sendvič chceš raději?</attrib>
+		</entry>
+		<entry id="97">
+			<attrib type="orth">Odkud jsi?</attrib>
+		</entry>
+		<entry id="98">
+			<attrib type="orth">Kam jdeš?</attrib>
+		</entry>
+		<entry id="99">
+			<attrib type="orth">Existuje ten obchod?</attrib>
+		</entry>
+		<entry id="100">
+			<attrib type="orth">Co je důvodem tohoto vyšetřování?</attrib>
+		</entry>
+		<entry id="101">
+			<attrib type="orth">Které autobusy jsou připraveny k odjezdu?</attrib>
+		</entry>
+		<entry id="102">
+			<attrib type="orth">Chci jenom něco sníst</attrib>
+		</entry>
+		<entry id="103">
+			<attrib type="orth">Nikdy nesním</attrib>
+		</entry>
+		<entry id="104">
+			<attrib type="orth">Vždycky přijede brzy</attrib>
+		</entry>
+		<entry id="105">
+			<attrib type="orth">Někdy má pravdu</attrib>
+		</entry>
+		<entry id="106">
+			<attrib type="orth">Nic nevyhráváme</attrib>
+		</entry>
+		<entry id="107">
+			<attrib type="orth">Obvykle bojujeme se svými nepřáteli</attrib>
+		</entry>
+		<entry id="108">
+			<attrib type="orth">Často v téhle hře prohrají</attrib>
+		</entry>
+		<entry id="109">
+			<attrib type="orth">Přál/a bych si, aby už bylo zítra | Kéž už by bylo zítra</attrib>
+		</entry>
+		<entry id="110">
+			<attrib type="orth">Ve vesmíru je mnoho hvězd</attrib>
+		</entry>
+		<entry id="111">
+			<attrib type="orth">Často ukazuje své obnažené tělo</attrib>
+		</entry>
+		<entry id="112">
+			<attrib type="orth">Zřídka skrýváme své názory</attrib>
+		</entry>
+		<entry id="113">
+			<attrib type="orth">Směje se nějakému vtipu</attrib>
+		</entry>
+		<entry id="114">
+			<attrib type="orth">Koukám se všude</attrib>
+		</entry>
+		<entry id="115">
+			<attrib type="orth">Nikoho nestraší</attrib>
+		</entry>
+		<entry id="116">
+			<attrib type="orth">Tancuje s někým na ulici</attrib>
+		</entry>
+		<entry id="117">
+			<attrib type="orth">Smíš si vzít, cokoli chceš</attrib>
+		</entry>
+		<entry id="118">
+			<attrib type="orth">Má žena se mnou souloží každou noc</attrib>
+		</entry>
+		<entry id="119">
+			<attrib type="orth">Nabízím ti dvě tři květiny</attrib>
+		</entry>
+		<entry id="120">
+			<attrib type="orth">Zpíval, zatímco jeho rodiče poslouchali</attrib>
+		</entry>
+		<entry id="121">
+			<attrib type="orth">Najedli jsme se a poté jsme vyrazili do kina</attrib>
+		</entry>
+		<entry id="122">
+			<attrib type="orth">Viděli jsme hotel dřív, než ho spatřili oni</attrib>
+		</entry>
+		<entry id="123">
+			<attrib type="orth">Můžeš vyčistit tenhle pokoj než se jeho majitel vrátí</attrib>
+		</entry>
+		<entry id="124">
+			<attrib type="orth">Snažím se zajímat se o politiku, protože příští měsíc musím volit</attrib>
+		</entry>
+		<entry id="125">
+			<attrib type="orth">Tahle sklence je prázdná, ale ta druhá sklenice je plná</attrib>
+		</entry>
+		<entry id="126">
+			<attrib type="orth">Křičeli, aby si jich každý všiml</attrib>
+		</entry>
+		<entry id="127">
+			<attrib type="orth">Dovolím ti to udělat, třebaže bratr to zakazuje</attrib>
+		</entry>
+		<entry id="128">
+			<attrib type="orth">Jsem unavený/á, proto nevstanu</attrib>
+		</entry>
+		<entry id="129">
+			<attrib type="orth">Chci zabít ty zlé vězně, až na toho s blond vlasy</attrib>
+		</entry>
+		<entry id="130">
+			<attrib type="orth">Vrah měl být usvědčen, ale místo toho byl propuštěn na svobodu</attrib>
+		</entry>
+		<entry id="131">
+			<attrib type="orth">Je to dlouho, co jsem se naposled potkali</attrib>
+		</entry>
+		<entry id="132">
+			<attrib type="orth">Neslyšel/a jsem o ní od rána</attrib>
+		</entry>
+		<entry id="133">
+			<attrib type="orth">Navzdory nebezpečí vešel do temného domu naproti kostelu/mešitě/chrámu</attrib>
+		</entry>
+		<entry id="134">
+			<attrib type="orth">Podle mého otce by alkohol měl být zakázán</attrib>
+		</entry>
+		<entry id="135">
+			<attrib type="orth">Mám rád/a tuhle oblast kvůli její fascinující historii</attrib>
+		</entry>
+		<entry id="136">
+			<attrib type="orth">Uprchnu do poničené školy</attrib>
+		</entry>
+		<entry id="137">
+			<attrib type="orth">Tahle voda je ze vzdáleného místa</attrib>
+		</entry>
+		<entry id="138">
+			<attrib type="orth">Během prázdnin jsem odpočíval/a | Během prázdnin jsem si odpočal/a</attrib>
+		</entry>
+		<entry id="139">
+			<attrib type="orth">Čekám, než se sestra vrátí</attrib>
+		</entry>
+		<entry id="140">
+			<attrib type="orth">Dokázal, že měl pravdu</attrib>
+		</entry>
+		<entry id="141">
+			<attrib type="orth">Nevěří, že je to možné</attrib>
+		</entry>
+		<entry id="142">
+			<attrib type="orth">Usmála se a on jí políbil</attrib>
+		</entry>
+		<entry id="143">
+			<attrib type="orth">Pořád nesouhlasíme s jeho řešením</attrib>
+		</entry>
+		<entry id="144">
+			<attrib type="orth">Vím, co si myslíš</attrib>
+		</entry>
+		<entry id="145">
+			<attrib type="orth">Ženy vědí, jak upéct chléb</attrib>
+		</entry>
+		<entry id="146">
+			<attrib type="orth">Poznávám několik slov</attrib>
+		</entry>
+		<entry id="147">
+			<attrib type="orth">Jsem větší než ty</attrib>
+		</entry>
+		<entry id="148">
+			<attrib type="orth">Je stejně malý jako ty</attrib>
+		</entry>
+		<entry id="149">
+			<attrib type="orth">Začel školu nenávidět</attrib>
+		</entry>
+		<entry id="150">
+			<attrib type="orth">Konční studium tohoto těžkého předmětu</attrib>
+		</entry>
+		<entry id="151">
+			<attrib type="orth">Přestali myslet na vládu</attrib>
+		</entry>
+		<entry id="152">
+			<attrib type="orth">Pokračujeme s naší prací</attrib>
+		</entry>
+		<entry id="153">
+			<attrib type="orth">Připravují se opustit loď</attrib>
+		</entry>
+		<entry id="154">
+			<attrib type="orth">Musím zapomenout, co jsem viděl</attrib>
+		</entry>
+		<entry id="155">
+			<attrib type="orth">Pokud souhlasíš s tím divným vysvětlením, jsi hlupák</attrib>
+		</entry>
+		<entry id="156">
+			<attrib type="orth">Pojedu do tvé země, pokud nebude pršet</attrib>
+		</entry>
+		<entry id="157">
+			<attrib type="orth">Slepá dívka má dobrý čich</attrib>
+		</entry>
+		<entry id="158">
+			<attrib type="orth">Včere jsem neměl žádné potíže</attrib>
+		</entry>
+		<entry id="159">
+			<attrib type="orth">Neviděl jsem ho než před třemi lety</attrib>
+		</entry>
+		<entry id="160">
+			<attrib type="orth">Předpokládám, že mě navštíví na pět hodin</attrib>
+		</entry>
+		<entry id="161">
+			<attrib type="orth">Rozhodl jsem se ignorovat jejich rozhodnutí</attrib>
+		</entry>
+		<entry id="163">
+			<attrib type="orth">Učím žáky, jak napočítat do 10</attrib>
+		</entry>
+		<entry id="164">
+			<attrib type="orth">Můžeš přeložit tento text do angličtiny?</attrib>
+		</entry>
+		<entry id="165">
+			<attrib type="orth">Posledně, když jsi měl nehodu, jsi opravil poškození sám</attrib>
+		</entry>
+		<entry id="166">
+			<attrib type="orth">Je nemožné poznat, co to znemená</attrib>
+		</entry>
+		<entry id="176">
+			<attrib type="orth">Je nepravděpodobné, že se to někdy stane</attrib>
+		</entry>
+		<entry id="180">
+			<attrib type="orth">Bojím se dokončit, co jsem začal</attrib>
+		</entry>
+		<entry id="187">
+			<attrib type="orth">Vím dobře, kdy hrát a kdy ne</attrib>
+		</entry>
+	</entries>
+</ulr>

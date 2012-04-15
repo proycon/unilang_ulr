@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Main file)//EN"
+  "http://dev.unilang.org/docs/ulr1.9.dtd">
+<ulr id="twolions" version="1.9">
+	<head>
+		<title id="title" />
+		<description id="description" />
+	</head>
+	<permissions>
+		<owners  users="3,6"  groups=""  />
+		<editors  users="3,6"  groups=""  />
+	</permissions>
+	<languages>
+		<language lang="bg" stats="11" />
+		<language lang="ca" stats="11" />
+		<language lang="de" stats="11" />
+		<language lang="en" stats="11" />
+		<language lang="eo" stats="11" />
+		<language lang="es" stats="11" />
+		<language lang="nl" stats="11" />
+		<language lang="sv" stats="11" />
+		<language lang="fr" stats="10" />
+		<language lang="sl" stats="9" />
+		<language lang="el" stats="3" />
+	</languages>
+	<authors>
+		<author id="Автор: Snoopy, превод: Виктория (paruha)" langs="bg" lastmodified="0" />
+		<author id="Original: Snoopy / Català: Núria Harket" langs="ca" lastmodified="0" />
+		<author id="Schlupp" langs="de" lastmodified="0" />
+		<author id="Snoopy" langs="en,eo,nl" lastmodified="0" />
+		<author id="Shadad" langs="es" lastmodified="0" />
+		<author id="Ngdawa" langs="sv" lastmodified="0" />
+		<author id="3324" langs="en,fr" lastmodified="1228843140" />
+		<author id="12803" langs="en" lastmodified="1232397033" />
+		<author id="13156" langs="sl" lastmodified="1232838669" />
+		<author id="14985" langs="el" lastmodified="1234621182" />
+	</authors>
+	<entries order="strict">
+		<entry id="title" type="title">
+			<attrib type="image" author="6">twolions.jpg</attrib>
+		</entry>
+		<entry id="description" type="description" />
+		<entry id="1" type="paragraph" />
+		<entry id="2" type="paragraph" />
+		<entry id="3" type="paragraph" />
+		<entry id="4" type="paragraph" />
+		<entry id="5" type="paragraph" />
+		<entry id="6" type="paragraph" />
+		<entry id="7" type="paragraph" />
+		<entry id="8" type="paragraph" />
+		<entry id="9" type="paragraph" />
+	</entries>
+</ulr>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="el">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Μπαίνοντας μέσα</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Γεια</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Γεια σε όλους</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Καλημέρα</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Καλησπέρα</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Καλό βράδυ</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Καληνύχτα.</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Έϊ, εσείς εκεί</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Αρχίζοντας μια συζήτηση</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Τί νέα;</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Τί γίνεται;</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Για ποιο πράγμα μιλάς; Ποιο είναι το θέμα;</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Πώς είσαι;</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Πώς είστε;</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Πώς πάνε τα πράγματα;</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Προσωπικές ερωτήσεις.</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Από που είσαι;</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Είσαι καινούριος εδώ; Είναι η πρώτη σου φορά εδώ;</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Ποιες γλώσσες μιλάς;</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Σε ποιο μέρος της/του {χώρα} ζεις;</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Πόσο χρονών είσαι;</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Ποιες γλώσσες μαθαίνεις;</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Μιλώντας για το εαυτό σας</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Είμαι από (χώρα)</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Μιλάω (γλώσσα/ες)</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Μιλώ (γλώσσα) σαν αυτόχθων, (γλώσσα) με ευχέρεια, αρκετά καλά (γλώσσα) και λίγο (γλώσσα)</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Λυπάμαι, δεν μιλώ (γλώσσα)</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Μαθαίνω/ θέλω να μάθω (γλώσσα)</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Τελειώνοντας μια συζήτηση</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Χαίρομαι που σας συνάντησα</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Χαίρομαι που μιλήσαμε</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Πρέπει να φύγω</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">Είναι ώρα για βραδυνό</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Φεύγω για το κρεβάτι.</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Πρέπει να κοιμηθώ</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Αποχαιρετώντας</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Τα λέμε αργότερα.</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Τα λέμε αύριο.</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Τα λέμε σύντομα.</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Τα λέμε την επόμενη φορά.</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Καληνύχτα σε όλους.</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Γειά σε όλους.</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Επιστρέφω αμέσως.</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Θα επιστρέψω αργότερα.</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Επιπλέον</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Ευχαριστώ.</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Ευχαριστώ πολύ.</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Συγγνώμη.</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">Γελώντας δυνατά (not used often)</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Χεχε!</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="en">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a small phrasebook which contains useful phrases you can use on a chat</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Coming in:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Hi</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Hello, everybody</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Good morning</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Good afternoon</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Good evening</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Good night</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Hey there</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Starting a conversation:</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">What's new?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">What's up?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">What are you talking about? | What's the topic?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">How are you?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">How are you (plural)?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">How are things going?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Personal questions:</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Where are you from, {username}?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Are you new here? | Is this your first time here?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Which languages do you speak?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Where in {country} do you live?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">How old are you?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Which languages do you learn?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Talking about yourself:</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">I am from {country}</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">I speak {language(s)}</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">I speak {language(s)} as a native, {language(s)} fluently, intermediate {language(s)} and a bit {language(s)}</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Sorry, I don't speak {language}</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">I am learning | I want to learn {language(s)}</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Finishing a conversation:</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Nice to have met you</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Nice to talk to you</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">I have to go</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth" author="9378" lastmodified="1224566887">Time to have dinner</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth" author="9378" lastmodified="1224566887">I'm going to bed</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Gotta go to sleep</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Parting:</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">See you later</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">See you tomorrow</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">See you soon</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">See you next time</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Good night, everybody</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Bye, all</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Be right back</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Be back later</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth" author="9378" lastmodified="1224567017">Extras:</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Thanks</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Thanks a lot</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Sorry</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth" author="12109" lastmodified="1233967983">Laughing out loud (lol)</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Hehe</attrib>
+		</entry>
+	</entries>
+</ulr>

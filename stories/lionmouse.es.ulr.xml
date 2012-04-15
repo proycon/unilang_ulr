@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="lionmouse" version="1.9" baselang="es">
+	<entries>
+		<entry id="title">
+			<attrib type="orth" author="Samimi">El león y el ratón</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth" author="Samimi">Un ratón ayuda a un león</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth" author="Samimi">Un león que dormía en su guarida  fue despertado por un ratón que correteaba por su cara. Enfadado, lo cogió con  su garra con intención de matarlo.</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth" author="Samimi">El ratón,aterrorizado, le suplicó que le perdonara la vida. &quot;Por favor deja que me vaya,&quot; gritó, y algún día te recompensaré por tu bondad.&quot;</attrib>
+		</entry>
+		<entry id="3">
+			<attrib type="orth" author="Samimi">La idea de que una criatura tan insignificante fuera alguna vez capaz de hacer algo por él divirtió tanto al león que empezó a reirse a grandes carcajadas, y  contento le dejó marcharse.</attrib>
+		</entry>
+		<entry id="4">
+			<attrib type="orth" author="Samimi">Pero la oportunidad del ratón llegó después de todo.</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth" author="Samimi">Un día el león quedó atrapado en una red que había sido colocada por unos cazadores, y el ratón escuchó y reconoció sus rugidos de enfado y corrió al lugar. Sin más se puso a trabajar para roer las cuerdas con sus dientes, y pronto logró liberar al león.</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth" author="Samimi">&quot;¡Ves!&quot; dijo el ratón, te reías de mí cuando te prometí que te recompensaría a cambio; pero ahora ya ves, incluso un ratón puede ayudar a un león.</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="chattalk" version="1.9" baselang="et">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">ChatTalk</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This phrasebook will teach a few phrases that are useful for chatting</attrib>
+		</entry>
+		<entry id="comingin">
+			<attrib type="orth">Jututuppa sisenemine:</attrib>
+		</entry>
+		<entry id="hi">
+			<attrib type="orth">Tere</attrib>
+		</entry>
+		<entry id="helloeverybody">
+			<attrib type="orth">Tere kõigile</attrib>
+		</entry>
+		<entry id="goodmorning">
+			<attrib type="orth">Tere hommikust</attrib>
+		</entry>
+		<entry id="goodafternoon">
+			<attrib type="orth">Tere päevast</attrib>
+		</entry>
+		<entry id="goodevening">
+			<attrib type="orth">Tere õhtust</attrib>
+		</entry>
+		<entry id="goodnight">
+			<attrib type="orth">Tere ööd</attrib>
+		</entry>
+		<entry id="heythere">
+			<attrib type="orth">Tere</attrib>
+		</entry>
+		<entry id="startconv">
+			<attrib type="orth">Vestluse alustamine</attrib>
+		</entry>
+		<entry id="whatsnew">
+			<attrib type="orth">Mis uudist?</attrib>
+		</entry>
+		<entry id="whatsup">
+			<attrib type="orth">Mis toimub?</attrib>
+		</entry>
+		<entry id="whattopic">
+			<attrib type="orth">Millest te räägite? Mis on teema?</attrib>
+		</entry>
+		<entry id="howareyou">
+			<attrib type="orth">Kuidas läheb?</attrib>
+		</entry>
+		<entry id="howareyoupl">
+			<attrib type="orth">Kuidas teil läheb?</attrib>
+		</entry>
+		<entry id="howarethings">
+			<attrib type="orth">Kuidas läheb?</attrib>
+		</entry>
+		<entry id="personalq">
+			<attrib type="orth">Isiklikud küsimused</attrib>
+		</entry>
+		<entry id="wherefrom">
+			<attrib type="orth">Kust sa pärit oled, ... ?</attrib>
+		</entry>
+		<entry id="newhere">
+			<attrib type="orth">Kas sa oled siin uus? Kas see on sinu esimene kord siin?</attrib>
+		</entry>
+		<entry id="languagesspeak">
+			<attrib type="orth">Mis keeli sa räägid?</attrib>
+		</entry>
+		<entry id="whereincountry">
+			<attrib type="orth">Mis maal sa elad?</attrib>
+		</entry>
+		<entry id="howoldareyou">
+			<attrib type="orth">Kui vana sa oled?</attrib>
+		</entry>
+		<entry id="languageslearn">
+			<attrib type="orth">Mis keeli sa õpid?</attrib>
+		</entry>
+		<entry id="talkingyou">
+			<attrib type="orth">Iseendast rääkimine</attrib>
+		</entry>
+		<entry id="iamfrom">
+			<attrib type="orth">Ma olen ... -st/-lt</attrib>
+		</entry>
+		<entry id="ispeak">
+			<attrib type="orth">Ma räägin ... keelt.</attrib>
+		</entry>
+		<entry id="ispeakfluently">
+			<attrib type="orth">Ma räägin ... keelt emakeelena, ... keelt soravalt, ... keelt keskpäraselt, ... keelt natukene.</attrib>
+		</entry>
+		<entry id="sorryidontspeak">
+			<attrib type="orth">Vabandust, ma ei räägi ... keelt.</attrib>
+		</entry>
+		<entry id="iamlearning">
+			<attrib type="orth">Ma õpin / ma tahan õppida ... keelt.</attrib>
+		</entry>
+		<entry id="finishconv">
+			<attrib type="orth">Vestluse lõpetamine</attrib>
+		</entry>
+		<entry id="nicetomet">
+			<attrib type="orth">Oli tore sinuga/teiega kohtuda</attrib>
+		</entry>
+		<entry id="nicetotalk">
+			<attrib type="orth">Oli tore sinuga/teiega rääkida</attrib>
+		</entry>
+		<entry id="ihavetogo">
+			<attrib type="orth">Ma pean minema</attrib>
+		</entry>
+		<entry id="timedinner">
+			<attrib type="orth">On söögiaeg</attrib>
+		</entry>
+		<entry id="leavingtobed">
+			<attrib type="orth">Ma lähen magama</attrib>
+		</entry>
+		<entry id="gottasleep">
+			<attrib type="orth">Ma pean magama minema</attrib>
+		</entry>
+		<entry id="parting">
+			<attrib type="orth">Lahkumine</attrib>
+		</entry>
+		<entry id="seeyoulater">
+			<attrib type="orth">Näeme hiljem</attrib>
+		</entry>
+		<entry id="seeyoutomorrow">
+			<attrib type="orth">Näeme homme</attrib>
+		</entry>
+		<entry id="seeyousoon">
+			<attrib type="orth">Näeme varsti</attrib>
+		</entry>
+		<entry id="seenexttime">
+			<attrib type="orth">Näeme järgmisel korral</attrib>
+		</entry>
+		<entry id="goodnighteverybody">
+			<attrib type="orth">Head ööd kõigile</attrib>
+		</entry>
+		<entry id="byeall">
+			<attrib type="orth">Head aega kõigile</attrib>
+		</entry>
+		<entry id="berightback">
+			<attrib type="orth">Tulen kohe tagasi</attrib>
+		</entry>
+		<entry id="bebacklater">
+			<attrib type="orth">Tulen hiljem tagasi</attrib>
+		</entry>
+		<entry id="xtras">
+			<attrib type="orth">Lisad</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">Aitäh</attrib>
+		</entry>
+		<entry id="thanksalot">
+			<attrib type="orth">Suur tänu</attrib>
+		</entry>
+		<entry id="sorry">
+			<attrib type="orth">Vabandust</attrib>
+		</entry>
+		<entry id="lol">
+			<attrib type="orth">Kõva häälega naerma</attrib>
+		</entry>
+		<entry id="hehe">
+			<attrib type="orth">Hehhee</attrib>
+		</entry>
+	</entries>
+</ulr>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="justreadphrases" version="1.9" baselang="hr">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">Just Read Phrases!</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a phrasebook that consists out of nearly 200 phrases, we tried to use various grammar constructions and a lot of basic vocabulary in these phrases, making them an excellent means to practise a language and learning vocabulary by just reading phrases.</attrib>
+		</entry>
+		<entry id="1">
+			<attrib type="orth">Volim te</attrib>
+		</entry>
+		<entry id="2">
+			<attrib type="orth">Oluja se približava plaži</attrib>
+		</entry>
+		<entry id="5">
+			<attrib type="orth">Ona vidi malu pticu</attrib>
+		</entry>
+		<entry id="6">
+			<attrib type="orth">Pronašli smo staru zgradu</attrib>
+		</entry>
+		<entry id="7">
+			<attrib type="orth">Tražim svoje ključeve</attrib>
+		</entry>
+		<entry id="8">
+			<attrib type="orth">Diram ti glavu</attrib>
+		</entry>
+		<entry id="9">
+			<attrib type="orth">On želi novi bijeli auto</attrib>
+		</entry>
+		<entry id="10">
+			<attrib type="orth">On otvara razbijen prozor</attrib>
+		</entry>
+		<entry id="12">
+			<attrib type="orth">On rješava grozan problem</attrib>
+		</entry>
+		<entry id="14">
+			<attrib type="orth">Oni kušaju ukusnu hranu</attrib>
+		</entry>
+		<entry id="16">
+			<attrib type="orth">Kolege piju hladnu kavu i vrući čaj</attrib>
+		</entry>
+		<entry id="17">
+			<attrib type="orth">Bogata tvrtka prodaje zeleno povrće</attrib>
+		</entry>
+		<entry id="18">
+			<attrib type="orth">Oni kupujudeset novih knjiga</attrib>
+		</entry>
+		<entry id="19">
+			<attrib type="orth">Njegovo desno uho ga boli</attrib>
+		</entry>
+		<entry id="20">
+			<attrib type="orth">Poznajem tu visoku osobu</attrib>
+		</entry>
+		<entry id="21">
+			<attrib type="orth">Mršava dama slijedi svog debelog šefa</attrib>
+		</entry>
+		<entry id="26">
+			<attrib type="orth">Njezin muž uživa u večeri</attrib>
+		</entry>
+		<entry id="27">
+			<attrib type="orth">Ona čita dnevne novine</attrib>
+		</entry>
+		<entry id="30">
+			<attrib type="orth">Plaćam 200 eura/dolara</attrib>
+		</entry>
+		<entry id="34">
+			<attrib type="orth">On ima plave oči</attrib>
+		</entry>
+		<entry id="35">
+			<attrib type="orth">Danas je sniježan dan. / Danas sniježi</attrib>
+		</entry>
+		<entry id="36">
+			<attrib type="orth">On će postati jako važna osoba</attrib>
+		</entry>
+		<entry id="37">
+			<attrib type="orth">Ja sam u međunarodnoj zračnoj luci</attrib>
+		</entry>
+		<entry id="38">
+			<attrib type="orth">Ona ima čiste ruke</attrib>
+		</entry>
+		<entry id="39">
+			<attrib type="orth">On je mladi dečko</attrib>
+		</entry>
+		<entry id="40">
+			<attrib type="orth">Ona doktorica</attrib>
+		</entry>
+		<entry id="43">
+			<attrib type="orth">Konja je strah</attrib>
+		</entry>
+		<entry id="44">
+			<attrib type="orth">Pas je bio iznenađen</attrib>
+		</entry>
+		<entry id="47">
+			<attrib type="orth">Dajem ti dar</attrib>
+		</entry>
+		<entry id="48">
+			<attrib type="orth">On me pita teško pitanje</attrib>
+		</entry>
+		<entry id="49">
+			<attrib type="orth">Primam poruku od svoje majke</attrib>
+		</entry>
+		<entry id="50">
+			<attrib type="orth">Pišem pismo svojoj majci</attrib>
+		</entry>
+		<entry id="51">
+			<attrib type="orth">Oni žive u malom gradu</attrib>
+		</entry>
+		<entry id="66">
+			<attrib type="orth">On radi u maloj tvornici</attrib>
+		</entry>
+		<entry id="69">
+			<attrib type="orth">Žalim se na cijenu</attrib>
+		</entry>
+		<entry id="75">
+			<attrib type="orth">On drži nož u lijevoj ruci</attrib>
+		</entry>
+	</entries>
+</ulr>

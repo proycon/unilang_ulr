@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ulr PUBLIC "-//UniLang//Universal Language Resource 1.9 (Language-Specific Subfile)//EN"
+  "http://dev.unilang.org/docs/ulr1.9_sub.dtd">
+<ulr id="unilang" version="1.9" baselang="oc">
+	<entries>
+		<entry id="title">
+			<attrib type="orth">UniLang Basic Phrasebook</attrib>
+		</entry>
+		<entry id="description">
+			<attrib type="orth">This is a medium-sized phrasebook containing useful common phrases</attrib>
+		</entry>
+		<entry id="yes">
+			<attrib type="orth">Òc</attrib>
+		</entry>
+		<entry id="no">
+			<attrib type="orth">Non</attrib>
+		</entry>
+		<entry id="politerequest">
+			<attrib type="orth">Se vos platz</attrib>
+		</entry>
+		<entry id="thanks">
+			<attrib type="orth">mercés</attrib>
+		</entry>
+	</entries>
+</ulr>
